@@ -1,0 +1,68 @@
+{
+  "wallets": [
+    {
+      "url": "https://github.com/openoms/bitcoin-tutorials",
+      "icon": "https://avatars.githubusercontent.com/u/43343391?v=4",
+      "lang": "eng",
+      "tags": ["github", "guides", "bitcoin"],
+      "name": "openoms/bitcoin-tutorials",
+      "description": "The idea of the project is to build a hardware wallet from off-the-shelf components"
+    },
+    {
+      "url": "https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
+      "icon": "https://avatars.githubusercontent.com/u/69103",
+      "lang": "eng",
+      "tags": ["github", "guides", "bitcoin"],
+      "name": "BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
+      "description": "It is a tutorial for working with Bitcoin (and Lightning) that teaches direct interaction with the servers themselves, as the most robust and secure way to begin cryptocurrency work"
+    },
+    {
+      "url": "https://github.com/btcguide/btcguide.github.io",
+      "icon": "https://avatars.githubusercontent.com/u/69905025",
+      "lang": "eng",
+      "tags": ["github", "guides", "bitcoin"],
+      "name": "btcguide/btcguide.github.io",
+      "description": "It is a tutorial for working with Bitcoin (and Lightning) that teaches direct interaction with the servers themselves, as the most robust and secure way to begin cryptocurrency work"
+    },
+    {
+      "url": "https://github.com/darosior/python-bip32",
+      "icon": "https://avatars.githubusercontent.com/u/22457751",
+      "lang": "eng",
+      "tags": ["github", "guides", "bitcoin", "bip"],
+      "name": "darosior/python-bip32",
+      "description": "A basic implementation of the bip-0032"
+    },
+    {
+      "url": "https://github.com/regiregi22/Hodl-de-Bitcoin-seguro",
+      "icon": "https://avatars.githubusercontent.com/u/16608353?v=4",
+      "lang": "esp",
+      "tags": ["github", "guides", "bitcoin", "hodl"],
+      "name": "regiregi22/Hodl-de-Bitcoin-seguro",
+      "description": "Este metodo puede ser igual de seguro que utilizar una hardware wallet comercial, pero solo si se realiza SIEMPRE de manera estricta y cuidadosa"
+    },
+    {
+      "url": "https://github.com/sunknudsen/privacy-guides",
+      "icon": "https://avatars.githubusercontent.com/u/2117655",
+      "lang": "esp",
+      "tags": ["github", "guides", "bitcoin"],
+      "name": "sunknudsen/privacy-guides",
+      "description": "Most privacy guides episodes published on YouTube do not need reference material, but when they do, it lands here"
+    },
+    {
+      "url": "https://github.com/t-bast/lightning-docs",
+      "icon": "https://avatars.githubusercontent.com/u/31281497",
+      "lang": "esp",
+      "tags": ["github", "guides", "lighting"],
+      "name": "t-bast/lightning-docs",
+      "description": "A collection of some in-depth articles about the Lightning Network"
+    },
+    {
+      "url": "https://github.com/cointastical/P2P-Trading-Exchanges/",
+      "icon": "https://avatars.githubusercontent.com/u/60823751?v=4",
+      "lang": "esp",
+      "tags": ["github", "guides", "p2p"],
+      "name": "cointastical/P2P-Trading-Exchanges",
+      "description": "Person-to-Person bitcoin Trading Exchanges"
+    }
+  ]
+}

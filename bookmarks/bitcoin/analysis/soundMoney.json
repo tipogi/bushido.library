@@ -1,0 +1,100 @@
+{
+  "soundMoney": [
+    {
+      "url": "https://sat-cent.vercel.app/",
+      "icon": "https://sat-cent.vercel.app/_next/image?url=%2Fcent.png&w=640&q=75",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "Sat Cent",
+      "description": "Comparison between satoshis and dolar"
+    },
+    {
+      "url": "https://www.satsrules.com/",
+      "icon": "https://sat-cent.vercel.app/_next/image?url=%2Fcent.png&w=640&q=75",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "Sat Cent",
+      "description": "Comparison between satoshis and dolar"
+    },
+    {
+      "url": "https://satoshisperperson.com/",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "Satoshi Per Person",
+      "description": "How many satoshis are there per person in the world?"
+    },
+    {
+      "url": "https://ngudaily.com/",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "NGUD",
+      "description": "On Average Numbers Go Up Daily"
+    },
+    {
+      "url": "https://www.usdsat.com/",
+      "icon": "https://www.usdsat.com/static/Dollarnote_hq.jpg",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "USDSat",
+      "description": "One US dollar how much worth it on sats"
+    },
+    {
+      "url": "https://fiatmarketcap.com/",
+      "icon": "https://fiatmarketcap.com/images/navbar-logo.png",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "Fiat Market Cap",
+      "description": "Major fiat currency market cap in BTC"
+    },
+    {
+      "url": "https://www.pricedinbitcoin21.com/landing",
+      "icon": "https://pricedinbitcoin.s3.us-east-2.amazonaws.com/1627678550585F9C5707F-6CD6-47A3-A3F7-3C210168C003.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2PN7GATX6BQECJO6%2F20220323%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220323T103701Z&X-Amz-Expires=900&X-Amz-Signature=4a895a0cf2aab1504f9e76b2cdb359200770262c31ac29ad661f37fa4b50fb2a&X-Amz-SignedHeaders=host",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "price"],
+      "name": "Priced in Bitcoin",
+      "description": "Pricedinbitcoin21 denominates and tracks various assets in Bitcoin, including precious metals such as Gold and Silver, public companies and Corporate Bond ETFs"
+    },
+    {
+      "url": "https://storeoftime.com/",
+      "icon": "⌚",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "time"],
+      "name": "Store of Time",
+      "description": "Everyone trades time for money, which then can be given to another person to get something in return. But when money is stored in a fiat currency for the future use, it loses the purchasing power over time due to the currency inflation"
+    },
+    {
+      "url": "https://www.bitcoinisdead.org/",
+      "icon": "https://images.squarespace-cdn.com/content/v1/603172c9321c6f6cc87a4d7f/1614141846144-8XGYXUE381JQRJ15A5HT/coffin.png",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "time", "fud"],
+      "name": "Bitcoin is dead",
+      "description": "The #1 Database of Notable Bitcoin Skeptics"
+    },
+    {
+      "url": "https://bitcoin-supply.com/",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "time", "fud"],
+      "name": "Bitcoin supply",
+      "description": "We're tracking provably lost bitcoin through publicly available logic. Discussion about proposals for this logic happens in GitHub issues and are added and amended via pull requests"
+    },
+    {
+      "url": "https://8marketcap.com/",
+      "icon": "https://8marketcap.com/logo-dark.svg?v=1",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "time", "fud"],
+      "name": "Infinite MarketCap",
+      "description": "Over 13,000 Assets ranked by Market Cap"
+    },
+    {
+      "url": "https://dcabtc.com/",
+      "icon": "https://dcabtc.com/static/media/logo.44abc544.png",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "time"],
+      "name": "DCA BTC",
+      "description": "Bitcoin dollar cost averaging consists in investing a fixed amount of FIAT, into BTC, on regular time intervals. You will often see it referenced by its abbreviation of DCA"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "transactions": [
+    {
+      "url": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
+      "icon": "https://avatars.githubusercontent.com/u/4500994?v=4",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "coinjoin"],
+      "name": "JoinMarket-Org/joinmarket-clientserver",
+      "description": "JoinMarket is software to create a special kind of bitcoin transaction called a CoinJoin transaction. Its aim is to improve the confidentiality and privacy of bitcoin transactions"
+    },
+    {
+      "url": "https://github.com/openoms/joininbox",
+      "icon": "https://avatars.githubusercontent.com/u/43343391?v=4",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "coinjoin"],
+      "name": "openoms/joininbox",
+      "description": "A minimalistic, security focused linux environment for JoinMarket with a terminal based graphical menu"
+    },
+    {
+      "url": "https://github.com/PulpCattel/JoinMarket-On-Tails",
+      "icon": "https://avatars.githubusercontent.com/u/51127079",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "coinjoin", "tails"],
+      "name": "PulpCattel/JoinMarket-On-Tails",
+      "description": "Straightforward tutorial on how to create a JoinMarket setup on Tails"
+    },
+    {
+      "url": "https://github.com/txCastOrg/txCast",
+      "icon": "https://avatars.githubusercontent.com/u/77703015",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "coinjoin", "tor"],
+      "name": "txCastOrg/txCast",
+      "description": "Commandline tool to quickly broadcast signed transactions over tor (at random times to break timing analysis)"
+    },
+    {
+      "url": "https://github.com/MuleTools/MuleTools",
+      "icon": "https://avatars.githubusercontent.com/u/31126254?s=200&v=4",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "broadcast", "transaction"],
+      "name": "MuleTools",
+      "description": "Mule Tools will be a clearing house for code that enables alternative broadcast methods for bitcoin transactions with a view towards routing around censorship, network outages, hijacking by hostile external and internal actors"
+    },
+    {
+      "url": "https://github.com/shesek/minsc",
+      "icon": "https://avatars.githubusercontent.com/u/877904?v=4",
+      "lang": "eng",
+      "tags": ["github", "guides", "bitcoin", "bip"],
+      "name": "shesek/minsc",
+      "description": "Minsc is a high-level scripting language for expressing Bitcoin Script spending conditions. It is based on the Miniscript Policy language"
+    },
+    {
+      "url": "https://github.com/bwt-dev/bwt",
+      "icon": "https://avatars.githubusercontent.com/u/76660817",
+      "lang": "eng",
+      "tags": ["github", "guides", "bitcoin", "bip"],
+      "name": "bwt-dev/bwt",
+      "description": "bwt is a lightweight wallet descriptor/xpub tracker and query engine for Bitcoin, implemented in Rust"
+    }
+  ]
+}

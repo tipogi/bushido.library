@@ -1,0 +1,116 @@
+{
+  "buy_sell": [
+    {
+      "url": "http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion/",
+      "icon": "https://raw.githubusercontent.com/Reckless-Satoshi/robosats/main/frontend/static/assets/images/robosats-0.1.1-banner.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "RoboSats",
+      "description": "It is a simple and private way to exchange bitcoin for national currencies. It simplifies the peer-to-peer user experience and uses lightning hold invoices to minimize custody and trust requirements"
+    },
+    {
+      "url": "https://hodlhodl.com/",
+      "icon": "https://freebitcoins.com.ua/wp-content/uploads/logo-hodl-hodl-com.jpg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "HodlHodl",
+      "description": "Global P2P Bitcoin trading platform that doesn’t hold funds. Trade globally. Using any payment system. For any currency"
+    },
+    {
+      "url": "https://bisq.network/",
+      "icon": "https://d33wubrfki0l68.cloudfront.net/aecfa9ee0e182f2b64970b1000095ae27311f991/61d30/images/bisq-logo.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Bisq",
+      "description": "Exchange, Decentralized. Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required"
+    },
+    {
+      "url": "https://shitcoins.club/",
+      "icon": "https://shitcoins.club/resources/img/shitcoins_club_logo_svg.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "ShitcoinClub",
+      "description": "Sell and buy your bitcoin from the ATM"
+    },
+    {
+      "url": "https://azte.co/",
+      "icon": "https://azte.co/img/logo.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Azteco",
+      "description": "Redeem Your Bitcoin Voucher"
+    },
+    {
+      "url": "https://coinatmradar.com/operator/1201/weex-bitcoin-atm-operator/",
+      "icon": "https://coinatmradar.com/images/operator/1201/logo_20211217a09f3a4b12.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Weex",
+      "description": "Tecnología simple, eficiente y efectiva para productos y servicios de criptomoneda. Únete a nosotros"
+    },
+    {
+      "url": "https://www.bitrefill.com/",
+      "icon": "https://styles.redditmedia.com/t5_3ox63/styles/communityIcon_st3ynwd87qg21.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Bitrefill",
+      "description": "Live on Crypto. Buy gift cards for anything under the sun. No account necessary"
+    },
+    {
+      "url": "https://localcryptos.com/",
+      "icon": "https://localcryptos.com/static/media/847216.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "LocalCryptos",
+      "description": "Peer-to-Peer Crypto Marketplace. Where people buy and sell crypto using any payment method."
+    },
+    {
+      "url": "https://coincards.com/",
+      "icon": "https://assets.coincards.com/wp-content/uploads/2019/04/08121831/coincards_logo_global_medium.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Coin Cards",
+      "description": "Coincards is the premium platform for living off Bitcoin"
+    },
+    {
+      "url": "https://www.lightningescrow.io/",
+      "icon": "https://www.lightningescrow.io/img/lelogo-1-1@2x.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Lightning Scrow",
+      "description": "Secure. Instant. Affordable. Lightning-fast escrow at a fraction of the cost. Using the Bitcoin Lightning Network"
+    },
+    {
+      "url": "https://thebitcoincompany.com/",
+      "icon": "https://thebitcoincompany.com/wp-content/uploads/2022/02/TBC-HB-logo_1454%E2%80%8A%C3%97%E2%80%8A422px_RGB-2.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "The Bitcoin Company",
+      "description": "The Bitcoin Company gets you the most out of spending your bitcoin. Download today to start earning bitcoin back on every purchase!"
+    },
+    {
+      "url": "https://btcpayserver.org/",
+      "icon": "https://btcpayserver.org/img/btcpay.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "BTCPayServer",
+      "description": "BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free"
+    },
+    {
+      "url": "https://www.oshi.tech/",
+      "icon": "https://www.oshi.tech/assets/img/favicon.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Oshi",
+      "description": "Empower your local economy through Bitcoin"
+    },
+    {
+      "url": "https://tubitcoin.es/",
+      "icon": "https://tubitcoin.es/wp-content/uploads/2021/06/2880px-Bitcoin_logo.svg_.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "TuBitcoin",
+      "description": "En tu tienda Bitcoin podrás comprar y vender bitcoin y otras criptomonedas en Oviedo y Madrid"
+    }
+  ]
+}

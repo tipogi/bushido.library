@@ -1,0 +1,84 @@
+{
+  "mining": [
+    {
+      "url": "https://miningpoolstats.stream/bitcoin",
+      "icon": "data:image/png;base64,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",
+      "lang": "eng",
+      "tags": ["analysis", "mining"],
+      "name": "Mining Pool Stats",
+      "description": "Pools real-time information"
+    },
+    {
+      "url": "https://howmanyconfs.com/",
+      "icon": "https://howmanyconfs.com/btc.b4dc41c2.svg",
+      "lang": "eng",
+      "tags": ["analysis", "mining"],
+      "name": "How many confs",
+      "description": "How many confirmations are equivalent to 6 Bitcoin confirmations?"
+    },
+    {
+      "url": "https://ccaf.io/cbeci/mining_map",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "mining"],
+      "name": "Bitcoin Mining Map",
+      "description": "Cambridge Bitcoin Electricity Consumption Index"
+    },
+    {
+      "url": "https://www.crypto51.app/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "mining"],
+      "name": "51% Attack",
+      "description": "A collection of coins and the theoretical cost of a 51% attack on each network."
+    },
+    {
+      "url": "https://insights.braiins.com/en/",
+      "icon": "https://cdn4.telegram-cdn.org/file/lDOh73iqb8YPksjhjP6lHVpeZaChylDTM_E1c-z_Zg909y5TPO5pO3BDlHCmxGjioxgIUXRbDcTvBCaTubQpQbP6FNissPyciCZ9VgL5R9ztiyLSbiTbU-WomuM69PT6hKuPLIEtSblPqXGT8PmuW8xo7_tRr_lITTtyah48G6KK47tyoRI5l65EPRYQ3lO7cu51GogM1lv_tq9QSbvv2Z2jxLkodgjNTvyL5zfBzHkqL0tWAT-kWNSuw6ZlcSEYO1mJxFrJd9l_jBpCVGz6j7XCFu7hKJu-WgVuvvTEbx68voYQGRALUBChETnB6dz-6P7RJnTIag4mlj6eNaVebw.jpg",
+      "lang": "eng",
+      "tags": ["analysis", "mining"],
+      "name": "Brains",
+      "description": "Bitcoin mining insights"
+    },
+    {
+      "url": "https://btc-utils-fe.herokuapp.com/asics",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "mining", "asics"],
+      "name": "Asic Lists",
+      "description": "Wide information about the asics"
+    },
+    {
+      "url": "https://whattomine.com/",
+      "icon": "https://whattomine.com/assets/logo-horizontal-512a17b0a1461dc56483756083c34577965d7f8b039fd0801096e59fd93ec180.svg",
+      "lang": "eng",
+      "tags": ["analysis", "mining", "gpu"],
+      "name": "What to mine",
+      "description": "Check mining profitability of various coins."
+    },
+    {
+      "url": "https://www.hashrate.no/",
+      "icon": "https://www.hashrate.no/gfx/footer_logo.png",
+      "lang": "eng",
+      "tags": ["analysis", "mining", "gpu"],
+      "name": "Hash Rate",
+      "description": "Setups for mining. Increase your earnings! We cover most aspects of GPU mining"
+    },
+    {
+      "url": "https://www.asicminervalue.com/",
+      "icon": "https://www.asicminervalue.com/images/icon_sm.png",
+      "lang": "eng",
+      "tags": ["analysis", "mining", "asics"],
+      "name": "Asic Miner Value",
+      "description": "Miners profitability. Live income estimation of all known ASIC miners, updated every minute"
+    },
+    {
+      "url": "https://www.kryptex.org/es/best-gpus-for-mining",
+      "icon": "https://www.asicminervalue.com/images/icon_sm.png",
+      "lang": "eng",
+      "tags": ["analysis", "mining", "gpu"],
+      "name": "Kryptex",
+      "description": "Las mejores GPU para minar. Kryptex está monitoreando el hashrate y los rendimientos de las GPUs disponibles en el mercado"
+    }
+  ]
+}

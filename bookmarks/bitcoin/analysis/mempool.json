@@ -1,0 +1,84 @@
+{
+  "explorer | mempool": [
+    {
+      "url": "https://bitcoinfees.earn.com/",
+      "icon": "https://bitcoinfees.earn.com/assets/images/earn-logo-circle.svg",
+      "lang": "eng",
+      "tags": ["analysis", "fees"],
+      "name": "Earn",
+      "description": "The fees displayed here are Satoshis per byte of transaction data"
+    },
+    {
+      "url": "https://mempool.space/",
+      "icon": "https://mempool.space/resources/mempool-space-logo.png",
+      "lang": "eng",
+      "tags": ["analysis", "fees", "mempool", "block"],
+      "name": "Mempool space",
+      "description": "Mempool viewer in a really clear way"
+    },
+    {
+      "url": "https://jochen-hoenicke.de/queue/#BTC,24h,weight",
+      "icon": "https://bitcoinfees.earn.com/assets/images/earn-logo-circle.svg",
+      "lang": "eng",
+      "tags": ["analysis", "fees"],
+      "name": "Johoe's Bitcoin Mempool Statistics",
+      "description": "This page displays the number, fee, or weight of the unconfirmed transactions, also known as the transactions in the mempool"
+    },
+    {
+      "url": "https://whatthefee.io/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "fees"],
+      "name": "What to fee",
+      "description": "bitcoin feerate estimation"
+    },
+    {
+      "url": "https://btc.bitaps.com/",
+      "icon": "https://pbs.twimg.com/profile_images/1129791437413994496/P6DqkfwY_400x400.png",
+      "lang": "eng",
+      "tags": ["analysis", "fees", "mempool"],
+      "name": "Bitaps",
+      "description": "Cryptography, math and financial revolution. Bitcoin, because fuck the banks"
+    },
+    {
+      "url": "https://www.bitrawr.com/difficulty-estimator",
+      "icon": "https://bitrawr.s3.eu-central-1.amazonaws.com/assets/logo_images/bitrawr-text-logo.svg",
+      "lang": "eng",
+      "tags": ["analysis", "fees", "mempool"],
+      "name": "Bitrawr | Difficulty",
+      "description": "It is a useful Bitcoin resource guiding you to the best exchanges, most-trusted wallets, nearest ATMs, efficient mining equipment, all in one cohesive site"
+    },
+    {
+      "url": "https://mempool.observer/",
+      "icon": "https://mempool.observer/img/og_preview.png",
+      "lang": "eng",
+      "tags": ["analysis", "fees", "mempool"],
+      "name": "Mempool Observer",
+      "description": "The chart shows a mempool snapshot from its node. The mempool contains unconfirmed transactions waiting to be included in a block"
+    },
+    {
+      "url": "https://miningpool.observer/",
+      "icon": "https://miningpool.observer/static/img/template_and_block.svg",
+      "lang": "eng",
+      "tags": ["analysis", "fees", "mempool", "transactions"],
+      "name": "Mining pool observer",
+      "description": "Bitcoin Mining Pools construct blocks from unconfirmed transactions"
+    },
+    {
+      "url": "https://bitcoinstrings.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "mempool", "block"],
+      "name": "Bitcoin strings",
+      "description": "This site reveals the blockchain in words. Author of this site takes no responsibility for the content shown"
+    },
+    {
+      "url": "https://murrayrothbot.com/",
+      "icon": "https://murrayrothbot.com/murray-rothbot2.png",
+      "lang": "eng",
+      "tags": ["analysis", "mempool", "block"],
+      "name": "Murray RothBot",
+      "description": "A bitcoin bot, at your service!"
+    }
+  ]
+}

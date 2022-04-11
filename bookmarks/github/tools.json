@@ -1,0 +1,43 @@
+{
+  "tools": [
+    {
+      "url": "https://github.com/j4imefoo/nokyc",
+      "icon": "https://avatars.githubusercontent.com/u/101734032?v=4",
+      "lang": "eng",
+      "tags": ["privacy", "github", "nokyc", "bitcoin"],
+      "name": "j4imefoo/nokyc",
+      "description": "A script that lists all current Bisq, HodlHodl and Robosats offers in the terminal and connects via TOR"
+    },{
+      "url": "https://github.com/tycrek/degoogle",
+      "icon": "https://avatars.githubusercontent.com/u/29926144?v=4",
+      "lang": "eng",
+      "tags": ["privacy", "github", "tools", "tools"],
+      "name": "tycrek/degoogle",
+      "description": "A huge list of alternatives to Google products. Privacy tips, tricks, and links"
+    },
+    {
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "icon": "https://avatars.githubusercontent.com/u/24270415",
+      "lang": "eng",
+      "tags": ["tools", "github", "tools"],
+      "name": "awesome-selfhosted",
+      "description": "Self-hosting is the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers"
+    },
+    {
+      "url": "https://github.com/Coldcard/firmware",
+      "icon": "https://avatars.githubusercontent.com/u/34548271",
+      "lang": "eng",
+      "tags": ["tools", "github", "tools"],
+      "name": "Coldcard/firmware",
+      "description": "Coldcard is a Cheap, Ultra-secure & Verifiable Hardware Wallet for Bitcoin"
+    },
+    {
+      "url": "https://github.com/benbusby/whoogle-search",
+      "icon": "https://avatars.githubusercontent.com/u/33362396?v=4",
+      "lang": "eng",
+      "tags": ["tools", "github", "tools"],
+      "name": "benbusby/whoogle-search",
+      "description": "Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Easily deployable in one click as a Docker app, and customizable with a single config file"
+    }
+  ]
+}

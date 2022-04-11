@@ -1,0 +1,52 @@
+{
+  "resources": [
+    {
+      "url": "https://bitcoin-only.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["nodes","custody"],
+      "name": "Bitcoin-only",
+      "description": "A collection of the highest quality Bitcoin resources"
+    },
+    {
+      "url": "https://bitcoin-resources.com/",
+      "icon": "https://bitcoin-resources.com/assets/images/avatar.png",
+      "lang": "eng",
+      "tags": ["books","articles"],
+      "name": "Bitcoin-only",
+      "description": "Bitcoin Resources is a free open-source project curated by volunteers"
+    },
+    {
+      "url": "https://bitcoinminds.org/",
+      "icon": "https://bitcoinminds.org/img/brand/bitcoin-logo.png",
+      "lang": "eng",
+      "tags": ["books","articles"],
+      "name": "Bitcoin Minds",
+      "description": "It is the most comprehensive list of Bitcoin resources online, updated regularly."
+    },
+    {
+      "url": "https://bgeometrics.github.io/bitcoin_bookmarks_es.html",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["books","articles"],
+      "name": "Bitcoin Bookmarks",
+      "description": "Enlaces y recursos sobre Bitcoin en español"
+    },
+    {
+      "url": "https://btclexicon.com/",
+      "icon": "https://btclexicon.com/wp-content/uploads/2021/03/logo-8.png?3a343a&3a343a",
+      "lang": "eng",
+      "tags": ["books","articles"],
+      "name": "BTCLexicon",
+      "description": "Dictionary to learn About Bitcoin. Comprehensive Bitcoin Knowledge Base"
+    },
+    {
+      "url": "https://endthefud.org/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "EndTheFUD",
+      "description": "The best links to articles debunking Bitcoin FUD"
+    }
+  ]
+}

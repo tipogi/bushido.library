@@ -1,0 +1,60 @@
+{
+  "metrics": [
+    {
+      "url": "https://terminal.bytetree.com/bitcoin/market",
+      "icon": "https://terminal.bytetree.com/img/icon_logo_light.25b87fac.svg",
+      "lang": "eng",
+      "tags": ["analysis", "dashboard"],
+      "name": "ByteTree",
+      "description": "Bitcoin real-time on-chain data, fundamentals, technicals & market analysis. "
+    },
+    {
+      "url": "https://stats.buybitcoinworldwide.com/",
+      "icon": "https://www.buybitcoinworldwide.com/pages/img/navbar-logo.png",
+      "lang": "eng",
+      "tags": ["analysis", "dashboard"],
+      "name": "Buy Bitcoin Worldwide",
+      "description": "Any information found on this page is not to be considered as financial advice. You should do your own research before making any decisions"
+    },
+    {
+      "url": "https://bitcoin.clarkmoody.com/dashboard/",
+      "icon": "https://www.buybitcoinworldwide.com/pages/img/navbar-logo.png",
+      "lang": "eng",
+      "tags": ["analysis", "dashboard"],
+      "name": "Clark Moody | Dashboard",
+      "description": "A single-page view into the metrics of the Bitcoin ecosystem."
+    },
+    {
+      "url": "https://bitbo.io/",
+      "icon": "https://assets.bitbo.io/img/logos/bitbo-logo.svg",
+      "lang": "eng",
+      "tags": ["analysis", "dashboard"],
+      "name": "BitBo",
+      "description": "Bitbo is a real-time Bitcoin dashboard that allows anyone to monitor on-chain data, view live price action, and track key economic indicators - all for free"
+    },
+    {
+      "url": "https://alternative.me/crypto/fear-and-greed-index/",
+      "icon": "https://alternative.me/images/alternative-me-logo.png",
+      "lang": "eng",
+      "tags": ["mood", "bitcoin"],
+      "name": "Fear & Greed",
+      "description": "Each day, we analyze emotions and sentiments from different sources and crunch them into one simple number: The Fear & Greed Index"
+    },
+    {
+      "url": "https://www.coinglass.com/today",
+      "icon": "https://cdn.coinglasscdn.com/static/icon_200.png",
+      "lang": "eng",
+      "tags": ["bitcoin", "price"],
+      "name": "Bitcoin monthly returns",
+      "description": ""
+    },
+    {
+      "url": "https://timechainstats.com/",
+      "icon": "https://cdn.coinglasscdn.com/static/icon_200.png",
+      "lang": "eng",
+      "tags": ["bitcoin", "price"],
+      "name": "Timechain Stats",
+      "description": "The attacker isn't adding blocks to the end. He has to go back and redo the block his transaction is in and all the blocks after it, as well as any new blocks the network keeps adding to the end while he's doing that"
+    }
+  ]
+}

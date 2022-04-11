@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "url": "https://kycnot.me/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["nodes","custody"],
+      "name": "KYC? Not me!",
+      "description": "A place where you can find a curated list of non-kyc crypto services"
+    }
+  ]
+}

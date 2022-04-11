@@ -1,0 +1,44 @@
+{
+  "animation": [
+    {
+      "url": "https://bitcoinal.com/",
+      "icon": "https://bitcoinal.com/img/b-icon.jpg",
+      "lang": "eng",
+      "tags": ["analysis", "graph", "price"],
+      "name": "Bitcoinal",
+      "description": "Bitcoinal includes various applications, such as statistics, tweets, tools and games"
+    },
+    {
+      "url": "https://txstreet.com/v/btc",
+      "icon": "https://txstreet.com/static/img/icons/logo_darkmode.svg?v=1.2.2",
+      "lang": "eng",
+      "tags": ["analysis", "graph", "price"],
+      "name": "Tx Street",
+      "description": "TxStreet is a live transaction and mempool visualizer featuring Bitcoin. When a new transaction is broadcasted to the network, a person appears and attempts to board a bus in real time"
+    },
+    {
+      "url": "https://bits.monospace.live/",
+      "icon": "https://bits.monospace.live/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["fees", "bitcoin"],
+      "name": "Bitfeed",
+      "description": "On a typical day, the Bitcoin network confirms around 300,000 transactions by mining an average of 144 blocks. Bitfeed attempts to visualise this flow of information"
+    },
+    {
+      "url": "http://bitcoincity.info/",
+      "icon": "http://bitcoincity.info/mini.png",
+      "lang": "eng",
+      "tags": ["fees", "bitcoin"],
+      "name": "Bitcoin City",
+      "description": "Each city is a bitcoin transaction, on the road to the blockchain"
+    },
+    {
+      "url": "https://txhighway.cash",
+      "icon": "https://txhighway.cash/assets/sprites/bitcoin-small-med.png",
+      "lang": "eng",
+      "tags": ["fees", "bitcoin"],
+      "name": "Tx highway",
+      "description": "Transaction visualizer"
+    }
+  ]
+}

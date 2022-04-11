@@ -1,0 +1,68 @@
+{
+  "privacy": [
+    {
+      "url": "https://www.lookintobitcoin.com/charts/",
+      "icon": "https://www.lookintobitcoin.com/static/img/logo/logo-stacked-transparent.png",
+      "lang": "eng",
+      "tags": ["analysis", "dashboard", "charts"],
+      "name": "Look into Bitcoin",
+      "description": "Please note, the indicators below are experimental and aim to create valuation approaches for the new asset class of Bitcoin. These charts are built as informative guides. There is no guarantee certain rules within each model will continue to apply as Bitcoin progresses along its adoption journey"
+    },
+    {
+      "url": "http://www.bitcoinkpis.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "dashboard"],
+      "name": "Bitcoin KPI",
+      "description": "The goal of this dashboard is to help the Bitcoin community focus on the important metrics & KPIs that I think are most correlated with the success of the network and ecosystem"
+    },
+    {
+      "url": "https://charts.woobull.com/",
+      "icon": "https://woobull.com/favicon.png",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "dashboard"],
+      "name": "Woobull",
+      "description": "Willy Woo is a leading Bitcoin on-chain analyst"
+    },
+    {
+      "url": "https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount",
+      "icon": "https://studio.glassnode.com/images/glassnode-studio.svg",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "dashboard"],
+      "name": "Glassnode",
+      "description": "Free and subcription charts"
+    },
+    {
+      "url": "https://tsypruyan.github.io/index.html",
+      "icon": "https://studio.glassnode.com/images/glassnode-studio.svg",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "dashboard"],
+      "name": "Tsypruyan",
+      "description": "Bitcoin on-chain independent research project Data is available for non-commercial use"
+    },
+    {
+      "url": "https://transactionfee.info/",
+      "icon": "https://transactionfee.info/img/browser-icons/android-icon-192x192.png",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "dashboard"],
+      "name": "Transaction Fee",
+      "description": "Bitcoin Protocol Layer Statistics"
+    },
+    {
+      "url": "https://hodlwave.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "utxo"],
+      "name": "Hodl wave",
+      "description": "Bitcoin UTXO age distribution"
+    },
+    {
+      "url": "https://txstats.com/dashboard/db/home-dashboard?orgId=1",
+      "icon": "https://txstats.com/public/img/bitmex.png",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "utxo"],
+      "name": "TxStats",
+      "description": "It provides dashboards highlighting the usage of various advanced Bitcoin features and tracking many important statistics"
+    }
+  ]
+}

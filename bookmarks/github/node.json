@@ -1,0 +1,60 @@
+{
+  "node": [
+    {
+      "url": "https://github.com/janoside/btc-rpc-explorer",
+      "icon": "https://avatars.githubusercontent.com/u/99734?s=120&v=4",
+      "lang": "eng",
+      "tags": ["github", "explorer", "bitcoin"],
+      "name": "janoside/btc-rpc-explorer",
+      "description": "Self-Hosted Bitcoin explorer for everyone running Bitcoin Core"
+    },
+    {
+      "url": "https://github.com/romanz/electrs",
+      "icon": "https://avatars.githubusercontent.com/u/9900",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "romanz/electrs",
+      "description": "An efficient re-implementation of Electrum Server, inspired by ElectrumX, Electrum Personal Server and bitcoincore-indexd"
+    },
+    {
+      "url": "https://github.com/cculianu/Fulcrum",
+      "icon": "https://avatars.githubusercontent.com/u/266627",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "cculianu/Fulcrum",
+      "description": "A fast & nimble SPV server for Bitcoin Cash & Bitcoin BTC"
+    },
+    {
+      "url": "https://github.com/rootzoll/raspiblitz",
+      "icon": "https://avatars.githubusercontent.com/u/2472225?v=4",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "rootzoll/raspiblitz",
+      "description": "Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display"
+    },
+    {
+      "url": "https://github.com/raspibolt/raspibolt/",
+      "icon": "https://avatars.githubusercontent.com/u/19550140?v=4",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "raspibolt/raspibolt",
+      "description": "Build your own do-everything-yourself Bitcoin full node that will make you a sovereign peer in the Bitcoin and Lightning network"
+    },
+    {
+      "url": "https://code.samourai.io/ronindojo",
+      "icon": "https://code.samourai.io/uploads/-/system/group/avatar/41/RoninDojo-01c.png",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "RoninDojo",
+      "description": "The independent team building RoninDojo software expanding the functionality of Dojo"
+    },
+    {
+      "url": "https://code.samourai.io/dojo",
+      "icon": "https://code.samourai.io/uploads/-/system/group/avatar/5/profile_dojo.png",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "Dojo",
+      "description": "The team responsible for development of Dojo full node wallet tracking server"
+    }
+  ]
+}

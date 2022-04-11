@@ -1,0 +1,68 @@
+{
+  "tools": [
+    {
+      "url": "https://degoogle.jmoore.dev/",
+      "icon": "https://repository-images.githubusercontent.com/191201679/10394d00-968c-11ea-8879-4f06b3e59af5",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "degoogle",
+      "description": "I do not have anything to hide, but I do not have anything to show you either"
+    },
+    {
+      "url": "https://techlore.tech/index",
+      "icon": "https://techlore.tech/assets/svg/logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Techlore",
+      "description": "Spreading privacy & security to the masses"
+    },
+    {
+      "url": "https://nomoregoogle.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "No more google",
+      "description": "Privacy-friendly alternatives to Google that don't track you"
+    },
+    {
+      "url": "https://www.privacytools.io/",
+      "icon": "https://www.privacytools.io/img/logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Privacy Tools",
+      "description": "Encryption Against Mass Surveillance. You are being watched. Private and state-sponsored organizations are monitoring and recording your online activities. privacytools.io provides services, tools and knowledge to protect your privacy against global mass surveillance"
+    },
+    {
+      "url": "https://thinkprivacy.ch/",
+      "icon": "https://thinkprivacy.ch/assets/images/header_logo.png",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Thinks Privacy",
+      "description": "It's your data. It's time you take control of it"
+    },
+    {
+      "url": "https://www.privacyguides.org/",
+      "icon": "https://www.privacyguides.org/assets/img/layout/privacy-guides-logo-light.svg",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Privacy Guides",
+      "description": "The guide to restoring your online privacy. Massive organizations are monitoring your online activities. Privacy Guides is your central privacy and security resource to protect yourself online"
+    },
+    {
+      "url": "https://codeberg.org/PrivacyFirst/Data_Protection/issues/48",
+      "icon": "https://codeberg.org/avatars/abf7c9de4834ec21b7d4d9f6156444d4?size=84",
+      "lang": "esp",
+      "tags": ["privacy","app"],
+      "name": "Data Proteccion",
+      "description": "Lista para la protección de datos o manual de resistencia al capitalismo de vigilancia"
+    },
+    {
+      "url": "https://cryptpad.fr/index.html",
+      "icon": "https://cryptpad.fr/customize/CryptPad_logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","app", "documents"],
+      "name": "Cryptpad",
+      "description": "Collaboration suite end-to-end encrypted and open-source"
+    }
+  ]
+}

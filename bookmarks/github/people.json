@@ -1,0 +1,37 @@
+{
+  "node": [
+    {
+      "url": "https://github.com/jlopp?tab=repositories",
+      "icon": "https://avatars.githubusercontent.com/u/288011?v=4",
+      "lang": "eng",
+      "tags": ["github", "people", "bitcoin"],
+      "name": "jlopp",
+      "description": "Cypherpunk"
+    },
+    {
+      "url": "https://github.com/sr-gi",
+      "icon": "https://avatars.githubusercontent.com/u/6665628?v=4",
+      "lang": "eng",
+      "tags": ["github", "people", "bitcoin"],
+      "name": "sr-gi",
+      "description": "Building The Eye of Satoshi @talaia-labs"
+    },
+    {
+      "url": "https://github.com/sipa",
+      "icon": "https://avatars.githubusercontent.com/u/548488?v=4",
+      "lang": "eng",
+      "tags": ["github", "people", "bitcoin"],
+      "name": "Pieter Wuille",
+      "description": "@bitcoin developer at @chaincodelabs. Formerly @Blockstream."
+    },
+    {
+      "url": "https://github.com/6102bitcoin",
+      "icon": "https://avatars.githubusercontent.com/u/42300012?v=4",
+      "lang": "eng",
+      "tags": ["github", "people", "bitcoin"],
+      "name": "6102bitcoin",
+      "description": ""
+    }
+  ]
+}
+

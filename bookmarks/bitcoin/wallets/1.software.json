@@ -1,0 +1,115 @@
+{ 
+  "sw": [
+    {
+      "url": "https://samouraiwallet.com/",
+      "icon": "https://pbs.twimg.com/profile_images/1210194659429011459/gqv1f2CT_400x400.png",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "on-chain"],
+      "name": "Samurai Wallet",
+      "description": "The most popular and effective Bitcoin privacy wallet. Keep your identity masked and your transaction private"
+    },
+    {
+      "url": "https://muun.com/",
+      "icon": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI0IiBoZWlnaHQ9IjQ4IiB2aWV3Qm94PSIwIDAgMTI0IDQ4IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNMTEuMTIzNiAzMy44NTExVjE4LjI5NDhDMTEuMTIzNiAxOC4yOTQ4IDEyLjUyMTEgMTcuNTk5OSAxNS4xOTE4IDE3LjU5OTlDMTcuODYyNCAxNy41OTk5IDE5LjA1MjQgMTguNTkyNiAxOS4wNTI0IDIxLjM4NjJWMzMuODUxMUgyMi44ODU0VjIxLjM4NjJDMjIuODg1NCAyMC4xMjQxIDIyLjg4NTQgMTkuMTU5OCAyMi44NzE2IDE4LjQyMjRDMjMuNDgwNCAxOC4wODIgMjQuNjcwNCAxNy41OTk5IDI2LjYzNTQgMTcuNTk5OUMyOS42Nzk2IDE3LjU5OTkgMzAuODE0MyAxOC41OTI2IDMwLjgxNDMgMjEuMzg2MlYzMy44NTExSDM0Ljk1MTdWMjEuMzg2MkMzNC45NTE3IDE5LjUwMDEgMzQuNTY0MiAxNy41MjkgMzMuMTgwNSAxNi4wOTY3QzMxLjc4MjkgMTQuNjY0NSAyOS43OTAzIDEzLjcxNDQgMjYuNjc2OSAxMy43MTQ0QzIzLjg4MTcgMTMuNzE0NCAyMS40MTg2IDE0LjY5MjggMjAuOTM0MyAxNC45MDU1QzE5LjM3MDcgMTQuMTU0IDE3LjE3MDUgMTMuNzE0NCAxNS4yMTk1IDEzLjcxNDRDMTEuNDI4IDEzLjcxNDQgNyAxNC45NDgxIDcgMTQuOTQ4MVYzMy44NTExSDExLjEyMzZaIiBmaWxsPSIjMzk3MERCIi8+CjxwYXRoIGQ9Ik02Mi4yMTIxIDEzLjcxNDRWMzEuNDI0NVYzMi42MTc0QzYyLjIxMjEgMzIuNjE3NCA2MS43Mzg4IDMyLjc0NzUgNjAuOTUwMiAzMi45MjMxQzU5LjMxIDMzLjI4ODUgNTYuMzA2IDMzLjg1MTEgNTMuMzU5IDMzLjg1MTFDNTAuMjA0MSAzMy44NTExIDQ3LjY4ODUgMzIuODg2OCA0Ni4yODQ4IDMxLjQ2ODdDNDQuODgxMSAzMC4wMzY1IDQ0LjUwNTggMjguMDY1MyA0NC41MDU4IDI2LjE3OTNWMTMuNzE0NEg0OC42NjE0VjI2LjE2NTFDNDguNjYxNCAyOC45NTg3IDUwLjMyOTIgMjkuOTUxNCA1My4zODY4IDI5Ljk1MTRDNTYuNDQ0NCAyOS45NTE0IDU4LjA3MDUgMjkuMjU2NSA1OC4wNzA1IDI5LjI1NjVWMTMuNzE0NEg2Mi4yMTIxWiIgZmlsbD0iIzM5NzBEQiIvPgo8cGF0aCBkPSJNODkuNDc5MSAxMy43MTQ0VjMyLjYxNzRDODkuNDc5MSAzMi42MTc0IDg0Ljk5IDMzLjg1MTEgODAuNjI2IDMzLjg1MTFDNzcuNDcxMSAzMy44NTExIDc0Ljk1NTUgMzIuODg2OCA3My41NTE4IDMxLjQ2ODdDNzIuMTQ4MSAzMC4wMzY1IDcxLjc3MjkgMjguMDY1MyA3MS43NzI5IDI2LjE3OTNWMTMuNzE0NEg3NS45Mjg0VjI2LjE2NTFDNzUuOTI4NCAyOC45NTg3IDc3LjU5NjIgMjkuOTUxNCA4MC42NTM4IDI5Ljk1MTRDODMuNzExNCAyOS45NTE0IDg1LjMzNzUgMjkuMjU2NSA4NS4zMzc1IDI5LjI1NjVWMTMuNzE0NEg4OS40NzkxWiIgZmlsbD0iIzM5NzBEQiIvPgo8cGF0aCBkPSJNOTkuMDA4IDMzLjg1MTFWMTQuOTQ4MUM5OS4wMDggMTQuOTQ4MSAxMDMuNDk3IDEzLjcxNDQgMTA3Ljg2MSAxMy43MTQ0QzExMS4wMTYgMTMuNzE0NCAxMTMuNTMyIDE0LjY3ODcgMTE0LjkzNSAxNi4wOTY3QzExNi4zMzkgMTcuNTI5IDExNi43MTQgMTkuNTAwMSAxMTYuNzE0IDIxLjM4NjJWMzMuODUxMUgxMTIuNTU5VjIxLjQwMDRDMTEyLjU1OSAxOC42MDY3IDExMC44OTEgMTcuNjE0MSAxMDcuODMzIDE3LjYxNDFDMTA0Ljc3NiAxNy42MTQxIDEwMy4xNSAxOC4zMDg5IDEwMy4xNSAxOC4zMDg5VjMzLjg1MTFIOTkuMDA4WiIgZmlsbD0iIzM5NzBEQiIvPgo8L3N2Zz4K",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "on-chain", "ln"],
+      "name": "Muun",
+      "description": "Simple and powerful. Just like bitcoin. Muun is a self-custodial wallet for bitcoin and lightning."
+    },
+    {
+      "url": "https://zeusln.app/",
+      "icon": "https://zeusln.app/static/media/Zeus.42d9c932.svg",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "ln"],
+      "name": "Zeus",
+      "description": "Lightning in the palm of your hand"
+    },
+    {
+      "url": "https://blixtwallet.github.io/",
+      "icon": "https://blixtwallet.github.io/assets/images/blixt-wallet-icon.png",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "ln", "on-chain"],
+      "name": "Blixt",
+      "description": "Blixt Wallet is a non-custodial open-source Bitcoin Lightning Wallet for Android and iOS with a focus on usability and user experience"
+    },
+    {
+      "url": "https://phoenix.acinq.co/",
+      "icon": "https://bitcoin.fr/wp-content/uploads/2021/07/Phoenix-Wallet-dans-lApp-Store.jpg",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "ln", "on-chain"],
+      "name": "Phoenix",
+      "description": "It is a Bitcoin wallet. It allows you to send and receive bitcoins"
+    },
+    {
+      "url": "https://breez.technology/",
+      "icon": "https://breez.technology/favicon.ico",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "ln", "on-chain"],
+      "name": "Breez",
+      "description": "Lightning Fast Bitcoin Payments. Breez is the simplest, fastest and safest way to spend your bitcoins"
+    }, {
+      "url": "https://sbw.app/",
+      "icon": "https://sbw.app/images/logo.png",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "ln", "on-chain"],
+      "name": "Simple Bitcoin Wallet",
+      "description": "It is an open-source, non-custodial, autonomous wallet for Android devices which can store, send and receive bitcoins"
+    },
+    {
+      "url": "https://www.sparrowwallet.com/",
+      "icon": "https://www.sparrowwallet.com/assets/images/sparrow.png",
+      "lang": "eng",
+      "tags": ["desktop-wallet", "on-chain"],
+      "name": "Sparrow Wallet",
+      "description": "It is a Bitcoin wallet for those who value financial self sovereignty. Sparrow’s emphasis is on security, privacy and usability"
+    },
+    {
+      "url": "https://electrum.org",
+      "icon": "https://electrum.org/logo/electrum_logo.png",
+      "lang": "eng",
+      "tags": ["desktop-wallet", "on-chain", "ln"],
+      "name": "Electrum",
+      "description": "It is focus is speed, with low resource usage and simplifying Bitcoin"
+    },
+    {
+      "url": "https://specter.solutions/",
+      "icon": "https://pbs.twimg.com/profile_images/1449124038757044225/BQuoVjF9_400x400.jpg",
+      "lang": "eng",
+      "tags": ["diy-wallet", "on-chain"],
+      "name": "Specter Wallet",
+      "description": "Trust minimised signing devices running Specter open source firmware"
+    },
+    {
+      "url": "https://seedsigner.com",
+      "icon": "https://seedsigner.com/wp-content/uploads/2021/12/Frame-6.png",
+      "lang": "eng",
+      "tags": ["diy-wallet", "on-chain"],
+      "name": "SeedSigner",
+      "description": "A project which is focused on lowering the cost and complexity of creating and using Bitcoin multi-signature wallets"
+    },
+    {
+      "url": "https://fullynoded.app/",
+      "icon": "https://fullynoded.files.wordpress.com/2020/07/final-fully-noded-logo.png",
+      "lang": "eng",
+      "tags": ["mobile-wallet", "on-chain"],
+      "name": "FullyNoded",
+      "description": "Your node, your Bitcoin."
+    },
+    {
+      "url": "https://nunchuk.io/",
+      "icon": "https://nunchuk.io/wp-content/uploads/2021/03/Horizontal-Logo-2.png",
+      "lang": "eng",
+      "tags": ["desktop-wallet", "mobile-wallet", "on-chain"],
+      "name": "Nunchuck",
+      "description": "Nunchuk is the safest self-custody solution for your bitcoin"
+    },
+    {
+      "url": "https://gun.fun/",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["cli-wallet", "on-chain"],
+      "name": "Go Up Number",
+      "description": "gun is the world's most fully featured stand alone command line bitcoin wallet. The main design goal of gun is for it to be fun! It might also be secure and stuff but we'll have to see"
+    }
+  ]
+}

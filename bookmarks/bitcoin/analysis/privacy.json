@@ -1,0 +1,37 @@
+{
+  "privacy": [
+    {
+      "url": "https://www.whirlpoolfees.com/",
+      "icon": "https://samouraiwallet.com/static/public/images/products/whirlpool/logo.svg",
+      "lang": "eng",
+      "tags": ["privacy", "analysis", "fee", "whirlpool"],
+      "name": "Whirlpool Fee Calculator",
+      "description": "It is a community driven site to help Samourai Wallet users calculate their Whirlpool fees prior to mixing"
+    },
+    {
+      "url": "https://kycp.org",
+      "icon": "https://kycp.org/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy", "analysis", "transaction", "whirlpool"],
+      "name": "KnowYourCoinPrivacy",
+      "description": "Different kind of analysis about on-chain transactions focused on privacy"
+    },
+    {
+      "url": "https://oxt.me/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["privacy", "analysis", "transaction"],
+      "name": "OXT",
+      "description": "The blockchain by the people for the people"
+    },
+    {
+      "url": "https://zeroleak.github.io/whirlpool-live/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["privacy", "analysis", "transaction", "whirlpool"],
+      "name": "Samourai Whirlpool live",
+      "description": "Visualizing Whirlpool transactions from 100 last blocks and mempool (real-time)"
+    }
+    
+  ]
+}

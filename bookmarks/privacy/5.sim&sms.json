@@ -1,0 +1,52 @@
+{
+  "sms": [
+    {
+      "url": "https://sms-activate.org/en/",
+      "icon": "https://sms-activate.org/img/logo.svg",
+      "lang": "",
+      "tags": ["sms","privacy"],
+      "name": "SMS activate",
+      "description": "Virtual online numbers, at the lowest prices"
+    },
+    {
+      "url": "https://onlinesim.ru/en/",
+      "icon": "https://cdn.onlinesim.ru/frontend_new/resources/favicon/icon-144x144.png",
+      "lang": "",
+      "tags": ["sms","privacy"],
+      "name": "Online SIM",
+      "description": "Virtual online numbers, at the lowest prices"
+    },
+    {
+      "url": "https://www.textverified.com/",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLSQaP9woRJ3EPWjB1EMnE3bgoM3cRzovuQW9Bzj=s68-c-k-c0x00ffffff-no-rj",
+      "lang": "",
+      "tags": ["sms","privacy"],
+      "name": "Text Verified",
+      "description": "Textverified is a phone verification service that allows you to bypass phone verifications and receive codes through our website and our app"
+    },
+    {
+      "url": "https://silent.link/",
+      "icon": "https://silent.link/images/logo.svg",
+      "lang": "",
+      "tags": ["sim","privacy"],
+      "name": "Silent link",
+      "description": "Get global mobile 4G/5G Internet access and burner phone numbers instantly and privately on any modern eSIM-compatible smartphone"
+    },
+    {
+      "url": "https://smspool.net/",
+      "icon": "https://smspool.net/assets/img/lander_images/logo.webp",
+      "lang": "",
+      "tags": ["sms","privacy"],
+      "name": "SMS pool",
+      "description": "Protect your online identity by using our one-time-use non-VOIP phone numbers. We offer high-quality SMS verifications for more than ten countries."
+    },
+    {
+      "url": "https://sms4sats.com/",
+      "icon": "https://sms4sats.com/assets/images/logo.png",
+      "lang": "",
+      "tags": ["sms","privacy"],
+      "name": "SMS 4 sats",
+      "description": "Send and receive SMS without giving away your phone number"
+    }
+  ]
+}

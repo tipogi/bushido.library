@@ -1,0 +1,52 @@
+{
+  "hardware": [
+    {
+      "url": "https://github.com/cryptoadvance/specter-diy",
+      "icon": "https://avatars.githubusercontent.com/u/52270008?s=200&v=4",
+      "lang": "eng",
+      "tags": ["github", "wallets", "bitcoin", "hardware"],
+      "name": "cryptoadvance/specter-diy",
+      "description": "The idea of the project is to build a hardware wallet from off-the-shelf components"
+    },
+    {
+      "url": "https://github.com/diybitcoinhardware/diybitcoinhardware.github.io",
+      "icon": "https://avatars.githubusercontent.com/u/54726412?s=200&v=4",
+      "lang": "eng",
+      "tags": ["github", "hardware", "bitcoin", "wallets"],
+      "name": "diybitcoinhardware/diybitcoinhardware.github.io",
+      "description": "Interesting DIY bitcoin and lightning-related projects. This includes hardware wallets, verification tools, POS terminals, full nodes and other stuff"
+    },
+    {
+      "url": "https://github.com/SeedSigner/seedsigner",
+      "icon": "https://avatars.githubusercontent.com/u/65379725",
+      "lang": "eng",
+      "tags": ["github", "hardware", "bitcoin", "wallets"],
+      "name": "SeedSigner/seedsigner",
+      "description": "The goal of SeedSigner is to lower the cost and complexity of Bitcoin multi-signature wallet use"
+    },
+    {
+      "url": "https://github.com/samotari/bleskomat-diy",
+      "icon": "https://avatars.githubusercontent.com/u/30796116",
+      "lang": "eng",
+      "tags": ["github", "hardware", "bitcoin", "PoS"],
+      "name": "samotari/bleskomat-diy",
+      "description": "This is the do-it-yourself (DIY) version of the Bleskomat ATM"
+    },
+    {
+      "url": "https://mcudev.github.io/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["github", "hardware", "bitcoin", "PoS"],
+      "name": "mcudev",
+      "description": "Hardware Wallets projects"
+    },
+    {
+      "url": "https://github.com/DesobedienteTecnologico",
+      "icon": "https://avatars.githubusercontent.com/u/52879067?v=4",
+      "lang": "eng",
+      "tags": ["github", "hardware", "bitcoin"],
+      "name": "DesobedienteTecnologico",
+      "description": ":)"
+    }
+  ]
+}

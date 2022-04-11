@@ -1,0 +1,132 @@
+{
+  "podcast": [
+    {
+      "url": "https://lunaticoin.com/reproductor",
+      "icon": "https://lunaticoin.com/wp-content/uploads/2022/01/1037971-1642694615087-137d6f269075f-1024x1024.jpg",
+      "lang": "esp",
+      "tags": ["podcast", "privacy", "security", "economy", "liberty", "technical"],
+      "name": "Lunaticoin",
+      "description": "Entusiasta Bitcoin | Conecta con personas de habla hispana con perfil propio dentro del mundo #bitcoin y comparte su valor"
+    },
+    {
+      "url": "https://stephanlivera.com/episodes/",
+      "icon": "https://i0.wp.com/stephanlivera.com/wp-content/uploads/2020/05/StephanLivera-Podcast-Img.png?resize=510%2C510&ssl=1",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "Stephan Libera",
+      "description": "SLP is focused on educational interviews about the economics and technology of Bitcoin. Stephan has interviewed many high profile Bitcoin, Libertarian, Austrian economics and Macro guests"
+    },
+    {
+      "url": "https://tftc.io/podcasts/",
+      "icon": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/797160/797160-1579811341935-88e5cd5024bf9.jpg",
+      "lang": "eng",
+      "tags": ["privacy"],
+      "name": "Tales from the Crypt",
+      "description": "Tales from the Crypt is a podcast about Bitcoin hosted by Marty Bent"
+    },
+    {
+      "url": "https://citadeldispatch.com/",
+      "icon": "https://citadeldispatch.com/wp-content/uploads/2021/04/cropped-cit2color.png",
+      "lang": "eng",
+      "tags": ["privacy", "open source"],
+      "name": "Citadel Dispatch",
+      "description": "An interactive live show about bitcoin, distributed systems, privacy, and open source software"
+    },
+    {
+      "url": "https://www.whatbitcoindid.com/",
+      "icon": "https://images.squarespace-cdn.com/content/v1/59641a28ff7c5099c12a5eda/1571514679601-G5QKQLVUEFOQ7OBQTYL4/WBD-Lightning-Logo.png?format=1500w",
+      "lang": "eng",
+      "tags": ["podcast", "privacy", "adoption"],
+      "name": "What Bitcoin Did",
+      "description": "The What Bitcoin Did Podcast is a tri-weekly Bitcoin podcast where host Peter McCormack interviews experts in the world of Bitcoin development, privacy, investment and adoption"
+    },
+    {
+      "url": "https://bit-buy-bit.libsyn.com/",
+      "icon": "https://assets.libsyn.com/secure/content/120649532/?height=80",
+      "lang": "eng",
+      "tags": ["podcast", "privacy", "adoption"],
+      "name": "BIT-BUY-BIT",
+      "description": "Bitcoin is misunderstood, multifaceted, complex and evolving at a staggering rate. Show host Max Buybit and guests discus its impact on the world and help dispel the myths surrounding bitcoin, blockchain and banking"
+    },
+    {
+      "url": "https://www.seetee.io/podcast/",
+      "icon": "https://www.seetee.io/assets/blog/2021-03-08-shareholder-letter/thumbnail.png",
+      "lang": "eng",
+      "tags": ["podcast", "privacy", "adoption"],
+      "name": "seetee",
+      "description": "Closing the Loop is a podcast about Bitcoin. In it, we will be speaking with the entrepreneurs, developers, and thinkers who are contributing to the evolution of this revolutionary technology"
+    },
+    {
+      "url": "https://optoutpod.com/",
+      "icon": "https://storage.buzzsprout.com/variants/yc0wj1mnn38wy3z261khznhq1m5z/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpgg",
+      "lang": "eng",
+      "tags": ["podcast", "privacy"],
+      "name": "OptOutPodcast",
+      "description": "Opt Out is a podcast where I sit down with passionate people to learn why privacy matters to them, the tools and techniques they’ve found and leveraged, and where we encourage and inspire others towards personal privacy and data-sovereignty"
+    },
+    {
+      "url": "https://nadobtc.libsyn.com/",
+      "icon": "https://ssl-static.libsyn.com/p/assets/b/0/b/6/b0b642d92f4f5e1240be95ea3302a6a1/BitcoinMagazine_Explained_CoverArt_3000px.jpg",
+      "lang": "eng",
+      "tags": ["podcast", "technical"],
+      "name": "Bitcoin Explained",
+      "description": "Bitcoin Magazine's Technical editor Aaron van Wirdum teams up with Bitcoin core contributor Sjors Provoost to explain Bitcoin one episode at a time"
+    },
+    {
+      "url": "https://unpodcastsobrebitcoin.buzzsprout.com/",
+      "icon": "https://storage.buzzsprout.com/variants/uoj865cqitr7tedj86etg4r81zle/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpg",
+      "lang": "esp",
+      "tags": ["podcast", "technical"],
+      "name": "Un podcast sobre Bitcoin",
+      "description": "El dinero nos rodea y no lo entendemos. En este podcast habla de bitcoin, de dinero (que es lo mismo), de economía e inversión. Si entiendes cómo funciona el dinero, podrás controlarlo"
+    },
+    {
+      "url": "https://interescompuesto.club/podcast-interes-compuesto/",
+      "icon": "https://interescompuesto.club/wp-content/uploads/logo-barra-menu.png",
+      "lang": "esp",
+      "tags": ["podcast", "bitcoin"],
+      "name": "Interes Compuesto",
+      "description": "Objetivo y filosofía: densidad de contenido útil explicado para todo el mundo"
+    },
+    {
+      "url": "https://compassmining.io/education/tag/podcast/",
+      "icon": "https://pbs.twimg.com/profile_images/1425165074373791744/f2CgInvP_400x400.jpg",
+      "lang": "eng",
+      "tags": ["podcast", "mining"],
+      "name": "Compass Mining",
+      "description": "Staying on top of all the best Bitcoin, Bitcoin mining, and crypto podcasts is hard. The Compass Mining Media network makes it easy."
+    },
+    {
+      "url": "https://bitcoinheiros.com/#escute",
+      "icon": "https://bitcoinheiros.com/wp-content/uploads/2019/11/cropped-logo_bitcoinheiros-300x265.png",
+      "lang": "pt",
+      "tags": ["podcast"],
+      "name": "Bitcoinheiros",
+      "description": "O encontro semanal dos bitcoinheiros. Com participação fixa de Allan, Dov, Ivan e Becas - além de convidados muito especiais"
+    },
+    {
+      "url": "https://simplybitcoin.tv/",
+      "icon": "https://simplybitcoin.tv/assets/images/image01.png",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "SimplyBitcoin",
+      "description": "Daily Bitcoin news from the perspective of two taco plebs"
+    },
+    {
+      "url": "https://podcast.pau.ninja/",
+      "icon": "https://podcast.pau.ninja/wp-content/uploads/2021/10/cabecera-pau-ninja-526x526.png",
+      "lang": "esp",
+      "tags": ["podcast"],
+      "name": "Pau Ninja Podcast",
+      "description": "El podcast multipotencial. Más de 1 millón de escuchas con invitados tan desconocidos como mediáticos"
+    },
+    {
+      "url": "https://anchor.fm/WakeUpPod",
+      "icon": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/2346114/2346114-1615413607091-98cea3261d5f3.jpg",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "Wake Up by Aleks Svetski",
+      "description": " Wake up is dedicated to helping ensure V for Vendetta and 1984 remain works of fiction. Topics will include Bitcoin, Money, Freedom, Philosophy, Psychology, Science, Ethics & more"
+    }
+  ]
+}
