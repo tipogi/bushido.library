@@ -127,6 +127,14 @@
       "tags": ["podcast"],
       "name": "Wake Up by Aleks Svetski",
       "description": " Wake up is dedicated to helping ensure V for Vendetta and 1984 remain works of fiction. Topics will include Bitcoin, Money, Freedom, Philosophy, Psychology, Science, Ethics & more"
+    },
+    {
+      "url": "https://www.ivoox.com/en/podcast-cadena-bloques_sq_f11164235_1.html",
+      "icon": "https://static-1.ivoox.com/canales/4/8/5/8/5431644158584_XL.jpg",
+      "lang": "esp",
+      "tags": ["podcast"],
+      "name": "La Cadena de Bloques",
+      "description": "Aquí aprenderás qué es bitcoin y por qué es importante, aplicaciones prácticas y todo eso sin perderte nada de la actualidad"
     }
   ]
 }
