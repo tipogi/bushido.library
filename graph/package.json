@@ -9,7 +9,12 @@
   },
   "author": "tipogi",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^17.0.33",
     "concurrently": "^7.2.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
