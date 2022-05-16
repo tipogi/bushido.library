@@ -25,8 +25,8 @@
       "description": "Your own secure, fast and scalable cloud in Sweden"
     },
     {
-      "url": "http://www.orangewebsite.com/offshore-hosting.php/",
-      "icon": "http://www.orangewebsite.com/images/orange_logo.png",
+      "url": "https://www.orangewebsite.com/offshore-hosting.php/",
+      "icon": "https://www.orangewebsite.com/images/orange_logo.png",
       "lang": "",
       "tags": ["vps", "privacy"],
       "name": "OrangeWebsite",
@@ -63,6 +63,14 @@
       "tags": ["vps", "privacy"],
       "name": "Freedombox",
       "description": "Run your digital services from your home. It is a private server for non-experts"
+    },
+    {
+      "url": "https://contabo.com/en/",
+      "icon": "https://contabo.com/favicon.png",
+      "lang": "eng",
+      "tags": ["vps"],
+      "name": "Contabo",
+      "description": "Cloud Instances and Dedicated Servers for All. Get more computing power for less."
     }
   ]
 }

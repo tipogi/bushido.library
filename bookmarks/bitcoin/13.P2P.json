@@ -25,14 +25,6 @@
       "description": "Exchange, Decentralized. Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required"
     },
     {
-      "url": "https://shitcoins.club/",
-      "icon": "https://shitcoins.club/resources/img/shitcoins_club_logo_svg.svg",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "ShitcoinClub",
-      "description": "Sell and buy your bitcoin from the ATM"
-    },
-    {
       "url": "https://azte.co/",
       "icon": "https://azte.co/img/logo.png",
       "lang": "eng",

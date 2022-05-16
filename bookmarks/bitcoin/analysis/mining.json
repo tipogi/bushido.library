@@ -75,10 +75,18 @@
     {
       "url": "https://www.kryptex.org/es/best-gpus-for-mining",
       "icon": "https://www.asicminervalue.com/images/icon_sm.png",
-      "lang": "eng",
+      "lang": "es",
       "tags": ["analysis", "mining", "gpu"],
       "name": "Kryptex",
       "description": "Las mejores GPU para minar. Kryptex está monitoreando el hashrate y los rendimientos de las GPUs disponibles en el mercado"
+    },
+    {
+      "url": "https://2miners.com/es",
+      "icon": "https://static-l.2miners.com/i/logo.svg",
+      "lang": "es",
+      "tags": ["mining", "gpu"],
+      "name": "2Miners",
+      "description": "Mining pools for professionals by professionals"
     }
   ]
 }

@@ -87,6 +87,30 @@
       "tags": ["dev", "courses"],
       "name": "Bitcoin for Everybody",
       "description": "Bitcoin represents a new, open internet standard for hard money. Bitcoin is increasingly being adopted as pristine collateral, a longer-term store of value, and unstoppable money"
+    },
+    {
+      "url": "https://learn.sapio-lang.org/ch00-00-introduction.html",
+      "icon": "https://raw.githubusercontent.com/sapio-lang/sapio/master/.github/logo.png",
+      "lang": "eng",
+      "tags": ["dev", "courses"],
+      "name": "Designing Bitcoin Contracts with Sapio",
+      "description": "A practical guide to engineering bitcoin smart contracts using the Sapio Language"
+    },
+    {
+      "url": "https://bitcoinbounties.org/",
+      "icon": "https://bitcoinbounties.org/assets/images/bitcoinbounties.png",
+      "lang": "eng",
+      "tags": ["dev", "courses"],
+      "name": "Bitcoin Bounty",
+      "description": "Help bitcoin community"
+    },
+    {
+      "url": "https://whofundsbitcoin.com/",
+      "icon": "https://bitcoinbounties.org/assets/images/bitcoinbounties.png",
+      "lang": "eng",
+      "tags": ["dev", "fund"],
+      "name": "Who Fund Bitcoin Development",
+      "description": "An exploration tool for the Bitcoin open-source ecosystem"
     }
   ]
 }

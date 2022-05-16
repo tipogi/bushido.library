@@ -47,6 +47,14 @@
       "tags": ["articles"],
       "name": "EndTheFUD",
       "description": "The best links to articles debunking Bitcoin FUD"
+    },
+    {
+      "url": "https://www.getbitcoin.org/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Get Bitcoin",
+      "description": "Bitcoin gives human rights. So we are giving it away. Get your first bitcoin"
     }
   ]
-}
+}https://www.getbitcoin.org/

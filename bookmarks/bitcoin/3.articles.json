@@ -126,6 +126,14 @@
       "tags": [""],
       "name": "Galoy: Connect to the Bitcoin economy",
       "description": "We share insights, guides and articles about onboarding communities and institutions to Bitcoin and the Lightning Network"
+    },
+    {
+      "url": "https://europeanbitcoiners.com/",
+      "icon": "https://twitter.com/EuropeanBTC21/photo",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "European Bitcoiners",
+      "description": "Block 731398 is an education and community initiative to bring together all European Plebs and those who want to learn about Bitcoin"
     }
   ]
 } 

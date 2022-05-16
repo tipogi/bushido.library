@@ -31,6 +31,14 @@
       "tags": ["security", "crytography"],
       "name": "A Security Site",
       "description": "This site was created as there is a real lack of engaging content within the theoretical and practical applications of cryptography on the Internet, especially in covering complex principles in an easy-to-access way"
+    },
+    {
+      "url": "https://www.geeksforgeeks.org/cryptography-introduction/?ref=lbp",
+      "icon": "",
+      "lang": "eng",
+      "tags": ["security", "crytography"],
+      "name": "Geeks for Geeks",
+      "description": "A computer science portal for geeks"
     }
   ]
 }

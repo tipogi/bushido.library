@@ -1,0 +1,14 @@
+# folders
+- guide: First rule, when you do not understand something, learn!
+- dev: Understand bitcoin and you want to support or be part of that? Dig here
+- articles: 
+- resources:
+- podcast:
+- multimedia:
+- sidechains:
+- news: 
+- swap:
+- p2p:
+- nodes:
+- services:
+- store:
