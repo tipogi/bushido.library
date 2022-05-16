@@ -1,0 +1,104 @@
+{
+  "guide": {
+    "name": "Guide and Tools",
+    "description": "First rule, when you do not understand something, learn!",
+    "type": "leaf",
+    "icon": ""
+  },
+  "dev": {
+    "name": "Development",
+    "description": "Understand bitcoin and you want to support or be part of that? Dig here",
+    "type": "leaf",
+    "icon": ""
+  },
+  "articles": {
+    "name": "Articles",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "resources": {
+    "name": "Resources",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "podcast": {
+    "name": "Podcasts",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "multimedia": {
+    "name": "Multimedia",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "substack": {
+    "name": "Substack",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "sidechains": {
+    "name": "Side-chains",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "news": {
+    "name": "News",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "p2p": {
+    "name": "P2P",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "nodes": {
+    "name": "Nodes",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "services": {
+    "name": "Services",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "store": {
+    "name": "Store",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "swap": {
+    "name": "Swap",
+    "description": "",
+    "type": "leaf",
+    "icon": ""
+  },
+  "github": {
+    "name": "GitHub",
+    "description": "Builders community that enjoy writing code",
+    "type": "branch",
+    "icon": ""
+  },
+  "analysis": {
+    "name": "Analysis",
+    "description": "Analyse the movements in the bitcoin timechain",
+    "type": "branch",
+    "icon": ""
+  },
+  "wallets": {
+    "name": "Wallets",
+    "description": "Create and store your keys, manage and broadcast your coins",
+    "type": "branch",
+    "icon": ""
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "swap": [
+    {
+      "url": "https://coinos.io/login",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "CoinOS",
+      "description": "We make Bitcoin more usable every day. Your Bitcoin, Liquid, and Lightning web wallet"
+    },
+    {
+      "url": "https://unstoppableswap.net/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Unstoppable Swap",
+      "description": "Exchange Bitcoin for Monero trustlessly using Atomic Swaps"
+    },
+    {
+      "url": "https://swapzone.io/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Swap Zone",
+      "description": "Compare and swap crypto at the best rates"
+    },
+    {
+      "url": "https://boltz.exchange/",
+      "icon": "https://boltz.exchange/static/media/Boltz.02fb7acb.svg",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Boltz",
+      "description": "Privacy first, account-free crypto exchange"
+    },
+    {
+      "url": "https://majesticbank.sc/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Majestic Bank",
+      "description": "Exchange your coins. Fast. Reliable. Private."
+    },
+    {
+      "url": "https://blockdx.net/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "BlockDX",
+      "description": "The Most private Crypto Exchange. Block DX offers completely decentralized and trustless trading via cross-chain atomic swaps"
+    },
+    {
+      "url": "https://fixedfloat.com/en/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Fixed Float",
+      "description": "Lightning cryptocurrency exchange"
+    },
+    {
+      "url": "https://sideshift.ai/xmr/btc",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "SideShift",
+      "description": "Exchange different coins against bitcoin or others"
+    },
+    {
+      "url": "https://changenow.io/exchange?from=btc&to=xmr",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "ChangeNow",
+      "description": "Limitless Crypto Exchange. Fast Crypto Swaps, Free of Custody"
+    },
+    {
+      "url": "https://localcoinswap.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Local Coin Swap",
+      "description": "Buy & Sell Crypto. Fast, Easy, and Private"
+    },
+    {
+      "url": "https://app.thorswap.finance/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Thor Swap",
+      "description": "Swap, Mint & Redeem Synthetic Assets"
+    },
+    {
+      "url": "https://flyp.me/en/#/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Flyp",
+      "description": "Accountless Crypto Exchanger. Simple, Fast and Private. No registration"
+    },
+    {
+      "url": "https://simpleswap.io/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Simple Swap",
+      "description": "Free from sign-up, limits, complications"
+    },
+    {
+      "url": "https://zigzag.io/#/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "ZigZag",
+      "description": "Exchange Top Cryptocurrencies in seconds with low fees"
+    }
+  ]
+}

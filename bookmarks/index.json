@@ -1,0 +1,14 @@
+{
+  "bitcoin": {
+    "name": "Bitcoin",
+    "description": "",
+    "type": "root",
+    "icon": ""
+  },
+  "privacy": {
+    "name": "Privacy",
+    "description": "",
+    "type": "root",
+    "icon": ""
+  }
+}

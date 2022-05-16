@@ -1,0 +1,100 @@
+{
+  "tools": [
+    {
+      "url": "https://calyxinstitute.org/",
+      "icon": "https://calyxinstitute.org/assets/petal_theme/lightning-fist-04c887fa89f823333cf2bd7e6fa601ee91600bb52ce5130783025c961855840f.svg",
+      "lang": "eng",
+      "tags": ["privacy","os", "mobile"],
+      "name": "CalyxOS",
+      "description": "Our mission is to educate the public about privacy in digital communications and to develop tools that anyone can use. By embracing privacy by design, we help make digital security and privacy more accessible to everyone"
+    },
+    {
+      "url": "https://copperhead.co/",
+      "icon": "https://copperhead.co/img/logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","os", "mobile"],
+      "name": "Copperhead",
+      "description": "Expertise built on experience, dedication and passion. We take the time to understand your operations and tailor a security strategy to your unique requirements"
+    },
+    {
+      "url": "https://grapheneos.org/",
+      "icon": "https://grapheneos.org/780febcc.mask-icon.svg",
+      "lang": "eng",
+      "tags": ["privacy","os", "mobile"],
+      "name": "Graphene",
+      "description": "The private and secure mobile operating system with Android app compatibility. Developed as a non-profit open source project"
+    },
+    {
+      "url": "https://lineageos.org/",
+      "icon": "https://lineageos.org/images/logo.png",
+      "lang": "eng",
+      "tags": ["privacy","os", "mobile"],
+      "name": "Lineageos",
+      "description": "A free and open-source operating system for various devices, based on the Android mobile platform"
+    },
+    {
+      "url": "https://pop.system76.com/",
+      "icon": "https://pop.system76.com/icon-144.png",
+      "lang": "eng",
+      "tags": ["privacy","os", "desktop"],
+      "name": "Pop!_OS",
+      "description": "It is an operating system for STEM and creative professionals who use their computer as a tool to discover and create. Unleash your potential on secure, reliable open source software. Based on your exceptional curiosity, we sense you have a lot of it"
+    },
+    {
+      "url": "https://www.kali.org/",
+      "icon": "https://www.kali.org/images/kali-logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","os", "desktop"],
+      "name": "Kali",
+      "description": "Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering"
+    },
+    {
+      "url": "https://tails.boum.org/",
+      "icon": "https://tails.boum.org/lib/logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","os", "desktop"],
+      "name": "Tails",
+      "description": "It is a portable operating system that protects against surveillance and censorship"
+    },
+    {
+      "url": "https://www.parrotsec.org/",
+      "icon": "https://parrotsec.org/images/logo.png",
+      "lang": "eng",
+      "tags": ["privacy","os", "desktop"],
+      "name": "Parrot",
+      "description": "A community of developers and security specialists that work together to build a shared framework of tools to make their job easier, standardized and more reliable and secure"
+    },
+    {
+      "url": "https://manjaro.org",
+      "icon": "https://manjaro.org/img/logo.svg",
+      "lang": "eng",
+      "tags": ["privacy","os", "desktop"],
+      "name": "Manjaro",
+      "description": "It is an open source operating system that can be installed on Desktops/Laptops/Tablets or Mobile Phones. Different user interfaces are available."
+    },
+    {
+      "url": "https://pureos.net/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "PureOs",
+      "description": "A fully-convergent, user friendly, secure and freedom respecting OS for your daily usage. With PureOS, you are the only one in control of your digital life"
+    },
+    {
+      "url": "https://www.qubes-os.org/",
+      "icon": "https://www.qubes-os.org/attachment/icons/128x128/apps/qubes-logo-icon.png",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "QubesOS",
+      "description": "A reasonably secure operating system"
+    },
+    {
+      "url": "https://www.whonix.org/",
+      "icon": "https://www.whonix.org/w/images/thumb/f/f1/Logo_box.png/80px-Logo_box.png",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Whonix",
+      "description": "The most watertight privacy operating system in the world."
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "blogs": [
+    {
+      "url": "https://6102bitcoin.com/",
+      "icon": "name",
+      "lang": "eng",
+      "tags": ["privacy"],
+      "name": "6102bitcoin",
+      "description": "A pseudonymous bitcoin user and educator doing what I can to accelerate bitcoin understanding"
+    },
+    {
+      "url": "https://dergigi.com/bitcoin/",
+      "icon": "https://dergigi.com/assets/images/avatar.jpg",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Dergigi",
+      "description": "I am a bitcoiner and software engineer, writing words and code for Bitcoin"
+    },
+    {
+      "url": "https://brandonquittem.com/",
+      "icon": "https://pbs.twimg.com/profile_images/1502403738861940736/9J5VuTye_400x400.jpg",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Brandon Quitten",
+      "description": "My superpower is taking complex information and turning it into simple, actionable, intelligence."
+    },{
+      "url": "https://linktr.ee/Svetski",
+      "icon": "https://d1fdloi71mui9q.cloudfront.net/NWqdNGadQaJfYkVZ9thI_D2Wcm7E6VunWUHvq",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Aleks Svetski",
+      "description": "Author, Speaker, Entrepreneur. Bitcoin, Philosophy, Frame, Psychology, History"
+    },
+    {
+      "url": "https://sovereignstack.tools/",
+      "icon": "https://soverainstack.files.wordpress.com/2021/09/cropped-logo1.jpg",
+      "lang": "eng",
+      "tags": ["books","articles"],
+      "name": "Sovereign Stack",
+      "description": "Take Back What's Yours"
+    },
+    {
+      "url": "https://bitcoinwords.github.io/",
+      "icon": "https://bitcoinwords.github.io/assets/words-logos/wordsblackoutline-88.png",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Bitcoin Words",
+      "description": "WORDS is one of the founding journals of Bitcoin thought. The mission of the project is to spread and preserve the writings about Bitcoin for future generations."
+    },
+    {
+      "url": "https://unchained.com/blog/",
+      "icon": "https://mynodebtc.com/images/app_icons/caravan.png",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Unchained Capital",
+      "description": ""
+    },
+    {
+      "url": "https://insights.glassnode.com/",
+      "icon": "https://glassnode.com/images/glassnode.svg",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Unchained Capital",
+      "description": "On-Chain Data and Intelligence Platform"
+    },
+    {
+      "url": "https://blog.keys.casa/",
+      "icon": "https://keys.casa/images/casaclogo.png",
+      "lang": "eng",
+      "tags": [""],
+      "name": "CasaBlog",
+      "description": "The Secure Home for your Bitcoin"
+    },
+    {
+      "url": "https://bitblioteca.com/",
+      "icon": "https://bitblioteca.com/wp-content/uploads/2022/03/cropped-cropped-Logo-simbolo-light.png",
+      "lang": "esp",
+      "tags": [""],
+      "name": "La Bitloteca",
+      "description": "Una nueva manera de aprender sobre Bitcoin. Traducimos el mejor contenido sobre Bitcoin al español"
+    },
+    {
+      "url": "https://hodlermag.com",
+      "icon": "https://hodlermag.com/wp-content/uploads/2021/09/HeaderMail.png",
+      "lang": "esp",
+      "tags": [""],
+      "name": "HodlerMag",
+      "description": "Un espectro se cierne sobre el dinero, el espectro de bitcoin"
+    },
+    {
+      "url": "https://b10c.me/",
+      "icon": "https://b10c.me/0xb10c.png",
+      "lang": "eng",
+      "tags": [""],
+      "name": "b10c",
+      "description": "I’m 0xB10C. I work fulltime on open-source Bitcoin projects and are currently funded through community donations and by a Coinbase Bitcoin Developer Grant for the year 2021"
+    },
+    {
+      "url": "https://nakamotoinstitute.org/",
+      "icon": "https://timechainstats.com/img/img-11d.png",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Nakamoto Institute",
+      "description": "I have been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party..."
+    },
+    {
+      "url": "https://juandemariana.org/author/alvarodmaria/",
+      "icon": "https://juandemariana.org/wp-content/uploads/2022/01/Ilustracio%CC%81n-sin-ti%CC%81tulo-1-300x300.jpg",
+      "lang": "esp",
+      "tags": [""],
+      "name": "Alvaro D.Maria",
+      "description": "Es autor de La filosofia de Bitcoin y esta trabajando ahora en escribir Micropolis"
+    },
+    {
+      "url": "https://juandemariana.org/author/manuel-garcia-de-polavieja/",
+      "icon": "https://juandemariana.org/wp-content/uploads/2021/01/picture-2614-1544548630.png",
+      "lang": "esp",
+      "tags": [""],
+      "name": "Manuel Polavieja",
+      "description": "Como eterno estudiante en liberalismo y teoría monetaria descubre Bitcoin en 2011 y pasa a ser su principal elemento de estudio con el objetivo de analizar hasta qué punto nos podría ayudar a alcanzar la nuestra libertad económica al margen del Estado"
+    },
+    {
+      "url": "https://galoy.io/blog-posts/",
+      "icon": "https://galoy.io/wp-content/uploads/2021/07/Galoy-Current-Logo-Blue.svg",
+      "lang": "eng",
+      "tags": [""],
+      "name": "Galoy: Connect to the Bitcoin economy",
+      "description": "We share insights, guides and articles about onboarding communities and institutions to Bitcoin and the Lightning Network"
+    },
+    {
+      "url": "https://europeanbitcoiners.com/",
+      "icon": "https://twitter.com/EuropeanBTC21/photo",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "European Bitcoiners",
+      "description": "Block 731398 is an education and community initiative to bring together all European Plebs and those who want to learn about Bitcoin"
+    }
+  ]
+} 

@@ -1,0 +1,32 @@
+{
+  "email": {
+    "name": "Email",
+    "description": "",
+    "type": "leaf"
+  },
+  "tools": {
+    "name": "Tools",
+    "description": "",
+    "type": "leaf"
+  },
+  "cryptography": {
+    "name": "Cryptography",
+    "description": "",
+    "type": "leaf"
+  },
+  "os": {
+    "name": "Operating Systems",
+    "description": "",
+    "type": "leaf"
+  },
+  "sim": {
+    "name": "SIM and SMS",
+    "description": "",
+    "type": "leaf"
+  },
+  "vps": {
+    "name": "VPS",
+    "description": "",
+    "type": "leaf"
+  }
+}

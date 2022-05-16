@@ -1,0 +1,236 @@
+{
+  "multimedia": [
+    {
+      "url": "https://bitcointv.com/",
+      "icon": "https://bitcointv.com/client/assets/images/logo.svg?cf524b18b11e84d6ff1ee089b89c3b3a6109b76c",
+      "lang": "eng",
+      "tags": ["bitcoin", "interviews", "podcast", "tools"],
+      "name": "Bitcoin TV",
+      "description": "A repository of educational video content for the Bitcoin community, without distractions like advertising, altcoins, or third-party trackers."
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g",
+      "icon": "https://yt3.ggpht.com/TD0Bbfq-jnVWBNnOySWIoOp3AqPeZtGMjtHbo_UCeGseY0A70fUAeIbsETO0mmAfJu3pcSYonA=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["it", "devops"],
+      "name": "Pelado Nerd",
+      "description": "Professional Nerd"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCg36aDMyesRu5bQxyuY25tQ/videos",
+      "icon": "https://yt3.ggpht.com/prGhjrwY5IwsFXYfwWu_RwI2Js68ONstE33WeDGduSXtWnbxYPUcm9OZti7fPuqp1hnHK4l1Ig=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["wallet", "multimedia", "bitcoin"],
+      "name": "Specter",
+      "description": "DIY Hardware Wallet"
+    },
+    {
+      "url": "https://www.youtube.com/c/402PaymentRequired/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLQ03P8bZg3mVTXZxqWFfPwR3gv_6_HH3ozs51Pw=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["tools", "bitcoin"],
+      "name": "402 Payment Required",
+      "description": "Reserved for future use"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTZjjhNmlTrqL82K2xVrkyPbuDPc0JAI9BdfHTNlg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "news", "documentaries"],
+      "name": "ReasonTV",
+      "description": "Cypherpunks Write Code"
+    },
+    {
+      "url": "https://www.youtube.com/c/BTCSessions/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLSD0qglqTVjxO1JdW2RJaPUgjL801_RxSQl9jmyXg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "tutorials", "news"],
+      "name": "BTCSessions",
+      "description": "Your one-stop-shop for Bitcoin news, tutorials and interviews"
+    },
+    {
+      "url": "https://www.youtube.com/c/Samouraiwallet/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLT7tHqLi0TJhwpF9IUyp6sU3meUSMNaJJDHWt274w=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "wallets"],
+      "name": "Samurai Wallet",
+      "description": "A modern bitcoin wallet hand forged to keep your transactions private your identity masked and your funds secured"
+    },
+    {
+      "url": "https://www.youtube.com/c/BitcoinMagazine/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRr1bFf-qKigMKadgmqXLHePVnosni1IMyNwV21=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "news", "interviews"],
+      "name": "Bitcoin Magazine",
+      "description": "Bitcoin Magazine is the oldest and most established source of news, information and expert commentary on Bitcoin"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCqMPBcyg_wemgvC1jDI3EIw/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRNAkNaWg8AgfSmcFLlMutXcKEG4nZRUcLyhjFr=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Coinkite",
+      "description": "Bitcoin Security Hardware. Do not trust, verify"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC0ZW_HOZlIs-5Kv8ut9Is_A/videos",
+      "icon": "https://yt3.ggpht.com/A926MPDjdD7fKgbulTspjVqEqmTY4Hplz0lQdOSsJIaPNj8tqHPSiLOFLyPVqUoDZMKjgSfWBA8=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "news"],
+      "name": "The Übermensch",
+      "description": "Aprendiz de todo y maestro de nada"
+    },
+    {
+      "url": "https://www.youtube.com/c/MinistryofNodes/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLQmyiXG4nJc_Kz62Q0AH2vQA_S14RZD_UcUO94W=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "node", "wallets"],
+      "name": "Ministry of Nodes",
+      "description": "Financial Sovereignity through Bitcoin Education"
+    },
+    {
+      "url": "https://www.youtube.com/c/LaboratorioVirtualBitcoin/videos",
+      "icon": "https://yt3.ggpht.com/xp5Z3GYM98-v3hoVOBfO1CMMYq5CmNdP_FA7rBmxF1RUsFvSjK211M8kK--xeIkStNcaWbgXeQ=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "node", "tools"],
+      "name": "Laboratorio Virtual Bitcoin",
+      "description": "Instalación, configuración y uso de las aplicaciones relacionadas principalmente con Bitcoin"
+    },
+    {
+      "url": "https://www.youtube.com/c/m1xolyd1an_bitcoin_tutorials/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLScguSTQVVsGg9wqOJz5o8AQRxvVu35OUZZFEI_ag=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "node", "technical"],
+      "name": "m1xolyd1an",
+      "description": "Music, Hiking and Bitcoin"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLJtF7ITBTXHrIgqT-auQ9rkd597BEXdoD",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRrDl9tGvGLnXAPii0nxmcYi2Xdtp3-4PNLXnAr=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "node", "technical", "news"],
+      "name": "CriptoNovedad",
+      "description": "Canal dedicado a todo tipo de novedades y tecnología del mundo de las criptomonedas"
+    },
+    {
+      "url": "https://www.youtube.com/c/Techlore/videos",
+      "icon": "https://yt3.ggpht.com/lwHqZYuTM3v0oBB_RevOFbD_cHL7AWUfYID_iv8trv6_4u4r7Go_t4qFJplYiJNQVC-14Tb8=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["privacy", "security", "interviews"],
+      "name": "Techlore",
+      "description": "Join us in spreading privacy and security to the masses"
+    },
+    {
+      "url": "https://www.youtube.com/c/BraxMe/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLS6ddn1d-8ofKh4dP3GCwqJhIxcJNpPZuFGojqc8A=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["privacy", "security", "interviews"],
+      "name": "Rob Braxman Tech",
+      "description": "I'm the Internet Privacy Guy.  I'm a public interest hacker and technologist"
+    },
+    {
+      "url": "https://www.youtube.com/c/TheHatedOne/featured",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRPnKX2Mf5FTOibGl5mUEbNqxPZqKFmKdVXhJ9kqA=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["essays", "privacy"],
+      "name": "The Hated One",
+      "description": "Creating deeply researched and well-sourced essays critiquing some of the most important issues of our time in a non-partisan, non-sectarian way"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLt4veyhkEsrjzjP_Seeu-UbjSnF6xIzgF",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTuyJQMoSp__3jKR3uJSvOUKLI-toI6Ohsc3w=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "technical"],
+      "name": "Ken Shamir",
+      "description": "Creating deeply researched and well-sourced essays critiquing some of the most important issues of our time in a non-partisan, non-sectarian way"
+    },
+    {
+      "url": "https://www.youtube.com/c/aantonop/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTyUmUTZfJ5K6YzrC8tR26c55LXiT9Scc3s3hGdvA=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "technical", "interviews", "education"],
+      "name": "aantonop",
+      "description": "aantonop's is THE place to find free, unbiased educational videos on all things Bitcoin and open blockchain"
+    },
+    {
+      "url": "https://www.youtube.com/user/Computerphile/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRIHOJ6csLm65iTTRAyXNdoiM4RVa3et7bsWLmqBg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["cryptography"],
+      "name": "Computerphile",
+      "description": "Videos all about computers and computer stuff. Sister channel of Numberphile"
+    },
+    {
+      "url": "https://www.youtube.com/c/PowerLaws/videos",
+      "icon": "https://yt3.ggpht.com/U1akW7rXkg8yDhmZeTJdzDNea-dUhoGugQV48ZCWv12hf2XyrASd0sSpXwHDGwhjPzZswqE1fw=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["documentaries"],
+      "name": "PowerLaws",
+      "description": "I turn the best essays on Bitcoin/crypto into documentaries"
+    },
+    {
+      "url": "https://www.youtube.com/c/EinundzwanzigPodcast/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRC-l2XSqKD4zICqFeMTWiN9tLPSZ0_BYyeUm2H=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "deu",
+      "tags": ["bitcoin", "tutorials", "wallets", "nodes", "technical"],
+      "name": "EinundzwanzigPodcast",
+      "description": "Toximalistisches Infotainment für bullishe Bitcoiner: Bitcoin, und sonst nichts"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCKvdcFJh7H96NJhwZrsNeqw/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLSWyJNBAUquSZNXTnttqjomJfnnJO0i-DkeEw=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["bitcoin", "tutorials", "wallets"],
+      "name": "Satoshi N",
+      "description": "Tutorials about FullyNoded"
+    },
+    {
+      "url": "https://www.youtube.com/c/AlfreMancera13/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLT6k7zxzstwwXB6RUzjGw4YDYHDP3bYKzbYkWW9Yw=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["cryptography"],
+      "name": "AlfreMancera13",
+      "description": "Formación y Divulgación sobre BItcoin e Historia Crypto"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCUq_ZdezVWKPvkWRicAYxLA/videos",
+      "icon": "https://yt3.ggpht.com/yvcOsjposyZ9AP1DtuweYC3ysRLzJfpIu3WY7bdw1aIHRmehL89ykQCu2zLMwKbJXY9XhlobcLc=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Bitcoin Developers",
+      "description": "Learn Bitcoin development every week from experts around the community!"
+    },
+    {
+      "url": "https://www.youtube.com/c/S4viOnLive/videos",
+      "icon": "https://yt3.ggpht.com/A1Pjd_exXu-TnIt1bUiNqgSx2_la44u0VV5f9uboYX-zfk9a1IbXWQC3WZaDtzpWz4FQ18wRjDk=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["hacking", "cybersecurity"],
+      "name": "S4viOnLive",
+      "description": "Creador de contenido de Hacking y Ciberseguridad. Hago directo todos los días"
+    },
+    {
+      "url": "https://www.youtube.com/c/HackerSploit/playlists",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMHQ=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["hacking", "cybersecurity", "linux"],
+      "name": "HackerSploit",
+      "description": "HackerSploit is the leading provider of free Infosec and cybersecurity training"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/playlists",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTbIyaTXPC0sw_5e2IKr6pWdNr0Q-8B2Zk1Rk-uwg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["hacking", "cybersecurity", "linux"],
+      "name": "Grant Collins",
+      "description": "An I.T. nerd who wants to think he is good at cybersecurity but really is just a script kiddie"
+    },
+    {
+      "url": "https://www.youtube.com/c/TheLinuxCast/playlists",
+      "icon": "https://yt3.ggpht.com/WaQVq0hEIgCivyxT1BC9opM-ETzX4R4KrWxiuSrn_PFCfk2YQG09e4rVkdAlQ9zEGK3rE87W4Q=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["podcast", "linux"],
+      "name": "The Linux Cast",
+      "description": "Daily FOSS related content, weekly Linux podcasts, and more coming at you from an eternal Linux noob. "
+    }
+  ]
+}
