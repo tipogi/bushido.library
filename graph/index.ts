@@ -1,26 +1,32 @@
 import { readFile } from 'fs/promises';
 import { exit } from 'process';
-import { Folder } from './src/classes';
+import { BOOKMARKS_FOLDER, Folder } from './src/classes';
 import { forEach } from 'lodash';
+import { CardType } from './src/enumerators';
 
-const BOOKMARKS_FOLDER = 'bookmarks';
-const ROOT_FILE = 'index.json';
+const nodes = {};
 
 const generate = async () => {
   try {
-    const FOLDER_ABSOLUTE_PATH = `../${BOOKMARKS_FOLDER}/${ROOT_FILE}`;
-    const jsonFile = await readFile(FOLDER_ABSOLUTE_PATH, 'utf8');
-    const folder: Folder = new Folder(jsonFile);
-    digDeeper(FOLDER_ABSOLUTE_PATH, folder);
+    const folder: Folder = new Folder(CardType.ROOT);
+    await folder.setCards('');
+    digDeeper('', folder);
   } catch (e) {
     console.log(e)
     exit(1)
   }
 }
 
-const digDeeper = (path: string, folder: Folder) => {
-  forEach(folder.getCards(), (card) => {
-    console.log(card)
+const digDeeper = (parentPath: string | undefined, folder: Folder) => {
+  forEach(folder.getCards(), async ({ type }, key) => {
+    const relativePath = `${parentPath}/${key}`;
+    const nestedFolder: Folder = new Folder(type);
+    await nestedFolder.setCards(relativePath);
+    if (type === CardType.ROOT || type === CardType.BRANCH) {
+      digDeeper(relativePath, nestedFolder);
+    } else if (type === CardType.LEAF) {
+      console.log('-------->', `${parentPath}/${key}`)
+    }
   })
 }
 
