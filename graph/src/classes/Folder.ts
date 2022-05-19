@@ -10,13 +10,19 @@ export class Folder {
 
   private cards!: IFolder;
   
-  constructor (private type: string) {}
+  constructor (
+    private type: string,
+    private name: string = 'bushido'
+  ) {}
 
+  // TODO: It does not show properly the path
   async setCards (path: string) {
     try {
-      const relativePath = `${BOOKMARKS_FOLDER}/${path}`
+      const relativePath = `${BOOKMARKS_FOLDER}${path}`
       const file = this.type === CardType.LEAF ? '.json' : `/${INDEX_FILE}`;
       const jsonFile = await readFile(`${relativePath}${file}`, 'utf8');
+      console.log(path)
+      console.log(`${relativePath}${file}`)
       this.cards = JSON.parse(jsonFile)
     } catch (error: any) {
       if (error.code === 'ENOENT') {
@@ -28,6 +34,10 @@ export class Folder {
 
   getCards() {
     return this.cards;
+  }
+
+  getName() {
+    return this.name;
   }
 
   getFolderCard(key: string) {

@@ -8,6 +8,7 @@ const nodes = {};
 
 const generate = async () => {
   try {
+    console.log('Running...')
     const folder: Folder = new Folder(CardType.ROOT);
     await folder.setCards('');
     digDeeper('', folder);
@@ -20,12 +21,13 @@ const generate = async () => {
 const digDeeper = (parentPath: string | undefined, folder: Folder) => {
   forEach(folder.getCards(), async ({ type }, key) => {
     const relativePath = `${parentPath}/${key}`;
-    const nestedFolder: Folder = new Folder(type);
+    console.log('--->',relativePath)
+    const nestedFolder: Folder = new Folder(type, key);
     await nestedFolder.setCards(relativePath);
     if (type === CardType.ROOT || type === CardType.BRANCH) {
       digDeeper(relativePath, nestedFolder);
     } else if (type === CardType.LEAF) {
-      console.log('-------->', `${parentPath}/${key}`)
+      console.log('folderName:', folder.getName())
     }
   })
 }
