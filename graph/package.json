@@ -4,7 +4,7 @@
   "description": "Creates the nodes need it for Neo4J creating json file",
   "scripts": {
     "start:build": "tsc -w",
-    "start:run": "nodemon dist/index.js",
+    "start:dev": "nodemon dist/index.js",
     "start": "concurrently npm:start:*"
   },
   "author": "tipogi",

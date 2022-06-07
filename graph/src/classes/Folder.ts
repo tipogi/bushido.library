@@ -9,10 +9,14 @@ const INDEX_FILE = 'index.json';
 export class Folder {
 
   private cards!: IFolder;
+  private path!: string[]
   
   constructor (
     private type: string,
-    private name: string = 'bushido'
+    private name: string = 'bushido',
+    private description: string = '',
+    // Create a unique hash from root path
+    private hash: string = '905872aa0cfec9403765343fafe2590576947d8b'
   ) {}
 
   // TODO: It does not show properly the path
@@ -21,8 +25,8 @@ export class Folder {
       const relativePath = `${BOOKMARKS_FOLDER}${path}`
       const file = this.type === CardType.LEAF ? '.json' : `/${INDEX_FILE}`;
       const jsonFile = await readFile(`${relativePath}${file}`, 'utf8');
-      console.log(path)
-      console.log(`${relativePath}${file}`)
+      /*console.log(path)
+      console.log(`${relativePath}${file}`)*/
       this.cards = JSON.parse(jsonFile)
     } catch (error: any) {
       if (error.code === 'ENOENT') {
@@ -32,12 +36,20 @@ export class Folder {
     }
   }
 
+  setPath(path: string[]) {
+    this.path = path;
+  }
+
   getCards() {
     return this.cards;
   }
 
   getName() {
     return this.name;
+  }
+
+  getHash() {
+    return this.hash;
   }
 
   getFolderCard(key: string) {
