@@ -1,5 +1,6 @@
 export enum CardType {
-  ROOT = 'root',
-  BRANCH = 'branch',
-  LEAF= 'leaf'
+  ROOT = 'ROOT',
+  BRANCH = 'BRANCH',
+  LEAF= 'LEAF',
+  DOMAIN = 'DOMAIN'
 }

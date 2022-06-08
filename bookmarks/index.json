@@ -2,13 +2,13 @@
   "bitcoin": {
     "name": "Bitcoin",
     "description": "",
-    "type": "root",
+    "type": "ROOT",
     "icon": ""
   },
   "privacy": {
     "name": "Privacy",
     "description": "",
-    "type": "root",
+    "type": "ROOT",
     "icon": ""
   }
 }

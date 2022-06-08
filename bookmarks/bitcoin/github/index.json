@@ -2,25 +2,25 @@
   "guides": {
     "name": "Guides",
     "description": "Learn and interact playing with the network",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "hardware": {
     "name": "Hardware",
     "description": "Interesting DIY projects",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "node": {
     "name": "Nodes",
     "description": "Industry leading node implementations",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "transactions": {
     "name": "Transactions",
     "description": "Ready to broadcast different transactions to the network ?",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   }
 }

@@ -2,31 +2,31 @@
   "email": {
     "name": "Email",
     "description": "",
-    "type": "leaf"
+    "type": "LEAF"
   },
   "tools": {
     "name": "Tools",
     "description": "",
-    "type": "leaf"
+    "type": "LEAF"
   },
   "cryptography": {
     "name": "Cryptography",
     "description": "",
-    "type": "leaf"
+    "type": "LEAF"
   },
   "os": {
     "name": "Operating Systems",
     "description": "",
-    "type": "leaf"
+    "type": "LEAF"
   },
   "sim": {
     "name": "SIM and SMS",
     "description": "",
-    "type": "leaf"
+    "type": "LEAF"
   },
   "vps": {
     "name": "VPS",
     "description": "",
-    "type": "leaf"
+    "type": "LEAF"
   }
 }

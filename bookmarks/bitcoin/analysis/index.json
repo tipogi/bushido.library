@@ -2,43 +2,43 @@
   "animation": {
     "name": "Animations",
     "description": "Transactions data transformed in an animated way",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "charts": {
     "name": "Charts",
     "description": "Preview of metrics, indicators and more data",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "mempool": {
     "name": "Mempool",
     "description": "Transactions related confirmation state and the feerates",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "metrics": {
     "name": "Metrics",
     "description": "Wide variety of mining dashboards and its statistics ",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "mining": {
     "name": "Mining",
     "description": "Learn and interact playing with the network",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "privacy": {
     "name": "Privacy",
     "description": "Look the on-chain transaction from the privacy perspective",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   },
   "money": {
     "name": "Sound of Money",
     "description": "Comparison between the fiat and satoshis in time",
-    "type": "leaf",
+    "type": "LEAF",
     "icon": ""
   }
 }

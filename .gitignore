@@ -2,3 +2,5 @@ graph/node_modules
 
 # Compiled JS files
 graph/dist
+# Export file for Neo4J
+export
