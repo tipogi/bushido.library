@@ -7,6 +7,9 @@ import { BNode, BOOKMARKS_FOLDER } from './BNode';
 
 const INDEX_FILE = 'index.json';
 
+/**
+ * The node types that has hanging some LEAF or BRANCH
+ */
 export class Branch extends BNode {
 
   private cards!: ITopicList;

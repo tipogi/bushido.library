@@ -4,7 +4,8 @@ export const BOOKMARKS_FOLDER = '../bookmarks';
 
 export class BNode {
 
-  // Create a unique hash from root path
+  // Create a unique hash from the relative path of the node
+  // We can use an an
   private hash!: string;
 
   constructor(
