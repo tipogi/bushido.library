@@ -1,6 +1,7 @@
-graph/node_modules
+# bushido-cli 
+cli/src/config/environment
 
-# Compiled JS files
-graph/dist
-# Export file for Neo4J
-export
+# compiled output
+cli/dist
+cli/export
+cli/node_modules
