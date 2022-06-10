@@ -1,7 +1,7 @@
 import { readFile } from 'fs/promises';
 import { exit } from 'process';
-import { CardType } from '../enumerators';
-import { ITopicList } from '../interfaces';
+import { CardType } from '../../enumerators';
+import { ITopicList } from '../../interfaces';
 import crypto from 'crypto';
 import { BNode, BOOKMARKS_FOLDER } from './BNode';
 

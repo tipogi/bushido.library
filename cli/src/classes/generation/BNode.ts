@@ -1,4 +1,4 @@
-import { CardType } from '../enumerators';
+import { CardType } from '../../enumerators';
 
 export const BOOKMARKS_FOLDER = '../bookmarks';
 
@@ -7,11 +7,7 @@ export class BNode {
   // We can use an an
   private hash!: string;
 
-  constructor(
-    private name: string,
-    private description: string,
-    private type: CardType,
-  ) {}
+  constructor(private name: string, private description: string, private type: CardType) {}
 
   getName() {
     return this.name;

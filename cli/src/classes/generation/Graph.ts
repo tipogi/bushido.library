@@ -1,8 +1,8 @@
 import { writeFile } from 'fs/promises';
 import * as path from 'path';
-import { IDomainCard, ITopicCard } from '../interfaces';
+import { IDomainCard, ITopicCard } from '../../interfaces';
 
-const EXPORT_PATH = path.resolve(__dirname, '../..', 'export');
+const EXPORT_PATH = path.resolve(__dirname, '../../..', 'export');
 
 /**
  * Before creation of JSON files, we will store all the files here

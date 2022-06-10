@@ -1,9 +1,9 @@
 import { readFile } from 'fs/promises';
 import { exit } from 'process';
-import { CardType } from '../enumerators';
+import { CardType } from '../../enumerators';
 import * as crypto from 'crypto';
 import { BNode, BOOKMARKS_FOLDER } from './BNode';
-import { IDomain, IDomainCard } from '../interfaces';
+import { IDomain, IDomainCard } from '../../interfaces';
 import { map } from 'lodash';
 import { red } from 'colors';
 
@@ -35,17 +35,12 @@ export class Leaf extends BNode {
           this.cards = map(domains[key], (domain: IDomain) => ({
             ...domain,
             path: relativePath.split('/').slice(2),
-            hash: crypto
-              .createHash('sha1')
-              .update(`${relativePath}/${domain.name}`)
-              .digest('hex'),
+            hash: crypto.createHash('sha1').update(`${relativePath}/${domain.name}`).digest('hex'),
           }));
         } else {
           throw `The Key does not exist in the file ${relativePath}${extension}`;
         }
-        this.setHash(
-          crypto.createHash('sha1').update(relativePath).digest('hex'),
-        );
+        this.setHash(crypto.createHash('sha1').update(relativePath).digest('hex'));
         resolve(this.getHash());
       } catch (error: any) {
         console.log(`${BOOKMARKS_FOLDER}${path}`);

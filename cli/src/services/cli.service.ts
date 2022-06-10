@@ -5,14 +5,24 @@ import { FileGeneratorService } from './FileGenerator.service';
 @Injectable()
 export class CLIService {
   constructor(private readonly consoleService: ConsoleService, private readonly fileGenerator: FileGeneratorService) {
-    // get the root cli
+    // Get the root cli
     const cli = this.consoleService.getCli();
 
-    // create a single command (See [npm commander arguments/options for more details])
+    // Create a generate command
     this.consoleService.createCommand(
       {
         command: 'generate',
-        description: 'description',
+        description: 'Updated the bookmark folder, run this command to create the import files',
+      },
+      this.generateFiles,
+      cli, // attach the command to the cli
+    );
+
+    // Create a generate command
+    this.consoleService.createCommand(
+      {
+        command: 'import',
+        description: 'Once we generate the import files, time to populate the database with new domains',
       },
       this.generateFiles,
       cli, // attach the command to the cli
@@ -23,5 +33,9 @@ export class CLIService {
     console.log(`Generating the JSON files to export in the Graph Database`);
     await this.fileGenerator.generateFiles();
     console.log('finished!!');
+  };
+
+  importFiles = async (): Promise<void> => {
+    console.log('Importing nodes to Database');
   };
 }
