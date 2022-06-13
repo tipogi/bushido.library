@@ -9,10 +9,7 @@ export class Neo4jService implements OnApplicationShutdown {
   private readonly driver: Driver;
   private readonly config: Neo4jConfig;
 
-  constructor(
-    @Inject(NEO4J_OPTIONS) config: Neo4jConfig,
-    @Inject(NEO4J_DRIVER) driver: Driver,
-  ) {
+  constructor(@Inject(NEO4J_OPTIONS) config: Neo4jConfig, @Inject(NEO4J_DRIVER) driver: Driver) {
     this.driver = driver;
     this.config = config;
   }
@@ -49,11 +46,7 @@ export class Neo4jService implements OnApplicationShutdown {
     });
   }
 
-  read(
-    cypher: string,
-    params?: Record<string, any>,
-    databaseOrTransaction?: string | Transaction,
-  ): Result {
+  read(cypher: string, params?: Record<string, any>, databaseOrTransaction?: string | Transaction): Result {
     if (databaseOrTransaction instanceof TransactionImpl) {
       return (<Transaction>databaseOrTransaction).run(cypher, params);
     }
@@ -62,11 +55,7 @@ export class Neo4jService implements OnApplicationShutdown {
     return session.run(cypher, params);
   }
 
-  write(
-    cypher: string,
-    params?: Record<string, any>,
-    databaseOrTransaction?: string | Transaction,
-  ): Result {
+  write(cypher: string, params?: Record<string, any>, databaseOrTransaction?: string | Transaction): Result {
     if (databaseOrTransaction instanceof TransactionImpl) {
       return (<Transaction>databaseOrTransaction).run(cypher, params);
     }

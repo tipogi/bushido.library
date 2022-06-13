@@ -61,10 +61,11 @@ export class CLIService {
 
   importTopicJSON = async (): Promise<void> => {
     console.log('Importing topics to Database');
-    this.populateDBService.withTopics();
+    await this.populateDBService.withTopics();
+    //console.log(k);
   };
   importDomainJSON = async (): Promise<void> => {
     console.log('Importing domains to Database');
-    this.populateDBService.withDomains();
+    await this.populateDBService.withDomains();
   };
 }

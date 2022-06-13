@@ -6,7 +6,7 @@ import { FileGeneratorService } from './services/file.generator.service';
 import { PopulateDBService } from './services/populate.db.service';
 
 @Module({
-  imports: [/*DatabaseModule, */ConsoleModule],
+  imports: [DatabaseModule, ConsoleModule],
   controllers: [],
   providers: [CLIService, FileGeneratorService, PopulateDBService],
 })
