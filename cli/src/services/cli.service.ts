@@ -62,7 +62,6 @@ export class CLIService {
   importTopicJSON = async (): Promise<void> => {
     console.log('Importing topics to Database');
     await this.populateDBService.withTopics();
-    //console.log(k);
   };
   importDomainJSON = async (): Promise<void> => {
     console.log('Importing domains to Database');

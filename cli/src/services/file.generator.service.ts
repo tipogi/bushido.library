@@ -6,6 +6,7 @@ import { CardType } from '../enumerators';
 import { blue, red, yellow } from 'colors';
 
 import { exit } from 'process';
+import { IDomainCard } from 'src/interfaces';
 
 const graph = new Graph();
 
@@ -36,7 +37,7 @@ export class FileGeneratorService {
 const digDeeper = async (parentPath: string | undefined, folder: Branch) => {
   try {
     return await Promise.all(
-      map(folder.getCards(), async ({ type, description }, key) => {
+      map(folder.getCards(), async ({ type, description, icon }, key) => {
         const relativePath = `${parentPath}/${key}`;
         const pathInChunks = relativePath.split('/').slice(1);
         return await new Promise(async (resolve) => {
@@ -52,6 +53,7 @@ const digDeeper = async (parentPath: string | undefined, folder: Branch) => {
               nodeHash,
               path: pathInChunks,
               type,
+              icon,
             });
             await digDeeper(relativePath, branchNode);
           } else if (type === CardType.LEAF) {
@@ -66,6 +68,7 @@ const digDeeper = async (parentPath: string | undefined, folder: Branch) => {
               nodeHash,
               path: pathInChunks,
               type,
+              icon,
             });
             await extractLeafDomains(leafNode);
           }
@@ -85,7 +88,7 @@ const digDeeper = async (parentPath: string | undefined, folder: Branch) => {
  */
 const extractLeafDomains = async (leafNode: Leaf) => {
   return await Promise.all(
-    map(leafNode.getCards(), (domain) => {
+    map(leafNode.getCards(), (domain: IDomainCard) => {
       return new Promise((resolve) => {
         console.log(`\tAdding ${yellow(`@${domain.name}`)} domain`);
         graph.addDomain({ ...domain });
