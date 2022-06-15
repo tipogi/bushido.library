@@ -95,6 +95,14 @@
       "tags": ["analysis", "satoshi", "time"],
       "name": "DCA BTC",
       "description": "Bitcoin dollar cost averaging consists in investing a fixed amount of FIAT, into BTC, on regular time intervals. You will often see it referenced by its abbreviation of DCA"
+    },
+    {
+      "url": "https://costavg.com/",
+      "icon": "https://costavg.com/images/coverCrop2.png",
+      "lang": "eng",
+      "tags": ["analysis", "satoshi", "time"],
+      "name": "Cost AVG",
+      "description": "Enter an investment start and end date, a regular interval and investment amount"
     }
   ]
 }

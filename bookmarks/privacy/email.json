@@ -119,6 +119,13 @@
       "tags": ["email"],
       "name": "Guerrilla Mail",
       "description": "Avoid spam and stay safe - use a disposable email address!"
-    }
+    },
+    {
+      "url": "https://lavabit.com/",
+      "icon": "https://lavabit.com/images/home/logo%402x.png",
+      "lang": "eng",
+      "tags": ["email"],
+      "name": "Lavabit",
+      "description": "Secure email for the world. Because everyone has the right to communicate privately"
   ]
 }

@@ -3,24 +3,24 @@
     "name": "Guides",
     "description": "Learn and interact playing with the network",
     "type": "LEAF",
-    "icon": ""
+    "icon": "guide"
   },
   "hardware": {
     "name": "Hardware",
     "description": "Interesting DIY projects",
     "type": "LEAF",
-    "icon": ""
+    "icon": "hardware"
   },
   "node": {
     "name": "Nodes",
     "description": "Industry leading node implementations",
     "type": "LEAF",
-    "icon": ""
+    "icon": "node"
   },
   "transactions": {
     "name": "Transactions",
-    "description": "Ready to broadcast different transactions to the network ?",
+    "description": "Ready to broadcast different transactions to the network? or want to install some indexer to track the transactions?",
     "type": "LEAF",
-    "icon": ""
+    "icon": "transactions"
   }
 }

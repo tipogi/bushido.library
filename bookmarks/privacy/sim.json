@@ -35,7 +35,7 @@
     {
       "url": "https://smspool.net/",
       "icon": "https://smspool.net/assets/img/lander_images/logo.webp",
-      "lang": "",
+      "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "SMS pool",
       "description": "Protect your online identity by using our one-time-use non-VOIP phone numbers. We offer high-quality SMS verifications for more than ten countries."
@@ -43,10 +43,18 @@
     {
       "url": "https://sms4sats.com/",
       "icon": "https://sms4sats.com/assets/images/logo.png",
-      "lang": "",
+      "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "SMS 4 sats",
       "description": "Send and receive SMS without giving away your phone number"
+    },
+    {
+      "url": "https://jmp.chat/",
+      "icon": "https://jmp.chat/static/jmp.svg",
+      "lang": "eng",
+      "tags": ["sms","privacy"],
+      "name": "JMP",
+      "description": "Get different numbers to give out to friends, to dates, to professional contacts: whatever your needs, JMP helps you protect your privacy"
     }
   ]
 }

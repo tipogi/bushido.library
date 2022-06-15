@@ -1,0 +1,18 @@
+[
+  {
+    "url": "https://github.com/arcbtc/LNURLPoS",
+    "icon": "https://avatars.githubusercontent.com/u/33088785?v=4",
+    "lang": "eng",
+    "tags": ["github", "hardware", "bitcoin", "wallets", "PoS"],
+    "name": "LNURLPoS",
+    "description": "Cheap, offline(!), DIY bitcoin lightning-network PoS"
+  },
+  {
+    "url": "https://github.com/samotari/bleskomat-diy",
+    "icon": "https://avatars.githubusercontent.com/u/30796116",
+    "lang": "eng",
+    "tags": ["github", "hardware", "bitcoin", "PoS"],
+    "name": "samotari/bleskomat-diy",
+    "description": "This is the do-it-yourself (DIY) version of the Bleskomat ATM"
+  }
+]

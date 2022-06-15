@@ -5,7 +5,7 @@
       "icon": "https://avatars.githubusercontent.com/u/52270008?s=200&v=4",
       "lang": "eng",
       "tags": ["github", "wallets", "bitcoin", "hardware"],
-      "name": "cryptoadvance/specter-diy",
+      "name": "Specter DIY",
       "description": "The idea of the project is to build a hardware wallet from off-the-shelf components"
     },
     {
@@ -13,7 +13,7 @@
       "icon": "https://avatars.githubusercontent.com/u/54726412?s=200&v=4",
       "lang": "eng",
       "tags": ["github", "hardware", "bitcoin", "wallets"],
-      "name": "diybitcoinhardware/diybitcoinhardware.github.io",
+      "name": "DIY Bitcoin Hardware",
       "description": "Interesting DIY bitcoin and lightning-related projects. This includes hardware wallets, verification tools, POS terminals, full nodes and other stuff"
     },
     {
@@ -21,40 +21,16 @@
       "icon": "https://avatars.githubusercontent.com/u/65379725",
       "lang": "eng",
       "tags": ["github", "hardware", "bitcoin", "wallets"],
-      "name": "SeedSigner/seedsigner",
+      "name": "SeedSigner",
       "description": "The goal of SeedSigner is to lower the cost and complexity of Bitcoin multi-signature wallet use"
     },
     {
-      "url": "https://github.com/arcbtc/LNURLPoS",
-      "icon": "https://avatars.githubusercontent.com/u/33088785?v=4",
-      "lang": "eng",
-      "tags": ["github", "hardware", "bitcoin", "wallets", "PoS"],
-      "name": "arcbtc/LNURLPoS",
-      "description": "Cheap, offline(!), DIY bitcoin lightning-network PoS"
-    },
-    {
-      "url": "https://github.com/samotari/bleskomat-diy",
-      "icon": "https://avatars.githubusercontent.com/u/30796116",
-      "lang": "eng",
-      "tags": ["github", "hardware", "bitcoin", "PoS"],
-      "name": "samotari/bleskomat-diy",
-      "description": "This is the do-it-yourself (DIY) version of the Bleskomat ATM"
-    },
-    {
       "url": "https://mcudev.github.io/",
-      "icon": "name",
+      "icon": "https://avatars.githubusercontent.com/u/29890609?v=4",
       "lang": "eng",
       "tags": ["github", "hardware", "bitcoin", "PoS"],
       "name": "mcudev",
       "description": "Hardware Wallets projects"
-    },
-    {
-      "url": "https://github.com/DesobedienteTecnologico",
-      "icon": "https://avatars.githubusercontent.com/u/52879067?v=4",
-      "lang": "eng",
-      "tags": ["github", "hardware", "bitcoin"],
-      "name": "DesobedienteTecnologico",
-      "description": ":)"
     }
   ]
 }

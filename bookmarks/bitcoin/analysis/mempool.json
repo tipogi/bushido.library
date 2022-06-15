@@ -79,6 +79,14 @@
       "tags": ["analysis", "mempool", "block"],
       "name": "Murray RothBot",
       "description": "A bitcoin bot, at your service!"
+    },
+    {
+      "url": "https://mempoolexplorer.com/",
+      "icon": "https://mempoolexplorer.com/graph192.png",
+      "lang": "eng",
+      "tags": ["analysis", "mempool", "block"],
+      "name": "Murray RothBot",
+      "description": "This is the full mempool visualizer and it is focused on visualizing where a transaction is in the mining queue"
     }
   ]
 }

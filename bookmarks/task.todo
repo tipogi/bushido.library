@@ -2,5 +2,5 @@ TODOs (✔/☐)
 ☐ Fix mining URLs
 ☐ Add telegram groups (maybe not)
 ☐ Fill up the store.json URL
-☐ In index.json, we need icons of each card. Site cards has its own, we get from internet
-☐ Fill up the descriptions of the cards
+☐ Added icons in the LEAFs and BRANCHes
+☐ Fill up the descriptions of the cards: privacy/index.json and index.json

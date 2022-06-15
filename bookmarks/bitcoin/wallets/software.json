@@ -110,6 +110,14 @@
       "tags": ["cli-wallet", "on-chain"],
       "name": "Go Up Number",
       "description": "gun is the world's most fully featured stand alone command line bitcoin wallet. The main design goal of gun is for it to be fun! It might also be secure and stuff but we'll have to see"
+    },
+    {
+      "url": "https://mycitadel.io/",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["desktop", "on-chain", "ln"],
+      "name": "MyCitadel",
+      "description": "Ultimate digital sovereignity. Do a reliable hodling, organizational, & current accounts – or instant Lightning payments"
     }
   ]
 }

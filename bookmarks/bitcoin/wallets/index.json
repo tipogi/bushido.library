@@ -3,18 +3,18 @@
     "name": "Software",
     "description": "It is a hot wallet, your keys are in the device which most probably will be vulnerable",
     "type": "LEAF",
-    "icon": ""
+    "icon": "software"
   },
   "hardware": {
     "name": "Hardware",
     "description": "Keep secure the keys in a specialised hardware",
     "type": "LEAF",
-    "icon": ""
+    "icon": "hardware"
   },
   "cold": {
     "name": "Cold Storage",
     "description": "Next level to store the keys to manage the coins",
     "type": "LEAF",
-    "icon": ""
+    "icon": "coldStorage"
   }
 }

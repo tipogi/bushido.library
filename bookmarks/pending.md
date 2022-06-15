@@ -1,10 +1,11 @@
+BITCOIN:
 - https://bitcoinaudible.com/ (resources)
-- https://mycitadel.io/ (wallets)
-- privacytest.org (tools)
-- https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
 - coincharge.io
-- https://mempoolexplorer.com/mempool
 - https://thebitcoinmanual.com/articles/buy-non-kyc-btc-lightning-network/
-- https://btcconsulting360.com/
-- jmp.chat
-- costavg.com
+- https://escuchabitcoin.com/
+- https://utxo.club/
+- https://vpn.sovereign.engineering/
+- https://digitalgoods.proxysto.re/
+
+
+LIGHTNING:

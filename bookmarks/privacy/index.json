@@ -1,32 +1,44 @@
 {
   "email": {
     "name": "Email",
-    "description": "",
-    "type": "LEAF"
+    "description": "Fight to protect privacy and the right for anonymity. Get your anonymous encrypted email",
+    "type": "LEAF",
+    "icon": "email"
   },
   "tools": {
     "name": "Tools",
-    "description": "",
-    "type": "LEAF"
+    "description": "Use the tools to protect yourself",
+    "type": "LEAF",
+    "icon": "tools"
   },
   "cryptography": {
     "name": "Cryptography",
-    "description": "",
-    "type": "LEAF"
+    "description": "Alice and Bob want share a message but for that each one has its own secret",
+    "type": "LEAF",
+    "icon": "cryptography"
   },
   "os": {
     "name": "Operating Systems",
-    "description": "",
-    "type": "LEAF"
+    "description": "Open source and community-developed operating systems for computers or mobile devices",
+    "type": "LEAF",
+    "icon": "os"
   },
   "sim": {
     "name": "SIM and SMS",
-    "description": "",
-    "type": "LEAF"
+    "description": "You may not want to expose your cell number to the whole world. Protect your privacy",
+    "type": "LEAF",
+    "icon": "sms"
   },
   "vps": {
     "name": "VPS",
-    "description": "",
-    "type": "LEAF"
+    "description": "Virtual Private Server, is a form of multi-tenant cloud hosting in which virtualized server resources are made available to an end user over the internet via a cloud or hosting provider",
+    "type": "LEAF",
+    "icon": "vps"
+  },
+  "github": {
+    "name": "Github",
+    "description": "It is the power to selectively reveal oneself to the world",
+    "type": "LEAF",
+    "icon": "github"
   }
 }

@@ -74,11 +74,19 @@
     },
     {
       "url": "https://www.veriphi.io/",
-      "icon": "https://downloads.intercomcdn.com/i/o/286378/e05f9c2c877e17b7f785fc13/c9c2bce82b74978a3e87079f2ce6e52b.pngg",
+      "icon": "https://downloads.intercomcdn.com/i/o/286378/e05f9c2c877e17b7f785fc13/c9c2bce82b74978a3e87079f2ce6e52b.png",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
       "name": "Veriphi (KYC)",
       "description": "We're Canada's only white glove service provider for Bitcoin self-custody. Buy and take control of your Bitcoin, simply and immediately"
+    },
+    {
+      "url": "https://btcconsulting360.com/",
+      "icon": "https://btcconsulting360.com/wp-content/uploads/2019/07/logo-btc-consulting-360.png",
+      "lang": "esp",
+      "tags": ["services", "bitcoin"],
+      "name": "BTC Consulting",
+      "description": "Todo lo que necesitas para que tu empresa de el salto al mundo de Bitcoin"
     }
   ]
 }

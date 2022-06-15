@@ -1,35 +1,11 @@
 {
   "transactions": [
     {
-      "url": "https://github.com/JoinMarket-Org/joinmarket-clientserver",
-      "icon": "https://avatars.githubusercontent.com/u/4500994?v=4",
-      "lang": "eng",
-      "tags": ["bitcoin", "github", "coinjoin"],
-      "name": "JoinMarket-Org/joinmarket-clientserver",
-      "description": "JoinMarket is software to create a special kind of bitcoin transaction called a CoinJoin transaction. Its aim is to improve the confidentiality and privacy of bitcoin transactions"
-    },
-    {
-      "url": "https://github.com/openoms/joininbox",
-      "icon": "https://avatars.githubusercontent.com/u/43343391?v=4",
-      "lang": "eng",
-      "tags": ["bitcoin", "github", "coinjoin"],
-      "name": "openoms/joininbox",
-      "description": "A minimalistic, security focused linux environment for JoinMarket with a terminal based graphical menu"
-    },
-    {
-      "url": "https://github.com/PulpCattel/JoinMarket-On-Tails",
-      "icon": "https://avatars.githubusercontent.com/u/51127079",
-      "lang": "eng",
-      "tags": ["bitcoin", "github", "coinjoin", "tails"],
-      "name": "PulpCattel/JoinMarket-On-Tails",
-      "description": "Straightforward tutorial on how to create a JoinMarket setup on Tails"
-    },
-    {
       "url": "https://github.com/txCastOrg/txCast",
       "icon": "https://avatars.githubusercontent.com/u/77703015",
       "lang": "eng",
-      "tags": ["bitcoin", "github", "coinjoin", "tor"],
-      "name": "txCastOrg/txCast",
+      "tags": ["bitcoin", "github", "transaction", "tor"],
+      "name": "txCast",
       "description": "Commandline tool to quickly broadcast signed transactions over tor (at random times to break timing analysis)"
     },
     {
@@ -45,7 +21,7 @@
       "icon": "https://avatars.githubusercontent.com/u/877904?v=4",
       "lang": "eng",
       "tags": ["github", "guides", "bitcoin", "bip"],
-      "name": "shesek/minsc",
+      "name": "Minsc",
       "description": "Minsc is a high-level scripting language for expressing Bitcoin Script spending conditions. It is based on the Miniscript Policy language"
     },
     {
@@ -53,8 +29,32 @@
       "icon": "https://avatars.githubusercontent.com/u/76660817",
       "lang": "eng",
       "tags": ["github", "guides", "bitcoin", "bip"],
-      "name": "bwt-dev/bwt",
+      "name": "Bitcoin Wallet Tracker",
       "description": "bwt is a lightweight wallet descriptor/xpub tracker and query engine for Bitcoin, implemented in Rust"
+    },
+    {
+      "url": "https://github.com/janoside/btc-rpc-explorer",
+      "icon": "https://avatars.githubusercontent.com/u/99734?s=120&v=4",
+      "lang": "eng",
+      "tags": ["github", "explorer", "bitcoin"],
+      "name": "BTC RPC Explorer",
+      "description": "Self-Hosted Bitcoin explorer for everyone running Bitcoin Core"
+    },
+    {
+      "url": "https://github.com/romanz/electrs",
+      "icon": "https://avatars.githubusercontent.com/u/9900",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin", "indexer"],
+      "name": "Electrs",
+      "description": "An efficient re-implementation of Electrum Server, inspired by ElectrumX, Electrum Personal Server and bitcoincore-indexd"
+    },
+    {
+      "url": "https://github.com/cculianu/Fulcrum",
+      "icon": "https://avatars.githubusercontent.com/u/266627",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin", "indexer"],
+      "name": "Fulcrum",
+      "description": "A fast & nimble SPV server for Bitcoin and others"
     }
   ]
 }

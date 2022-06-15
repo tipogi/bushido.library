@@ -1,35 +1,11 @@
 {
   "node": [
     {
-      "url": "https://github.com/janoside/btc-rpc-explorer",
-      "icon": "https://avatars.githubusercontent.com/u/99734?s=120&v=4",
-      "lang": "eng",
-      "tags": ["github", "explorer", "bitcoin"],
-      "name": "janoside/btc-rpc-explorer",
-      "description": "Self-Hosted Bitcoin explorer for everyone running Bitcoin Core"
-    },
-    {
-      "url": "https://github.com/romanz/electrs",
-      "icon": "https://avatars.githubusercontent.com/u/9900",
-      "lang": "eng",
-      "tags": ["github", "nodes", "bitcoin"],
-      "name": "romanz/electrs",
-      "description": "An efficient re-implementation of Electrum Server, inspired by ElectrumX, Electrum Personal Server and bitcoincore-indexd"
-    },
-    {
-      "url": "https://github.com/cculianu/Fulcrum",
-      "icon": "https://avatars.githubusercontent.com/u/266627",
-      "lang": "eng",
-      "tags": ["github", "nodes", "bitcoin"],
-      "name": "cculianu/Fulcrum",
-      "description": "A fast & nimble SPV server for Bitcoin Cash & Bitcoin BTC"
-    },
-    {
       "url": "https://github.com/rootzoll/raspiblitz",
       "icon": "https://avatars.githubusercontent.com/u/2472225?v=4",
       "lang": "eng",
       "tags": ["github", "nodes", "bitcoin"],
-      "name": "rootzoll/raspiblitz",
+      "name": "Raspiblitz",
       "description": "Build your own Lightning & Bitcoin Fullnode on a RaspberryPi with a nice Display"
     },
     {
@@ -37,7 +13,7 @@
       "icon": "https://avatars.githubusercontent.com/u/19550140?v=4",
       "lang": "eng",
       "tags": ["github", "nodes", "bitcoin"],
-      "name": "raspibolt/raspibolt",
+      "name": "Raspibolt",
       "description": "Build your own do-everything-yourself Bitcoin full node that will make you a sovereign peer in the Bitcoin and Lightning network"
     },
     {

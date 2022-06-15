@@ -1,0 +1,36 @@
+{
+  "github": [
+    {
+      "url": "https://github.com/sunknudsen/privacy-guides",
+      "icon": "https://avatars.githubusercontent.com/u/2117655",
+      "lang": "eng",
+      "tags": ["github", "guides", "privacy"],
+      "name": "Privacy Guides",
+      "description": "Most privacy guides episodes published on YouTube do not need reference material, but when they do, it lands here"
+    },
+    {
+      "url": "https://github.com/sethforprivacy/self-hosted-services",
+      "icon": "https://avatars.githubusercontent.com/u/40500387?v=4",
+      "lang": "eng",
+      "tags": ["github", "guides", "privacy"],
+      "name": "Self Hosted Services",
+      "description": "A core set of privacy-preserving services that can be easily self-hosted via Docker Compose"
+    },
+    {
+      "url": "https://gitlab.com/thenewoil",
+      "icon": "https://gitlab.com/uploads/-/system/group/avatar/12232948/thenewoillogo.png",
+      "lang": "eng",
+      "tags": ["github", "guides", "privacy"],
+      "name": "The new oil",
+      "description": "A project dedicated to teaching beginners and non-tech-savvy people about digital privacy and cybersecurity"
+    },
+    {
+      "url": "https://github.com/Lissy93/personal-security-checklist",
+      "icon": "https://avatars.githubusercontent.com/u/1862727?v=4",
+      "lang": "eng",
+      "tags": ["github", "guides", "privacy", "security"],
+      "name": "Personal Security Checklist",
+      "description": "A curated checklist of 300+ tips for protecting digital security and privacy in 2022"
+    }
+  ]
+}
