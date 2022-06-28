@@ -2,7 +2,7 @@
   "metrics": [
     {
       "url": "https://terminal.bytetree.com/bitcoin/market",
-      "icon": "https://terminal.bytetree.com/img/icon_logo_light.25b87fac.svg",
+      "icon": "https://terminal.bytetree.com/favicon-32x32.png",
       "lang": "eng",
       "tags": ["analysis", "dashboard"],
       "name": "ByteTree",
@@ -10,7 +10,7 @@
     },
     {
       "url": "https://stats.buybitcoinworldwide.com/",
-      "icon": "https://www.buybitcoinworldwide.com/pages/img/navbar-logo.png",
+      "icon": "https://www.buybitcoinworldwide.com/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "dashboard"],
       "name": "Buy Bitcoin Worldwide",
@@ -18,7 +18,7 @@
     },
     {
       "url": "https://bitcoin.clarkmoody.com/dashboard/",
-      "icon": "https://www.buybitcoinworldwide.com/pages/img/navbar-logo.png",
+      "icon": "https://bitcoin.clarkmoody.com/dashboard/img/touch-icon-128.png",
       "lang": "eng",
       "tags": ["analysis", "dashboard"],
       "name": "Clark Moody | Dashboard",
@@ -46,11 +46,11 @@
       "lang": "eng",
       "tags": ["bitcoin", "price"],
       "name": "Bitcoin monthly returns",
-      "description": ""
+      "description": "Futures trading & information platform,where you can find the Bitcoin Liquidations ,Bitcoin open interest, Grayscale Bitcoin Trust, Bitcoin longs vs shorts ratio and actively compare funding rates for crypto futures"
     },
     {
       "url": "https://timechainstats.com/",
-      "icon": "https://cdn.coinglasscdn.com/static/icon_200.png",
+      "icon": "https://timechainstats.com/img/img-11d.png",
       "lang": "eng",
       "tags": ["bitcoin", "price"],
       "name": "Timechain Stats",

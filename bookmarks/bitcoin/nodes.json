@@ -26,7 +26,7 @@
     },
     {
       "url": "https://mynodebtc.com/",
-      "icon": "https://mynodebtc.com/images/mynode_logo_white.png",
+      "icon": "https://mynodebtc.com/favicons/favicon-32x32.png",
       "lang": "eng",
       "tags": ["node", "privacy", "security","liberty"],
       "name": "myNode",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://l2.technology/sensei",
-      "icon": "https://l2.technology/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsensei-logo.0b5fbbaa.svg&w=384&q=75",
+      "icon": "https://l2.technology/images/Icon-Lightning@2x.png",
       "lang": "eng",
       "tags": ["node", "privacy", "security","liberty"],
       "name": "Sensei",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://voltage.cloud/",
-      "icon": "https://voltage.cloud/images/voltage-logo.png",
+      "icon": "https://voltage.cloud/wp-content/themes/Voltage-WP-Theme/assets/images/favicon.png",
       "lang": "eng",
       "tags": ["node", "privacy", "security", "liberty"],
       "name": "Voltage",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://getumbrel.com/",
-      "icon": "https://getumbrel.com/images/umbrel-logo.svg",
+      "icon": "https://uploads-ssl.webflow.com/62966b49981ba146f4842f45/62966b49981ba1ae3c842f86_favicon.png",
       "lang": "eng",
       "tags": ["node", "privacy", "security", "liberty"],
       "name": "Get Umbrel",
@@ -58,7 +58,7 @@
     },
     {
       "url": "https://start9.com/latest/",
-      "icon": "https://start9.com/latest/_static/img/logo.png",
+      "icon": "https://start9.com/latest/_static/img/favicon-32x32.png",
       "lang": "eng",
       "tags": ["node", "privacy", "security", "liberty"],
       "name": "Start9Labs",

@@ -2,7 +2,7 @@
   "swap": [
     {
       "url": "https://coinos.io/login",
-      "icon": "name",
+      "icon": "https://coinos.io/favicon-32x32.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "CoinOS",
@@ -10,7 +10,7 @@
     },
     {
       "url": "https://unstoppableswap.net/",
-      "icon": "name",
+      "icon": "https://unstoppableswap.net/assets/favicon.a5d3e411.svg",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Unstoppable Swap",
@@ -18,7 +18,7 @@
     },
     {
       "url": "https://swapzone.io/",
-      "icon": "name",
+      "icon": "https://swapzone.io/favicon-32x32.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Swap Zone",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://boltz.exchange/",
-      "icon": "https://boltz.exchange/static/media/Boltz.02fb7acb.svg",
+      "icon": "https://boltz.exchange/favicon.ico",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Boltz",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://majesticbank.sc/",
-      "icon": "name",
+      "icon": "https://majesticbank.sc/assets/images/logoIcon/favicon.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Majestic Bank",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://blockdx.net/",
-      "icon": "name",
+      "icon": "https://blockdx.net/images/favicon.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "BlockDX",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://fixedfloat.com/en/",
-      "icon": "name",
+      "icon": "https://fixedfloat.com/assets/images/favicon.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Fixed Float",
@@ -58,7 +58,7 @@
     },
     {
       "url": "https://sideshift.ai/xmr/btc",
-      "icon": "name",
+      "icon": "https://sideshift.ai/favicon.ico",
       "lang": "eng",
       "tags": ["swap"],
       "name": "SideShift",
@@ -66,7 +66,7 @@
     },
     {
       "url": "https://changenow.io/exchange?from=btc&to=xmr",
-      "icon": "name",
+      "icon": "https://changenow.io/images/icons/favicon-1-32x32.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "ChangeNow",
@@ -74,7 +74,7 @@
     },
     {
       "url": "https://localcoinswap.com/",
-      "icon": "name",
+      "icon": "https://localcoinswap.com/favicon.ico",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Local Coin Swap",
@@ -82,7 +82,7 @@
     },
     {
       "url": "https://app.thorswap.finance/",
-      "icon": "name",
+      "icon": "https://app.thorswap.finance/favicon.ico",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Thor Swap",
@@ -90,7 +90,7 @@
     },
     {
       "url": "https://flyp.me/en/#/",
-      "icon": "name",
+      "icon": "https://flyp.me/media/favicon/fav-32.png",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Flyp",
@@ -98,7 +98,7 @@
     },
     {
       "url": "https://simpleswap.io/",
-      "icon": "name",
+      "icon": "https://simpleswap.io/favicon.ico?v=sUfKeol9fz",
       "lang": "eng",
       "tags": ["swap"],
       "name": "Simple Swap",
@@ -106,7 +106,7 @@
     },
     {
       "url": "https://zigzag.io/#/",
-      "icon": "name",
+      "icon": "https://zigzag.io/favicon.ico",
       "lang": "eng",
       "tags": ["swap"],
       "name": "ZigZag",

@@ -10,7 +10,7 @@
     },
     {
       "url": "https://privacypros.io/",
-      "icon": "https://privacypros.io/images/nav-menu/privacypros-logo.svg",
+      "icon": "https://privacypros.io/images/favicon.png",
       "lang": "eng",
       "tags": ["security", "seed", "physical"],
       "name": "Privacy Pros",
@@ -18,7 +18,7 @@
     },
     {
       "url": "https://cryptosteel.com/",
-      "icon": "https://cryptosteel.com/wp-content/themes/enfold-child/assets/images/logo.svg",
+      "icon": "https://cryptosteel.com/favicon.ico",
       "lang": "eng",
       "tags": ["security", "seed", "physical"],
       "name": "Cryptosteel",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://tinyseed.io/",
-      "icon": "https://tinyseed.io/wp-content/uploads/2021/04/Logo_long_PATH_wp_white.png",
+      "icon": "https://tinyseed.io/wp-content/uploads/2021/05/cropped-LOGO_Icon-32x32.png",
       "lang": "eng",
       "tags": ["security", "seed", "physical"],
       "name": "Tiny Seed",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://glacierprotocol.org/",
-      "icon": "https://glacierprotocol.org/images/logo.png",
+      "icon": "https://glacierprotocol.org/images/favicon/favicon-32x32.png",
       "lang": "eng",
       "tags": ["security", "seed", "software"],
       "name": "Glacier Protocol",
@@ -58,7 +58,7 @@
     },
     {
       "url": "https://bitkey.io/",
-      "icon": "https://bitkey.io/img/bitkey.png",
+      "icon": "https://bitkey.io/img/favicon.png",
       "lang": "eng",
       "tags": ["security", "seed", "software"],
       "name": "BitKey",

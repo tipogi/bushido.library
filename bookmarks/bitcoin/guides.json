@@ -2,7 +2,7 @@
   "guides": [
     {
       "url": "https://estudiobitcoin.com/",
-      "icon": "https://estudiobitcoin.com/wp-content/uploads/2020/05/Estudio-Bitcoin-2.png",
+      "icon": "/public/img/favicon/estudio-bitcoin.png",
       "lang": "esp",
       "tags": [""],
       "name": "Estudio Bitcoin",
@@ -37,7 +37,7 @@
       "description": "His mission is to use his skills as a technologist to build tools that empower individuals"
     },{
       "url": "https://k3tan.com/",
-      "icon": "Name",
+      "icon": "https://k3tan.com/bl-themes/darktheme//img/favicon.png",
       "lang": "eng",
       "tags": ["nodes","custody"],
       "name": "K3tan",
@@ -58,7 +58,7 @@
       "description": "Mechatronics engineer, cnc programmer, punk and bitcoiner"
     },{
       "url": "https://bitcoiner.guide/",
-      "icon": "https://twitter.com/BitcoinQ_A/photo",
+      "icon": "https://bitcoiner.guide/favicon.ico",
       "lang": "eng",
       "tags": ["privacy", "tools", ""],
       "name": "Bitcoiner Guide",
@@ -86,7 +86,7 @@
       "description": "Just an old bitcoiner (toxic) maximalist, that from 2012 (when started with Bitcoin) was an unknown identity in Bitcoinlandia. But starting with 2019 decided to go out and start helping newbies and onboard more nocoiners into Bitcoin (so far 400+ new bitcoiners created in the last 2 years)."
     },{
       "url": "https://learnmeabitcoin.com/",
-      "icon": "name",
+      "icon": "https://learnmeabitcoin.com/favicon.ico",
       "lang": "eng",
       "tags": ["bitcoin", "on-chain", "learn"],
       "name": "Learn Me Bitcoin",
@@ -100,7 +100,7 @@
       "description": "Envíanos tu pregunta rellenando el formulario y en las próximas 24 horas tendrás respuesta de un miembro de la comunidad hispana de Bitcoin"
     },{
       "url": "https://river.com/learn/",
-      "icon": "https://river.com/learn/images/logo/logo.svg",
+      "icon": "https://blog.river.com/favicon.ico",
       "lang": "esp",
       "tags": ["bitcoin", "learn"],
       "name": "River",

@@ -18,7 +18,7 @@
     },
     {
       "url": "https://nomoregoogle.com/",
-      "icon": "name",
+      "icon": "https://nomoregoogle.com/assets/logo.png",
       "lang": "eng",
       "tags": ["privacy","app"],
       "name": "No more google",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://www.privacytools.io/",
-      "icon": "https://www.privacytools.io/img/logo.svg",
+      "icon": "https://www.privacytools.io/img/favicons/favicon.ico",
       "lang": "eng",
       "tags": ["privacy","app"],
       "name": "Privacy Tools",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://thinkprivacy.ch/",
-      "icon": "https://thinkprivacy.ch/assets/images/header_logo.png",
+      "icon": "https://www.thinkprivacy.ch/assets/images/favicon.ico",
       "lang": "eng",
       "tags": ["privacy","app"],
       "name": "Thinks Privacy",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://www.privacyguides.org/",
-      "icon": "https://www.privacyguides.org/assets/img/layout/privacy-guides-logo-light.svg",
+      "icon": "https://www.privacyguides.org/assets/brand/PNG/Favicon/favicon-32x32.png",
       "lang": "eng",
       "tags": ["privacy","app"],
       "name": "Privacy Guides",

@@ -2,7 +2,7 @@
   "articles": [
     {
       "url": "https://6102bitcoin.com/",
-      "icon": "name",
+      "icon": "https://s3.amazonaws.com/keybase_processed_uploads/6de09c581392ec82bbcb44ffd0655905_360_360.jpg",
       "lang": "eng",
       "tags": ["privacy"],
       "name": "6102bitcoin",
@@ -53,14 +53,14 @@
       "lang": "eng",
       "tags": [""],
       "name": "Unchained Capital",
-      "description": ""
+      "description": "Unchained Capital is a bitcoin native financial services company. We offer collaborative custody multisignature vaults and collateralized loans designed for long-term bitcoin holders."
     },
     {
       "url": "https://insights.glassnode.com/",
-      "icon": "https://glassnode.com/images/glassnode.svg",
+      "icon": "https://insights.glassnode.com/content/images/size/w256h256/2019/06/500px-square.png",
       "lang": "eng",
       "tags": [""],
-      "name": "Unchained Capital",
+      "name": "Glassnode Insights",
       "description": "On-Chain Data and Intelligence Platform"
     },
     {
@@ -81,7 +81,7 @@
     },
     {
       "url": "https://hodlermag.com",
-      "icon": "https://hodlermag.com/wp-content/uploads/2021/09/HeaderMail.png",
+      "icon": "https://hodlermag.com/wp-content/uploads/2021/09/favicon.png",
       "lang": "esp",
       "tags": [""],
       "name": "HodlerMag",
@@ -121,15 +121,15 @@
     },
     {
       "url": "https://galoy.io/blog-posts/",
-      "icon": "https://galoy.io/wp-content/uploads/2021/07/Galoy-Current-Logo-Blue.svg",
+      "icon": "https://galoy.io/wp-content/uploads/2022/04/cropped-Galoy-Current-Logo-Square-Blue@2x-32x32.png",
       "lang": "eng",
       "tags": [""],
-      "name": "Galoy: Connect to the Bitcoin economy",
+      "name": "Galoy",
       "description": "We share insights, guides and articles about onboarding communities and institutions to Bitcoin and the Lightning Network"
     },
     {
       "url": "https://europeanbitcoiners.com/",
-      "icon": "https://twitter.com/EuropeanBTC21/photo",
+      "icon": "https://europeanbitcoiners.com/content/images/size/w256h256/2022/04/logo2-1.png",
       "lang": "eng",
       "tags": ["articles"],
       "name": "European Bitcoiners",

@@ -2,7 +2,7 @@
   "resources": [
     {
       "url": "https://bitcoin-only.com/",
-      "icon": "name",
+      "icon": "https://bitcoin-only.com/favicon.png",
       "lang": "eng",
       "tags": ["nodes","custody"],
       "name": "Bitcoin-only",
@@ -13,7 +13,7 @@
       "icon": "https://bitcoin-resources.com/assets/images/avatar.png",
       "lang": "eng",
       "tags": ["books","articles"],
-      "name": "Bitcoin-only",
+      "name": "Bitcoin Resources",
       "description": "Bitcoin Resources is a free open-source project curated by volunteers"
     },
     {
@@ -27,7 +27,7 @@
     {
       "url": "https://bgeometrics.github.io/bitcoin_bookmarks_es.html",
       "icon": "none",
-      "lang": "eng",
+      "lang": "esp",
       "tags": ["books","articles"],
       "name": "Bitcoin Bookmarks",
       "description": "Enlaces y recursos sobre Bitcoin en español"
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://endthefud.org/",
-      "icon": "name",
+      "icon": "https://cdn-icons-png.flaticon.com/512/1468/1468144.png",
       "lang": "eng",
       "tags": ["articles"],
       "name": "EndTheFUD",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://www.getbitcoin.org/",
-      "icon": "name",
+      "icon": "https://assets.website-files.com/621f36817af7cb248425e984/62443cc39860d9da650a8e91_Frame%203.png",
       "lang": "eng",
       "tags": ["articles"],
       "name": "Get Bitcoin",

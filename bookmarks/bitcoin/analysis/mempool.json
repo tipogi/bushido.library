@@ -10,15 +10,15 @@
     },
     {
       "url": "https://mempool.space/",
-      "icon": "https://mempool.space/resources/mempool-space-logo.png",
+      "icon": "https://mempool.observer/img/og_preview.png",
       "lang": "eng",
       "tags": ["analysis", "fees", "mempool", "block"],
-      "name": "Mempool space",
+      "name": "Mempool Space",
       "description": "Mempool viewer in a really clear way"
     },
     {
       "url": "https://jochen-hoenicke.de/queue/#BTC,24h,weight",
-      "icon": "https://bitcoinfees.earn.com/assets/images/earn-logo-circle.svg",
+      "icon": "https://jochen-hoenicke.de/queue/mempool-icon-192.png",
       "lang": "eng",
       "tags": ["analysis", "fees"],
       "name": "Johoe's Bitcoin Mempool Statistics",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://whatthefee.io/",
-      "icon": "name",
+      "icon": "https://whatthefee.io/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "fees"],
       "name": "What to fee",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://www.bitrawr.com/difficulty-estimator",
-      "icon": "https://bitrawr.s3.eu-central-1.amazonaws.com/assets/logo_images/bitrawr-text-logo.svg",
+      "icon": "https://www.bitrawr.com/assets/cryptothis/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "fees", "mempool"],
       "name": "Bitrawr | Difficulty",
@@ -61,12 +61,12 @@
       "icon": "https://miningpool.observer/static/img/template_and_block.svg",
       "lang": "eng",
       "tags": ["analysis", "fees", "mempool", "transactions"],
-      "name": "Mining pool observer",
+      "name": "Mining Pool Observer",
       "description": "Bitcoin Mining Pools construct blocks from unconfirmed transactions"
     },
     {
       "url": "https://bitcoinstrings.com/",
-      "icon": "name",
+      "icon": "https://satoshisperperson.com/favicon.png",
       "lang": "eng",
       "tags": ["analysis", "mempool", "block"],
       "name": "Bitcoin strings",
@@ -85,7 +85,7 @@
       "icon": "https://mempoolexplorer.com/graph192.png",
       "lang": "eng",
       "tags": ["analysis", "mempool", "block"],
-      "name": "Murray RothBot",
+      "name": "Mempool Explorer",
       "description": "This is the full mempool visualizer and it is focused on visualizing where a transaction is in the mining queue"
     }
   ]

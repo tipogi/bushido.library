@@ -26,7 +26,7 @@
     },
     {
       "url": "https://asecuritysite.com/",
-      "icon": "https://asecuritysite.com/content/icon_clown.gif",
+      "icon": "https://asecuritysite.com/favicon.ico",
       "lang": "eng",
       "tags": ["security", "crytography"],
       "name": "A Security Site",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://www.geeksforgeeks.org/cryptography-introduction/?ref=lbp",
-      "icon": "",
+      "icon": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png",
       "lang": "eng",
       "tags": ["security", "crytography"],
       "name": "Geeks for Geeks",

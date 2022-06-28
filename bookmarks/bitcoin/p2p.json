@@ -1,7 +1,7 @@
 {
   "p2p": [
     {
-      "url": "http://robosats6tkf3eva7x2voqso3a5wcorsnw34jveyxfqi2fu7oyheasid.onion/",
+      "url": "https://github.com/Reckless-Satoshi/robosats/#user-content-try-it-out",
       "icon": "https://raw.githubusercontent.com/Reckless-Satoshi/robosats/main/frontend/static/assets/images/robosats-0.1.1-banner.png",
       "lang": "eng",
       "tags": ["p2p"],
@@ -18,7 +18,7 @@
     },
     {
       "url": "https://bisq.network/",
-      "icon": "https://d33wubrfki0l68.cloudfront.net/aecfa9ee0e182f2b64970b1000095ae27311f991/61d30/images/bisq-logo.svg",
+      "icon": "https://bisq.network/favicon.ico",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "Bisq",
@@ -26,23 +26,15 @@
     },
     {
       "url": "https://azte.co/",
-      "icon": "https://azte.co/img/logo.png",
+      "icon": "https://azte.co/img/favicon.ico",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "Azteco",
       "description": "Redeem Your Bitcoin Voucher"
     },
     {
-      "url": "https://coinatmradar.com/operator/1201/weex-bitcoin-atm-operator/",
-      "icon": "https://coinatmradar.com/images/operator/1201/logo_20211217a09f3a4b12.png",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "Weex",
-      "description": "Tecnología simple, eficiente y efectiva para productos y servicios de criptomoneda. Únete a nosotros"
-    },
-    {
       "url": "https://www.bitrefill.com/",
-      "icon": "https://styles.redditmedia.com/t5_3ox63/styles/communityIcon_st3ynwd87qg21.png",
+      "icon": "https://www.bitrefill.com/favicon.ico",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "Bitrefill",
@@ -74,7 +66,7 @@
     },
     {
       "url": "https://thebitcoincompany.com/",
-      "icon": "https://thebitcoincompany.com/wp-content/uploads/2022/02/TBC-HB-logo_1454%E2%80%8A%C3%97%E2%80%8A422px_RGB-2.png",
+      "icon": "https://static.intercomassets.com/avatars/5373255/square_128/TBC_logo-1652424059.png",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "The Bitcoin Company",
@@ -98,7 +90,7 @@
     },
     {
       "url": "https://tubitcoin.es/",
-      "icon": "https://tubitcoin.es/wp-content/uploads/2021/06/2880px-Bitcoin_logo.svg_.png",
+      "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "TuBitcoin",

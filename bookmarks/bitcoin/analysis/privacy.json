@@ -18,7 +18,7 @@
     },
     {
       "url": "https://oxt.me/",
-      "icon": "name",
+      "icon": "/public/img/favicon/oxt.png",
       "lang": "eng",
       "tags": ["privacy", "analysis", "transaction"],
       "name": "OXT",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://zeroleak.github.io/whirlpool-live/",
-      "icon": "name",
+      "icon": "https://samouraiwallet.com/static/public/images/products/whirlpool/logo.svg",
       "lang": "eng",
       "tags": ["privacy", "analysis", "transaction", "whirlpool"],
       "name": "Samourai Whirlpool live",
@@ -35,7 +35,7 @@
     ,
     {
       "url": "https://paynym.is/",
-      "icon": "name",
+      "icon": "https://paynym.is/static/favicon-32x32.png",
       "lang": "eng",
       "tags": ["privacy", "analysis", "paynym"],
       "name": "PayNym",

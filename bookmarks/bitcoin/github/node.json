@@ -2,7 +2,7 @@
   "node": [
     {
       "url": "https://github.com/rootzoll/raspiblitz",
-      "icon": "https://avatars.githubusercontent.com/u/2472225?v=4",
+      "icon": "https://raw.githubusercontent.com/rootzoll/raspiblitz/v1.7/pictures/raspilogo_tile_400px.png",
       "lang": "eng",
       "tags": ["github", "nodes", "bitcoin"],
       "name": "Raspiblitz",

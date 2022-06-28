@@ -18,7 +18,7 @@
     },
     {
       "url": "https://ccaf.io/cbeci/mining_map",
-      "icon": "name",
+      "icon": "https://ccaf.io/cbeci/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "mining"],
       "name": "Bitcoin Mining Map",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://www.crypto51.app/",
-      "icon": "name",
+      "icon": "https://howmanyconfs.com/btc.b4dc41c2.svg",
       "lang": "eng",
       "tags": ["analysis", "mining"],
       "name": "51% Attack",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://insights.braiins.com/en/",
-      "icon": "https://cdn4.telegram-cdn.org/file/lDOh73iqb8YPksjhjP6lHVpeZaChylDTM_E1c-z_Zg909y5TPO5pO3BDlHCmxGjioxgIUXRbDcTvBCaTubQpQbP6FNissPyciCZ9VgL5R9ztiyLSbiTbU-WomuM69PT6hKuPLIEtSblPqXGT8PmuW8xo7_tRr_lITTtyah48G6KK47tyoRI5l65EPRYQ3lO7cu51GogM1lv_tq9QSbvv2Z2jxLkodgjNTvyL5zfBzHkqL0tWAT-kWNSuw6ZlcSEYO1mJxFrJd9l_jBpCVGz6j7XCFu7hKJu-WgVuvvTEbx68voYQGRALUBChETnB6dz-6P7RJnTIag4mlj6eNaVebw.jpg",
+      "icon": "https://insights.braiins.com/favicon.png",
       "lang": "eng",
       "tags": ["analysis", "mining"],
       "name": "Brains",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://btc-utils-fe.herokuapp.com/asics",
-      "icon": "name",
+      "icon": "https://btc-utils-fe.herokuapp.com/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "mining", "asics"],
       "name": "Asic Lists",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://whattomine.com/",
-      "icon": "https://whattomine.com/assets/logo-horizontal-512a17b0a1461dc56483756083c34577965d7f8b039fd0801096e59fd93ec180.svg",
+      "icon": "none",
       "lang": "eng",
       "tags": ["analysis", "mining", "gpu"],
       "name": "What to mine",
@@ -58,7 +58,7 @@
     },
     {
       "url": "https://www.hashrate.no/",
-      "icon": "https://www.hashrate.no/gfx/footer_logo.png",
+      "icon": "none",
       "lang": "eng",
       "tags": ["analysis", "mining", "gpu"],
       "name": "Hash Rate",
@@ -74,7 +74,7 @@
     },
     {
       "url": "https://www.kryptex.org/es/best-gpus-for-mining",
-      "icon": "https://www.asicminervalue.com/images/icon_sm.png",
+      "icon": "https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/favicon.953a562cb210.png",
       "lang": "es",
       "tags": ["analysis", "mining", "gpu"],
       "name": "Kryptex",

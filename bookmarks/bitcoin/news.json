@@ -2,7 +2,7 @@
   "news": [
     {
       "url": "https://bitcoinops.org",
-      "icon": "https://bitcoinops.org/img/logos/optech-horiz.png",
+      "icon": "https://bitcoinops.org/favicon.ico",
       "lang": "eng",
       "tags": ["news"],
       "name": "Bitcoin Optech",
@@ -57,7 +57,7 @@
     },
     {
       "url": "https://lists.linuxfoundation.org/pipermail/bitcoin-dev/",
-      "icon": "none",
+      "icon": "https://bitcoiner.guide/favicon.ico",
       "lang": "eng",
       "tags": ["news", "security"],
       "name": "Bitcoin dev archives",

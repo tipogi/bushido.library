@@ -64,7 +64,7 @@ const createTopic = (nodeType: string) => `
 `;
 
 const generateTopicData = (node: ITopicCard) => ({
-  name: node.name,
+  name: upperCaseJustFirstCharacter(node.name),
   description: node.description,
   hash: node.nodeHash,
   icon: node.icon,
@@ -96,7 +96,7 @@ const createInsertTopicQuery2 = (node: IDomainCard, parentPath: string) => {
 };
 
 const generateDomainData = (node: IDomainCard) => ({
-  name: node.name,
+  name: upperCaseJustFirstCharacter(node.name),
   description: node.description,
   url: node.url,
   icon: node.icon,
@@ -109,3 +109,4 @@ const generateDomainData = (node: IDomainCard) => ({
 /********************************/
 
 const upperCaseFirstCharacter = (word: string) => `${word[0]}${word.slice(1).toLowerCase()}`;
+const upperCaseJustFirstCharacter = (word: string) => `${word[0].toUpperCase()}${word.substring(1)}`;

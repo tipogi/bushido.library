@@ -97,7 +97,7 @@
     },
     {
       "url": "https://nunchuk.io/",
-      "icon": "https://nunchuk.io/wp-content/uploads/2021/03/Horizontal-Logo-2.png",
+      "icon": "https://nunchuk.io/wp-content/uploads/2021/03/favicon-196-150x150.png",
       "lang": "eng",
       "tags": ["desktop-wallet", "mobile-wallet", "on-chain"],
       "name": "Nunchuck",
@@ -105,7 +105,7 @@
     },
     {
       "url": "https://gun.fun/",
-      "icon": "none",
+      "icon": "https://gun.fun/favicon.png",
       "lang": "eng",
       "tags": ["cli-wallet", "on-chain"],
       "name": "Go Up Number",
@@ -113,7 +113,7 @@
     },
     {
       "url": "https://mycitadel.io/",
-      "icon": "none",
+      "icon": "https://mycitadel.io/img/logo3.png",
       "lang": "eng",
       "tags": ["desktop", "on-chain", "ln"],
       "name": "MyCitadel",

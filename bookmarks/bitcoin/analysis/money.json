@@ -10,27 +10,19 @@
     },
     {
       "url": "https://www.satsrules.com/",
-      "icon": "https://sat-cent.vercel.app/_next/image?url=%2Fcent.png&w=640&q=75",
+      "icon": "https://www.satsrules.com/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "price"],
-      "name": "Sat Cent",
-      "description": "Comparison between satoshis and dolar"
+      "name": "Sat Rules",
+      "description": "Convert satoshis to USD, EUR, CNY, CHF, RUB, CAD, AUD and more."
     },
     {
       "url": "https://satoshisperperson.com/",
-      "icon": "none",
+      "icon": "https://satoshisperperson.com/favicon.png",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "price"],
       "name": "Satoshi Per Person",
       "description": "How many satoshis are there per person in the world?"
-    },
-    {
-      "url": "https://ngudaily.com/",
-      "icon": "none",
-      "lang": "eng",
-      "tags": ["analysis", "satoshi", "price"],
-      "name": "NGUD",
-      "description": "On Average Numbers Go Up Daily"
     },
     {
       "url": "https://www.usdsat.com/",
@@ -42,7 +34,7 @@
     },
     {
       "url": "https://fiatmarketcap.com/",
-      "icon": "https://fiatmarketcap.com/images/navbar-logo.png",
+      "icon": "https://satoshisperperson.com/favicon.png",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "price"],
       "name": "Fiat Market Cap",
@@ -50,7 +42,7 @@
     },
     {
       "url": "https://www.pricedinbitcoin21.com/landing",
-      "icon": "https://pricedinbitcoin.s3.us-east-2.amazonaws.com/1627678550585F9C5707F-6CD6-47A3-A3F7-3C210168C003.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2PN7GATX6BQECJO6%2F20220323%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220323T103701Z&X-Amz-Expires=900&X-Amz-Signature=4a895a0cf2aab1504f9e76b2cdb359200770262c31ac29ad661f37fa4b50fb2a&X-Amz-SignedHeaders=host",
+      "icon": "https://pricedinbitcoin.s3.us-east-2.amazonaws.com/1627678550585F9C5707F-6CD6-47A3-A3F7-3C210168C003.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA2PN7GATX6BQECJO6%2F20220628%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20220628T152948Z&X-Amz-Expires=900&X-Amz-Signature=060a0432636d677d93b8c5f4885676fa3cba8437b4b307207ba47d34cd6f1d05&X-Amz-SignedHeaders=host",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "price"],
       "name": "Priced in Bitcoin",
@@ -74,7 +66,7 @@
     },
     {
       "url": "https://bitcoin-supply.com/",
-      "icon": "none",
+      "icon": "https://bitcoin-supply.com/images/favicons/favicon-32x32.png",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "time", "fud"],
       "name": "Bitcoin supply",
@@ -82,7 +74,7 @@
     },
     {
       "url": "https://8marketcap.com/",
-      "icon": "https://8marketcap.com/logo-dark.svg?v=1",
+      "icon": "https://8marketcap.com/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "time", "fud"],
       "name": "Infinite MarketCap",
@@ -90,7 +82,7 @@
     },
     {
       "url": "https://dcabtc.com/",
-      "icon": "https://dcabtc.com/static/media/logo.44abc544.png",
+      "icon": "https://dcabtc.com/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "time"],
       "name": "DCA BTC",
@@ -98,7 +90,7 @@
     },
     {
       "url": "https://costavg.com/",
-      "icon": "https://costavg.com/images/coverCrop2.png",
+      "icon": "https://costavg.com/favicon/favicon-32x32.png",
       "lang": "eng",
       "tags": ["analysis", "satoshi", "time"],
       "name": "Cost AVG",

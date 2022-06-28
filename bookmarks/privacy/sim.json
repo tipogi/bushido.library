@@ -2,39 +2,39 @@
   "sim": [
     {
       "url": "https://sms-activate.org/en/",
-      "icon": "https://sms-activate.org/img/logo.svg",
-      "lang": "",
+      "icon": "https://smsactivate.s3.eu-central-1.amazonaws.com/assets/img/activate_favicon32.png",
+      "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "SMS activate",
       "description": "Virtual online numbers, at the lowest prices"
     },
     {
       "url": "https://onlinesim.ru/en/",
-      "icon": "https://cdn.onlinesim.ru/frontend_new/resources/favicon/icon-144x144.png",
-      "lang": "",
+      "icon": "https://onlinesim.ru/favicon.ico",
+      "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "Online SIM",
       "description": "Virtual online numbers, at the lowest prices"
     },
     {
       "url": "https://www.textverified.com/",
-      "icon": "https://yt3.ggpht.com/ytc/AKedOLSQaP9woRJ3EPWjB1EMnE3bgoM3cRzovuQW9Bzj=s68-c-k-c0x00ffffff-no-rj",
-      "lang": "",
+      "icon": "https://www.textverified.com/favicon.ico?ver=637919593199867503",
+      "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "Text Verified",
       "description": "Textverified is a phone verification service that allows you to bypass phone verifications and receive codes through our website and our app"
     },
     {
       "url": "https://silent.link/",
-      "icon": "https://silent.link/images/logo.svg",
-      "lang": "",
+      "icon": "https://silent.link/favicon/favicon-32x32.png",
+      "lang": "eng",
       "tags": ["sim","privacy"],
       "name": "Silent link",
       "description": "Get global mobile 4G/5G Internet access and burner phone numbers instantly and privately on any modern eSIM-compatible smartphone"
     },
     {
       "url": "https://smspool.net/",
-      "icon": "https://smspool.net/assets/img/lander_images/logo.webp",
+      "icon": "https://www.smspool.net/assets/img/favicon.svg",
       "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "SMS pool",

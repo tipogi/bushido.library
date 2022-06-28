@@ -2,7 +2,7 @@
   "email": [
     {
       "url": "https://criptext.com/",
-      "icon": "https://cdn.criptext.com/Criptext-Email-Website/images/header-icon.svg",
+      "icon": "https://cdn.criptext.com/Criptext-Email-Website/images/criptext.png",
       "lang": "eng",
       "tags": ["email"],
       "name": "Criptext",
@@ -10,7 +10,7 @@
     },
     {
       "url": "https://mailvelope.com/en",
-      "icon": "https://mailvelope.com/img/Mailvelope/logo.svg",
+      "icon": "https://mailvelope.com/img/Mailvelope/logo_signet_32.png",
       "lang": "eng",
       "tags": ["email"],
       "name": "Mailvelpe",
@@ -18,7 +18,7 @@
     },
     {
       "url": "https://anonaddy.com/",
-      "icon": "https://anonaddy.com/assets/img/logo.svg",
+      "icon": "https://anonaddy.com/favicon-32x32.png",
       "lang": "eng",
       "tags": ["email"],
       "name": "Anonaddy",
@@ -26,23 +26,15 @@
     },
     {
       "url": "https://altmails.com/",
-      "icon": "https://altmails.com/image/logo.png",
+      "icon": "https://altmails.com/image/fv.png",
       "lang": "eng",
       "tags": ["email"],
       "name": "Altmails",
       "description": "Protect your email address from being sold or spammed. It allows you to create temporary email addresses that automatically forward all emails to your personal email account"
     },
     {
-      "url": "https://ctemplar.com/",
-      "icon": "https://ctemplar.com/wp-content/themes/ctemplar/assets/img/logo-plus-text.svg",
-      "lang": "eng",
-      "tags": ["email"],
-      "name": "CTemplar",
-      "description": "Armored Email. Because privacy is a human right worth fighting for!"
-    },
-    {
       "url": "https://countermail.com/",
-      "icon": "https://ctemplar.com/wp-content/themes/ctemplar/assets/img/logo-plus-text.svg",
+      "icon": "https://countermail.com/favicon.ico",
       "lang": "eng",
       "tags": ["email"],
       "name": "CouinterMail",
@@ -50,7 +42,7 @@
     },
     {
       "url": "https://simplelogin.io/",
-      "icon": "https://simplelogin.io/logo.svg",
+      "icon": "https://simplelogin.io/favicon.ico",
       "lang": "eng",
       "tags": ["email"],
       "name": "SimpleLogin",
@@ -82,7 +74,7 @@
     },
     {
       "url": "https://e4ward.com/",
-      "icon": "none",
+      "icon": "https://e4ward.com/favicon.ico",
       "lang": "eng",
       "tags": ["email"],
       "name": "E4ward",
@@ -106,7 +98,7 @@
     },
     {
       "url": "https://protonmail.com/",
-      "icon": "https://protonmail.com/images/pm-logo-white.svg",
+      "icon": "https://proton.me/favicons/favicon.ico",
       "lang": "eng",
       "tags": ["email"],
       "name": "Protonmail",
@@ -114,7 +106,7 @@
     },
     {
       "url": "https://www.guerrillamail.com/",
-      "icon": "https://img.guerrillamail.com/4/6/f/46f9fd8911b3a915c1fec119e9062d00.png",
+      "icon": "https://www.guerrillamail.com/favicon.ico",
       "lang": "eng",
       "tags": ["email"],
       "name": "Guerrilla Mail",
@@ -122,10 +114,19 @@
     },
     {
       "url": "https://lavabit.com/",
-      "icon": "https://lavabit.com/images/home/logo%402x.png",
+      "icon": "https://lavabit.com/favicons/favicon.ico",
       "lang": "eng",
       "tags": ["email"],
       "name": "Lavabit",
       "description": "Secure email for the world. Because everyone has the right to communicate privately"
+    },
+    {
+      "url": "https://skiff.com/",
+      "icon": "https://skiff.com/favicon/favicon.ico",
+      "lang": "eng",
+      "tags": ["email", "privacy"],
+      "name": "Skiff",
+      "description": "Take your thoughts and ideas to the next level with a private, end-to-end encrypted workspace"
+    }
   ]
 }

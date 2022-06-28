@@ -18,7 +18,7 @@
     },
     {
       "url": "https://libreriadesatoshi.com/",
-      "icon": "none",
+      "icon": "https://libreriadesatoshi.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd55e8d31-f4d9-4009-89cb-66d38d240f9d%2FSquare_La_Librera_de_Satoshi_Brand_Logo_cafe_3.png?table=block&id=c52a6853-9b7e-42b2-8345-907af4eb603f&spaceId=6c54fbc7-52b3-4909-bdfe-be0a0186a754&width=250&userId=&cache=v2",
       "lang": "esp",
       "tags": ["community", "dev"],
       "name": "Libreria de Satoshi",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://bitdevsespanol.org/",
-      "icon": "none",
+      "icon": "https://bitdevsespanol.org/favicon.ico",
       "lang": "esp",
       "tags": ["community", "dev"],
       "name": "BitDevs en Español",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://opensats.org/",
-      "icon": "https://opensats.org/img/logos/logo.png",
+      "icon": "https://opensats.org/favicon.ico",
       "lang": "eng",
       "tags": ["community", "dev"],
       "name": "OpenSats",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://bitcoin.design/",
-      "icon": "name",
+      "icon": "https://bitcoin.design/assets/favicon-32x32.png",
       "lang": "eng",
       "tags": ["community", "dev"],
       "name": "Bitcoin design",
@@ -74,7 +74,7 @@
     },
     {
       "url": "https://courses.earncarrot.com/",
-      "icon": "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2150150366/settings_images/8ViGAQMdTHuEog6OJJYR_Kanjabi_Menu_Logo_360x80.png",
+      "icon": "https://assets.website-files.com/5edfc7a5d682d20d91a4752b/5ee3d5799f82303c9cd9bfb9_fasvicon.png",
       "lang": "eng",
       "tags": ["dev", "courses"],
       "name": "Earn Carrot",
@@ -82,7 +82,7 @@
     },
     {
       "url": "https://learn.saylor.org/course/view.php?id=468",
-      "icon": "https://learn.saylor.org/theme/image.php/saylor/theme_saylor/1646779822/logos/logo_dark_large",
+      "icon": "https://learn.saylor.org/theme/image.php?theme=saylor&component=theme_saylor&image=favicons%2Ffavicon-32x32",
       "lang": "eng",
       "tags": ["dev", "courses"],
       "name": "Bitcoin for Everybody",
@@ -106,7 +106,7 @@
     },
     {
       "url": "https://whofundsbitcoin.com/",
-      "icon": "https://bitcoinbounties.org/assets/images/bitcoinbounties.png",
+      "icon": "https://whofundsbitcoin.com/gradient.jpeg",
       "lang": "eng",
       "tags": ["dev", "fund"],
       "name": "Who Fund Bitcoin Development",

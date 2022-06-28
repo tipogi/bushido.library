@@ -10,7 +10,7 @@
     },
     {
       "url": "https://www.bitwage.com/",
-      "icon": "https://www.bitwage.com/wp-content/uploads/2018/11/Bitwage_LogoSuite_Official.png",
+      "icon": "https://www.bitwage.com/wp-content/uploads/2019/01/favicon.png",
       "lang": "eng",
       "tags": ["bitcoin", "services"],
       "name": "Bitwage",
@@ -21,7 +21,7 @@
       "icon": "https://ledn.io/icons-ae56194440e4c5f3503d13d4f4cbd546/android-chrome-144x144.png",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
-      "name": "Ledn (KYC)",
+      "name": "Ledn (kyc)",
       "description": "Do more with your digital assets. Earn interest. Access dollar loans. Loans to buy more bitcoin"
     },
     {
@@ -33,27 +33,19 @@
       "description": "US home loans for anyone, anywhere"
     },
     {
-      "url": "https://skiff.org/",
-      "icon": "https://cdn.sanity.io/images/j846cla7/production/f492d70674ec4bac97dd6560e3bc0fb7acc8e080-163x64.svg",
-      "lang": "eng",
-      "tags": ["services", "bitcoin"],
-      "name": "Skiff",
-      "description": "Take your thoughts and ideas to the next level with a private, end-to-end encrypted workspace"
-    },
-    {
       "url": "https://www.swanbitcoin.com/",
       "icon": "https://theme.zdassets.com/theme_assets/9542183/4b8764bb4a1eaa430dff6d46585437b78ac686a0.png",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
-      "name": "Swan Bitcoin (KYC)",
+      "name": "Swan Bitcoin (kyc)",
       "description": "Own Your Future. Our mission is to walk alongside you on your journey into Bitcoin, the future of money"
     },
     {
       "url": "https://relai.app/",
-      "icon": "https://relai.app/wp-content/uploads/2021/08/Relai_logotype_white.svg",
+      "icon": "https://relai.app/wp-content/uploads/2021/08/App-icon_round.svg",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
-      "name": "Relai (KYC)",
+      "name": "Relai (kyc)",
       "description": "Europe's easiest bitcoin App. Buy & sell bitcoin in 1 minute or set up an automatic savings plan. No registration is needed"
     },
     {
@@ -61,7 +53,7 @@
       "icon": "https://mynodebtc.com/images/app_icons/caravan.png",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
-      "name": "Unchained Vaults (KYC)",
+      "name": "Unchained Vaults (kyc)",
       "description": "Custody without counterparty risk. Your keys, your bitcoin, just safer"
     },
     {
@@ -69,15 +61,15 @@
       "icon": "https://keys.casa/images/casaclogo.png",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
-      "name": "Keys Casa (KYC)",
+      "name": "Keys Casa (kyc)",
       "description": "The safest way to store your bitcoin. Casa makes it easy to buy and secure bitcoin without wondering whether you're doing it right"
     },
     {
       "url": "https://www.veriphi.io/",
-      "icon": "https://downloads.intercomcdn.com/i/o/286378/e05f9c2c877e17b7f785fc13/c9c2bce82b74978a3e87079f2ce6e52b.png",
+      "icon": "https://www.veriphi.io/favicon.ico",
       "lang": "eng",
       "tags": ["services", "bitcoin"],
-      "name": "Veriphi (KYC)",
+      "name": "Veriphi (kyc)",
       "description": "We're Canada's only white glove service provider for Bitcoin self-custody. Buy and take control of your Bitcoin, simply and immediately"
     },
     {

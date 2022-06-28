@@ -10,7 +10,7 @@
     },
     {
       "url": "https://txstreet.com/v/btc",
-      "icon": "https://txstreet.com/static/img/icons/logo_darkmode.svg?v=1.2.2",
+      "icon": "https://txstreet.com/static/img/icons/icons-192.png",
       "lang": "eng",
       "tags": ["analysis", "graph", "price"],
       "name": "Tx Street",

@@ -2,7 +2,7 @@
   "charts": [
     {
       "url": "https://www.lookintobitcoin.com/charts/",
-      "icon": "https://www.lookintobitcoin.com/static/img/logo/logo-stacked-transparent.png",
+      "icon": "https://www.lookintobitcoin.com/static/favicon-32x32.png",
       "lang": "eng",
       "tags": ["analysis", "dashboard", "charts"],
       "name": "Look into Bitcoin",
@@ -10,7 +10,7 @@
     },
     {
       "url": "http://www.bitcoinkpis.com/",
-      "icon": "name",
+      "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
       "lang": "eng",
       "tags": ["analysis", "charts", "dashboard"],
       "name": "Bitcoin KPI",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://studio.glassnode.com/metrics?a=BTC&m=addresses.ActiveCount",
-      "icon": "https://studio.glassnode.com/images/glassnode-studio.svg",
+      "icon": "https://insights.glassnode.com/content/images/size/w256h256/2019/06/500px-square.png",
       "lang": "eng",
       "tags": ["analysis", "charts", "dashboard"],
       "name": "Glassnode",
@@ -34,7 +34,7 @@
     },
     {
       "url": "https://tsypruyan.github.io/index.html",
-      "icon": "https://studio.glassnode.com/images/glassnode-studio.svg",
+      "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
       "lang": "eng",
       "tags": ["analysis", "charts", "dashboard"],
       "name": "Tsypruyan",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://hodlwave.com/",
-      "icon": "name",
+      "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
       "lang": "eng",
       "tags": ["analysis", "charts", "utxo"],
       "name": "Hodl wave",

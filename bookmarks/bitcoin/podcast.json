@@ -58,7 +58,7 @@
     },
     {
       "url": "https://optoutpod.com/",
-      "icon": "https://storage.buzzsprout.com/variants/yc0wj1mnn38wy3z261khznhq1m5z/b49cbe86cb411762753e730c58953bb88ad958a9d657212c074729b6f04e5463.jpgg",
+      "icon": "https://optoutpod.com/favicon.ico",
       "lang": "eng",
       "tags": ["podcast", "privacy"],
       "name": "OptOutPodcast",
@@ -114,7 +114,7 @@
     },
     {
       "url": "https://podcast.pau.ninja/",
-      "icon": "https://podcast.pau.ninja/wp-content/uploads/2021/10/cabecera-pau-ninja-526x526.png",
+      "icon": "/public/img/favicon/pau-ninja.png",
       "lang": "esp",
       "tags": ["podcast"],
       "name": "Pau Ninja Podcast",

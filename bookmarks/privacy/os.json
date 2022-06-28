@@ -10,7 +10,7 @@
     },
     {
       "url": "https://copperhead.co/",
-      "icon": "https://copperhead.co/img/logo.svg",
+      "icon": "https://copperhead.co/icons/icon-144x144.png?v=bd21f93d6614c1ed24b8aa0457999456",
       "lang": "eng",
       "tags": ["privacy","os", "mobile"],
       "name": "Copperhead",
@@ -18,7 +18,7 @@
     },
     {
       "url": "https://grapheneos.org/",
-      "icon": "https://grapheneos.org/780febcc.mask-icon.svg",
+      "icon": "https://grapheneos.org/favicon.ico",
       "lang": "eng",
       "tags": ["privacy","os", "mobile"],
       "name": "Graphene",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://tails.boum.org/",
-      "icon": "https://tails.boum.org/lib/logo.svg",
+      "icon": "https://tails.boum.org/favicon.ico",
       "lang": "eng",
       "tags": ["privacy","os", "desktop"],
       "name": "Tails",
@@ -58,7 +58,7 @@
     },
     {
       "url": "https://www.parrotsec.org/",
-      "icon": "https://parrotsec.org/images/logo.png",
+      "icon": "https://www.parrotsec.org/favicon.png",
       "lang": "eng",
       "tags": ["privacy","os", "desktop"],
       "name": "Parrot",
@@ -66,7 +66,7 @@
     },
     {
       "url": "https://manjaro.org",
-      "icon": "https://manjaro.org/img/logo.svg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Manjaro-logo.svg",
       "lang": "eng",
       "tags": ["privacy","os", "desktop"],
       "name": "Manjaro",
@@ -74,7 +74,7 @@
     },
     {
       "url": "https://pureos.net/",
-      "icon": "name",
+      "icon": "https://pureos.net/images/favicon-32x32.png",
       "lang": "eng",
       "tags": ["privacy","app"],
       "name": "PureOs",
@@ -90,7 +90,7 @@
     },
     {
       "url": "https://www.whonix.org/",
-      "icon": "https://www.whonix.org/w/images/thumb/f/f1/Logo_box.png/80px-Logo_box.png",
+      "icon": "https://wiki.installgentoo.com/images/thumb/b/bb/Whonix-logo.png/89px-Whonix-logo.png",
       "lang": "eng",
       "tags": ["privacy","app"],
       "name": "Whonix",
