@@ -10,7 +10,7 @@
     },
     {
       "url": "https://mempool.space/",
-      "icon": "https://mempool.observer/img/og_preview.png",
+      "icon": "https://mempool.space/resources/favicons/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "fees", "mempool", "block"],
       "name": "Mempool Space",

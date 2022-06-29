@@ -26,7 +26,7 @@
     },
     {
       "url": "https://bgeometrics.github.io/bitcoin_bookmarks_es.html",
-      "icon": "none",
+      "icon": "https://bitcoinminds.org/img/brand/bitcoin-logo.png",
       "lang": "esp",
       "tags": ["books","articles"],
       "name": "Bitcoin Bookmarks",
