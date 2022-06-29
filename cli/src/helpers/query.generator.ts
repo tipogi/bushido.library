@@ -37,9 +37,10 @@ const createInsertTopicQuery = (node: ITopicCard, parentPath) => {
 
 const createNewPath = (arrayPath: string[]) => {
   const arrayLength = arrayPath.length;
+  const rootName = upperCaseJustFirstCharacter(arrayPath[0]);
   const nodeName = arrayLength > 2 ? 'root' : 'parent';
   // cannot be parent if length is longer than 2, it has to be the last element of the loop
-  let path = `MATCH (${nodeName}: Topic:Root {name: "${arrayPath[0]}"})`;
+  let path = `MATCH (${nodeName}: Topic:Root {name: "${rootName}"})`;
   if (arrayLength > 2) {
     path += extractPath(arrayPath.slice(1, arrayLength - 1));
   }
@@ -51,8 +52,9 @@ const extractPath = (array: string[]) => {
   forEach(array, (node, index) => {
     // The last node always has to have parent name.
     // Like this we can identify to add the child
+    const nodeNameAttribute = upperCaseJustFirstCharacter(node);
     const nodeName = array.length - 1 === index ? 'parent' : `n${index}`;
-    restPath += `-[rel:HAS]->(${nodeName}: Topic { name: "${node}"})`;
+    restPath += `-[rel:HAS]->(${nodeName}: Topic { name: "${nodeNameAttribute}"})`;
   });
   return restPath;
 };
@@ -75,13 +77,15 @@ const generateTopicData = (node: ITopicCard) => ({
 /********************************/
 
 const createDomainNode = (array: string[]) => {
-  let restPath = `MATCH (root:Topic:Root { name: "${array[0]}"})`;
+  const rootName = upperCaseJustFirstCharacter(array[0]);
+  let restPath = `MATCH (root:Topic:Root { name: "${rootName}"})`;
   const sliced = array.slice(1);
   forEach(sliced, (node: string, index: number) => {
     // The last node always has to have parent name.
     // Like this we can identify to add the child
+    const nodeNameAttribute = upperCaseJustFirstCharacter(node);
     const nodeName = sliced.length - 1 === index ? 'parent' : `n${index}`;
-    restPath += `-[rel${index}:HAS]->(${nodeName}:Topic { name: "${node}"})`;
+    restPath += `-[rel${index}:HAS]->(${nodeName}:Topic { name: "${nodeNameAttribute}"})`;
   });
   return restPath;
 };
