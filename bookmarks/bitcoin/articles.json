@@ -134,6 +134,14 @@
       "tags": ["articles"],
       "name": "European Bitcoiners",
       "description": "Block 731398 is an education and community initiative to bring together all European Plebs and those who want to learn about Bitcoin"
+    },
+    {
+      "url": "https://thebitcoinmanual.com/articles/",
+      "icon": "https://thebitcoinmanual.com/wp-content/uploads/2021/03/The-Bitcoin-Manual-Text-Logo-cropped.png",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "The Bitcoin Manual",
+      "description": "The Bitcoin Manual is a passion project created by two morons, Che & Nicky"
     }
   ]
 } 

@@ -1,0 +1,21 @@
+{
+  
+  "guides": {
+    "name": "Guides",
+    "description": "First rule, when you do not understand something, learn!",
+    "type": "LEAF",
+    "icon": "guide"
+  },
+  "multimedia": {
+    "name": "Multimedia",
+    "description": "",
+    "type": "LEAF",
+    "icon": "multimedia"
+  },
+  "github": {
+    "name": "Github",
+    "description": "Repositories to install in the linux machine",
+    "type": "LEAF",
+    "icon": "github"
+  }
+}

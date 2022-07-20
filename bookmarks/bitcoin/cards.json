@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "url": "https://www.bitrefill.com/",
+      "icon": "https://www.bitrefill.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Bitrefill",
+      "description": "Live on Crypto. Buy gift cards for anything under the sun. No account necessary"
+    },
+    {
+      "url": "https://coincards.com/",
+      "icon": "https://assets.coincards.com/wp-content/uploads/2019/04/08121831/coincards_logo_global_medium.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Coin Cards",
+      "description": "Coincards is the premium platform for living off Bitcoin"
+    },
+    {
+      "url": "https://thebitcoincompany.com/",
+      "icon": "https://static.intercomassets.com/avatars/5373255/square_128/TBC_logo-1652424059.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "The Bitcoin Company",
+      "description": "The Bitcoin Company gets you the most out of spending your bitcoin. Download today to start earning bitcoin back on every purchase!"
+    },
+    {
+      "url": "https://www.coindebit.io/",
+      "icon": "https://uploads-ssl.webflow.com/62b2e0fb2c49227ae7ac85aa/62b2e0fb2c49222fd6ac866a_white-create-card-icon.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Coindebit",
+      "description": "Convert your Bitcoin into a virtual, prepaid card that can be used all over the internet within minutes"
+    },
+    {
+      "url": "https://coinkite.cards/",
+      "icon": "https://coinkite.cards/assets/images/cards-logo.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Bitcoin Cards",
+      "description": "Try coinkite satscard, tapsigner or satschip"
+    }
+  ]
+}

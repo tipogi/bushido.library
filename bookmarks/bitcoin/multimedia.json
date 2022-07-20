@@ -199,38 +199,6 @@
       "tags": ["bitcoin", "tutorials"],
       "name": "Bitcoin Developers",
       "description": "Learn Bitcoin development every week from experts around the community!"
-    },
-    {
-      "url": "https://www.youtube.com/c/S4viOnLive/videos",
-      "icon": "https://yt3.ggpht.com/A1Pjd_exXu-TnIt1bUiNqgSx2_la44u0VV5f9uboYX-zfk9a1IbXWQC3WZaDtzpWz4FQ18wRjDk=s176-c-k-c0x00ffffff-no-rj",
-      "lang": "esp",
-      "tags": ["hacking", "cybersecurity"],
-      "name": "S4viOnLive",
-      "description": "Creador de contenido de Hacking y Ciberseguridad. Hago directo todos los días"
-    },
-    {
-      "url": "https://www.youtube.com/c/HackerSploit/playlists",
-      "icon": "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMHQ=s176-c-k-c0x00ffffff-no-rj",
-      "lang": "eng",
-      "tags": ["hacking", "cybersecurity", "linux"],
-      "name": "HackerSploit",
-      "description": "HackerSploit is the leading provider of free Infosec and cybersecurity training"
-    },
-    {
-      "url": "https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/playlists",
-      "icon": "https://yt3.ggpht.com/ytc/AKedOLTbIyaTXPC0sw_5e2IKr6pWdNr0Q-8B2Zk1Rk-uwg=s176-c-k-c0x00ffffff-no-rj",
-      "lang": "eng",
-      "tags": ["hacking", "cybersecurity", "linux"],
-      "name": "Grant Collins",
-      "description": "An I.T. nerd who wants to think he is good at cybersecurity but really is just a script kiddie"
-    },
-    {
-      "url": "https://www.youtube.com/c/TheLinuxCast/playlists",
-      "icon": "https://yt3.ggpht.com/WaQVq0hEIgCivyxT1BC9opM-ETzX4R4KrWxiuSrn_PFCfk2YQG09e4rVkdAlQ9zEGK3rE87W4Q=s176-c-k-c0x00ffffff-no-rj",
-      "lang": "eng",
-      "tags": ["podcast", "linux"],
-      "name": "The Linux Cast",
-      "description": "Daily FOSS related content, weekly Linux podcasts, and more coming at you from an eternal Linux noob. "
     }
   ]
 }

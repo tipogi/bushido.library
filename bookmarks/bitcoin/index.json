@@ -94,5 +94,11 @@
     "description": "Create and store your keys, manage and broadcast your coins",
     "type": "BRANCH",
     "icon": "wallet"
+  },
+  "cards": {
+    "name": "Cards",
+    "description": "",
+    "type": "LEAF",
+    "icon": ""
   }
 }

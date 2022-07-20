@@ -9,12 +9,20 @@
       "description": "Pools real-time information"
     },
     {
-      "url": "https://howmanyconfs.com/",
-      "icon": "https://howmanyconfs.com/btc.b4dc41c2.svg",
+      "url": "https://data.hashrateindex.com/network-data/btc",
+      "icon": "https://data.hashrateindex.com/assets/images/favicon.png",
       "lang": "eng",
       "tags": ["analysis", "mining"],
       "name": "How many confs",
       "description": "How many confirmations are equivalent to 6 Bitcoin confirmations?"
+    },
+    {
+      "url": "https://howmanyconfs.com/",
+      "icon": "https://howmanyconfs.com/btc.b4dc41c2.svg",
+      "lang": "eng",
+      "tags": ["analysis", "mining"],
+      "name": "Hashrate Index",
+      "description": "Unlock your understanding behind the compute commodity that powers & secures the world's most valuable digital currencies"
     },
     {
       "url": "https://ccaf.io/cbeci/mining_map",

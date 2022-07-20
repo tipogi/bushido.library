@@ -1,0 +1,36 @@
+{
+  "guides": [
+    {
+      "url": "https://itsfoss.com/",
+      "icon": "https://yt3.ggpht.com/EFYPImv7ufSaMC-SWnHM9mBRwT5t_-MBkauvZqrXZzWkwyYc8e02s_hQ-igUAzkH1u8Hs4y8BA=s68-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux", "guides"],
+      "name": "Its FOSS",
+      "description": "Become a better and informed Linux user with us"
+    },
+    {
+      "url": "https://www.tecmint.com/",
+      "icon": "https://www.tecmint.com/wp-content/uploads/2020/07/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux", "guides"],
+      "name": "Tecmint",
+      "description": "It publishes practical and useful out-of-the-box articles for aspirant like you and me"
+    },
+    {
+      "url": "https://linuxhandbook.com/",
+      "icon": "https://linuxhandbook.com/content/images/size/w256h256/2021/08/Linux-Handbook-New-Logo.png",
+      "lang": "eng",
+      "tags": ["linux", "guides"],
+      "name": "Linux Handbook",
+      "description": "It is an independent publication launched in May 2022 by Abhishek"
+    },
+    {
+      "url": "https://linuxjourney.com/",
+      "icon": "https://linuxjourney.com/assets/jumbotron-60c93c2fc6bb16079b70fe2eccacaa05f2d6b002af4ff0667ddd8e283cbf81fd.png",
+      "lang": "eng",
+      "tags": ["linux", "guides"],
+      "name": "Linux Journey",
+      "description": "Learn the ways of Linux-fu, for free"
+    }
+  ]
+}

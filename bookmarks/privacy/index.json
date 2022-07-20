@@ -17,6 +17,12 @@
     "type": "LEAF",
     "icon": "cryptography"
   },
+  "guides": {
+    "name": "Guides",
+    "description": "First rule, when you do not understand something, learn!",
+    "type": "LEAF",
+    "icon": "guide"
+  },
   "os": {
     "name": "Operating Systems",
     "description": "Open source and community-developed operating systems for computers or mobile devices",

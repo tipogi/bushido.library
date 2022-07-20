@@ -1,0 +1,12 @@
+{
+  "guides": [
+    {
+      "url": "https://miningpoolstats.stream/bitcoin",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["privacy", "guides"],
+      "name": "The Hitchhikers Guide to Online Anonymity",
+      "description": "How I learned to start worrying and love privacy anonymity"
+    }
+  ]
+}

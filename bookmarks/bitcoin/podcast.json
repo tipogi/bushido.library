@@ -135,6 +135,14 @@
       "tags": ["podcast"],
       "name": "La Cadena de Bloques",
       "description": "Aquí aprenderás qué es bitcoin y por qué es importante, aplicaciones prácticas y todo eso sin perderte nada de la actualidad"
+    },
+    {
+      "url": "https://www.ivoox.com/en/podcast-cadena-bloques_sq_f11164235_1.html",
+      "icon": "https://podcast.chaincode.com/assets/img/logo.jpg",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "The Chaincode Podcast",
+      "description": "The Chaincode Podcast brings you interviews with the most influential Bitcoin engineers about Bitcoin protocol development"
     }
   ]
 }

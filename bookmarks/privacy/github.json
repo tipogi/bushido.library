@@ -31,6 +31,14 @@
       "tags": ["github", "guides", "privacy", "security"],
       "name": "Personal Security Checklist",
       "description": "A curated checklist of 300+ tips for protecting digital security and privacy in 2022"
+    },
+    {
+      "url": "https://github.com/decalage2/awesome-security-hardening",
+      "icon": "https://avatars.githubusercontent.com/u/5989656?s=48&v=4",
+      "lang": "eng",
+      "tags": ["github", "guides", "privacy", "security"],
+      "name": "Awesome Security Hardening",
+      "description": "A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources"
     }
   ]
 }

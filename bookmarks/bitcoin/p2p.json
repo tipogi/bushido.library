@@ -33,14 +33,6 @@
       "description": "Redeem Your Bitcoin Voucher"
     },
     {
-      "url": "https://www.bitrefill.com/",
-      "icon": "https://www.bitrefill.com/favicon.ico",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "Bitrefill",
-      "description": "Live on Crypto. Buy gift cards for anything under the sun. No account necessary"
-    },
-    {
       "url": "https://localcryptos.com/",
       "icon": "https://localcryptos.com/static/media/847216.svg",
       "lang": "eng",
@@ -49,28 +41,12 @@
       "description": "Peer-to-Peer Crypto Marketplace. Where people buy and sell crypto using any payment method."
     },
     {
-      "url": "https://coincards.com/",
-      "icon": "https://assets.coincards.com/wp-content/uploads/2019/04/08121831/coincards_logo_global_medium.png",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "Coin Cards",
-      "description": "Coincards is the premium platform for living off Bitcoin"
-    },
-    {
       "url": "https://www.lightningescrow.io/",
       "icon": "https://www.lightningescrow.io/img/lelogo-1-1@2x.png",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "Lightning Scrow",
       "description": "Secure. Instant. Affordable. Lightning-fast escrow at a fraction of the cost. Using the Bitcoin Lightning Network"
-    },
-    {
-      "url": "https://thebitcoincompany.com/",
-      "icon": "https://static.intercomassets.com/avatars/5373255/square_128/TBC_logo-1652424059.png",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "The Bitcoin Company",
-      "description": "The Bitcoin Company gets you the most out of spending your bitcoin. Download today to start earning bitcoin back on every purchase!"
     },
     {
       "url": "https://btcpayserver.org/",
