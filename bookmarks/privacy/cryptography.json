@@ -39,6 +39,14 @@
       "tags": ["security", "crytography"],
       "name": "Geeks for Geeks",
       "description": "A computer science portal for geeks"
+    },
+    {
+      "url": "https://www.youtube.com/user/Computerphile/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRIHOJ6csLm65iTTRAyXNdoiM4RVa3et7bsWLmqBg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["cryptography"],
+      "name": "Computerphile",
+      "description": "Videos all about computers and computer stuff. Sister channel of Numberphile"
     }
   ]
 }

@@ -1,0 +1,99 @@
+{
+  "store": [
+    {
+      "url": "https://digitalgoods.proxysto.re/",
+      "icon": "https://proxysto.re/assets/images/favicon-96.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Digital Goods",
+      "description": "VPN, email and more – buy coupons for privacy-friendly services with Monero or Bitcoin, cash letter or SEPA bank transfer"
+    },
+    {
+      "url": "https://anchorhodl.com/",
+      "icon": "https://anchorhodl.com/wp-content/uploads/2022/03/cropped-Anchor-Hodl-avatar-black.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Anchor Hodl",
+      "description": "Secure your stash"
+    },
+    {
+      "url": "https://opsecswag.com/",
+      "icon": "https://opsecswag.com/assets/images/avatar.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Opsec Swag",
+      "description": "The goal of OpsecSwag is to list apparel that is fun and stylish, but that is not in-your-face Bitcoin swag"
+    },
+    {
+      "url": "https://www.refugiobitcoin.com.br/",
+      "icon": "https://i0.wp.com/www.refugiobitcoin.com.br/wp-content/uploads/2021/09/cropped-Asset-2.png",
+      "lang": "br",
+      "tags": ["store", "bitcoin"],
+      "name": "Refugio Bitcoin",
+      "description": "Bitcoin é o nosso Vale de Galt - Somos um ecommerce de produtos bitcoiner e um perfil de opinião, acesse nosso site"
+    },
+    {
+      "url": "https://sendbitcoin.lol/",
+      "icon": "https://sendbitcoin.lol/wp-content/uploads/2020/06/satoshi-4.jpg",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Send Bitcoin LOL",
+      "description": "Bitcoin sticker shop"
+    },{
+      "url": "https://luchopoletti.com/",
+      "icon": "https://cdn.shopify.com/s/files/1/0011/5104/1651/files/Satoshi_Mask_round_circle_emblem-01_c8616ca6-d212-4157-9f4a-f4f221fdd030_100x@2x.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Lucho Poletti",
+      "description": "Printed locally, signed, numbered, & shipped priority with certificate of authenticity"
+    },
+    {
+      "url": "https://www.gobrrr.me/",
+      "icon": "https://i0.wp.com/www.gobrrr.me/ozypsoob/2022/02/cropped-GoBrrrIco-1-1.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Go Brrr",
+      "description": "We offer Bitcoin nodes, SeedSigner kits & parts, cold storage solutions, resin printed Bitcoin art, mining accessories and a 3D-printing service"
+    },
+    {
+      "url": "https://satoshivpn.com/",
+      "icon": "https://satoshivpn.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "SatoshiVPN",
+      "description": "Fast, safe, anonymous browsing. Start running your own private VPN server, no questions asked. We mean it."
+    },
+    {
+      "url": "https://www.nogood.store/",
+      "icon": "https://www.nogood.store/wp-content/uploads/2021/08/NoGood_Full_Logo@2x-1.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "No Good",
+      "description": "A crew of Node Runners. NoGood is a fictional crew of street kids, super coders and rebel engineers united by their obsession with electronics."
+    },
+    {
+      "url": "https://shamory.com/",
+      "icon": "https://i0.wp.com/shamory.com/wp-content/uploads/2022/08/logo.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "SHAmory",
+      "description": "We Make Bitcoin Fun For All Ages! Explore our bitcoin games, books and more today"
+    },
+    {
+      "url": "https://btc-hardware-solutions.square.site/",
+      "icon": "https://btc-hardware-solutions.square.site/square.ico",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "BTC Hardware solutions",
+      "description": "Level Up Your Bitcoin Security!"
+    },
+    {
+      "url": "https://bitcoinforlocalbusiness.com/",
+      "icon": "https://bitcoinforlocalbusiness.com/imgs/fav.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Bitcoin for local business",
+      "description": "Level Up Your Bitcoin Security!"
+    }
+  ]
+}

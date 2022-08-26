@@ -143,6 +143,14 @@
       "tags": ["podcast"],
       "name": "The Chaincode Podcast",
       "description": "The Chaincode Podcast brings you interviews with the most influential Bitcoin engineers about Bitcoin protocol development"
+    },
+    {
+      "url": "https://bitcoin.review/",
+      "icon": "https://bitcoin.review/assets/images/bitcoin-logo-orange.png",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "Bitcoin.Review",
+      "description": "Place to talk about Bitcoin Project software updates and some other commentary that I find interesting or noteworthy to me"
     }
   ]
 }

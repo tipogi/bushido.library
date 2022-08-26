@@ -47,6 +47,14 @@
       "tags": ["linux", "networking"],
       "name": "NetworkChuck",
       "description": "My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g",
+      "icon": "https://yt3.ggpht.com/TD0Bbfq-jnVWBNnOySWIoOp3AqPeZtGMjtHbo_UCeGseY0A70fUAeIbsETO0mmAfJu3pcSYonA=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["it", "devops"],
+      "name": "Pelado Nerd",
+      "description": "Professional Nerd"
     }
   ]
 }

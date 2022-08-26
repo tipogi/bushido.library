@@ -11,9 +11,9 @@
     "type": "LEAF",
     "icon": "hardware"
   },
-  "cold": {
-    "name": "Cold Storage",
-    "description": "Next level to store the keys to manage the coins",
+  "tools": {
+    "name": "Tools",
+    "description": "",
     "type": "LEAF",
     "icon": "coldStorage"
   }

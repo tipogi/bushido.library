@@ -20,6 +20,16 @@ Create the `topic.json` and `domain.json` files from the *bookmarks* folder:
 npm run bushido-cli generate
 ```
 If the command is succesful, import the file as nodes in the graph database:
+```bash
+# First import the topics
+npm run bushido-cli import topic
+# After the domains
+npm run bushido-cli import domain
 ```
-npm run bushido-cli import
+
+### GraphDB: Neo4J
+Delete all the database
+```cypher
+MATCH (n)
+DETACH DELETE n
 ```

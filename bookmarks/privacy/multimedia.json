@@ -1,0 +1,28 @@
+{
+  "multimedia": [
+    {
+      "url": "https://www.youtube.com/c/BraxMe/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLS6ddn1d-8ofKh4dP3GCwqJhIxcJNpPZuFGojqc8A",
+      "lang": "eng",
+      "tags": ["privacy", "security", "interviews"],
+      "name": "Rob Braxman Tech",
+      "description": "I'm the Internet Privacy Guy.  I'm a public interest hacker and technologist"
+    },
+    {
+      "url": "https://www.youtube.com/c/Techlore/videos",
+      "icon": "https://yt3.ggpht.com/lwHqZYuTM3v0oBB_RevOFbD_cHL7AWUfYID_iv8trv6_4u4r7Go_t4qFJplYiJNQVC-14Tb8",
+      "lang": "eng",
+      "tags": ["privacy", "security", "interviews"],
+      "name": "Techlore",
+      "description": "Join us in spreading privacy and security to the masses"
+    },
+    {
+      "url": "https://www.youtube.com/c/TheHatedOne/featured",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLRPnKX2Mf5FTOibGl5mUEbNqxPZqKFmKdVXhJ9kqA",
+      "lang": "eng",
+      "tags": ["essays", "privacy"],
+      "name": "The Hated One",
+      "description": "Creating deeply researched and well-sourced essays critiquing some of the most important issues of our time in a non-partisan, non-sectarian way"
+    }
+  ]
+}

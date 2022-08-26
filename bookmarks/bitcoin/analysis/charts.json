@@ -2,7 +2,7 @@
   "charts": [
     {
       "url": "https://www.lookintobitcoin.com/charts/",
-      "icon": "https://www.lookintobitcoin.com/static/favicon-32x32.png",
+      "icon": "https://storage.googleapis.com/lookintobitcoin/static/favicon-32x32.png",
       "lang": "eng",
       "tags": ["analysis", "dashboard", "charts"],
       "name": "Look into Bitcoin",

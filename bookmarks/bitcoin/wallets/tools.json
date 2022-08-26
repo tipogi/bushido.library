@@ -1,5 +1,5 @@
 {
-  "cold": [
+  "tools": [
     {
       "url": "https://www.blockplate.com/",
       "icon": "https://cdn.shopify.com/s/files/1/2362/8267/files/logo_black_100x@2x.png?v=1600187317",
@@ -87,6 +87,14 @@
       "tags": ["security", "seed", "software"],
       "name": "Bitcoin Security",
       "description": "Multisig security is a difference in kind and not in degree. It affords you the ability to avoid loss while making 1 (or more) catastrophic failures in securing your bitcoin."
+    },
+    {
+      "url": "https://seedsticks.org",
+      "icon": "https://cdn.shopify.com/s/files/1/0627/5127/7226/files/favicon.png",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Seed Sticks",
+      "description": "Five steps to ensure the randomness of your seed phrase"
     }
   ]
 }

@@ -46,5 +46,11 @@
     "description": "It is the power to selectively reveal oneself to the world",
     "type": "LEAF",
     "icon": "github"
+  },
+  "multimedia": {
+    "name": "Multimedia",
+    "description": "",
+    "type": "LEAF",
+    "icon": "multimedia"
   }
 }

@@ -55,6 +55,14 @@
       "tags": [],
       "name": "Bitcoin x Mental Models",
       "description": "Upgrading how you think"
+    },
+    {
+      "url": "https://cory.substack.com/",
+      "icon": "https://substackcdn.com/image/fetch/w_256,h_256,c_fill,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2e635b2f-380e-4c78-9a2d-bd605ccb0ab5_279x279.jpeg",
+      "lang": "eng",
+      "tags": [],
+      "name": "The daily Bitcoiner by Cory Klippsten",
+      "description": "One curated piece of Bitcoin content each day. Only the highest quality articles, podcasts, and videos make the cut"
     }
   ]
 }

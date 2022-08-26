@@ -99,6 +99,12 @@
     "name": "Cards",
     "description": "",
     "type": "LEAF",
-    "icon": ""
+    "icon": "card"
+  },
+  "store": {
+    "name": "Store",
+    "description": "",
+    "type": "LEAF",
+    "icon": "store"
   }
 }

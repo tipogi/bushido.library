@@ -66,7 +66,7 @@
     },
     {
       "url": "https://x21.tools",
-      "icon": "https://public-files.gumroad.com/variants/9myn3z4wlvvg4vt326zz2kri5wj8/4ec519eb32080d4ff1ef08cba157dc2ac7dab092fa26aeca54e8e2b8f31f9a63",
+      "icon": "https://cdn1.telegram-cdn.org/file/Ls9oVPQ4Hsx2i09JrGwcU8g8oi-3hzNj-RMbJZ47Roygnns28TRG44_MUsK5vH0tZRGY2KwuEfcFnhhAOlrNoCVnCizbYFXir8jRrgexPfyktAVsW5n5p1HSvkWEQh8k_xLK3xtYCHguiYGWkG-cXDUmgzCBeqPICRbqOZq_17epQh9p27ykKUr9LSrput1o90-UEFxLo7gaAwWYaLLP3eIeStfe5m_AusOotSO61NdMWs0CiwazJgQ2ngkwrFk_SYkExNallS9H0C5pxPeIav2AhrLFCYPxGQ1oDJKzI5HR6dPB3ipjJBa6rh1qF_d2PUUBwDGq6_JzwRpJMkVASw.jpg",
       "lang": "eng",
       "tags": ["privacy", "tools"],
       "name": "Anilsaidso",
@@ -79,6 +79,14 @@
       "tags": ["images"],
       "name": "UTXO club",
       "description": "Welcome"
+    },
+    {
+      "url": "https://bitcoinaudible.com/",
+      "icon": "https://bitcoinaudible.com/wp-content/uploads/2020/05/cropped-bitcoin_audible_logo_base-2-32x32.jpg",
+      "lang": "eng",
+      "tags": ["images"],
+      "name": "Bitcoin Audible",
+      "description": "The Best in Bitcoin made Audible. Guy Swann makes the knowledge of Bitcoin, the world's most secure, independent money, accessible to everyone."
     }
   ]
 }
