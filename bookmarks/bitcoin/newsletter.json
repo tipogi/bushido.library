@@ -1,5 +1,5 @@
 {
-  "substack": [
+  "newsletter": [
     {
       "url": "https://jimmysong.substack.com/",
       "icon": "https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2adf4eed-98e3-4d04-9405-4ebfcbb435b2_256x256.png",
@@ -17,12 +17,12 @@
       "description": "Ideas libres e independientes, soberanía individual, era de la información, filosofía, formación sobre Bitcoin, ciberseguridad, seguridad física, software, energía"
     },
     {
-      "url": "https://unasemanamejor.substack.com/",
-      "icon": "https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F61ab72d3-7269-45c6-b3f9-9c50dc6aaf2b_400x400.png",
+      "url": "https://farobitcoin.com/",
+      "icon": "https://farobitcoin.com/content/images/2022/07/Logo-Faro-2.png",
       "lang": "esp",
-      "tags": ["nodes","custody"],
-      "name": "Una semana mejor",
-      "description": "Te suscribes y te mando un email cada lunes. De que te voy a hablar en ese email? Eso es sorpresa"
+      "tags": [],
+      "name": "Faro Bitcoin",
+      "description": "Descubriendo Bitcoin y su impacto en el mundo"
     },
     {
       "url": "https://bikesandbitcoin.substack.com/",
@@ -63,6 +63,30 @@
       "tags": [],
       "name": "The daily Bitcoiner by Cory Klippsten",
       "description": "One curated piece of Bitcoin content each day. Only the highest quality articles, podcasts, and videos make the cut"
+    },
+    {
+      "url": "https://plebunderground.substack.com/",
+      "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F05198410-96fe-43c7-adc9-60380b42e226_359x359.png",
+      "lang": "eng",
+      "tags": [],
+      "name": "Pleb Underground",
+      "description": "Pleb Underground is a collective of independent Bitcoin writers, podcasters, youtubers, memers and content creators who partnered up to create a one stop spot to check out all their latest content. If you like 100% authentic Bitcoin signal, Pleb Underground is for you."
+    },
+    {
+      "url": "https://lacadena.substack.com/",
+      "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7595504-b7d2-45cd-ac9b-5638e7541355_1280x1280.png",
+      "lang": "esp",
+      "tags": [],
+      "name": "La Cadena",
+      "description": "Ven a conocer el pasado, presente y futuro de nuestro mundo digital y financiero."
+    },
+    {
+      "url": "https://sovrnbitcoiner.com/",
+      "icon": "https://sovrnbitcoiner.com/content/images/2022/08/E0DDFC88-D797-4141-8793-96B78EFF1D75-4.jpg",
+      "lang": "eng",
+      "tags": [],
+      "name": "sovrn Bitcoiner",
+      "description": "We are at war with them. They do not want us to do what we are doing and so fuck it, if its war.. lets get the battle gear on and use the tools that are available."
     }
   ]
 }

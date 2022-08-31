@@ -111,6 +111,14 @@
       "tags": ["swap"],
       "name": "ZigZag",
       "description": "Exchange Top Cryptocurrencies in seconds with low fees"
+    },
+    {
+      "url": "https://deezy.io/",
+      "icon": "https://assets.deezy.io/logo2.png",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Deezy",
+      "description": "home for lightning liquidity"
     }
   ]
 }

@@ -47,6 +47,14 @@
       "tags": ["cryptography"],
       "name": "Computerphile",
       "description": "Videos all about computers and computer stuff. Sister channel of Numberphile"
+    },
+    {
+      "url": "https://github.com/Juanvvc/crypto",
+      "icon": "https://avatars.githubusercontent.com/u/684228?v=4",
+      "lang": "esp",
+      "tags": ["cryptography"],
+      "name": "Introducción a la criptografía",
+      "description": "Transparencias para un curso de introducción a la criptografía"
     }
   ]
 }

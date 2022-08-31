@@ -142,6 +142,38 @@
       "tags": ["articles"],
       "name": "The Bitcoin Manual",
       "description": "The Bitcoin Manual is a passion project created by two morons, Che & Nicky"
+    },
+    {
+      "url": "https://medium.com/@SamouraiWallet",
+      "icon": "https://pbs.twimg.com/profile_images/1210194659429011459/gqv1f2CT_400x400.png",
+      "lang": "eng",
+      "tags": [],
+      "name": "Samurai Wallet",
+      "description": "A modern bitcoin wallet hand forged to keep your transactions private, your identity masked, and your funds secure."
+    },
+    {
+      "url": "https://medium.com/@Marketsbylili",
+      "icon": "https://miro.medium.com/fit/c/176/176/1*QLPoFboutYWCS6KASbzeYA.jpeg",
+      "lang": "eng",
+      "tags": [],
+      "name": "Lili",
+      "description": "Bitcoin miner | Cryptography and technology obsessed"
+    },
+    {
+      "url": "https://anarkiocrypto.medium.com/",
+      "icon": "https://miro.medium.com/fit/c/176/176/1*XRWNMqFMVxDtAAGltBvyLg.jpeg",
+      "lang": "eng",
+      "tags": [],
+      "name": "Anarkio Crypto",
+      "description": "Living on crypto and creating practical cryptocurrency solutions."
+    },
+    {
+      "url": "https://batcoinz.com/",
+      "icon": "https://batcoinz.com/wp-content/uploads/2022/05/LogoMakr-5Ig93s.png",
+      "lang": "eng",
+      "tags": [],
+      "name": "Batcoinz",
+      "description": "Articles related about bitcoin mining"
     }
   ]
 } 

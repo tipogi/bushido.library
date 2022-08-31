@@ -41,11 +41,11 @@
       "description": "Cryptography, math and financial revolution. Bitcoin, because fuck the banks"
     },
     {
-      "url": "https://www.bitrawr.com/difficulty-estimator",
+      "url": "https://www.bitrawr.com/terminal",
       "icon": "https://www.bitrawr.com/assets/cryptothis/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "fees", "mempool"],
-      "name": "Bitrawr | Difficulty",
+      "name": "Bitrawr | Terminal",
       "description": "It is a useful Bitcoin resource guiding you to the best exchanges, most-trusted wallets, nearest ATMs, efficient mining equipment, all in one cohesive site"
     },
     {

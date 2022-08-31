@@ -55,6 +55,38 @@
       "tags": ["sms","privacy"],
       "name": "JMP",
       "description": "Get different numbers to give out to friends, to dates, to professional contacts: whatever your needs, JMP helps you protect your privacy"
+    },
+    {
+      "url": "https://crypton.sh/",
+      "icon": "https://crypton.sh/storage/assets/icons/favicon.ico",
+      "lang": "eng",
+      "tags": ["sms","privacy"],
+      "name": "Crypton",
+      "description": "Secure SMS SIM card in the cloud. For a price of a cinema ticket a month we offer a physical SIM phone number. All your messages are encrypted with your personal key that we cannot access."
+    },
+    {
+      "url": "https://lnsms.world/",
+      "icon": "https://lnsms.world/icon.png",
+      "lang": "eng",
+      "tags": ["sms","privacy"],
+      "name": "LN SMS",
+      "description": "Send texts worldwide and pay with Lightning"
+    },
+    {
+      "url": "https://smspva.com/",
+      "icon": "https://smspva.com/templates/SMSv1EN/images/logo.png",
+      "lang": "eng",
+      "tags": ["sms","privacy"],
+      "name": "SMS PVA",
+      "description": "Receive SMS to a temporary number. Select a service, click get a number, then send an SMS to the number. Then you will receive your SMS within 2-6 minutes."
+    },
+    {
+      "url": "https://juicysms.com/",
+      "icon": "https://juicysms.com/images/logo.png",
+      "lang": "eng",
+      "tags": ["sms","privacy"],
+      "name": "Juicy SMS",
+      "description": "Temporary USA, Dutch and UK numbers for a cheap price. With these numbers you can SMS verify various online services"
     }
   ]
 }

@@ -36,10 +36,10 @@
     "icon": "multimedia"
   },
   "substack": {
-    "name": "Substack",
+    "name": "Newsletter",
     "description": "",
     "type": "LEAF",
-    "icon": "substack"
+    "icon": "newsletter"
   },
   "sidechains": {
     "name": "Side-chains",

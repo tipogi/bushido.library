@@ -66,7 +66,7 @@
     },
     {
       "url": "https://x21.tools",
-      "icon": "https://cdn1.telegram-cdn.org/file/Ls9oVPQ4Hsx2i09JrGwcU8g8oi-3hzNj-RMbJZ47Roygnns28TRG44_MUsK5vH0tZRGY2KwuEfcFnhhAOlrNoCVnCizbYFXir8jRrgexPfyktAVsW5n5p1HSvkWEQh8k_xLK3xtYCHguiYGWkG-cXDUmgzCBeqPICRbqOZq_17epQh9p27ykKUr9LSrput1o90-UEFxLo7gaAwWYaLLP3eIeStfe5m_AusOotSO61NdMWs0CiwazJgQ2ngkwrFk_SYkExNallS9H0C5pxPeIav2AhrLFCYPxGQ1oDJKzI5HR6dPB3ipjJBa6rh1qF_d2PUUBwDGq6_JzwRpJMkVASw.jpg",
+      "icon": "https://sovrnbitcoiner.com/content/images/2022/08/E0DDFC88-D797-4141-8793-96B78EFF1D75-4.jpg",
       "lang": "eng",
       "tags": ["privacy", "tools"],
       "name": "Anilsaidso",
@@ -87,6 +87,14 @@
       "tags": ["images"],
       "name": "Bitcoin Audible",
       "description": "The Best in Bitcoin made Audible. Guy Swann makes the knowledge of Bitcoin, the world's most secure, independent money, accessible to everyone."
+    },
+    {
+      "url": "https://btctranscripts.com/",
+      "icon": "https://btctranscripts.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["images"],
+      "name": "Bitcoin Transcripts.com",
+      "description": "A treasure trove of transcripts associated with Bitcoin and Lightning Network"
     }
   ]
 }

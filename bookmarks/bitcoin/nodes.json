@@ -63,6 +63,14 @@
       "tags": ["node", "privacy", "security", "liberty"],
       "name": "Start9Labs",
       "description": "The era of sovereign computing. Anyone can do it. No one can stop it"
+    },
+    {
+      "url": "https://bitnodes.io/",
+      "icon": "https://bitnodes.io/static/img/favicon.ico",
+      "lang": "eng",
+      "tags": ["node", "privacy", "security", "liberty"],
+      "name": "Bitnodes",
+      "description": "Bitnodes estimates the relative size of the Bitcoin peer-to-peer network by finding all of its reachable nodes"
     }
   ]
 }

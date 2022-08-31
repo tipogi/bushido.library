@@ -95,6 +95,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "Seed Sticks",
       "description": "Five steps to ensure the randomness of your seed phrase"
+    },
+    {
+      "url": "https://www.borderwallets.com/",
+      "icon": "https://www.borderwallets.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Border Wallets",
+      "description": "Introducing a new way to quickly and reliably memorise Bitcoin seed phrases."
     }
   ]
 }

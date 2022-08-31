@@ -31,6 +31,22 @@
       "tags": ["linux", "guides"],
       "name": "Linux Journey",
       "description": "Learn the ways of Linux-fu, for free"
+    },
+    {
+      "url": "https://9to5linux.com/",
+      "icon": "https://i0.wp.com/9to5linux.com/wp-content/uploads/2021/12/9to5linux-logo-mini-copy-modified.png?fit=1800%2C1800&ssl=1",
+      "lang": "eng",
+      "tags": ["linux", "guides"],
+      "name": "9to5 Linux",
+      "description": "Linux news, reviews, tutorial, and more"
+    },
+    {
+      "url": "https://www.linux-magazine.com/",
+      "icon": "https://www.linux-magazine.com/extension/lnm/design/linux_magazin_en/images/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux", "guides"],
+      "name": "9to5 Linux",
+      "description": "The latest Linux and Open Source News"
     }
   ]
 }

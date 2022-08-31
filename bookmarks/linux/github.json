@@ -7,6 +7,14 @@
       "tags": ["linux", "tools"],
       "name": "Bpytop",
       "description": "Resource monitor that shows usage and stats for processor, memory, disks, network and processes"
+    },
+    {
+      "url": "https://github.com/gnome-terminator/terminator",
+      "icon": "https://avatars.githubusercontent.com/u/63008829?s=200&v=4",
+      "lang": "eng",
+      "tags": ["linux", "tools"],
+      "name": "GNOME Terminator",
+      "description": "A new home for gnome-terminator? multiple GNOME terminals in one window"
     }
   ]
 }
