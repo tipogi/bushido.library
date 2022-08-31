@@ -9,6 +9,14 @@
       "description": "Please note, the indicators below are experimental and aim to create valuation approaches for the new asset class of Bitcoin. These charts are built as informative guides. There is no guarantee certain rules within each model will continue to apply as Bitcoin progresses along its adoption journey"
     },
     {
+      "url": "https://www.bitrawr.com/terminal",
+      "icon": "https://www.bitrawr.com/assets/favicon.ico",
+      "lang": "eng",
+      "tags": ["analysis", "fees", "mempool"],
+      "name": "Bitrawr | Terminal",
+      "description": "It is a useful Bitcoin resource guiding you to the best exchanges, most-trusted wallets, nearest ATMs, efficient mining equipment, all in one cohesive site"
+    },
+    {
       "url": "http://www.bitcoinkpis.com/",
       "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
       "lang": "eng",
