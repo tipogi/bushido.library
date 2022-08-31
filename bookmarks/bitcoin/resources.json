@@ -69,8 +69,8 @@
       "icon": "https://sovrnbitcoiner.com/content/images/2022/08/E0DDFC88-D797-4141-8793-96B78EFF1D75-4.jpg",
       "lang": "eng",
       "tags": ["privacy", "tools"],
-      "name": "Anilsaidso",
-      "description": "Teaching bitcoin through visuals"
+      "name": "x21 Tools",
+      "description": "Self Sovereign Tools"
     },
     {
       "url": "https://utxo.club/",
@@ -95,6 +95,14 @@
       "tags": ["images"],
       "name": "Bitcoin Transcripts.com",
       "description": "A treasure trove of transcripts associated with Bitcoin and Lightning Network"
+    },
+    {
+      "url": "https://anilsaidso.gumroad.com/",
+      "icon": "https://public-files.gumroad.com/variants/89qs7n0x2fjjyka40w0rzr0dnxad/4ec519eb32080d4ff1ef08cba157dc2ac7dab092fa26aeca54e8e2b8f31f9a63",
+      "lang": "eng",
+      "tags": ["images"],
+      "name": "Anil said so",
+      "description": "Teaching bitcoin through visuals"
     }
   ]
 }
