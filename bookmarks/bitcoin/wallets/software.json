@@ -42,7 +42,7 @@
     },
     {
       "url": "https://zeusln.app/",
-      "icon": "https://zeusln.app/static/media/Zeus.42d9c932.svg",
+      "icon": "https://zeusln.app/favicon.ico",
       "lang": "eng",
       "tags": ["mobile-wallet", "ln"],
       "name": "Zeus",

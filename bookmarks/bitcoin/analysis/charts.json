@@ -17,14 +17,6 @@
       "description": "It is a useful Bitcoin resource guiding you to the best exchanges, most-trusted wallets, nearest ATMs, efficient mining equipment, all in one cohesive site"
     },
     {
-      "url": "http://www.bitcoinkpis.com/",
-      "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
-      "lang": "eng",
-      "tags": ["analysis", "charts", "dashboard"],
-      "name": "Bitcoin KPI",
-      "description": "The goal of this dashboard is to help the Bitcoin community focus on the important metrics & KPIs that I think are most correlated with the success of the network and ecosystem"
-    },
-    {
       "url": "https://charts.woobull.com/",
       "icon": "https://woobull.com/favicon.png",
       "lang": "eng",

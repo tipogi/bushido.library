@@ -23,6 +23,14 @@
       "tags": ["essays", "privacy"],
       "name": "The Hated One",
       "description": "Creating deeply researched and well-sourced essays critiquing some of the most important issues of our time in a non-partisan, non-sectarian way"
+    },
+    {
+      "url": "https://www.youtube.com/c/SideOfBurritos/videos",
+      "icon": "https://sideofburritos.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["essays", "privacy"],
+      "name": "Side Of Burritos",
+      "description": "Hi, I'm Josh. I've spent the past 12 years in the computer security field. From a Linux Systems Administrator managing over 1,000 servers for a hosting company - to protecting websites you use every day at the world's largest DDoS mitigation provider"
     }
   ]
 }

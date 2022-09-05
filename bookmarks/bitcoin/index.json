@@ -13,67 +13,67 @@
   },
   "articles": {
     "name": "Articles",
-    "description": "",
+    "description": "Understand different prespectives (technological, communities, individual, security, ...) that this creation has",
     "type": "LEAF",
     "icon": "articles"
   },
   "resources": {
     "name": "Resources",
-    "description": "",
+    "description": "Find enough educational resources and information about it that you could spend months revising and learning",
     "type": "LEAF",
     "icon": "resources"
   },
   "podcast": {
     "name": "Podcasts",
-    "description": "",
+    "description": "Listen bitcoin related programs. Most of them, try to engage and have accessible conversations with some of the industry's most influential minds",
     "type": "LEAF",
     "icon": "podcast"
   },
   "multimedia": {
     "name": "Multimedia",
-    "description": "",
+    "description": "Enjoy visually the content creators interviews, tutorials and more",
     "type": "LEAF",
     "icon": "multimedia"
   },
   "newsletter": {
     "name": "Newsletter",
-    "description": "",
+    "description": "Get regularly your favourite author relevant and valuable information in your mailboxes",
     "type": "LEAF",
     "icon": "newsletter"
   },
   "sidechains": {
     "name": "Side-chains",
-    "description": "",
+    "description": "It comes to solve some congestion issues that happens in the blockchain",
     "type": "LEAF",
     "icon": "sidechain"
   },
   "news": {
     "name": "News",
-    "description": "",
+    "description": "Get the latest information that is happening around and be up-to-day",
     "type": "LEAF",
     "icon": "news"
   },
   "p2p": {
     "name": "P2P",
-    "description": "",
+    "description": "The most important decentralised exchanges to stack your precious sats. Not your keys, not your coins",
     "type": "LEAF",
     "icon": "p2p"
   },
   "nodes": {
     "name": "Nodes",
-    "description": "",
+    "description": "Do you want to be part of the decentralise network and verify your own transactions? Get the hardware that you need, download the software and start routing all the network transactions",
     "type": "LEAF",
     "icon": "node"
   },
   "services": {
     "name": "Services",
-    "description": "",
+    "description": "Find some popular services that it helps in the custody, purchase and more. Inform carefully about KYC rules",
     "type": "LEAF",
     "icon": "services"
   },
   "swap": {
     "name": "Swap",
-    "description": "",
+    "description": "Do you have some coins that does not have value for you or you have a specific request? Go and change it",
     "type": "LEAF",
     "icon": "swap"
   },
@@ -97,13 +97,13 @@
   },
   "cards": {
     "name": "Cards",
-    "description": "",
+    "description": "Be part of the fiat system using different type of gift or credit cards",
     "type": "LEAF",
     "icon": "card"
   },
   "store": {
     "name": "Store",
-    "description": "",
+    "description": "Do you want to be inside of the circular economy? Here you have some markets to buy some goods",
     "type": "LEAF",
     "icon": "store"
   }

@@ -31,6 +31,14 @@
       "tags": ["github", "nodes", "bitcoin"],
       "name": "Dojo",
       "description": "The team responsible for development of Dojo full node wallet tracking server"
+    },
+    {
+      "url": "https://github.com/getumbrel/umbrel",
+      "icon": "https://avatars.githubusercontent.com/u/59408891?s=200&v=4",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "Umbrel",
+      "description": "A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian."
     }
   ]
 }

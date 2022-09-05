@@ -9,12 +9,12 @@
     "name": "Hardware",
     "description": "Keep secure the keys in a specialised hardware",
     "type": "LEAF",
-    "icon": "hardware"
+    "icon": "coldStorage"
   },
   "tools": {
     "name": "Tools",
-    "description": "",
+    "description": "Do you want to level up your stack security or having issues with your wallet, dig here!",
     "type": "LEAF",
-    "icon": "coldStorage"
+    "icon": "hardware"
   }
 }

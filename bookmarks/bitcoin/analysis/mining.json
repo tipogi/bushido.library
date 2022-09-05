@@ -58,7 +58,7 @@
     },
     {
       "url": "https://whattomine.com/",
-      "icon": "none",
+      "icon": "https://whattomine.com/assets/favicon/favicon-316428778fe6aa7979563cd834b07d724c0d878d420e2af77434cc3c4b185d40.ico",
       "lang": "eng",
       "tags": ["analysis", "mining", "gpu"],
       "name": "What to mine",

@@ -25,6 +25,14 @@
       "description": "A single-page view into the metrics of the Bitcoin ecosystem."
     },
     {
+      "url": "http://www.bitcoinkpis.com/",
+      "icon": "https://tubitcoin.es/wp-content/plugins/cryptocurrency-price-ticker-widget/assets/coin-logos/bitcoin.svg",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "dashboard"],
+      "name": "Bitcoin KPI",
+      "description": "The goal of this dashboard is to help the Bitcoin community focus on the important metrics & KPIs that I think are most correlated with the success of the network and ecosystem"
+    },
+    {
       "url": "https://bitbo.io/",
       "icon": "https://assets.bitbo.io/img/logos/bitbo-logo.svg",
       "lang": "eng",
