@@ -63,14 +63,6 @@
       "tags": ["p2p"],
       "name": "Oshi",
       "description": "Empower your local economy through Bitcoin"
-    },
-    {
-      "url": "https://peachbitcoin.com/",
-      "icon": "https://peachbitcoin.com/wp-content/uploads/2022/08/cropped-app-ico-32x32.png",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "Bitcoin Peach",
-      "description": "Buy and sell Bitcoin the way you want. Swipe, Match, Stack"
     }
   ]
 }

@@ -103,6 +103,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "Border Wallets",
       "description": "Introducing a new way to quickly and reliably memorise Bitcoin seed phrases."
+    },
+    {
+      "url": "https://cryptokeystack.com/",
+      "icon": "https://cryptokeystack.com/wp-content/uploads/2020/10/cropped-crypto_submark-2-192x192.jpg",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Crypto Key Stack",
+      "description": "Will a plastic hardware wallet, backed by paper, be enough? Use Stainless Steel Key Manager"
     }
   ]
 }
