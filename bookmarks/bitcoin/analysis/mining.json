@@ -81,17 +81,17 @@
       "description": "Miners profitability. Live income estimation of all known ASIC miners, updated every minute"
     },
     {
-      "url": "https://www.kryptex.org/es/best-gpus-for-mining",
+      "url": "https://www.kryptex.org/en/best-gpus-for-mining",
       "icon": "https://9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net/static/v2/favicons/favicon.953a562cb210.png",
-      "lang": "es",
+      "lang": "eng",
       "tags": ["analysis", "mining", "gpu"],
       "name": "Kryptex",
       "description": "Las mejores GPU para minar. Kryptex está monitoreando el hashrate y los rendimientos de las GPUs disponibles en el mercado"
     },
     {
-      "url": "https://2miners.com/es",
+      "url": "https://2miners.com",
       "icon": "https://static-l.2miners.com/i/logo.svg",
-      "lang": "es",
+      "lang": "eng",
       "tags": ["mining", "gpu"],
       "name": "2Miners",
       "description": "Mining pools for professionals by professionals"

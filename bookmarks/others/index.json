@@ -1,0 +1,20 @@
+{
+  "economy": {
+    "name": "Economy",
+    "description": "",
+    "type": "LEAF",
+    "icon": "economy"
+  },
+  "news": {
+    "name": "News",
+    "description": "Out of main stream media news",
+    "type": "LEAF",
+    "icon": "news"
+  },
+  "energy": {
+    "name": "Energy",
+    "description": "Out of main stream media news",
+    "type": "LEAF",
+    "icon": "energy"
+  }
+}

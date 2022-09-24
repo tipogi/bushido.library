@@ -111,6 +111,14 @@
       "tags": ["dev", "fund"],
       "name": "Who Fund Bitcoin Development",
       "description": "An exploration tool for the Bitcoin open-source ecosystem"
+    },
+    {
+      "url": "https://doxygen.bitcoincore.org/index.html",
+      "icon": "https://doxygen.bitcoincore.org/bitcoin_logo_doxygen.png",
+      "lang": "eng",
+      "tags": ["dev", "fund"],
+      "name": "Bitcoin Core Code",
+      "description": "Use Modules, Namespaces, Classes, or Files at the top of the page to start navigating"
     }
   ]
 }

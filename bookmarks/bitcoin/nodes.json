@@ -71,6 +71,14 @@
       "tags": ["node", "privacy", "security", "liberty"],
       "name": "Bitnodes",
       "description": "Bitnodes estimates the relative size of the Bitcoin peer-to-peer network by finding all of its reachable nodes"
+    },
+    {
+      "url": "https://prunednode.today/",
+      "icon": "https://pbs.twimg.com/profile_images/1449124038757044225/BQuoVjF9_400x400.jpg",
+      "lang": "eng",
+      "tags": ["node", "core"],
+      "name": "Pruned Node Today",
+      "description": "Get your pruned Bitcoin Core node in 5 minutes"
     }
   ]
 }

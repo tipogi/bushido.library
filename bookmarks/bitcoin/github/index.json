@@ -22,5 +22,11 @@
     "description": "Ready to broadcast different transactions to the network? or want to install some indexer to track the transactions?",
     "type": "LEAF",
     "icon": "transactions"
+  },
+  "dev": {
+    "name": "Development",
+    "description": "Understand bitcoin jumping in the code to understanding its implementation",
+    "type": "LEAF",
+    "icon": "dev"
   }
 }

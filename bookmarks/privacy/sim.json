@@ -87,6 +87,14 @@
       "tags": ["sms","privacy"],
       "name": "Juicy SMS",
       "description": "Temporary USA, Dutch and UK numbers for a cheap price. With these numbers you can SMS verify various online services"
+    },
+    {
+      "url": "https://www.talkatone.com/",
+      "icon": "https://www.talkatone.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["sim","privacy"],
+      "name": "Talk at one",
+      "description": "The calling app that let's you choose your own free U.S. phone number"
     }
   ]
 }

@@ -155,10 +155,26 @@
     {
       "url": "https://www.youtube.com/channel/UCUq_ZdezVWKPvkWRicAYxLA/videos",
       "icon": "https://bitcoindevkit.org/favicon.ico",
-      "lang": "esp",
+      "lang": "eng",
       "tags": ["bitcoin", "tutorials"],
       "name": "Bitcoin Developers",
       "description": "Learn Bitcoin development every week from experts around the community!"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLTSQLiuakZ401vG5Bxv3BrbU-SPC_9O9P",
+      "icon": "https://yt3.ggpht.com/81DA8dkR-TEE58eh35KVqJ37M7_eR-QK4u8uvlgZLkmYc-Fkh0xUhLaCDgi9Pijzye1rI2MZ=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Cripto Panas",
+      "description": "El canal esta creado con la finalidad de explicar de una forma muy sencilla (sin tecnicismos) BITCOIN"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCuK7hPaCJzPtR5w5X_Y1xKw",
+      "icon": "https://dergigi.com/assets/images/avatar.jpg",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Gigi Der",
+      "description": "I'm a bitcoiner and software engineer, writing words and code for Bitcoin"
     }
   ]
 }

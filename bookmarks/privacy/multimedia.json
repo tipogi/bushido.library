@@ -31,6 +31,14 @@
       "tags": ["essays", "privacy"],
       "name": "Side Of Burritos",
       "description": "Hi, I'm Josh. I've spent the past 12 years in the computer security field. From a Linux Systems Administrator managing over 1,000 servers for a hosting company - to protecting websites you use every day at the world's largest DDoS mitigation provider"
+    },
+    {
+      "url": "https://www.youtube.com/c/TheNewOil/videos",
+      "icon": "https://thenewoil.org/pictures/favicon.ico",
+      "lang": "eng",
+      "tags": ["essays", "privacy"],
+      "name": "The New Oil",
+      "description": "The New Oil is a project dedicated to teaching beginners and non-tech-savvy people about digital privacy and cybersecurity"
     }
   ]
 }

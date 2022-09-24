@@ -1,0 +1,44 @@
+{
+  "energy": [
+    {
+      "url": "https://www.electricitymaps.com/",
+      "icon": "https://uploads-ssl.webflow.com/62f5fe59915f95725f9a9a8e/62fa43b3fd20bf2fa3b45356_emap-favicon.png",
+      "lang": "eng",
+      "tags": ["energy", "map"],
+      "name": "Electricity Maps",
+      "description": "The leading resource for 24/7 electricity CO2 data"
+    },
+    {
+      "url": "https://play.google.com/store/apps/details?id=es.asseco.ree&hl=en&gl=US",
+      "icon": "https://play-lh.googleusercontent.com/eoSeTuHmASr580rlKv1_8Atb4eUYkCU9aARdH7EdLCtWdbJIYSvE07y3aS1yMFO0ww4=s96-rw",
+      "lang": "esp",
+      "tags": ["energy", "app"],
+      "name": "Red OS",
+      "description": "We introduce you redOS, the app of Red Eléctrica de España, which allows you to know, in real time, the situation of the electricity system through a set of indicators of the system operation."
+    },
+    {
+      "url": "https://tarifaluzhora.es/",
+      "icon": "https://tarifaluzhora.es/sites/tarifaluzhora.es/files/favicon_1_0.ico",
+      "lang": "esp",
+      "tags": ["energy", "app"],
+      "name": "Tarifa luz hora",
+      "description": "Precio de la luz por horas. Elige tu tarifa y el día que desees consultar"
+    },
+    {
+      "url": "https://www.somenergia.coop/es/",
+      "icon": "https://www.somenergia.coop/wp-content/uploads/2014/08/favicon.png",
+      "lang": "esp",
+      "tags": ["energy", "company"],
+      "name": "Somenergia",
+      "description": "En Som Energia producimos y comercializamos energía de fuentes 100% renovables."
+    },
+    {
+      "url": "https://www.goiener.com/",
+      "icon": "https://www.goiener.com/wp-content/uploads/2018/04/g-web-500-1-150x150.png",
+      "lang": "esp",
+      "tags": ["energy", "company"],
+      "name": "Goiener",
+      "description": "Energia berriztagarrien sorkuntza eta erosle kooperatiba"
+    }
+  ]
+}

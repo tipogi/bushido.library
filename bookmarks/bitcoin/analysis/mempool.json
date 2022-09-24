@@ -79,6 +79,14 @@
       "tags": ["analysis", "mempool", "block"],
       "name": "Mempool Explorer",
       "description": "This is the full mempool visualizer and it is focused on visualizing where a transaction is in the mining queue"
+    },
+    {
+      "url": "https://blocktime.site/",
+      "icon": "https://blocktime.site/favicon.png",
+      "lang": "eng",
+      "tags": ["analysis", "mempool", "block"],
+      "name": "Block time",
+      "description": "Select the timestamp and it will return the block that was mined at that time"
     }
   ]
 }

@@ -9,28 +9,12 @@
       "description": "Documenting Bitcoin related setups using LND, JoinMarket, RaspiBlitz, Debian and Ubuntu"
     },
     {
-      "url": "https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line",
-      "icon": "https://avatars.githubusercontent.com/u/69103",
-      "lang": "eng",
-      "tags": ["github", "guides", "bitcoin"],
-      "name": "Learning Bitcoin from the Command Line",
-      "description": "It is a tutorial for working with Bitcoin (and Lightning) that teaches direct interaction with the servers themselves, as the most robust and secure way to begin cryptocurrency work"
-    },
-    {
       "url": "https://github.com/btcguide/btcguide.github.io",
       "icon": "https://avatars.githubusercontent.com/u/69905025",
       "lang": "eng",
       "tags": ["github", "guides", "bitcoin"],
       "name": "10x Security Bitcoin Guide",
       "description": "How to store bitcoin without any single point of failure"
-    },
-    {
-      "url": "https://github.com/darosior/python-bip32",
-      "icon": "https://avatars.githubusercontent.com/u/22457751",
-      "lang": "eng",
-      "tags": ["github", "guides", "bitcoin", "bip"],
-      "name": "Python-BIP32",
-      "description": "Minimalistic implementation of BIP32"
     },
     {
       "url": "https://github.com/regiregi22/Hodl-de-Bitcoin-seguro",

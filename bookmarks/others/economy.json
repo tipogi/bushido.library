@@ -1,0 +1,92 @@
+{
+  "economy": [
+    {
+      "url": "https://www.youtube.com/c/DaniFernandezcanaleconomia",
+      "icon": "https://danifernandez.org/wp-content/uploads/2021/05/cropped-Logo-Dani-Fernandez-vm-1.png",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Daniel Fernandez",
+      "description": "Canal de vídeos de economía y temas relacionados con el liberalismo clásico."
+    },
+    {
+      "url": "https://www.youtube.com/c/juanrallo/videos",
+      "icon": "https://juanramonrallo.com/wp-content/uploads/2018/10/favicon-150x150.jpg",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Juan Ramon Rallo",
+      "description": "Economía, Política y Liberalismo."
+    },
+    {
+      "url": "https://www.youtube.com/c/MarcVidalVlog/videos",
+      "icon": "https://images.squarespace-cdn.com/content/v1/5573469fe4b0061829d437e6/1590663178433-UEKYJ86LR2KQGV7NQXAI/favicon.ico?format=100w",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Marc Vidal",
+      "description": "Marc Vidal es un analista económico y divulgador tecnológico"
+    },
+    {
+      "url": "https://piped.kavin.rocks/channel/UCkelzVGIRW_RnoLISx3vmPA",
+      "icon": "https://pipedproxy.kavin.rocks/VudUpvGe6j9GITbjLSbxfWuH2_nsmZwXqFwJQ6bCKjIMckAvp_WNKx8X47yNkMRtVsYu2t39=s48-c-k-c0x00ffffff-no-rw?host=yt3.ggpht.com",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Eduardo Blasco",
+      "description": "Profesor de la Universidad Francisco Marroquin. Economía austríaca, libertarismo y teoría monetaria."
+    },
+    {
+      "url": "https://www.youtube.com/c/principlesbyraydalio/videos",
+      "icon": "https://www.principles.com/assets/favicon-0e68a4a513fdaa22a5405f7a486c6e281966e48a01a3a5c33e1d216054bd98b9.ico",
+      "lang": "eng",
+      "tags": ["economy", "channel"],
+      "name": "Ray Dalio",
+      "description": "Ray Dalio is the founder, co-Chief Investment Officer and co-Chairman of Bridgewater Associates, which is a global macro investment firm and is the world's largest hedge fund"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?app=desktop&list=PLALopHfWkFlGvgxFXosWmjzSGw95IFa1t",
+      "icon": "https://mises.org/sites/all/themes/bootsass/favicon.ico",
+      "lang": "eng",
+      "tags": ["economy", "channel"],
+      "name": "Mises Media",
+      "description": "Featured videos from the Mises Institute. The Mises Institute promotes Austrian economics, freedom, and peace in the liberal intellectual tradition of Ludwig von Mises through research, publishing, and education."
+    },
+    {
+      "url": "https://www.youtube.com/c/NegociosTV",
+      "icon": "https://www.negocios.com/wp-content/uploads/2022/08/ico-negocios.png",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Negocios TV",
+      "description": "Somos el canal de televisión de información económica en español. Queremos contarte la actualidad financiera de una manera diferente. Pensando en ti y en lo que te interesa"
+    },
+    {
+      "url": "https://www.youtube.com/c/oscarvara1/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AMLnZu8NYnkO6Fkf4RoihgxwByyAXlgbVeLzOFQdzz_r6w=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Oscar Vara",
+      "description": "Este canal quiere contarte, desde la economía y la geopolítica, lo que ocurre en este mundo en cambio dinámico."
+    },
+    {
+      "url": "https://www.youtube.com/c/VisualEconomik",
+      "icon": "https://yt3.ggpht.com/GKr7xdDnFl8a1zlS7cxHbOBch5d3vajBKIqkUH1a6MLoi7EcJDB5vWeu9RDZA0yqru3k9Fly2Hw=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Visual Economik",
+      "description": "¡Bienvenidos al canal donde explicamos las historias más fascinantes de la economía!"
+    },
+    {
+      "url": "https://www.youtube.com/c/AnCat/videos",
+      "icon": "https://yt3.ggpht.com/HeVWB277W_KVx_y9mxaeud9kn_V1Wk4knr4q-5L93qe1vvW-xtiBCbfCxZPUUSlybR_4zy6A=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Visual Economik",
+      "description": "Esto es AnCat. Un canal para la difusión y promoción del ideal ANARCOCAPITALISTA. CAPITALISMO, AHORRO Y TRABAJO DURU. MIAU!!! VIVA EL ANARCOCAPITALISMO"
+    },
+    {
+      "url": "https://www.youtube.com/c/TerapiaLiberal/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AMLnZu_87ex2MpTK2GqNEtcpsGivY4Z6-bhiyDgJ-3Re=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["economy", "channel"],
+      "name": "Terapia Liberal",
+      "description": "Vlog de analisis de actualidad, economia, política y filosofia liberal."
+    }
+  ]
+}

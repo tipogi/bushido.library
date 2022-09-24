@@ -111,6 +111,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "Crypto Key Stack",
       "description": "Will a plastic hardware wallet, backed by paper, be enough? Use Stainless Steel Key Manager"
+    },
+    {
+      "url": "https://vulcan21.com/",
+      "icon": "https://vulcan21.com/wp-content/uploads/2022/02/cropped-VULCAN_GOLD.png",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Vulcan21",
+      "description": "Born out of necessity, built to last and chosen to immortalize your legacy."
     }
   ]
 }

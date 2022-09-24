@@ -7,13 +7,16 @@ BITCOIN:
 - https://bitcoinforlocalbusiness.com/
 - https://dyinodes.com (store)
 - https://sha256algorithm.com
+- https://geyser.fund
 
 LIGHTNING:
 https://www.coincorner.com
 - The grape, lightning in react - MUltimedia
+- https://www.youtube.com/channel/UCZVLvVz02wTzDz0uGC9P5dw
 
 OTHER:
 - https://github.com/aristocratos/bpytop
+- https://privacytests.org
 
 NEW ICONS:
 - linux

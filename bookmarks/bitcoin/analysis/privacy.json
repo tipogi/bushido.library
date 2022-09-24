@@ -31,8 +31,7 @@
       "tags": ["privacy", "analysis", "transaction", "whirlpool"],
       "name": "Samourai Whirlpool live",
       "description": "Visualizing Whirlpool transactions from 100 last blocks and mempool (real-time)"
-    }
-    ,
+    },
     {
       "url": "https://paynym.is/",
       "icon": "https://paynym.is/static/favicon-32x32.png",
@@ -40,6 +39,14 @@
       "tags": ["privacy", "analysis", "paynym"],
       "name": "PayNym",
       "description": "A friendly face unique to you. Your PayNym Bot is a memorable and friendly character uniquely generated from a hash of your BIP47 reusable payment code"
+    },
+    {
+      "url": "https://btc.usespiral.com/",
+      "icon": "https://btc.usespiral.com/favicon.svg",
+      "lang": "eng",
+      "tags": ["privacy", "analysis", "paynym"],
+      "name": "Spiral for BTC",
+      "description": "Count your coins, privately. Look up any BTC address balance, without revealing the address to anyone – not even us."
     }
   ]
 }

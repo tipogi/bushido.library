@@ -1,0 +1,20 @@
+{
+  "economy": [
+    {
+      "url": "https://www.zerohedge.com/",
+      "icon": "https://danifernandez.org/wp-content/uploads/2021/05/cropped-Logo-Dani-Fernandez-vm-1.png",
+      "lang": "esp",
+      "tags": ["news"],
+      "name": "Zero Edge",
+      "description": "On a long enough timeline the survival rate of everyone drops to zero"
+    },
+    {
+      "url": "https://crashoil.blogspot.com/",
+      "icon": "",
+      "lang": "esp",
+      "tags": ["news"],
+      "name": "The oil crash",
+      "description": "La llegada al cenit de produccion del petroleo..."
+    }
+  ]
+}

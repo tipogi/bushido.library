@@ -34,7 +34,7 @@
     },
     {
       "url": "https://github.com/janoside/btc-rpc-explorer",
-      "icon": "https://avatars.githubusercontent.com/u/99734?s=120&v=4",
+      "icon": "https://github.com/janoside/btc-rpc-explorer/blob/master/public/img/logo/logo.svg",
       "lang": "eng",
       "tags": ["github", "explorer", "bitcoin"],
       "name": "BTC RPC Explorer",
@@ -42,7 +42,7 @@
     },
     {
       "url": "https://github.com/romanz/electrs",
-      "icon": "https://avatars.githubusercontent.com/u/9900",
+      "icon": "https://github.com/romanz/electrs/blob/master/logo/icon.svg",
       "lang": "eng",
       "tags": ["github", "nodes", "bitcoin", "indexer"],
       "name": "Electrs",

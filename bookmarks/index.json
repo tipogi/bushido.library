@@ -3,18 +3,28 @@
     "name": "Bitcoin",
     "description": "It is a decentralise protocol to exchange value. - If you do not believe it or do not get it, I do not have the time to try to convince you, sorry (Satoshi Nakamoto)",
     "type": "ROOT",
-    "icon": "bitcoin"
+    "icon": "bitcoin",
+    "access": "public"
   },
   "privacy": {
     "name": "Privacy",
     "description": "Privacy is a fundamental right, and essential to democracy, liberty, and freedom of speech. Our privacy is being abused by governments (with mass-surveillance), corporations (profiting from selling personal data), and cyber criminals (stealing our poorly-secured personal data and using it against us). Security is needed in order to keep your private data private, and good digital security is critical to stay protected from the growing risks associated with the war on data",
     "type": "ROOT",
-    "icon": "privacy"
+    "icon": "privacy",
+    "access": "public"
   },
   "linux": {
     "name": "Linux",
     "description": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds",
     "type": "ROOT",
-    "icon": "linux"
+    "icon": "linux",
+    "access": "public"
+  },
+  "others": {
+    "name": "Others",
+    "description": "Private repository that uraj1r0's friends can access",
+    "type": "ROOT",
+    "icon": "others",
+    "access": "private"
   }
 }
