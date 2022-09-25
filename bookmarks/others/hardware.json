@@ -1,0 +1,28 @@
+{
+  "hardware": [
+    {
+      "url": "https://shop.hak5.org/",
+      "icon": "https://cdn.shopify.com/s/files/1/0068/2142/files/favicon_32x32.png?v=1613748047",
+      "lang": "eng",
+      "tags": ["hardware", "pentest"],
+      "name": "Hack5",
+      "description": "Industry leading pentest gear since 2005"
+    },
+    {
+      "url": "https://www.nitrokey.com/",
+      "icon": "https://www.nitrokey.com/sites/all/themes/nitrokey/img/header_logo_shield_red.svg",
+      "lang": "eng",
+      "tags": ["hardware", "privacy"],
+      "name": "Nitrokey",
+      "description": "Protects emails, files, hard drives, server certificates and online accounts"
+    },
+    {
+      "url": "https://www.yubico.com/",
+      "icon": "https://www.yubico.com/wp-content/themes/coronado/img/icon.svg",
+      "lang": "eng",
+      "tags": ["hardware", "privacy"],
+      "name": "Yubico",
+      "description": "Yubico phishing-resistant, multi-factor authentication (MFA) stops account takeovers for the world's largest organizations"
+    }
+  ]
+}

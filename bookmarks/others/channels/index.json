@@ -1,0 +1,14 @@
+{
+  "economy": {
+    "name": "Economy",
+    "description": "",
+    "type": "LEAF",
+    "icon": "economy"
+  },
+  "mind": {
+    "name": "Mind",
+    "description": "",
+    "type": "LEAF",
+    "icon": "mind"
+  }
+}

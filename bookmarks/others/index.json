@@ -1,9 +1,9 @@
 {
   "economy": {
-    "name": "Economy",
+    "name": "Channels",
     "description": "",
-    "type": "LEAF",
-    "icon": "economy"
+    "type": "BRANCH",
+    "icon": "channels"
   },
   "news": {
     "name": "News",
@@ -16,5 +16,11 @@
     "description": "Out of main stream media news",
     "type": "LEAF",
     "icon": "energy"
+  },
+  "hardware": {
+    "name": "Hardware",
+    "description": "Get the right tools",
+    "type": "LEAF",
+    "icon": "hardware"
   }
 }

@@ -1,0 +1,20 @@
+{
+  "mind": [
+    {
+      "url": "https://www.youtube.com/c/LewisHowesEspa%C3%B1ol/videos",
+      "icon": "https://hoo.be/favicon.ico",
+      "lang": "esp",
+      "tags": ["mind", "couching"],
+      "name": "Lewis Howes Español",
+      "description": " En su programa “The School of Greatness” comparte entrevistas inspiradoras con las personas más exitosas del mundo"
+    },
+    {
+      "url": "https://www.youtube.com/c/SadhguruEspa%C3%B1ol/videos?view=0&sort=da&flow=grid",
+      "icon": "",
+      "lang": "esp",
+      "tags": ["mind", "power"],
+      "name": "Sadhguru Español",
+      "description": " Yogui, místico y visionario, Sadhguru es un maestro espiritual con una diferencia. Una notable combinación de profundidad y pragmatismo, su vida y su trabajo sirven como recordatorio de que el yoga es una ciencia contemporánea, vitalmente relevante en nuestro tiempo"
+    }
+  ]
+}
