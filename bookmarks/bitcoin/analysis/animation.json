@@ -17,8 +17,8 @@
       "description": "TxStreet is a live transaction and mempool visualizer featuring Bitcoin. When a new transaction is broadcasted to the network, a person appears and attempts to board a bus in real time"
     },
     {
-      "url": "https://bits.monospace.live/",
-      "icon": "https://bits.monospace.live/favicon-32x32.png",
+      "url": "https://bitfeed.live/",
+      "icon": "https://bitfeed.live/favicon-32x32.png",
       "lang": "eng",
       "tags": ["fees", "bitcoin"],
       "name": "Bitfeed",

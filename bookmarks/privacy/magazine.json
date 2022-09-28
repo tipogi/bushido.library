@@ -1,0 +1,12 @@
+{
+  "magazine": [
+    {
+      "url": "https://unredactedmagazine.com/",
+      "icon": "https://inteltechniques.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy", "magazine"],
+      "name": "Unredacted Magazine",
+      "description": "This quarterly free magazine in PDF format allows you to digest all of the information on your time in polished written form"
+    }
+  ]
+}

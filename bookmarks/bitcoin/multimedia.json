@@ -169,12 +169,21 @@
       "description": "El canal esta creado con la finalidad de explicar de una forma muy sencilla (sin tecnicismos) BITCOIN"
     },
     {
-      "url": "https://www.youtube.com/channel/UCuK7hPaCJzPtR5w5X_Y1xKw",
+      "url": "https://www.youtube.com/channel/UCuK7hPaCJzPtR5w5X_Y1xKw/videos",
       "icon": "https://dergigi.com/assets/images/avatar.jpg",
       "lang": "esp",
       "tags": ["bitcoin", "tutorials"],
       "name": "Gigi Der",
       "description": "I'm a bitcoiner and software engineer, writing words and code for Bitcoin"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC7toIW2fecWZcMMcHR4-tgA/videos",
+      "icon": "https://yt3.ggpht.com/peE8jqeUoDzGOzdXnUruFjGkmtZpUaGATYg0C7gJrh5Rqi8Jha2tN0uWSHmfVwGA_0Nx1tK36A=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "BitMaker",
+      "description": "Bitcoin a mi ritmo | Amante de la electrónica y hardware | NerdMiner | CryptoMaker | #Bitcoin holder"
     }
+
   ]
 }

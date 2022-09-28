@@ -39,6 +39,14 @@
       "tags": ["p2p"],
       "name": "Bitcoin Cards",
       "description": "Try coinkite satscard, tapsigner or satschip"
+    },
+    {
+      "url": "https://paywithmoon.com/",
+      "icon": "https://paywithmoon.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Moon",
+      "description": "Purchase Moon Visa Prepaid Cards with crypto. Pay at millions of online merchants with secure virtual cards."
     }
   ]
 }

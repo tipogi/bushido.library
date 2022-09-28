@@ -105,6 +105,13 @@
       "tags": ["bitcoin", "learn"],
       "name": "River",
       "description": "Bitcoin Learning Center"
+    },{
+      "url": "https://braiins.com/blog",
+      "icon": "https://assets.website-files.com/5e5ee6f9b325a6509259421f/5f8438dff3d08e8684d73972_II%20logo%402x-1.png",
+      "lang": "eng",
+      "tags": ["bitcoin", "guide", "mining"],
+      "name": "Braiins",
+      "description": "Read our insider takes on the Bitcoin mining industry along with deep dives into the technology and use cases for projects including Slush Pool, Braiins OS+, Stratum V2, and more"
     }
   ]
 }

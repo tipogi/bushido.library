@@ -52,5 +52,11 @@
     "description": "Watch videos that encourage spreading privacy and security to the masses",
     "type": "LEAF",
     "icon": "multimedia"
+  },
+  "magazine": {
+    "name": "Magazine",
+    "description": "A different way to ingest all of your Privacy, Security, and OSINT news and opinion",
+    "type": "LEAF",
+    "icon": "magazine"
   }
 }
