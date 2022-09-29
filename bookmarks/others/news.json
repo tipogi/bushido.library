@@ -1,9 +1,9 @@
 {
-  "economy": [
+  "news": [
     {
       "url": "https://www.zerohedge.com/",
-      "icon": "https://danifernandez.org/wp-content/uploads/2021/05/cropped-Logo-Dani-Fernandez-vm-1.png",
-      "lang": "esp",
+      "icon": "https://www.zerohedge.com/favicons/192.png",
+      "lang": "eng",
       "tags": ["news"],
       "name": "Zero Edge",
       "description": "On a long enough timeline the survival rate of everyone drops to zero"

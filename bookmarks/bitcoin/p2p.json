@@ -63,6 +63,14 @@
       "tags": ["p2p"],
       "name": "Oshi",
       "description": "Empower your local economy through Bitcoin"
+    },
+    {
+      "url": "https://market.lnp2pbot.com/en",
+      "icon": "https://www.oshi.tech/assets/img/favicon.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "LNp2pBot",
+      "description": "Peer-to-peer lightning network telegram bot"
     }
   ]
 }

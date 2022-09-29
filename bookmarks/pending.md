@@ -13,6 +13,7 @@ LIGHTNING:
 https://www.coincorner.com
 - The grape, lightning in react - MUltimedia
 - https://www.youtube.com/channel/UCZVLvVz02wTzDz0uGC9P5dw
+- https://lnvpn.com/
 
 OTHER:
 - https://github.com/aristocratos/bpytop
