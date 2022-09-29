@@ -9,6 +9,17 @@ Once we generate all the objects from the bookmarks folder, the next step is to 
 - topic.json: All the node types that has a children. It could be another topic as `wallet` or it has `domains`. In that case, that nodes just describe the path to reach that domains
 - domain.json: The leaf elements of our database, it is the URL that we get when we are inside of one topic. 
 Finally, export all the files in the database
+
+### Development
+Reload the server automatically when there is some change in the source files
+```bash
+npm run start:dev
+```
+In other terminal run the commands, for example:
+```bash
+npm run bushido-cli import domain
+```
+
 ### Commands
 Before run the commands the project has to be compiled from TypeScript to JavaScript, execute:
 ```bash

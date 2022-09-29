@@ -4,10 +4,11 @@ import { CLIService } from './services/cli.service';
 import { DatabaseModule } from './modules/database.module';
 import { FileGeneratorService } from './services/file.generator.service';
 import { PopulateDBService } from './services/populate.db.service';
+import { ExtractDBService } from './services/extract.db.service';
 
 @Module({
   imports: [DatabaseModule, ConsoleModule],
   controllers: [],
-  providers: [CLIService, FileGeneratorService, PopulateDBService],
+  providers: [CLIService, FileGeneratorService, PopulateDBService, ExtractDBService],
 })
 export class AppModule {}

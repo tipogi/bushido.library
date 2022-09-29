@@ -1,22 +1,18 @@
 import { readFile } from 'fs/promises';
 import * as path from 'path';
-import { NodeType } from 'src/enumerators';
 
 const EXPORT_PATH = path.resolve(__dirname, '../../..', 'export');
 const TOPIC_FILE = 'topic.json';
-const DOMAIN_FILE = 'domain.json';
 
-export class File {
+export class TopicFile {
   private nodes!: [];
-  constructor(private type: NodeType) {}
 
   getNodes() {
     return this.nodes;
   }
 
   async openFile() {
-    const file = this.type === NodeType.TOPIC ? TOPIC_FILE : DOMAIN_FILE;
-    const jsonFile = await readFile(`${EXPORT_PATH}/${file}`, 'utf8');
+    const jsonFile = await readFile(`${EXPORT_PATH}/${TOPIC_FILE}`, 'utf8');
     this.nodes = JSON.parse(jsonFile);
   }
 }

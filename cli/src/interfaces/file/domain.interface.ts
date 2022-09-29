@@ -7,3 +7,12 @@ export interface IDomain {
   lang: string;
   tags: string[];
 }
+
+export interface IDomainExt extends IDomain {
+  hash: string;
+  path: string[];
+}
+
+export interface IDomainNodeList {
+  [key: string]: IDomainExt;
+}
