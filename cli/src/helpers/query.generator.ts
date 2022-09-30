@@ -26,7 +26,7 @@ export const createDomainCypherQuery = (node: IDomainCard) => {
 /*** TOPIC RELATED FUNCTIONS ***/
 /*******************************/
 
-const createInsertTopicQuery = (node: ITopicCard, parentPath) => {
+const createInsertTopicQuery = (node: ITopicCard, parentPath: string) => {
   return `
     ${parentPath}
     WITH parent
@@ -76,7 +76,7 @@ const generateTopicData = (node: ITopicCard) => ({
 /*** DOMAIN RELATED FUNCTIONS ***/
 /********************************/
 
-const createDomainNode = (array: string[]) => {
+export const createDomainNode = (array: string[]) => {
   const rootName = upperCaseJustFirstCharacter(array[0]);
   let restPath = `MATCH (root:Topic:Root { name: "${rootName}"})`;
   const sliced = array.slice(1);
@@ -89,6 +89,22 @@ const createDomainNode = (array: string[]) => {
   });
   return restPath;
 };
+
+export const GET_DOMAINS = `
+  MATCH (d:Domain)
+  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.visits, path: d.path} as domain
+`;
+
+export const hasURL = (url: string) => `
+  WITH parent
+  MATCH (parent)-[childRel:HAS]->(node:Domain { url: "${url}"})
+  RETURN node
+`;
+
+export const DELETE_DOMAIN_BY_HASH = `
+MATCH (d:Domain { hash: $hash})
+DETACH DELETE d
+`;
 
 const createInsertTopicQuery2 = (node: IDomainCard, parentPath: string) => {
   return `

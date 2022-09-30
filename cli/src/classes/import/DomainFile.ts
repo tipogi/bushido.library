@@ -1,6 +1,6 @@
 import { readFile } from 'fs/promises';
 import * as path from 'path';
-import { IDomainExt, IDomainNodeList } from 'src/interfaces';
+import { IDomainByUrl, IDomainExt, IDomainNodeList } from 'src/interfaces';
 import { forEach } from 'lodash';
 
 const EXPORT_PATH = path.resolve(__dirname, '../../..', 'export');
@@ -22,5 +22,28 @@ export class DomainFile {
       domainsToPush[domain.hash] = domain;
     });
     this.nodes = domainsToPush;
+  }
+
+  // Create the object that we will use in the import process
+  async createNodeObjects(): Promise<IDomainByUrl> {
+    await this.openFile();
+    const domainsByUrl: IDomainByUrl = {};
+    forEach(this.getNodes(), (minimisedDomain) => {
+      domainsByUrl[minimisedDomain.url] = minimisedDomain.hash;
+    });
+    return domainsByUrl;
+  }
+
+  containsHash(hash: string) {
+    return Object.hasOwn(this.nodes, hash);
+  }
+
+  getNode(hash: string) {
+    return this.nodes[hash];
+  }
+
+  // Delete the key from the node list
+  popDomain(hash: string) {
+    delete this.nodes[hash];
   }
 }

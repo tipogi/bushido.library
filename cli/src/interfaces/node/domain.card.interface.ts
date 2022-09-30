@@ -17,10 +17,6 @@ export interface IDomainCard extends IDomainCore {
   path: string[];
 }
 
-export interface IDomainByHash {
-  [key: string]: IMinimisedDomain;
-}
-
 export interface IDomainByUrl {
   [key: string]: string;
 }
