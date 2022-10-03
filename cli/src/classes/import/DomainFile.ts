@@ -35,7 +35,7 @@ export class DomainFile {
   }
 
   containsHash(hash: string) {
-    return Object.hasOwn(this.nodes, hash);
+    return this.nodes.hasOwnProperty(hash);
   }
 
   getNode(hash: string) {

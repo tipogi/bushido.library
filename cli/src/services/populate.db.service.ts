@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { red, green } from 'colors';
+import { red } from 'colors';
 import { isEmpty } from 'lodash';
 import { Neo4jError } from 'neo4j-driver';
 import { TopicFile, DomainFile } from 'src/classes/import';
@@ -32,7 +32,6 @@ export class PopulateDBService {
       } catch (e) {
         throwNeo4JError(e, node.name, NEO4J_ACTIONS.MERGE);
         console.log({ ...data });
-        break;
       }
     }
   }
@@ -51,7 +50,7 @@ export class PopulateDBService {
         domainNodesToImport.popDomain(hash);
       }
       // Domain URL exist but the hash is not the same
-      else if (Object.hasOwn(domainsByUrl, url)) {
+      else if (domainsByUrl.hasOwnProperty(url)) {
         const domainNode = domainNodesToImport.getNode(domainsByUrl[url]);
         // It means that it has different path, if not the hash would be the same
         if (name === domainNode.name) {
@@ -77,33 +76,26 @@ export class PopulateDBService {
       }
     }
     if (!isEmpty(domainNodesToImport.getNodes())) {
-      this.createTheMissingNodes(domainNodesToImport);
+      await this.createTheMissingNodes(domainNodesToImport);
     }
   }
 
   async createTheMissingNodes(domainNodesToImport: DomainFile) {
-    console.log(Object.entries(domainNodesToImport.getNodes()));
-    for (const [hash, newDomain] of Object.entries(domainNodesToImport.getNodes())) {
-      const { query, data } = createDomainCypherQuery(newDomain);
-      try {
-        await this.neo4jService.write(query, data);
-        this.logService.domainAdded(`${newDomain.name} (${hash})`);
-      } catch (e) {
-        throwNeo4JError(e, newDomain.name, NEO4J_ACTIONS.CREATE);
-        console.log({ ...data });
-        break;
-      }
+    const domainArray: IDomainExt[] = Object.values(domainNodesToImport.getNodes());
+    let newDomain: IDomainExt;
+    for (newDomain of domainArray) {
+      await this.updateNode(newDomain, false);
+      this.logService.domainAdded(newDomain.name);
     }
   }
 
-  async updateNode(node: IDomainExt) {
-    const { query, data } = createDomainCypherQuery(node);
+  async updateNode(node: IDomainExt, updated = true) {
     try {
+      const { query, data } = createDomainCypherQuery(node);
       await this.neo4jService.write(query, data);
-      this.logService.updatedNode(node.name);
+      updated && this.logService.updatedNode(node.name);
     } catch (e) {
       throwNeo4JError(e, node.name, NEO4J_ACTIONS.MERGE);
-      console.log({ ...data });
     }
   }
 

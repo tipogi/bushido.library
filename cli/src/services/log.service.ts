@@ -8,7 +8,7 @@ export class LogService {
   }
 
   domainAdded(name: string) {
-    console.log(`${green('CREATED')} the domain ${bold(green(name))}, added in the graph`);
+    console.log(`${green('CREATED')} the domain "${bold(green(name))}", added in the graph`);
   }
 
   updatedTheNameSamePath(name: string, updatedName: string) {
