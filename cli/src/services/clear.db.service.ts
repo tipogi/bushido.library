@@ -2,6 +2,7 @@ import { Injectable } from '@nestjs/common';
 import { QueryResult, Record } from 'neo4j-driver';
 import { BRANCH_WITHOUT_CHILD, LEAF_WITHOUT_CHILD } from 'src/helpers/constant.query';
 import { Neo4jService } from 'src/utils/neo4j';
+import { AxiosService } from './axios.service';
 import { LogService } from './log.service';
 
 interface IDeletedNode extends Record {
@@ -11,7 +12,11 @@ interface IDeletedNode extends Record {
 
 @Injectable()
 export class ClearDBService {
-  constructor(private readonly neo4jService: Neo4jService, private readonly logService: LogService) {}
+  constructor(
+    private readonly neo4jService: Neo4jService,
+    private readonly logService: LogService,
+    private readonly axiosService: AxiosService,
+  ) {}
 
   async deleteTopicsWithoutChildren() {
     const deleted_leaf = await this.neo4jService.write(LEAF_WITHOUT_CHILD);
@@ -27,4 +32,8 @@ export class ClearDBService {
       this.logService.notChildTopicDeleted(name, hash);
     });
   };
+
+  async checkDomainUrls() {
+    this.axiosService.getReq('https://x21.tools/er');
+  }
 }

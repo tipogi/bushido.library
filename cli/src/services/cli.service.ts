@@ -62,6 +62,16 @@ export class CLIService {
       this.clearGraph,
       cli,
     );
+
+    this.consoleService.createCommand(
+      {
+        command: 'domain-url-check',
+        description:
+          'Check which URLs are healthy (200) and the ones that are not available (404) mark it before delete the domain',
+      },
+      this.clearUrls,
+      cli,
+    );
   }
 
   generateFiles = async (): Promise<void> => {
@@ -82,5 +92,9 @@ export class CLIService {
   clearGraph = async (): Promise<void> => {
     console.log('Deleting Topics without children...');
     await this.clearDBService.deleteTopicsWithoutChildren();
+  };
+
+  clearUrls = async (): Promise<void> => {
+    await this.clearDBService.checkDomainUrls();
   };
 }
