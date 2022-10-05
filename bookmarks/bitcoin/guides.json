@@ -112,6 +112,13 @@
       "tags": ["bitcoin", "guide", "mining"],
       "name": "Braiins",
       "description": "Read our insider takes on the Bitcoin mining industry along with deep dives into the technology and use cases for projects including Slush Pool, Braiins OS+, Stratum V2, and more"
+    },{
+      "url": "https://econoalchemist.github.io/",
+      "icon": "https://econoalchemist.github.io/logo.png",
+      "lang": "eng",
+      "tags": ["bitcoin", "guide", "mining", "privacy"],
+      "name": "Econoalchemist | Blog",
+      "description": "The econoalchemist blog is focused on keeping Bitcoin permissionless by offering content on self custody, censorship resistance, and home mining."
     }
   ]
 }

@@ -38,4 +38,10 @@ export class LogService {
       )}" node. The domain is not included in bookmarks folder for different reasons`,
     );
   }
+
+  notChildTopicDeleted(name: string, hash: string) {
+    console.log(
+      `${red('DELETED')} the "${underline(bold(red(`${name} - ${hash}`)))}" topic because it did not have any children`,
+    );
+  }
 }

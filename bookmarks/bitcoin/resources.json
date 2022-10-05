@@ -58,7 +58,7 @@
     },
     {
       "url": "https://x21.tools",
-      "icon": "https://sovrnbitcoiner.com/content/images/2022/08/E0DDFC88-D797-4141-8793-96B78EFF1D75-4.jpg",
+      "icon": "https://imageprocessor.digital.vistaprint.com/crop/51,42,1180x1180/resize/32x32/png/https://uploads.documents.cimpress.io/v1/uploads/3bbf547c-d903-47a6-bcd9-abcf080ca2a7~110/original?tenant=vbu-digital",
       "lang": "eng",
       "tags": ["privacy", "tools"],
       "name": "x21 Tools",
@@ -95,6 +95,14 @@
       "tags": ["images"],
       "name": "Anil said so",
       "description": "Teaching bitcoin through visuals"
+    },
+    {
+      "url": "https://chaincode.gitbook.io/seminars/",
+      "icon": "https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=2,format=auto/https%3A%2F%2F1502852778-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MY60nCCom1SZsKHoYTm%252Favatar-1618262638437.png%3Fgeneration%3D1618262638645891%26alt%3Dmedia",
+      "lang": "eng",
+      "tags": ["seminar"],
+      "name": "Chaincode Seminars",
+      "description": "Each individual topic represents a weekly curriculum."
     }
   ]
 }

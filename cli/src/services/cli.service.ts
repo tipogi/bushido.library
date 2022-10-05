@@ -1,5 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { ConsoleService } from 'nestjs-console';
+import { ClearDBService } from './clear.db.service';
 import { FileGeneratorService } from './file.generator.service';
 import { PopulateDBService } from './populate.db.service';
 
@@ -9,6 +10,7 @@ export class CLIService {
     private readonly consoleService: ConsoleService,
     private readonly fileGenerator: FileGeneratorService,
     private readonly populateDBService: PopulateDBService,
+    private readonly clearDBService: ClearDBService,
   ) {
     // Get the root cli
     const cli = this.consoleService.getCli();
@@ -51,6 +53,15 @@ export class CLIService {
       this.importDomainJSON,
       groupCommand,
     );
+
+    this.consoleService.createCommand(
+      {
+        command: 'optimise-graph',
+        description: 'Once we update/create/delete all the domain nodes, it might be some topics without children',
+      },
+      this.clearGraph,
+      cli,
+    );
   }
 
   generateFiles = async (): Promise<void> => {
@@ -66,5 +77,10 @@ export class CLIService {
   importDomainJSON = async (): Promise<void> => {
     console.log('Importing domains to Database');
     await this.populateDBService.withDomains();
+  };
+
+  clearGraph = async (): Promise<void> => {
+    console.log('Deleting Topics without children...');
+    await this.clearDBService.deleteTopicsWithoutChildren();
   };
 }
