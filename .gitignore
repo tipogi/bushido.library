@@ -8,3 +8,7 @@ cli/node_modules
 
 # Development bookmark folder
 playground
+
+DS_Store
+cli/DS_Store
+cli/src/DS_Store
