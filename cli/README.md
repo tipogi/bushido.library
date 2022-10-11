@@ -38,7 +38,17 @@ npm run bushido-cli import topic
 npm run bushido-cli import domain
 ```
 
-### GraphDB: Neo4J
+### Extra Commands
+Tidy up the nodes that don't have any child
+```bash
+npm run bushido-cli optimise-graph
+```
+For different reasons, it might be a possibility that some domains are not available (404). If we find some of that delete node
+```bash
+npm run bushido-cli domain-url-check
+```
+
+### GraphDB: Cypher queries of Neo4J
 Delete all the database
 ```cypher
 MATCH (n)
