@@ -65,12 +65,20 @@
       "description": "Empower your local economy through Bitcoin"
     },
     {
-      "url": "https://lnp2pbot.com/",
+      "url": "https://market.lnp2pbot.com/en",
       "icon": "https://market.lnp2pbot.com/favicon.ico",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "LNp2pBot",
       "description": "Peer-to-peer lightning network telegram bot"
+    },
+    {
+      "url": "https://peachbitcoin.com/",
+      "icon": "https://peachbitcoin.com/index_files/favicon.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Bitcoin Peach",
+      "description": "Buy and sell Bitcoin the way you want. Swipe, Match, Stack"
     }
   ]
 }
