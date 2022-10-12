@@ -8,6 +8,12 @@ export interface IMinimisedDomain extends IDomainCore {
   views: number | null;
 }
 
+export interface IUnavailableDomain {
+  hash: string;
+  url: string;
+  down_attemps: number;
+}
+
 export interface IDomainCard extends IDomainCore {
   description: string;
   icon: string;

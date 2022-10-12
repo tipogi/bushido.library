@@ -97,7 +97,7 @@ export const GET_DOMAINS = `
 
 export const GET_DOMAINS_BY_URL = `
   MATCH (d:Domain)
-  RETURN { hash: d.hash, url: d.url } as domain
+  RETURN { hash: d.hash, url: d.url, down_attemps: d.down_attemps } as domain
 `;
 
 export const hasURL = (url: string) => `

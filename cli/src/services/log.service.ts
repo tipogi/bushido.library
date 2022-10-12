@@ -44,4 +44,8 @@ export class LogService {
       `${red('DELETED')} the "${underline(bold(red(`${name} - ${hash}`)))}" topic because it did not have any children`,
     );
   }
+
+  printOutput(message: string) {
+    console.log(message);
+  }
 }
