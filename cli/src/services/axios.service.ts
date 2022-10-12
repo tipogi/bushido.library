@@ -2,24 +2,21 @@ import { Injectable } from '@nestjs/common';
 import { firstValueFrom } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { HttpService } from '@nestjs/axios';
-import { AxiosError } from 'axios';
-import { ClientRequest, IncomingMessage } from 'http';
-
-interface IAxiosCustomReq {
-  res: IncomingMessage;
-}
+import { HttpErrors } from 'src/constants/enumerators';
 
 @Injectable()
 export class AxiosService {
   constructor(private readonly httpService: HttpService) {}
-  async getReq(url: string): Promise<any> {
+  async activeUrl(url: string): Promise<boolean | string> {
     try {
-      return await firstValueFrom(this.httpService.get(url).pipe(map((response) => response.data)));
+      await firstValueFrom(this.httpService.get(url).pipe(map((response) => response.data)));
+      return true;
     } catch (e) {
-      console.log(e)
-      if (e instanceof AxiosError) {
-        const { code, request } = e;
-        console.log(request.res.statusCode);
+      const { code, request } = e;
+      if (HttpErrors.ERR_BAD_REQUEST === code && request.res.statusCode) {
+        return false;
+      } else {
+        return code;
       }
     }
   }

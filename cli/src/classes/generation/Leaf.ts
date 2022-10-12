@@ -1,6 +1,6 @@
 import { readFile } from 'fs/promises';
 import { exit } from 'process';
-import { CardType } from '../../enumerators';
+import { CardType } from '../../constants/enumerators';
 import * as crypto from 'crypto';
 import { BNode, BOOKMARKS_FOLDER } from './BNode';
 import { IDomain, IDomainCard } from '../../interfaces';

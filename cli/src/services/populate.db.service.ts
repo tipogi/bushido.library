@@ -3,7 +3,7 @@ import { red } from 'colors';
 import { isEmpty } from 'lodash';
 import { Neo4jError } from 'neo4j-driver';
 import { TopicFile, DomainFile } from 'src/classes/import';
-import { NEO4J_ACTIONS } from 'src/enumerators';
+import { NEO4J_ACTIONS } from 'src/constants/enumerators';
 import { createDomainCypherQuery, createTopicCypherQuery, DELETE_DOMAIN_BY_HASH } from 'src/helpers/query.generator';
 import { IDomainExt, ITopicCard } from 'src/interfaces';
 import { Neo4jService } from 'src/utils/neo4j';

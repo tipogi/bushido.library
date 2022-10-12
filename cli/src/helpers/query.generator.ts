@@ -1,4 +1,4 @@
-import { CardType } from 'src/enumerators';
+import { CardType } from 'src/constants/enumerators';
 import { IDomainCard, ITopicCard } from 'src/interfaces';
 import { forEach } from 'lodash';
 
@@ -92,7 +92,12 @@ export const createDomainNode = (array: string[]) => {
 
 export const GET_DOMAINS = `
   MATCH (d:Domain)
-  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.visits, path: d.path} as domain
+  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.visits, path: d.path } as domain
+`;
+
+export const GET_DOMAINS_BY_URL = `
+  MATCH (d:Domain)
+  RETURN { hash: d.hash, url: d.url } as domain
 `;
 
 export const hasURL = (url: string) => `

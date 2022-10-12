@@ -2,7 +2,7 @@ import { Injectable } from '@nestjs/common';
 
 import { Branch, Graph, Leaf } from '../classes';
 import { map } from 'lodash';
-import { CardType } from '../enumerators';
+import { CardType } from '../constants/enumerators';
 import { blue, red, yellow } from 'colors';
 
 import { exit } from 'process';

@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
-import { createDomainNode, GET_DOMAINS, hasURL } from 'src/helpers/query.generator';
-import { IMinimisedDomain } from 'src/interfaces';
+import { createDomainNode, GET_DOMAINS, GET_DOMAINS_BY_URL, hasURL } from 'src/helpers/query.generator';
+import { IDomainCore, IMinimisedDomain } from 'src/interfaces';
 import { Neo4jService } from 'src/utils/neo4j';
 
 @Injectable()
@@ -11,6 +11,12 @@ export class ExtractDBService {
     const res = await this.neo4jService.read(GET_DOMAINS);
     const domainsByHash: IMinimisedDomain[] = res.records.map((row) => row.get('domain'));
     return domainsByHash;
+  }
+
+  async getDomainWithUrls(): Promise<IDomainCore[]> {
+    const res = await this.neo4jService.read(GET_DOMAINS_BY_URL);
+    const domainByUrl: IDomainCore[] = res.records.map((row) => row.get('domain'));
+    return domainByUrl;
   }
 
   /**

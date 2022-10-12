@@ -1,4 +1,4 @@
-import { CardType } from '../../enumerators';
+import { CardType } from '../../constants/enumerators';
 
 export interface ITopicCard {
   name: string;
