@@ -1,6 +1,12 @@
 import { Injectable } from '@nestjs/common';
-import { createDomainNode, GET_DOMAINS, GET_DOMAINS_BY_URL, hasURL } from 'src/helpers/query.generator';
-import { IMinimisedDomain, IUnavailableDomain } from 'src/interfaces';
+import {
+  createDomainNode,
+  editDomainDownAttempsQuery,
+  GET_DOMAINS,
+  GET_DOMAINS_BY_URL,
+  hasURL,
+} from 'src/helpers/query.generator';
+import { IMinimisedDomain, IDomainAvailability } from 'src/interfaces';
 import { Neo4jService } from 'src/utils/neo4j';
 
 @Injectable()
@@ -13,9 +19,9 @@ export class ExtractDBService {
     return domainsByHash;
   }
 
-  async getDomainWithUrls(): Promise<IUnavailableDomain[]> {
+  async getDomainWithUrls(): Promise<IDomainAvailability[]> {
     const res = await this.neo4jService.read(GET_DOMAINS_BY_URL);
-    const domainByUrl: IUnavailableDomain[] = res.records.map((row) => row.get('domain'));
+    const domainByUrl: IDomainAvailability[] = res.records.map((row) => row.get('domain'));
     return domainByUrl;
   }
 
@@ -31,5 +37,11 @@ export class ExtractDBService {
     const EXIST_PATH = parentPath + childPath;
     const urlHasSamePath = await this.neo4jService.read(EXIST_PATH);
     return urlHasSamePath.records.length > 0;
+  }
+
+  async editDomainDownAttemps(hash: string, down_attemps: number) {
+    const query = editDomainDownAttempsQuery(hash, down_attemps);
+    const res = await this.neo4jService.write(query);
+    console.log(res.records);
   }
 }

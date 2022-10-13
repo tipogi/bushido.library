@@ -8,10 +8,15 @@ export interface IMinimisedDomain extends IDomainCore {
   views: number | null;
 }
 
-export interface IUnavailableDomain {
+export interface IDomainAvailability {
   hash: string;
   url: string;
   down_attemps: number;
+}
+
+export interface IDomainStates {
+  down: IDomainAvailability[];
+  up: IDomainAvailability[];
 }
 
 export interface IDomainCard extends IDomainCore {

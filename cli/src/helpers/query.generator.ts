@@ -107,9 +107,18 @@ export const hasURL = (url: string) => `
 `;
 
 export const DELETE_DOMAIN_BY_HASH = `
-MATCH (d:Domain { hash: $hash})
-DETACH DELETE d
+  MATCH (d:Domain { hash: $hash})
+  DETACH DELETE d
 `;
+
+export const editDomainDownAttempsQuery = (hash: string, down_attemps: number) => {
+  return `
+    MATCH (n:Domain)
+    WHERE n.hash = "${hash}"
+    SET n.down_attemps = ${down_attemps}
+    RETURN n
+  `;
+};
 
 const createInsertTopicQuery2 = (node: IDomainCard, parentPath: string) => {
   return `
