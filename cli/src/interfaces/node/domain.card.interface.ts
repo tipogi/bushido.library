@@ -1,3 +1,5 @@
+import { Integer } from 'neo4j-driver';
+
 export interface IDomainCore {
   name: string;
   hash: string;
@@ -6,6 +8,12 @@ export interface IDomainCore {
 
 export interface IMinimisedDomain extends IDomainCore {
   views: number | null;
+}
+
+export interface INeo4JDomainAvailability {
+  hash: string;
+  url: string;
+  down_attemps: Integer;
 }
 
 export interface IDomainAvailability {

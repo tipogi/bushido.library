@@ -1,4 +1,5 @@
 import { Injectable } from '@nestjs/common';
+import { green, yellow } from 'colors';
 import {
   createDomainNode,
   editDomainDownAttempsQuery,
@@ -6,12 +7,13 @@ import {
   GET_DOMAINS_BY_URL,
   hasURL,
 } from 'src/helpers/query.generator';
-import { IMinimisedDomain, IDomainAvailability } from 'src/interfaces';
+import { IMinimisedDomain, INeo4JDomainAvailability } from 'src/interfaces';
 import { Neo4jService } from 'src/utils/neo4j';
+import { LogService } from './log.service';
 
 @Injectable()
 export class ExtractDBService {
-  constructor(private readonly neo4jService: Neo4jService) {}
+  constructor(private readonly neo4jService: Neo4jService, private readonly logService: LogService) {}
 
   async getDomainNodes(): Promise<IMinimisedDomain[]> {
     const res = await this.neo4jService.read(GET_DOMAINS);
@@ -19,9 +21,9 @@ export class ExtractDBService {
     return domainsByHash;
   }
 
-  async getDomainWithUrls(): Promise<IDomainAvailability[]> {
+  async getDomainWithUrls(): Promise<INeo4JDomainAvailability[]> {
     const res = await this.neo4jService.read(GET_DOMAINS_BY_URL);
-    const domainByUrl: IDomainAvailability[] = res.records.map((row) => row.get('domain'));
+    const domainByUrl: INeo4JDomainAvailability[] = res.records.map((row) => row.get('domain'));
     return domainByUrl;
   }
 
@@ -39,9 +41,10 @@ export class ExtractDBService {
     return urlHasSamePath.records.length > 0;
   }
 
-  async editDomainDownAttemps(hash: string, down_attemps: number) {
+  async editDomainDownAttemps(hash: string, down_attemps: number, url: string, state: string) {
     const query = editDomainDownAttempsQuery(hash, down_attemps);
-    const res = await this.neo4jService.write(query);
-    console.log(res.records);
+    await this.neo4jService.write(query);
+    const color = state === 'DOWN' ? yellow : green;
+    this.logService.printOutput(color(`${url} domain is ${state} and we set with ${down_attemps} down attemps`));
   }
 }
