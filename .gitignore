@@ -5,6 +5,7 @@ cli/src/config/environment
 cli/dist
 cli/export
 cli/node_modules
+cli/logs
 
 # Development bookmark folder
 playground

@@ -95,6 +95,7 @@ export class CLIService {
   };
 
   clearUrls = async (): Promise<void> => {
+    console.log('Clear the unavailable URLs...');
     await this.clearDBService.checkDomainUrls();
   };
 }

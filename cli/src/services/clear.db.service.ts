@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { green, red, yellow, bold, italic, underline } from 'colors';
+import { green, red, yellow, Color } from 'colors';
 import { QueryResult, Record } from 'neo4j-driver';
 import { exceptionArray } from 'src/constants/exception-urls.constants';
 import { BRANCH_WITHOUT_CHILD, LEAF_WITHOUT_CHILD } from 'src/helpers/constant.query';
@@ -7,7 +7,7 @@ import { IDomainAvailability, IDomainStates, INeo4JDomainAvailability } from 'sr
 import { Neo4jService } from 'src/utils/neo4j';
 import { AxiosService } from './axios.service';
 import { ExtractDBService } from './extract.db.service';
-import { LogService } from './log.service';
+import { IPrintOut, LogService } from './log.service';
 import { PopulateDBService } from './populate.db.service';
 
 interface IDeletedNode extends Record {
@@ -43,15 +43,18 @@ export class ClearDBService {
     const domainsWithUrl = await this.extractDBService.getDomainWithUrls();
     for (const domain of domainsWithUrl) {
       const requestStartTime = Date.now();
-      let message: string;
+      let message_color: IPrintOut;
       const { url } = domain;
       if (!exceptionArray.includes(url)) {
         const available = await this.axiosService.activeUrl(url);
-        message = this.printResponseStatus(available, requestStartTime, domainStates, domain);
+        message_color = this.printResponseStatus(available, requestStartTime, domainStates, domain);
       } else {
-        message = yellow(`IGNORED: Ping to ${italic(url)} domain because it redirects to another domain`);
+        message_color = {
+          color: yellow,
+          message: `IGNORED: Ping to ${url} domain because it redirects to another domain`,
+        };
       }
-      this.logService.printOutput(message);
+      this.logService.printOutput(message_color);
     }
     await this.editDomainFailAttemps(domainStates);
   }
@@ -70,37 +73,40 @@ export class ClearDBService {
     requestStartTime: number,
     domainStates: IDomainStates,
     { url, hash, down_attemps }: INeo4JDomainAvailability,
-  ) {
+  ): IPrintOut {
     let message: string;
+    let color: Color;
     let availableDomain = true;
     const requestTime = `${Date.now() - requestStartTime}ms`;
     // Returns error type
     if (typeof available === 'string') {
-      message = yellow(`NOT_HEALTY (${available}): Ping response from ${italic(url)} domain took ${bold(requestTime)}`);
+      message = `NOT_HEALTY (${available}): Ping response from ${url} domain took ${requestTime}`;
+      color = yellow;
     } else if (typeof available === 'number') {
       if (available === 200) {
-        message = green(`AVAILABLE: Ping to ${italic(url)} domain took ${bold(requestTime)}`);
+        message = `AVAILABLE: Ping to ${url} domain took ${requestTime}`;
+        color = green;
       } else if (available === 404) {
         availableDomain = false;
         domainStates.down.push({ url, hash, down_attemps: down_attemps.toNumber() });
-        message = red(`UNAVAILABLE (404): Ping failed to ${italic(url)} domain. ${underline('Not Found')} error!`);
+        message = `UNAVAILABLE (404): Ping failed to ${url} domain. 'Not Found' error!`;
+        color = red;
       } else {
-        message = yellow(
-          `NOT_HEALTY (${available}): Ping response from ${italic(url)} domain took ${bold(requestTime)}`,
-        );
+        message = `NOT_HEALTY (${available}): Ping response from ${url} domain took ${requestTime}`;
+        color = yellow;
       }
     } else {
-      message = green(`AVAILABLE: Ping to ${italic(url)} domain took ${bold(requestTime)}`);
+      message = `AVAILABLE: Ping to ${url} domain took ${requestTime}`;
+      color = green;
     }
     // It means previously was down the domain, but actually it is accesible again
     if (availableDomain && down_attemps !== null && down_attemps.high > 0) {
       domainStates.up.push({ url, hash, down_attemps: down_attemps.toNumber() });
     }
-    return message;
+    return { message, color };
   }
 
   async editDomainFailAttemps(domainStates: IDomainStates) {
-    this.logService.printOutput('==> Time to manipulate the domains <==');
     await Promise.all([
       this.setUnavailablePointToDomain(domainStates.down),
       this.setAvailableStateToDomain(domainStates.up),
@@ -112,9 +118,11 @@ export class ClearDBService {
       // The crontab will run each 5 days so, that case means that it was down the domain more than a month
       // In this scenario, it will delete the domain
       if (down_attemps > 4) {
-        this.logService.printOutput(
-          red(`DELETED: The ${url} domain has reached the maximum attemps of PING. Deleting the domain (${hash})`),
-        );
+        const outputMessage = {
+          message: `DELETED: The ${url} domain has reached the maximum attemps of PING. Deleting the domain (${hash})`,
+          color: red,
+        };
+        this.logService.printOutput(outputMessage);
         await this.populateDBService.deleteNode(hash);
       } else {
         const attemps = down_attemps === null ? 1 : down_attemps + 1;

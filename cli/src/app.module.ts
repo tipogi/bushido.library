@@ -9,6 +9,7 @@ import { ExtractDBService } from './services/extract.db.service';
 import { LogService } from './services/log.service';
 import { ClearDBService } from './services/clear.db.service';
 import { AxiosService } from './services/axios.service';
+import { SystemService } from './services/system.service';
 
 @Module({
   imports: [DatabaseModule, ConsoleModule, HttpModule],
@@ -21,6 +22,7 @@ import { AxiosService } from './services/axios.service';
     LogService,
     ClearDBService,
     AxiosService,
+    SystemService,
   ],
 })
 export class AppModule {}

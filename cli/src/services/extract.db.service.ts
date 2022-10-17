@@ -45,6 +45,9 @@ export class ExtractDBService {
     const query = editDomainDownAttempsQuery(hash, down_attemps);
     await this.neo4jService.write(query);
     const color = state === 'DOWN' ? yellow : green;
-    this.logService.printOutput(color(`${url} domain is ${state} and we set with ${down_attemps} down attemps`));
+    this.logService.printOutput({
+      color,
+      message: `${url} domain is ${state} and we set with ${down_attemps} down attemps`,
+    });
   }
 }
