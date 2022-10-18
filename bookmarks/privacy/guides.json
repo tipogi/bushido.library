@@ -1,6 +1,14 @@
 {
   "guides": [
     {
+      "url": "https://sovereignstack.tools/",
+      "icon": "https://soverainstack.files.wordpress.com/2021/09/cropped-logo1.jpg",
+      "lang": "eng",
+      "tags": ["privacy","guides"],
+      "name": "Sovereign Stack",
+      "description": "Take Back What's Yours"
+    },
+    {
       "url": "https://anonymousplanet.org/",
       "icon": "none",
       "lang": "eng",

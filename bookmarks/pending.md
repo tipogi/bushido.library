@@ -8,6 +8,7 @@ BITCOIN:
 - https://dyinodes.com (store)
 - https://sha256algorithm.com
 - https://geyser.fund
+- https://twofaktor.github.io/minibolt/ (nodes)
 
 LIGHTNING:
 https://www.coincorner.com

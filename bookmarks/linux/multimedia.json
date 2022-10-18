@@ -55,6 +55,30 @@
       "tags": ["it", "devops"],
       "name": "Pelado Nerd",
       "description": "Professional Nerd"
+    },
+    {
+      "url": "https://www.youtube.com/c/MentalOutlaw/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AMLnZu_wA4-Tjwkb8nDDeA99sTYCLW7ROVbHwblHvFZ7Ng=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux"],
+      "name": "Mental Outlaw",
+      "description": "I make videos about stuff"
+    },
+    {
+      "url": "https://www.youtube.com/c/LukeSmithxyz/videos",
+      "icon": "https://lukesmith.xyz/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux"],
+      "name": "Luke Smith",
+      "description": "Everything you're looking for is here"
+    },
+    {
+      "url": "https://www.youtube.com/c/BrodieRobertson/videos",
+      "icon": "https://brodierobertson.xyz/resources/favicon/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["linux"],
+      "name": "Brodie Robertson",
+      "description": "To be completely honest, I didn't think I would ever get to the point where some random person like you would want to visit my website but here we are"
     }
   ]
 }
