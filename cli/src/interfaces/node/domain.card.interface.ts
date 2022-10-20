@@ -8,6 +8,7 @@ export interface IDomainCore {
 
 export interface IMinimisedDomain extends IDomainCore {
   views: number | null;
+  down_attemps: number | null;
 }
 
 export interface INeo4JDomainAvailability {

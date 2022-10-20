@@ -4,8 +4,13 @@ import { isEmpty } from 'lodash';
 import { Neo4jError } from 'neo4j-driver';
 import { TopicFile, DomainFile } from 'src/classes/import';
 import { NEO4J_ACTIONS } from 'src/constants/enumerators';
-import { createDomainCypherQuery, createTopicCypherQuery, DELETE_DOMAIN_BY_HASH } from 'src/helpers/query.generator';
-import { IDomainExt, ITopicCard } from 'src/interfaces';
+import {
+  createTopicCypherQuery,
+  DELETE_DOMAIN_BY_HASH,
+  updateByNameCypherQuery,
+  updateByUrlCypherQuery,
+} from 'src/helpers/query.generator';
+import { IDomainExt, IDomainNodeList, ITopicCard } from 'src/interfaces';
 import { Neo4jService } from 'src/utils/neo4j';
 import { ExtractDBService } from './extract.db.service';
 import { LogService } from './log.service';
@@ -37,7 +42,11 @@ export class PopulateDBService {
   }
 
   async withDomains() {
+    // domainNodesToImport: The NEW list of domains. We will use to update the previous domains,
+    // if there is some change in that list
     const domainNodesToImport = new DomainFile();
+    // domainsByHash: The OLD domains information
+    // domainsByUrl: { url: hash} Domain url paired with the NEW hash of the domain
     const [domainsByHash, domainsByUrl] = await Promise.all([
       this.extractService.getDomainNodes(),
       domainNodesToImport.createNodeObjects(),
@@ -46,7 +55,7 @@ export class PopulateDBService {
       // The node has the same name and path
       if (domainNodesToImport.containsHash(hash)) {
         const domainNode = domainNodesToImport.getNode(hash);
-        await this.updateNode(domainNode);
+        await this.updateNodeByName(domainNode);
         domainNodesToImport.popDomain(hash);
       }
       // Domain URL exist but the hash is not the same
@@ -60,8 +69,10 @@ export class PopulateDBService {
         } else {
           const samePath = await this.extractService.hasSamePath(domainNode.path, url);
           if (samePath) {
-            await this.updateNode(domainNode);
-            domainNodesToImport.popDomain(hash);
+            await this.updateNodeByUrl(domainNode);
+            // Our hash is different because the name is different so,
+            // get the new hash to delete from the list the domain
+            domainNodesToImport.popDomain(domainsByUrl[url]);
             this.logService.updatedTheNameSamePath(name, domainNode.name);
           } else {
             await this.deleteNode(hash);
@@ -75,7 +86,9 @@ export class PopulateDBService {
         this.logService.definitiveDeleteNode(name, hash);
       }
     }
+    console.log(domainNodesToImport);
     if (!isEmpty(domainNodesToImport.getNodes())) {
+      console.log('isNotEmpty');
       await this.createTheMissingNodes(domainNodesToImport);
     }
   }
@@ -84,16 +97,26 @@ export class PopulateDBService {
     const domainArray: IDomainExt[] = Object.values(domainNodesToImport.getNodes());
     let newDomain: IDomainExt;
     for (newDomain of domainArray) {
-      await this.updateNode(newDomain, false);
+      await this.updateNodeByName(newDomain, false);
       this.logService.domainAdded(newDomain.name);
     }
   }
 
-  async updateNode(node: IDomainExt, updated = true) {
+  async updateNodeByName(node: IDomainExt, updated = true) {
     try {
-      const { query, data } = createDomainCypherQuery(node);
+      const { query, data } = updateByNameCypherQuery(node);
       await this.neo4jService.write(query, data);
       updated && this.logService.updatedNode(node.name);
+    } catch (e) {
+      throwNeo4JError(e, node.name, NEO4J_ACTIONS.MERGE);
+    }
+  }
+
+  async updateNodeByUrl(node: IDomainExt) {
+    try {
+      const { query, data } = updateByUrlCypherQuery(node);
+      await this.neo4jService.write(query, data);
+      this.logService.updatedNode(node.name);
     } catch (e) {
       throwNeo4JError(e, node.name, NEO4J_ACTIONS.MERGE);
     }

@@ -15,10 +15,19 @@ export const createTopicCypherQuery = (node: ITopicCard) => {
   return { query, data };
 };
 
-export const createDomainCypherQuery = (node: IDomainCard) => {
+export const updateByNameCypherQuery = (node: IDomainCard) => {
   const rootPath = createDomainNode(node.path);
   const query = createInsertTopicQuery2(node, rootPath);
   const data = generateDomainData(node);
+  Object.assign(data, { url: node.url });
+  return { query, data };
+};
+
+export const updateByUrlCypherQuery = (node: IDomainCard) => {
+  const rootPath = createDomainNode(node.path);
+  const query = updateDomainByUrl(node, rootPath);
+  const data = generateDomainData(node);
+  Object.assign(data, { hash: node.hash });
   return { query, data };
 };
 
@@ -92,7 +101,7 @@ export const createDomainNode = (array: string[]) => {
 
 export const GET_DOMAINS = `
   MATCH (d:Domain)
-  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.visits, path: d.path } as domain
+  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.visits, path: d.path, down_attemps: d.down_attemps } as domain
 `;
 
 export const GET_DOMAINS_BY_URL = `
@@ -129,10 +138,18 @@ const createInsertTopicQuery2 = (node: IDomainCard, parentPath: string) => {
     RETURN new`;
 };
 
+const updateDomainByUrl = (node: IDomainCard, parentPath: string) => {
+  return `
+    ${parentPath}
+    WITH parent
+    MERGE (parent)-[childRel:HAS]->(new:Domain { url: "${node.url}"})
+    SET new.name=$name, new.description=$description, new.hash=$hash, new.icon=$icon, new.lang=$lang, new.tags=$tags
+    RETURN new`;
+};
+
 const generateDomainData = (node: IDomainCard) => ({
   name: upperCaseJustFirstCharacter(node.name),
   description: node.description,
-  url: node.url,
   icon: node.icon,
   lang: node.lang,
   tags: node.tags,

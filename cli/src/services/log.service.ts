@@ -24,8 +24,8 @@ export class LogService {
   }
   /********* 1.FILE CREATION LOGS **************/
   addTopicInTheFile(key: string, type: CardType, relativePath: string) {
-    console.log(`Adding ${blue(`#${key}`)} topic, node type: ${blue(`${type}`)}, relative path: ${relativePath}`);
-    const rawMessage = `Adding #${key} topic, node type: ${type}, relative path: ${relativePath}\n`;
+    console.log(`Adding ${blue(`#${key}`)} topic, node type: ${blue(`${type}`)}, absolute path: ${relativePath}`);
+    const rawMessage = `Adding #${key} topic, node type: ${type}, absolute path: ${relativePath}\n`;
     this.systemService.writeInTheFile(NODE_FILES_PATH, rawMessage);
   }
 

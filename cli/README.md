@@ -54,3 +54,9 @@ Delete all the database
 MATCH (n)
 DETACH DELETE n
 ```
+Delete specific node by ID
+```cypher
+MATCH (n)
+WHERE ID(n)=1
+DETACH DELETE n
+```

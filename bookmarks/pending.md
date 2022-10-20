@@ -9,6 +9,8 @@ BITCOIN:
 - https://sha256algorithm.com
 - https://geyser.fund
 - https://twofaktor.github.io/minibolt/ (nodes)
+- https://btcmap.org/map (stores)
+- Add also meetups
 
 LIGHTNING:
 https://www.coincorner.com

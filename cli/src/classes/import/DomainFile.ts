@@ -26,6 +26,7 @@ export class DomainFile {
 
   // Create the object that we will use in the import process
   async createNodeObjects(): Promise<IDomainByUrl> {
+    // Populate the object with domain list
     await this.openFile();
     const domainsByUrl: IDomainByUrl = {};
     forEach(this.getNodes(), (minimisedDomain) => {
