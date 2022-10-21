@@ -11,6 +11,7 @@ BITCOIN:
 - https://twofaktor.github.io/minibolt/ (nodes)
 - https://btcmap.org/map (stores)
 - Add also meetups
+- https://www.nobsbitcoin.com/ (news)
 
 LIGHTNING:
 https://www.coincorner.com

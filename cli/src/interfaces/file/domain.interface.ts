@@ -6,6 +6,8 @@ export interface IDomain {
   icon: string;
   lang: string;
   tags: string[];
+  views?: number;
+  down_attemps?: number;
 }
 
 export interface IDomainExt extends IDomain {

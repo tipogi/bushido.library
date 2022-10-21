@@ -35,6 +35,8 @@ export interface IDomainCard extends IDomainCore {
   tags: string[];
   // Has to be generated on the go
   path: string[];
+  views?: number | null;
+  down_attemps?: number | null;
 }
 
 export interface IDomainByUrl {

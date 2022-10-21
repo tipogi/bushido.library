@@ -17,7 +17,7 @@ export const createTopicCypherQuery = (node: ITopicCard) => {
 
 export const updateByNameCypherQuery = (node: IDomainCard) => {
   const rootPath = createDomainNode(node.path);
-  const query = createInsertTopicQuery2(node, rootPath);
+  const query = updateCommonProps(node, rootPath);
   const data = generateDomainData(node);
   Object.assign(data, { url: node.url });
   return { query, data };
@@ -31,16 +31,39 @@ export const updateByUrlCypherQuery = (node: IDomainCard) => {
   return { query, data };
 };
 
+export const createNewBrandDomainCypherQuery = (node: IDomainCard) => {
+  const rootPath = createDomainNode(node.path);
+  const data = generateDomainData(node);
+  // Add hash property
+  Object.assign(data, { hash: node.hash });
+  let setClause = DOMAIN_SET_CLAUSE;
+  // Add properties in the data object.
+  // If previous domain was down, keep the value
+  if (node.down_attemps && node.down_attemps !== null) {
+    Object.assign(data, { down_attemps: node.down_attemps });
+    setClause += ', new.down_attemps=$down_attemps';
+  }
+  // The previous domain has been visited
+  if (node.views && node.views !== null) {
+    Object.assign(data, { views: node.views });
+    setClause += ', new.views=$views';
+  }
+  const query = createDomainQuery(rootPath, setClause, node.url);
+  return { data, query };
+};
+
 /*******************************/
 /*** TOPIC RELATED FUNCTIONS ***/
 /*******************************/
+
+const SET_CLAUSE = 'SET new.name=$name, new.description=$description, new.hash=$hash, new.icon=$icon';
 
 const createInsertTopicQuery = (node: ITopicCard, parentPath: string) => {
   return `
     ${parentPath}
     WITH parent
     MERGE (parent)-[childRel:HAS]->(new:Topic:${upperCaseFirstCharacter(node.type)} { hash: "${node.nodeHash}"})
-    SET new.name=$name, new.description=$description, new.hash=$hash, new.icon=$icon
+    ${SET_CLAUSE}
     RETURN new`;
 };
 
@@ -101,7 +124,7 @@ export const createDomainNode = (array: string[]) => {
 
 export const GET_DOMAINS = `
   MATCH (d:Domain)
-  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.visits, path: d.path, down_attemps: d.down_attemps } as domain
+  RETURN { hash: d.hash, url: d.url, name: d.name, views: d.views, path: d.path, down_attemps: d.down_attemps } as domain
 `;
 
 export const GET_DOMAINS_BY_URL = `
@@ -129,7 +152,7 @@ export const editDomainDownAttempsQuery = (hash: string, down_attemps: number) =
   `;
 };
 
-const createInsertTopicQuery2 = (node: IDomainCard, parentPath: string) => {
+const updateCommonProps = (node: IDomainCard, parentPath: string) => {
   return `
     ${parentPath}
     WITH parent
@@ -144,6 +167,18 @@ const updateDomainByUrl = (node: IDomainCard, parentPath: string) => {
     WITH parent
     MERGE (parent)-[childRel:HAS]->(new:Domain { url: "${node.url}"})
     SET new.name=$name, new.description=$description, new.hash=$hash, new.icon=$icon, new.lang=$lang, new.tags=$tags
+    RETURN new`;
+};
+
+const DOMAIN_SET_CLAUSE =
+  'SET new.name=$name, new.description=$description, new.hash=$hash, new.icon=$icon, new.lang=$lang, new.tags=$tags';
+
+const createDomainQuery = (parentPath: string, setClause: string, url: string) => {
+  return `
+    ${parentPath}
+    WITH parent
+    MERGE (parent)-[childRel:HAS]->(new:Domain { url: "${url}"})
+    ${setClause}
     RETURN new`;
 };
 

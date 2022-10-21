@@ -47,4 +47,12 @@ export class DomainFile {
   popDomain(hash: string) {
     delete this.nodes[hash];
   }
+
+  setViews(hash: string, views: number) {
+    this.nodes[hash].views = views;
+  }
+
+  setDownAttemps(hash: string, down_attemps: number) {
+    this.nodes[hash].down_attemps = down_attemps;
+  }
 }
