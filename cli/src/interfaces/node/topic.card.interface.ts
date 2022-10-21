@@ -7,4 +7,5 @@ export interface ITopicCard {
   icon: string;
   nodeHash: string;
   path: string[];
+  access?: string;
 }

@@ -15,6 +15,22 @@
       "tags": ["news"],
       "name": "The oil crash",
       "description": "La llegada al cenit de produccion del petroleo..."
+    },
+    {
+      "url": "https://esgeeks.com/",
+      "icon": "https://esgeeks.com/media/2022/04/favicon-esgeeks-100x100.png",
+      "lang": "esp",
+      "tags": ["it", "hacking"],
+      "name": "ES Geeks",
+      "description": "Aprende con EsGeeks y siéntete apasionado por la seguridad informática y hacking. ¡Sé un Geek!"
+    },
+    {
+      "url": "https://derechodelared.com/",
+      "icon": "https://derechodelared.com/wp-content/uploads/2019/07/Logo-DDR-2.png",
+      "lang": "esp",
+      "tags": ["it", "hacking"],
+      "name": "Derecho de la red",
+      "description": "Medio digital especializado en Ciberseguridad, Privacidad, Derecho de las TIC, Redes Sociales y mucho más. Desde 2014."
     }
   ]
 }

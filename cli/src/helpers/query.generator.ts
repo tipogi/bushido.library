@@ -93,7 +93,7 @@ const extractPath = (array: string[]) => {
 
 const createTopic = (nodeType: string) => `
   MERGE (new: Topic:${nodeType} { hash: $hash})
-  SET new.name = $name, new.description = $description, new.icon=$icon
+  SET new.name = $name, new.description = $description, new.icon=$icon, new.access=$access
   RETURN new
 `;
 
@@ -102,6 +102,7 @@ const generateTopicData = (node: ITopicCard) => ({
   description: node.description,
   hash: node.nodeHash,
   icon: node.icon,
+  access: node.access,
 });
 
 /********************************/

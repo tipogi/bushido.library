@@ -1,12 +1,60 @@
 {
   "it": [
     {
-      "url": "https://esgeeks.com/",
-      "icon": "https://esgeeks.com/media/2022/04/favicon-esgeeks-100x100.png",
+      "url": "https://www.youtube.com/c/S4viOnLive/videos",
+      "icon": "https://yt3.ggpht.com/A1Pjd_exXu-TnIt1bUiNqgSx2_la44u0VV5f9uboYX-zfk9a1IbXWQC3WZaDtzpWz4FQ18wRjDk=s176-c-k-c0x00ffffff-no-rj",
       "lang": "esp",
-      "tags": ["it", "hacking"],
-      "name": "ES Geeks",
-      "description": "Aprende con EsGeeks y siéntete apasionado por la seguridad informática y hacking. ¡Sé un Geek!"
+      "tags": ["hacking", "cybersecurity"],
+      "name": "S4viOnLive",
+      "description": "Creador de contenido de Hacking y Ciberseguridad. Hago directo todos los días"
+    },
+    {
+      "url": "https://www.youtube.com/c/HackerSploit/playlists",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMHQ=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["hacking", "cybersecurity", "linux"],
+      "name": "HackerSploit",
+      "description": "HackerSploit is the leading provider of free Infosec and cybersecurity training"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/playlists",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTbIyaTXPC0sw_5e2IKr6pWdNr0Q-8B2Zk1Rk-uwg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["hacking", "cybersecurity", "linux"],
+      "name": "Grant Collins",
+      "description": "An I.T. nerd who wants to think he is good at cybersecurity but really is just a script kiddie"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g",
+      "icon": "https://yt3.ggpht.com/TD0Bbfq-jnVWBNnOySWIoOp3AqPeZtGMjtHbo_UCeGseY0A70fUAeIbsETO0mmAfJu3pcSYonA=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["it", "devops"],
+      "name": "Pelado Nerd",
+      "description": "Professional Nerd"
+    },
+    {
+      "url": "https://www.youtube.com/c/MentalOutlaw/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AMLnZu_wA4-Tjwkb8nDDeA99sTYCLW7ROVbHwblHvFZ7Ng=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux"],
+      "name": "Mental Outlaw",
+      "description": "I make videos about stuff"
+    },
+    {
+      "url": "https://www.youtube.com/c/LukeSmithxyz/videos",
+      "icon": "https://lukesmith.xyz/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux"],
+      "name": "Luke Smith",
+      "description": "Everything you're looking for is here"
+    },
+    {
+      "url": "https://www.youtube.com/c/NetworkChuck/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux", "networking"],
+      "name": "NetworkChuck",
+      "description": "My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field"
     }
   ]
 }

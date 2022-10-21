@@ -35,7 +35,7 @@ export class FileGeneratorService {
   async digDeeper(parentPath: string | undefined, folder: Branch) {
     try {
       return await Promise.all(
-        map(folder.getCards(), async ({ type, description, icon }, key) => {
+        map(folder.getCards(), async ({ type, description, icon, access }, key) => {
           const relativePath = `${parentPath}/${key}`;
           const pathInChunks = relativePath.split('/').slice(1);
           return await new Promise(async (resolve) => {
@@ -50,6 +50,7 @@ export class FileGeneratorService {
                 path: pathInChunks,
                 type,
                 icon,
+                access,
               });
               await this.digDeeper(relativePath, branchNode);
             } else if (type === CardType.LEAF) {
