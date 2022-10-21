@@ -63,6 +63,22 @@
       "tags": ["privacy","app", "documents"],
       "name": "Cryptpad",
       "description": "Collaboration suite end-to-end encrypted and open-source"
+    },
+    {
+      "url": "https://privacytests.org/",
+      "icon": "https://d33wubrfki0l68.cloudfront.net/996d6df1d46671892c1444ca4ec2162f57ce8de9/0368f/static/img/logo-black.svg",
+      "lang": "eng",
+      "tags": ["privacy","app", "browser"],
+      "name": "Privacy Tests",
+      "description": "Open-source tests of web browser privacy."
+    },
+    {
+      "url": "https://privacyspy.org/",
+      "icon": "https://d33wubrfki0l68.cloudfront.net/996d6df1d46671892c1444ca4ec2162f57ce8de9/0368f/static/img/logo-black.svg",
+      "lang": "eng",
+      "tags": ["privacy","app", "browser"],
+      "name": "Privacy Spy",
+      "description": "PrivacySpy is an open project to grade and monitor privacy policies for convenience and accountability"
     }
   ]
 }

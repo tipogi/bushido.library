@@ -55,6 +55,14 @@
       "tags": ["github", "nodes", "bitcoin", "indexer"],
       "name": "Fulcrum",
       "description": "A fast & nimble SPV server for Bitcoin and others"
+    },
+    {
+      "url": "https://github.com/JoinMarket-Org",
+      "icon": "https://avatars.githubusercontent.com/u/16105296?s=200&v=4",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin", "joinmarket"],
+      "name": "Join Market",
+      "description": "CoinJoin implementation with incentive structure to convince people to take part"
     }
   ]
 }

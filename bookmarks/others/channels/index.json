@@ -10,5 +10,11 @@
     "description": "",
     "type": "LEAF",
     "icon": "mind"
+  },
+  "it": {
+    "name": "IT",
+    "description": "",
+    "type": "LEAF",
+    "icon": "it"
   }
 }

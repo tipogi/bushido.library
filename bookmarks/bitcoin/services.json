@@ -79,6 +79,30 @@
       "tags": ["services", "bitcoin"],
       "name": "BTC Consulting",
       "description": "Todo lo que necesitas para que tu empresa de el salto al mundo de Bitcoin"
+    },
+    {
+      "url": "https://www.itchysats.network/",
+      "icon": "https://pbs.twimg.com/profile_images/1445311309122203651/ljO75IVW_x96.jpg",
+      "lang": "eng",
+      "tags": ["services", "bitcoin"],
+      "name": "ItchySats",
+      "description": "Peer-to-peer derivatives on Bitcoin. Start trading CFDs on Bitcoin - trustless and peer-to-peer! No counterparty risk, no deposits, no accounts."
+    },
+    {
+      "url": "https://coinos.io",
+      "icon": "https://coinos.io/favicon.svg",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "CoinOS",
+      "description": "The easiest way to accept bitcoin in your store"
+    },
+    {
+      "url": "https://lend.hodlhodl.com/",
+      "icon": "https://lend.hodlhodl.com/assets/favicon-8ce61dfb65da216202803122fed16228.ico",
+      "lang": "eng",
+      "tags": ["services", "bitcoin"],
+      "name": "Lend",
+      "description": "Global non-custodial P2P Bitcoin-Backend lending platform. Lend and Borrow Crypto Anonymously"
     }
   ]
 }

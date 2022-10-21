@@ -94,6 +94,14 @@
       "tags": ["store", "bitcoin"],
       "name": "Bitcoin for local business",
       "description": "Level Up Your Bitcoin Security!"
+    },
+    {
+      "url": "https://btcmap.org/",
+      "icon": "https://btcmap.org/images/logo.svg",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Bitcoin map",
+      "description": "Easily find places to spend sats anywhere on the planet"
     }
   ]
 }

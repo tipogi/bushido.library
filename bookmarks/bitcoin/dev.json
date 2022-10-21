@@ -119,6 +119,14 @@
       "tags": ["dev", "fund"],
       "name": "Bitcoin Core Code",
       "description": "Use Modules, Namespaces, Classes, or Files at the top of the page to start navigating"
+    },
+    {
+      "url": "https://trybitcoin.satsie.dev/",
+      "icon": "https://trybitcoin.satsie.dev/assets/favicon.png",
+      "lang": "eng",
+      "tags": ["dev", "code"],
+      "name": "Try Bitcoin",
+      "description": "This is an interactive tutorial for beginners who want to learn more about the technical side of Bitcoin. Coding experience is helpful, but not required"
     }
   ]
 }

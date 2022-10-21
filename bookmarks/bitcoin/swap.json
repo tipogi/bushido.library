@@ -1,14 +1,6 @@
 {
   "swap": [
     {
-      "url": "https://coinos.io/login",
-      "icon": "https://coinos.io/favicon-32x32.png",
-      "lang": "eng",
-      "tags": ["swap"],
-      "name": "CoinOS",
-      "description": "We make Bitcoin more usable every day. Your Bitcoin, Liquid, and Lightning web wallet"
-    },
-    {
       "url": "https://unstoppableswap.net/",
       "icon": "https://unstoppableswap.net/assets/favicon.a5d3e411.svg",
       "lang": "eng",

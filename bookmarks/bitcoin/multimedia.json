@@ -162,7 +162,7 @@
     },
     {
       "url": "https://www.youtube.com/playlist?list=PLTSQLiuakZ401vG5Bxv3BrbU-SPC_9O9P",
-      "icon": "https://yt3.ggpht.com/81DA8dkR-TEE58eh35KVqJ37M7_eR-QK4u8uvlgZLkmYc-Fkh0xUhLaCDgi9Pijzye1rI2MZ=s176-c-k-c0x00ffffff-no-rj",
+      "icon": "https://yt3.ggpht.com/81DA8dkR-TEE58eh35KVqJ37M7_eR-QK4u8uvlgZLkmYc-Fkh0xUhLaCDgi9Pijzye1rI2MZ",
       "lang": "esp",
       "tags": ["bitcoin", "tutorials"],
       "name": "Cripto Panas",
@@ -178,12 +178,35 @@
     },
     {
       "url": "https://www.youtube.com/channel/UC7toIW2fecWZcMMcHR4-tgA/videos",
-      "icon": "https://yt3.ggpht.com/peE8jqeUoDzGOzdXnUruFjGkmtZpUaGATYg0C7gJrh5Rqi8Jha2tN0uWSHmfVwGA_0Nx1tK36A=s176-c-k-c0x00ffffff-no-rj",
+      "icon": "https://yt3.ggpht.com/peE8jqeUoDzGOzdXnUruFjGkmtZpUaGATYg0C7gJrh5Rqi8Jha2tN0uWSHmfVwGA_0Nx1tK36A",
       "lang": "esp",
       "tags": ["bitcoin", "tutorials"],
       "name": "BitMaker",
       "description": "Bitcoin a mi ritmo | Amante de la electrónica y hardware | NerdMiner | CryptoMaker | #Bitcoin holder"
+    },
+    {
+      "url": "https://www.youtube.com/c/Bitcoinology/videos",
+      "icon": "https://yt3.ggpht.com/fEVRnAjJZOpNSGjES0uWKv97InFXxHQXw74ekNK8iX2pMEIi_F8E0Vh_QkvP7OGEhrF_FXoX",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Bitcoinology",
+      "description": "We are Bitcoiners and we like to talk Bitcoin, all day, every day. When get together to talk anything from very deep technical stuff to abstract metaphysical things, but most of the time we like to shoot the shit."
+    },
+    {
+      "url": "https://www.youtube.com/channel/UC-LIrt0uGQR7dyn-wVb72fQ/videos",
+      "icon": "https://watchoutfreedom.com/assets/favicon.ico",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Watchout Freedom",
+      "description": "Bienvenido/a a nuestro canal de vídeos de la asociación. Watch Out, Freedom! (Wof!) Es una asociación sin ánimo de lucro de profesionales "
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCg6HkJgWfToAGWp27A7zzfw/videos",
+      "icon": "https://yt3.ggpht.com/OOhfLHT8YHTS3Y8c-lql1o1LVm3JJvFGWd1pSVqn-zNWvnzUu6_32nR0fDiVDn3UzsRATFXa",
+      "lang": "eng",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "Powered by IBEX",
+      "description": "Bienvenidos a nuestro canal, donde estaremos publicando podcasts y conversaciones interesantes en el camino"
     }
-
   ]
 }

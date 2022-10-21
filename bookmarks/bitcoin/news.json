@@ -62,6 +62,14 @@
       "tags": ["news", "security"],
       "name": "Bitcoin dev archives",
       "description": "Bitcoin development and protocol discussion. This list is lightly moderated"
+    },
+    {
+      "url": "https://www.nobsbitcoin.com/",
+      "icon": "https://www.nobsbitcoin.com/content/images/2022/09/White-logo---no-background-1.png",
+      "lang": "eng",
+      "tags": ["news", "security"],
+      "name": "No Bullshit Bitcoin",
+      "description": "It is a Bitcoin News Desk Without Ads, Paywalls, or Clickbait."
     }
   ]
 }

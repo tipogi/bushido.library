@@ -79,6 +79,14 @@
       "tags": ["node", "core"],
       "name": "Pruned Node Today",
       "description": "Get your pruned Bitcoin Core node in 5 minutes"
+    },
+    {
+      "url": "https://twofaktor.github.io/minibolt/",
+      "icon": "https://twofaktor.github.io/minibolt/favicon.ico",
+      "lang": "eng",
+      "tags": ["node", "core"],
+      "name": "Minibolt",
+      "description": "With this guide, you can set up a Bitcoin and Lightning node from scratch, doing everything yourself"
     }
   ]
 }

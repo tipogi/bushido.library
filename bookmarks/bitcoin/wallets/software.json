@@ -118,6 +118,14 @@
       "tags": ["desktop", "on-chain", "ln"],
       "name": "MyCitadel",
       "description": "Ultimate digital sovereignity. Do a reliable hodling, organizational, & current accounts – or instant Lightning payments"
+    },
+    {
+      "url": "https://jamapp.org/",
+      "icon": "https://jamapp.org/favicon.png",
+      "lang": "eng",
+      "tags": ["desktop", "on-chain", "ln", "coinjoin"],
+      "name": "Jam",
+      "description": "Your sats. Your privacy. Your profit. Financial privacy, decentralized."
     }
   ]
 }

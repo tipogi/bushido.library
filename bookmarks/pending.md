@@ -8,10 +8,7 @@ BITCOIN:
 - https://dyinodes.com (store)
 - https://sha256algorithm.com
 - https://geyser.fund
-- https://twofaktor.github.io/minibolt/ (nodes)
-- https://btcmap.org/map (stores)
-- Add also meetups
-- https://www.nobsbitcoin.com/ (news)
+- https://mercurywallet.com/
 
 LIGHTNING:
 https://www.coincorner.com
@@ -21,7 +18,6 @@ https://www.coincorner.com
 
 OTHER:
 - https://github.com/aristocratos/bpytop
-- https://privacytests.org
 
 NEW ICONS:
 - linux

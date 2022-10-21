@@ -106,5 +106,11 @@
     "description": "Do you want to be inside of the circular economy? Here you have some markets to buy some goods",
     "type": "LEAF",
     "icon": "store"
+  },
+  "meetups": {
+    "name": "MeetUps",
+    "description": "Do you want to be inside of the circular economy? Here you have some markets to buy some goods",
+    "type": "LEAF",
+    "icon": "meetups"
   }
 }

@@ -198,6 +198,22 @@
       "tags": [],
       "name": "Bitslog",
       "description": "Words on Bitcoin Design, Privacy, Security and Crypto, by Sergio Demian Lerner"
+    },
+    {
+      "url": "https://alfre.info/blog/",
+      "icon": "https://alfre.info/blog/wp-content/uploads/sites/2/2022/03/favicon-32x32-1.png",
+      "lang": "esp",
+      "tags": [],
+      "name": "Alfre.info | Blog",
+      "description": "Formación y Divulgación sobre Bitcoin e Historia Crypto"
+    },
+    {
+      "url": "https://webusers.imj-prg.fr/~ricardo.perez-marco/",
+      "icon": "https://webusers.imj-prg.fr/~ricardo.perez-marco/foto.jpg",
+      "lang": "eng",
+      "tags": [],
+      "name": "Ricardo Perez Marco",
+      "description": "Mathematician, speculator, bitcoiner, chess & poker player, gambler and free forever."
     }
   ]
 }
