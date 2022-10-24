@@ -1,6 +1,6 @@
 import { CardType } from '../../constants/enumerators';
 
-export const BOOKMARKS_FOLDER = '../bookmarks';
+export const BOOKMARKS_FOLDER = '../playground';
 
 export class BNode {
   // Create a unique hash from the relative path of the node

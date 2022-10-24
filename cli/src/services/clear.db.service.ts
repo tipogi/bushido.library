@@ -10,6 +10,9 @@ import { ExtractDBService } from './extract.db.service';
 import { IPrintOut, LogService } from './log.service';
 import { PopulateDBService } from './populate.db.service';
 
+// The ping amount before delete the domain
+const MAX_ATTEMPS = 8;
+
 interface IDeletedNode extends Record {
   name: string;
   hash: string;
@@ -88,7 +91,8 @@ export class ClearDBService {
         color = green;
       } else if (available === 404) {
         availableDomain = false;
-        domainStates.down.push({ url, hash, down_attemps: down_attemps.toNumber() });
+        const atttemps = down_attemps === null ? 0 : down_attemps.toNumber();
+        domainStates.down.push({ url, hash, down_attemps: atttemps });
         message = `UNAVAILABLE (404): Ping failed to ${url} domain. 'Not Found' error!`;
         color = red;
       } else {
@@ -100,7 +104,7 @@ export class ClearDBService {
       color = green;
     }
     // It means previously was down the domain, but actually it is accesible again
-    if (availableDomain && down_attemps !== null && down_attemps.high > 0) {
+    if (availableDomain && down_attemps !== null && down_attemps.toNumber() > 0) {
       domainStates.up.push({ url, hash, down_attemps: down_attemps.toNumber() });
     }
     return { message, color };
@@ -117,7 +121,7 @@ export class ClearDBService {
     for (const { hash, down_attemps, url } of notAvailableDomains) {
       // The crontab will run each 5 days so, that case means that it was down the domain more than a month
       // In this scenario, it will delete the domain
-      if (down_attemps > 4) {
+      if (down_attemps > MAX_ATTEMPS) {
         const outputMessage = {
           message: `DELETED: The ${url} domain has reached the maximum attemps of PING. Deleting the domain (${hash})`,
           color: red,
