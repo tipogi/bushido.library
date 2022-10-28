@@ -1,7 +1,6 @@
 # bushido-cli 
 cli/src/config/environment
 cli/.env
-cli
 
 # compiled output
 cli/dist
