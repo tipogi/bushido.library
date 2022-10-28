@@ -6,6 +6,9 @@ import { exit } from 'process';
 import { get } from 'lodash';
 import { CustomConfigOptions, EnvironmentConfigParams } from './interfaces';
 import { CONFIG_PROVIDER_VALUE_NAME } from './constants';
+// Read the .env file that it is located in the root folder
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+require('dotenv').config();
 
 @Injectable()
 export class EnvConfigService {
