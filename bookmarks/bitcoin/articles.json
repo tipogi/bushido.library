@@ -214,6 +214,14 @@
       "tags": [],
       "name": "Ricardo Perez Marco",
       "description": "Mathematician, speculator, bitcoiner, chess & poker player, gambler and free forever."
+    },
+    {
+      "url": "https://unenumerated.blogspot.com/",
+      "icon": "",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Nick Szabo",
+      "description": "A premier thinker about history, law and economics, and the lessons they have for security."
     }
   ]
 }
