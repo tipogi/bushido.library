@@ -63,6 +63,14 @@
       "tags": ["analysis", "charts", "utxo"],
       "name": "TxStats",
       "description": "It provides dashboards highlighting the usage of various advanced Bitcoin features and tracking many important statistics"
+    },
+    {
+      "url": "https://bitinfocharts.com/bitcoin/",
+      "icon": "https://bitinfocharts.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["analysis", "charts", "utxo"],
+      "name": "BitInfoCharts",
+      "description": "Bitcoin price stats and information"
     }
   ]
 }

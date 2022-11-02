@@ -47,6 +47,22 @@
       "tags": ["bitcoin", "github", "coinjoin", "tails"],
       "name": "JoinMarket On Tails",
       "description": "Straightforward tutorial on how to create a JoinMarket setup on Tails"
+    },
+    {
+      "url": "https://github.com/russeree/basic_bitcoin_tech",
+      "icon": "https://avatars.githubusercontent.com/u/3104223?v=4",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "slides"],
+      "name": "Basic Bitcoin Tech",
+      "description": "Educational Slideshows"
+    },
+    {
+      "url": "https://github.com/MiPrimerBitcoin/Diplomado_v3.0",
+      "icon": "https://avatars.githubusercontent.com/u/113369254?v=4",
+      "lang": "esp",
+      "tags": ["bitcoin", "github", "slides"],
+      "name": "Mi Primer Bitcoin",
+      "description": "Diplomado v 3.0 Esta es la version 3.0 de el Libro de el Diplomado en Bitcoin impartido por Mi Primer Bitcoin en El Salvador"
     }
   ]
 }
