@@ -119,6 +119,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "Vulcan21",
       "description": "Born out of necessity, built to last and chosen to immortalize your legacy."
+    },
+    {
+      "url": "https://hodlr.swiss/",
+      "icon": "https://cdn.shopify.com/s/files/1/0282/4588/5016/files/221003_FAVICON_BLACK_hodlr_3fa24e33-0798-4db3-bbc1-0488aef1eb11_32x32.png?v=1664836634",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "HODLR",
+      "description": "Hodlr one titanium. The smallest, lightest and strongest crypto seed backup on the market"
     }
   ]
 }
