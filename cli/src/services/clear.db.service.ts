@@ -12,6 +12,8 @@ import { PopulateDBService } from './populate.db.service';
 
 // The ping amount before delete the domain
 const MAX_ATTEMPS = 8;
+// When the host is not available anymore
+const HOST_UNREACHEABLE = 'Host unreacheable';
 
 interface IDeletedNode extends Record {
   name: string;
@@ -83,16 +85,25 @@ export class ClearDBService {
     const requestTime = `${Date.now() - requestStartTime}ms`;
     // Returns error type
     if (typeof available === 'string') {
-      message = `NOT_HEALTY (${available}): Ping response from ${url} domain took ${requestTime}`;
-      color = yellow;
+      if (available === HOST_UNREACHEABLE) {
+        availableDomain = false;
+        const atttemps = down_attemps === null ? 0 : down_attemps.toNumber();
+        domainStates.down.push({ url, hash, down_attemps: atttemps });
+        message = `UNREACHABLE: Ping failed to ${url} domain. 'Not Exist' error!`;
+        color = red;
+      } else {
+        message = `NOT_HEALTY (${available}): Ping response from ${url} domain took ${requestTime}`;
+        color = yellow;
+      }
     } else if (typeof available === 'number') {
       if (available === 200) {
         message = `AVAILABLE: Ping to ${url} domain took ${requestTime}`;
         color = green;
       } else if (available === 404) {
-        availableDomain = false;
+        // I do not think we should threat as not available domain that error. That page does not exist in that domain. TODO
+        /*availableDomain = false;
         const atttemps = down_attemps === null ? 0 : down_attemps.toNumber();
-        domainStates.down.push({ url, hash, down_attemps: atttemps });
+        domainStates.down.push({ url, hash, down_attemps: atttemps });*/
         message = `UNAVAILABLE (404): Ping failed to ${url} domain. 'Not Found' error!`;
         color = red;
       } else {
