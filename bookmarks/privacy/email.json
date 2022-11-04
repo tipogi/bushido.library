@@ -127,6 +127,22 @@
       "tags": ["email", "privacy"],
       "name": "Skiff",
       "description": "Take your thoughts and ideas to the next level with a private, end-to-end encrypted workspace"
+    },
+    {
+      "url": "https://www.fastmail.com/",
+      "icon": "https://www.fastmail.com/static/favicons/FM-App-Icon-192.png",
+      "lang": "eng",
+      "tags": ["email", "privacy"],
+      "name": "Fastmail",
+      "description": "Private email peace of mind. Get the email features you need, without giving up your privacy"
+    },
+    {
+      "url": "https://relay.firefox.com/",
+      "icon": "https://relay.firefox.com/_next/static/media/favicon.fc247257.svg",
+      "lang": "eng",
+      "tags": ["email", "privacy"],
+      "name": "Firefox Relai",
+      "description": "Protect your true email address to help control your inbox"
     }
   ]
 }

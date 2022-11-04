@@ -111,6 +111,14 @@
       "tags": ["swap"],
       "name": "Deezy",
       "description": "home for lightning liquidity"
+    },
+    {
+      "url": "https://classic.coinos.io/",
+      "icon": "https://classic.coinos.io/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["swap"],
+      "name": "Classic CoinOS",
+      "description": "Send and receive bitcoin with Liquid and Lightning"
     }
   ]
 }

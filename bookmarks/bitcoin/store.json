@@ -49,7 +49,7 @@
     },
     {
       "url": "https://www.gobrrr.me/",
-      "icon": "https://i0.wp.com/www.gobrrr.me/ozypsoob/2022/02/cropped-GoBrrrIco-1-1.png",
+      "icon": "https://i0.wp.com/www.gobrrr.me/wp-content/uploads/2022/02/cropped-GoBrrrIco-1-1.png?fit=32%2C32",
       "lang": "eng",
       "tags": ["store", "bitcoin"],
       "name": "Go Brrr",
@@ -73,7 +73,7 @@
     },
     {
       "url": "https://shamory.com/",
-      "icon": "https://i0.wp.com/shamory.com/wp-content/uploads/2022/08/logo.png",
+      "icon": "https://shamory.com/wp-content/uploads/2020/03/cropped-Top-Side-100x100.png",
       "lang": "eng",
       "tags": ["store", "bitcoin"],
       "name": "SHAmory",
@@ -102,6 +102,22 @@
       "tags": ["store", "bitcoin"],
       "name": "Bitcoin map",
       "description": "Easily find places to spend sats anywhere on the planet"
+    },
+    {
+      "url": "https://copiaro.de/",
+      "icon": "https://copiaro.de/wp-content/uploads/2021/11/SVG-Copiaro-Logo_330x140.svg",
+      "lang": "deu",
+      "tags": ["store", "bitcoin"],
+      "name": "Copiaro",
+      "description": "Fachhandel für Bitcoin Produkte und Gadgets – Wir beziehen ausschließlich direkt vom Hersteller oder über lizensierte Distributoren"
+    },
+    {
+      "url": "https://thelittlehodler.com/",
+      "icon": "https://thelittlehodler.com/wp-content/uploads/2021/09/img-favicon.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "The Little HODLER",
+      "description": "The Little HODLer helps bitcoiners do what they do best: talk about Bitcoin"
     }
   ]
 }

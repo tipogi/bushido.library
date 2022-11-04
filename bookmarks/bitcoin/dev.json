@@ -127,6 +127,14 @@
       "tags": ["dev", "code"],
       "name": "Try Bitcoin",
       "description": "This is an interactive tutorial for beginners who want to learn more about the technical side of Bitcoin. Coding experience is helpful, but not required"
+    },
+    {
+      "url": "https://www.pleblab.com/",
+      "icon": "https://www.pleblab.com/favicon.png",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Pleb Lab",
+      "description": "By the Plebs for the Plebs. Building on Bitcoin in Austin, Texas"
     }
   ]
 }

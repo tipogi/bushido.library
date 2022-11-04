@@ -39,6 +39,28 @@
       "tags": ["github", "guides", "privacy", "security"],
       "name": "Awesome Security Hardening",
       "description": "A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources"
+    },{
+      "url": "https://github.com/tycrek/degoogle",
+      "icon": "https://avatars.githubusercontent.com/u/29926144?v=4",
+      "lang": "eng",
+      "tags": ["privacy", "github", "tools", "tools"],
+      "name": "tycrek/degoogle",
+      "description": "A huge list of alternatives to Google products. Privacy tips, tricks, and links"
+    },{
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "icon": "https://avatars.githubusercontent.com/u/24270415?s=200&v=4",
+      "lang": "eng",
+      "tags": ["privacy", "github", "tools", "tools"],
+      "name": "Awesome self-hosted",
+      "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+    },
+    {
+      "url": "https://github.com/benbusby/whoogle-search",
+      "icon": "https://avatars.githubusercontent.com/u/33362396?v=4",
+      "lang": "eng",
+      "tags": ["tools", "github", "tools"],
+      "name": "benbusby/whoogle-search",
+      "description": "Get Google search results, but without any ads, javascript, AMP links, cookies, or IP address tracking. Easily deployable in one click as a Docker app, and customizable with a single config file"
     }
   ]
 }

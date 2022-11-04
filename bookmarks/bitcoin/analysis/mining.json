@@ -95,6 +95,14 @@
       "tags": ["mining", "gpu"],
       "name": "2Miners",
       "description": "Mining pools for professionals by professionals"
+    },
+    {
+      "url": "https://lens.lincoin.com/",
+      "icon": "https://lens.lincoin.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["mining", "analysis"],
+      "name": "Lincoin Lens",
+      "description": "Building the next generation of tools and setting new standards for transparency and monitoring"
     }
   ]
 }
