@@ -25,6 +25,14 @@
       "description": "It is designed to be simple and elegant with a distinctive industrial design"
     },
     {
+      "url": "https://seedsigner.com",
+      "icon": "https://seedsigner.com/wp-content/uploads/2021/08/cropped-SeedSigner-32x32.png",
+      "lang": "eng",
+      "tags": ["diy-wallet", "on-chain"],
+      "name": "SeedSigner",
+      "description": "A project which is focused on lowering the cost and complexity of creating and using Bitcoin multi-signature wallets"
+    },
+    {
       "url": "https://keyst.one/",
       "icon": "https://keyst.one/favicon.ico",
       "lang": "eng",

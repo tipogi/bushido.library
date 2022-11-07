@@ -1,7 +1,7 @@
 {
   "podcast": [
     {
-      "url": "https://lunaticoin.com/reproductor",
+      "url": "https://lunaticoin.com",
       "icon": "https://lunaticoin.com/wp-content/uploads/2022/01/1037971-1642694615087-137d6f269075f-1024x1024.jpg",
       "lang": "esp",
       "tags": ["podcast", "privacy", "security", "economy", "liberty", "technical"],
@@ -113,14 +113,6 @@
       "description": "Daily Bitcoin news from the perspective of two taco plebs"
     },
     {
-      "url": "https://podcast.pau.ninja/",
-      "icon": "/public/img/favicon/pau-ninja.png",
-      "lang": "esp",
-      "tags": ["podcast"],
-      "name": "Pau Ninja Podcast",
-      "description": "El podcast multipotencial. Más de 1 millón de escuchas con invitados tan desconocidos como mediáticos"
-    },
-    {
       "url": "https://anchor.fm/WakeUpPod",
       "icon": "https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_nologo400/2346114/2346114-1615413607091-98cea3261d5f3.jpg",
       "lang": "eng",
@@ -134,7 +126,7 @@
       "lang": "esp",
       "tags": ["podcast"],
       "name": "La Cadena de Bloques",
-      "description": "Aquí aprenderás qué es bitcoin y por qué es importante, aplicaciones prácticas y todo eso sin perderte nada de la actualidad"
+      "description": "Aqui aprenderás que es bitcoin y por que es importante, aplicaciones practicas y todo eso sin perderte nada de la actualidad"
     },
     {
       "url": "https://www.ivoox.com/en/podcast-cadena-bloques_sq_f11164235_1.html",
@@ -151,6 +143,14 @@
       "tags": ["podcast"],
       "name": "Bitcoin.Review",
       "description": "Place to talk about Bitcoin Project software updates and some other commentary that I find interesting or noteworthy to me"
+    },
+    {
+      "url": "https://whatismoneypodcast.com/",
+      "icon": "https://image.simplecastcdn.com/images/0cb5ca85-da11-4b94-9f5e-381719ff4f48/8e6d57ce-0e16-4412-9908-0c8ad9d836c8/wim-favicon.jpg",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "What is Money",
+      "description": "In this podcast, we will pursue this ßrabbit by engaging in a diversity of deep conversations with deep thinkers from different walks of life."
     }
   ]
 }

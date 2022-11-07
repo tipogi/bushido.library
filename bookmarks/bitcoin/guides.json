@@ -2,7 +2,7 @@
   "guides": [
     {
       "url": "https://estudiobitcoin.com/",
-      "icon": "/public/img/favicon/estudio-bitcoin.png",
+      "icon": "https://bushido.guide/img/favicon/favicon-EB.png",
       "lang": "esp",
       "tags": [""],
       "name": "Estudio Bitcoin",
@@ -66,7 +66,7 @@
     },{
       "url": "https://bitcoin.cipix.eu/",
       "icon": "https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5993420-c6c3-4610-9186-a6d102e51577_250x250.png",
-      "lang": "eng",
+      "lang": "esp",
       "tags": ["privacy", "tools", "guide"],
       "name": "Bitcoin - Soberania Financiera",
       "description": "En primer lugar, lo siento por el diseño web de mierda, pero el objetivo de esta web no es ser elegante, y es mejor que lo veas en los navegadores de escritorio, en los móviles se ve realmente horrible, lo sé"
@@ -119,6 +119,14 @@
       "tags": ["bitcoin", "guide", "mining", "privacy"],
       "name": "Econoalchemist | Blog",
       "description": "The econoalchemist blog is focused on keeping Bitcoin permissionless by offering content on self custody, censorship resistance, and home mining."
+    },
+    {
+      "url": "https://sovrnbitcoiner.com/",
+      "icon": "https://sovrnbitcoiner.com/content/images/2022/08/E0DDFC88-D797-4141-8793-96B78EFF1D75-4.jpg",
+      "lang": "eng",
+      "tags": [],
+      "name": "sovrn Bitcoiner",
+      "description": "We are at war with them. They do not want us to do what we are doing and so fuck it, if its war.. lets get the battle gear on and use the tools that are available."
     }
   ]
 }

@@ -80,14 +80,6 @@
       "description": "It is an open-source, non-custodial, autonomous wallet for Android devices which can store, send and receive bitcoins"
     },
     {
-      "url": "https://seedsigner.com",
-      "icon": "https://seedsigner.com/wp-content/uploads/2021/12/Frame-6.png",
-      "lang": "eng",
-      "tags": ["diy-wallet", "on-chain"],
-      "name": "SeedSigner",
-      "description": "A project which is focused on lowering the cost and complexity of creating and using Bitcoin multi-signature wallets"
-    },
-    {
       "url": "https://fullynoded.app/",
       "icon": "https://fullynoded.files.wordpress.com/2020/07/final-fully-noded-logo.png",
       "lang": "eng",
@@ -125,7 +117,15 @@
       "lang": "eng",
       "tags": ["desktop", "on-chain", "ln", "coinjoin"],
       "name": "Jam",
-      "description": "Your sats. Your privacy. Your profit. Financial privacy, decentralized."
+      "description": "Your sats. Your privacy. Your profit. Financial privacy, decentralized"
+    },
+    {
+      "url": "https://github.com/nbd-wtf/obw",
+      "icon": "",
+      "lang": "eng",
+      "tags": ["desktop", "on-chain", "ln", "coinjoin"],
+      "name": "Open Bitcoin Wallet",
+      "description": "Android Bitcoin and Lightning wallet, a fork of Simple Bitcoin Wallet focused on providing a pleasant and simple experience with advanced features."
     }
   ]
 }

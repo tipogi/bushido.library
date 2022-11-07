@@ -58,7 +58,7 @@
     },
     {
       "url": "https://crypton.sh/",
-      "icon": "https://crypton.sh/storage/assets/icons/favicon.ico",
+      "icon": "https://crypton.sh/assets/shared/images/favicon.png",
       "lang": "eng",
       "tags": ["sms","privacy"],
       "name": "Crypton",

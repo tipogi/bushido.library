@@ -187,14 +187,14 @@
     {
       "url": "https://www.youtube.com/c/Bitcoinology/videos",
       "icon": "https://yt3.ggpht.com/fEVRnAjJZOpNSGjES0uWKv97InFXxHQXw74ekNK8iX2pMEIi_F8E0Vh_QkvP7OGEhrF_FXoX",
-      "lang": "esp",
+      "lang": "eng",
       "tags": ["bitcoin", "tutorials"],
       "name": "Bitcoinology",
       "description": "We are Bitcoiners and we like to talk Bitcoin, all day, every day. When get together to talk anything from very deep technical stuff to abstract metaphysical things, but most of the time we like to shoot the shit."
     },
     {
-      "url": "https://www.youtube.com/channel/UC-LIrt0uGQR7dyn-wVb72fQ/videos",
-      "icon": "https://watchoutfreedom.com/assets/favicon.ico",
+      "url": "https://www.youtube.com/channel/UCe3Y07pc51c88YaiTSKpWtA/videos",
+      "icon": "https://yt3.ggpht.com/gdkf9aDmFEia6sRt2Var8ttlwhgGkavcJnYOAt-T0wZxwnhNuZDykTuqfpxZEHwUOpp8MdYhoQ=s176-c-k-c0x00ffffff-no-rj",
       "lang": "esp",
       "tags": ["bitcoin", "tutorials"],
       "name": "Watchout Freedom",
@@ -207,6 +207,14 @@
       "tags": ["bitcoin", "tutorials"],
       "name": "Powered by IBEX",
       "description": "Bienvenidos a nuestro canal, donde estaremos publicando podcasts y conversaciones interesantes en el camino"
+    },
+    {
+      "url": "https://www.youtube.com/c/Lunaticoin/videos",
+      "icon": "https://lunaticoin.com/wp-content/uploads/2022/01/1037971-1642694615087-137d6f269075f-1024x1024.jpg",
+      "lang": "esp",
+      "tags": ["bitcoin", "tutorials"],
+      "name": "LNTCN",
+      "description": "Conecto con personas de habla hispana con perfil propio dentro de #bitcoin y comparto su valor en mi podcast semanal"
     }
   ]
 }

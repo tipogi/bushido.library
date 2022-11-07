@@ -128,14 +128,6 @@
       "description": "Block 731398 is an education and community initiative to bring together all European Plebs and those who want to learn about Bitcoin"
     },
     {
-      "url": "https://thebitcoinmanual.com/articles/",
-      "icon": "https://thebitcoinmanual.com/wp-content/uploads/2021/03/The-Bitcoin-Manual-Text-Logo-cropped.png",
-      "lang": "eng",
-      "tags": ["articles"],
-      "name": "The Bitcoin Manual",
-      "description": "The Bitcoin Manual is a passion project created by two morons, Che & Nicky"
-    },
-    {
       "url": "https://medium.com/@SamouraiWallet",
       "icon": "https://pbs.twimg.com/profile_images/1210194659429011459/gqv1f2CT_400x400.png",
       "lang": "eng",
@@ -222,6 +214,14 @@
       "tags": ["articles"],
       "name": "Nick Szabo",
       "description": "A premier thinker about history, law and economics, and the lessons they have for security."
+    },
+    {
+      "url": "https://cryptohayes.medium.com/",
+      "icon": "https://miro.medium.com/fit/c/176/176/1*1v3kYlO1sYoqfZLuKzIwbQ.png",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Arthur Hayes",
+      "description": "Co-Founder of 100x. Trading and crypto enthusiast. Focused on helping spread financial literacy and educate investors."
     }
   ]
 }

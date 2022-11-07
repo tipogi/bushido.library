@@ -42,10 +42,10 @@
     },
     {
       "url": "https://insights.braiins.com/en/",
-      "icon": "https://insights.braiins.com/favicon.png",
+      "icon": "https://insights.braiins.com/assets/favicons/favicon.ico",
       "lang": "eng",
       "tags": ["analysis", "mining"],
-      "name": "Brains",
+      "name": "Braiins Insights",
       "description": "Bitcoin mining insights"
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "url": "https://www.hashrate.no/",
-      "icon": "none",
+      "icon": "https://www.hashrate.no/favicon-32x32.png",
       "lang": "eng",
       "tags": ["analysis", "mining", "gpu"],
       "name": "Hash Rate",
