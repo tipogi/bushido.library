@@ -22,7 +22,7 @@
   },
   "others": {
     "name": "Others",
-    "description": "Private repository that uraj1r0's friends can access",
+    "description": "Personal repository which might not be interest of the crowd",
     "type": "ROOT",
     "icon": "others",
     "access": "private"

@@ -1,0 +1,68 @@
+{
+  "desktop": [
+    {
+      "url": "https://www.obdev.at/products/microsnitch/index.html",
+      "icon": "https://www.obdev.at/Images/product-icons/microsnitch_32@2x.png",
+      "lang": "eng",
+      "tags": ["privacy", "microphone"],
+      "name": "Micro Snitch",
+      "description": "Ever wondered if an application records audio through your Macs built-in microphone without your knowledge?"
+    },
+    {
+      "url": "https://www.obdev.at/products/littlesnitch/index.html",
+      "icon": "https://www.obdev.at/Images/product-icons/littlesnitch_134@2x.png",
+      "lang": "eng",
+      "tags": ["privacy", "data"],
+      "name": "Little Snitch",
+      "description": "As soon as you are connected to the Internet, applications can potentially send whatever they want to wherever they want"
+    },
+    {
+      "url": "https://objective-see.org/products/oversight.html",
+      "icon": "https://objective-see.org/images/logoApple.png",
+      "lang": "eng",
+      "tags": ["privacy", "audio"],
+      "name": "Oversight",
+      "description": "Mac malware often spies on users by recording audio and video sessions... sometimes in an undetected manner."
+    },
+    {
+      "url": "https://www.titanium-software.fr/en/onyx.html",
+      "icon": "https://www.titanium-software.fr/images/icons/onyx1010.png",
+      "lang": "eng",
+      "tags": ["privacy", "files"],
+      "name": "Onyx",
+      "description": "OnyX is a multifunction utility that you can use to verify the structure of the system files"
+    },
+    {
+      "url": "https://privacy.sexy/",
+      "icon": "https://privacy.sexy/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy", "files"],
+      "name": "Sexy.privacy",
+      "description": "Enforce privacy & security best-practices on macOS. System file cleaner"
+    },
+    {
+      "url": "https://holepunch.to/",
+      "icon": "https://holepunch.to/images/logo.png",
+      "lang": "eng",
+      "tags": ["privacy", "P2P"],
+      "name": "Hole punch",
+      "description": "The peer to peer company"
+    },
+    {
+      "url": "https://objective-see.org/products/lulu.html",
+      "icon": "https://objective-see.org/images/logoApple.png",
+      "lang": "eng",
+      "tags": ["privacy", "P2P"],
+      "name": "Lulu",
+      "description": "In today's connected world, it is rare to find an application or piece of malware that doesn't talk to a remote server. LuLu is the free, open-source, firewall for Macs, that can protect your network connections and detect malicious activity"
+    },
+    {
+      "url": "https://matrix.org/",
+      "icon": "https://matrix.org/icons/icon-144x144.png?v=9c73e3e9f08bfca2a260df81aabb2fd4",
+      "lang": "eng",
+      "tags": ["privacy", "P2P"],
+      "name": "Matrix",
+      "description": "An open network for secure, decentralized communication"
+    }
+  ]
+}

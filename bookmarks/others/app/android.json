@@ -1,0 +1,76 @@
+{
+  "mobile": [
+    {
+      "url": "https://briarproject.org/",
+      "icon": "https://briarproject.org/img/briar_logo_large.png",
+      "lang": "eng",
+      "tags": ["privacy", "android"],
+      "name": "Briar",
+      "description": "Secure messaging, anywhere"
+    },
+    {
+      "url": "https://element.io/",
+      "icon": "https://element.io/images/logo-mark-primary.svg",
+      "lang": "eng",
+      "tags": ["privacy", "android"],
+      "name": "Element",
+      "description": "Secure and independent communication, connected via Matrix"
+    },
+    {
+      "url": "https://bitwarden.com/",
+      "icon": "https://bitwarden.com/favicon-32x32.png?v=1abf57d1154002a9fac426a2c5c04d85",
+      "lang": "eng",
+      "tags": ["privacy", "android"],
+      "name": "Bitwarden",
+      "description": "Move fast and securely with the password manager trusted by millions"
+    },
+    {
+      "url": "https://www.openkeychain.org/",
+      "icon": "https://www.openkeychain.org/public/images/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy", "message"],
+      "name": "OpenKeyChain",
+      "description": "It helps you communicate more privately and securely"
+    },
+    {
+      "url": "https://f-droid.org/en/packages/io.github.hasheazy/",
+      "icon": "https://f-droid.org/repo/io.github.hasheazy/en-US/icon_FAl5-n4j-cihGzAa0jph1_HTB1xrtw6I1Ysob_DDwdM=.png",
+      "lang": "eng",
+      "tags": ["privacy", "hash"],
+      "name": "Hash Easily",
+      "description": "Easily copy checksums to the clipboard after the calculation, with only one click"
+    },
+    {
+      "url": "https://f-droid.org/packages/org.dslul.openboard.inputmethod.latin/",
+      "icon": "https://f-droid.org/repo/org.dslul.openboard.inputmethod.latin/en-US/icon_O27U8sUp9U9DcyyMbcKRmsOZF9alwxcCLZ3q1a0-ojg=.png",
+      "lang": "eng",
+      "tags": ["privacy", "keyboard"],
+      "name": "Open Board",
+      "description": "An opensource keyboard that does not spy on you!"
+    },
+    {
+      "url": "https://f-droid.org/packages/app.fedilab.nitterizeme/",
+      "icon": "https://f-droid.org/repo/app.fedilab.nitterizeme/en-US/icon_peSc67ic5Sr7xyCVUgJtnWWtdNTQ1agk3V9jEXfMzUQ=.png",
+      "lang": "eng",
+      "tags": ["privacy", "links"],
+      "name": "Untrack me",
+      "description": "Transform Youtube, Twitter & Instagram links to their free and open source alter"
+    },
+    {
+      "url": "https://f-droid.org/en/packages/net.typeblog.shelter/",
+      "icon": "https://f-droid.org/repo/net.typeblog.shelter/en-US/icon_SadI7N5owTo-UKqex_wGEQdfXb3rvqoD4y_DXKRRRl8=.png",
+      "lang": "eng",
+      "tags": ["privacy", "app"],
+      "name": "Shelter",
+      "description": "Isolate and run multiple instances of apps using Work Profiles"
+    },
+    {
+      "url": "https://www.talkatone.com/",
+      "icon": "https://www.talkatone.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["sim","privacy"],
+      "name": "Talk at one",
+      "description": "The calling app that let's you choose your own free U.S. phone number"
+    }
+  ]
+}

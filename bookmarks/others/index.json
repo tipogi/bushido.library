@@ -22,5 +22,11 @@
     "description": "Get the right tools",
     "type": "LEAF",
     "icon": "hardware"
+  },
+  "app": {
+    "name": "Applications",
+    "description": "Daily useful applications",
+    "type": "LEAF",
+    "icon": "app"
   }
 }

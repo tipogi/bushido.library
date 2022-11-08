@@ -1,0 +1,14 @@
+{
+  "android": {
+    "name": "Android",
+    "description": "",
+    "type": "LEAF",
+    "icon": "android"
+  },
+  "macOS": {
+    "name": "MacOS",
+    "description": "",
+    "type": "LEAF",
+    "icon": "mac"
+  }
+}
