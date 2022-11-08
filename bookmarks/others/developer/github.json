@@ -1,0 +1,52 @@
+{
+  "github": [
+    {
+      "url": "https://github.com/memphisdev",
+      "icon": "https://memphis.dev/wp-content/uploads/2022/04/cropped-android-chrome-512x512-1-180x180.png",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "Menphis dev",
+      "description": "Memphis{dev} is an open-source real-time data processing platform"
+    },
+    {
+      "url": "https://github.com/jlevy/the-art-of-command-line",
+      "icon": "https://avatars.githubusercontent.com/u/2058167?v=4",
+      "lang": "eng",
+      "tags": ["dev", "cli"],
+      "name": "The art of command line",
+      "description": "Master the command line, in one page"
+    },
+    {
+      "url": "https://github.com/public-apis/public-apis",
+      "icon": "https://avatars.githubusercontent.com/u/51121562?s=200&v=4",
+      "lang": "eng",
+      "tags": ["dev", "cli"],
+      "name": "Public APIs",
+      "description": "A collective list of free APIs"
+    },
+    {
+      "url": "https://github.com/ossu/computer-science",
+      "icon": "https://avatars.githubusercontent.com/u/18407643?v=4",
+      "lang": "eng",
+      "tags": ["dev", "it"],
+      "name": "Computer Science",
+      "description": "Path to a free self-taught education in Computer Science"
+    },
+    {
+      "url": "https://github.com/DovAmir/awesome-design-patterns",
+      "icon": "https://avatars.githubusercontent.com/u/2938156?v=4",
+      "lang": "eng",
+      "tags": ["dev", "it"],
+      "name": "Awesome Design Patterns",
+      "description": "A curated list of software and architecture related design patterns."
+    },
+    {
+      "url": "https://github.com/vasanthk/react-bits",
+      "icon": "https://avatars.githubusercontent.com/u/3537278?s=48&v=4",
+      "lang": "eng",
+      "tags": ["dev", "it"],
+      "name": "React Bits",
+      "description": "React patterns, techniques, tips and tricks"
+    }
+  ]
+}

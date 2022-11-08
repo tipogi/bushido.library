@@ -26,7 +26,13 @@
   "app": {
     "name": "Applications",
     "description": "Daily useful applications",
-    "type": "LEAF",
+    "type": "BRANCH",
     "icon": "app"
+  },
+  "developer": {
+    "name": "Developer",
+    "description": "Different sources to learn about IT",
+    "type": "BRANCH",
+    "icon": "developer"
   }
 }

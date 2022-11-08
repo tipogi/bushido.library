@@ -1,0 +1,8 @@
+{
+  "github": {
+    "name": "Github",
+    "description": "Repositories related with IT fields",
+    "type": "LEAF",
+    "icon": "github"
+  }
+}
