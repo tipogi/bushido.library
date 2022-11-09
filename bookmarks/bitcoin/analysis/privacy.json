@@ -18,7 +18,7 @@
     },
     {
       "url": "https://oxt.me/",
-      "icon": "/public/img/favicon/oxt.png",
+      "icon": "https://bushido.guide/img/favicon/favicon-oxt.png",
       "lang": "eng",
       "tags": ["privacy", "analysis", "transaction"],
       "name": "OXT",

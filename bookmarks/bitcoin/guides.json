@@ -127,6 +127,14 @@
       "tags": [],
       "name": "sovrn Bitcoiner",
       "description": "We are at war with them. They do not want us to do what we are doing and so fuck it, if its war.. lets get the battle gear on and use the tools that are available."
+    },
+    {
+      "url": "https://bitcoin-1o1.info/",
+      "icon": "https://bitcoin-1o1.info/favicon.ico",
+      "lang": "esp",
+      "tags": [],
+      "name": "Bitcoin 1o1",
+      "description": "Explicaciones simples, pero no superficiales"
     }
   ]
 }

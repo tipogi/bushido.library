@@ -4,5 +4,11 @@
     "description": "Repositories related with IT fields",
     "type": "LEAF",
     "icon": "github"
+  },
+  "practise": {
+    "name": "Practise",
+    "description": "Explore and get fluent in different programming languages",
+    "type": "LEAF",
+    "icon": "practise"
   }
 }

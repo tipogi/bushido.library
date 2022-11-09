@@ -9,6 +9,22 @@
       "description": "Pools real-time information"
     },
     {
+      "url": "https://bitcoinstrings.com/",
+      "icon": "https://satoshisperperson.com/favicon.png",
+      "lang": "eng",
+      "tags": ["analysis", "mempool", "block"],
+      "name": "Bitcoin strings",
+      "description": "This site reveals the blockchain in words. Author of this site takes no responsibility for the content shown"
+    },
+    {
+      "url": "https://blocktime.site/",
+      "icon": "https://blocktime.site/favicon.png",
+      "lang": "eng",
+      "tags": ["analysis", "mempool", "block"],
+      "name": "Block time",
+      "description": "Select the timestamp and it will return the block that was mined at that time"
+    },
+    {
       "url": "https://data.hashrateindex.com/network-data/btc",
       "icon": "https://data.hashrateindex.com/assets/images/favicon.png",
       "lang": "eng",
@@ -103,6 +119,14 @@
       "tags": ["mining", "analysis"],
       "name": "Lincoin Lens",
       "description": "Building the next generation of tools and setting new standards for transparency and monitoring"
+    },
+    {
+      "url": "https://timeinblocks.com/",
+      "icon": "https://timeinblocks.com/assets/favicon.666d2f22.ico",
+      "lang": "eng",
+      "tags": ["mining", "timechain"],
+      "name": "Time in blocks",
+      "description": "Choose UTC time and get the mined block number"
     }
   ]
 }

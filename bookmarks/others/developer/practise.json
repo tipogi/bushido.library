@@ -1,0 +1,20 @@
+{
+  "practise": [
+    {
+      "url": "https://exercism.org/",
+      "icon": "https://dg8krxphbh767.cloudfront.net/meta/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "Exercism",
+      "description": "Get really good at programming"
+    },
+    {
+      "url": "https://www.jschallenger.com/",
+      "icon": "https://www.jschallenger.com/favicon.png",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "JS Challenger",
+      "description": "Learn Javascript online by solving coding exercises"
+    }
+  ]
+}
