@@ -10,5 +10,17 @@
     "description": "Explore and get fluent in different programming languages",
     "type": "LEAF",
     "icon": "practise"
+  },
+  "multimedia": {
+    "name": "Multimedia",
+    "description": "Away to learn watching videos",
+    "type": "LEAF",
+    "icon": "multimedia"
+  },
+  "resources": {
+    "name": "Resources",
+    "description": "",
+    "type": "LEAF",
+    "icon": "resources"
   }
 }

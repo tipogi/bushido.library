@@ -10,5 +10,17 @@
     "description": "",
     "type": "LEAF",
     "icon": "mac"
+  },
+  "linux": {
+    "name": "Linux",
+    "description": "",
+    "type": "LEAF",
+    "icon": "linux"
+  },
+  "web": {
+    "name": "Web",
+    "description": "",
+    "type": "LEAF",
+    "icon": "web"
   }
 }

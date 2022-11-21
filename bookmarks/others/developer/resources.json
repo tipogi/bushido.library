@@ -1,0 +1,12 @@
+{
+  "resources": [
+    {
+      "url": "https://roadmap.sh/",
+      "icon": "https://roadmap.sh/manifest/favicon.ico",
+      "lang": "eng",
+      "tags": ["cheatsheet", "map"],
+      "name": "Roadmap SH",
+      "description": "It is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings."
+    }
+  ]
+}

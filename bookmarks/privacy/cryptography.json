@@ -55,6 +55,14 @@
       "tags": ["cryptography"],
       "name": "Introducción a la criptografía",
       "description": "Transparencias para un curso de introducción a la criptografía"
+    },
+    {
+      "url": "https://blog.boot.dev/cryptography/",
+      "icon": "https://blog.boot.dev/favicons/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["cryptography"],
+      "name": "Boot dev blog",
+      "description": "You don't need a CS degree to get hired, but you do need computer science skills. Prepare to land an entry-level role in tech by building real coding projects"
     }
   ]
 }

@@ -143,6 +143,14 @@
       "tags": ["email", "privacy"],
       "name": "Firefox Relai",
       "description": "Protect your true email address to help control your inbox"
+    },
+    {
+      "url": "https://mailfence.com/",
+      "icon": "https://mailfence.com/c/mailfence/images/favicon/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["email", "privacy"],
+      "name": "Mail Fence",
+      "description": "Reclaim your email privacy. Privacy is a right, not a feature"
     }
   ]
 }

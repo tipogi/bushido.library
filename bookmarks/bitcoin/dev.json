@@ -135,6 +135,22 @@
       "tags": ["dev", "projects"],
       "name": "Pleb Lab",
       "description": "By the Plebs for the Plebs. Building on Bitcoin in Austin, Texas"
+    },
+    {
+      "url": "https://guggero.github.io/cryptography-toolkit/#!/",
+      "icon": "https://avatars.githubusercontent.com/u/1008879?v=4",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Cryptography Toolkit",
+      "description": "A web-based collection of cryptography tools for schemes/algorithms used in Bitcoin and LND."
+    },
+    {
+      "url": "https://iancoleman.io/bip39/",
+      "icon": "https://avatars.githubusercontent.com/u/1281387?v=4",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Iam Coleman",
+      "description": "You can enter an existing BIP39 mnemonic, or generate a new random one"
     }
   ]
 }

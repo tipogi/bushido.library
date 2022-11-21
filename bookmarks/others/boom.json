@@ -1,0 +1,20 @@
+{
+  "boom": [
+    {
+      "url": "https://onepageknowledge.carrd.co/",
+      "icon": "https://onepageknowledge.carrd.co/assets/images/favicon.png?v=86eaf78c",
+      "lang": "eng",
+      "tags": ["cheatsheet", "map"],
+      "name": "One Page Knowledge",
+      "description": ""
+    },
+    {
+      "url": "https://sha256algorithm.com/",
+      "icon": "https://sha256algorithm.com/favicon.ico?v=1",
+      "lang": "eng",
+      "tags": ["cheatsheet", "map"],
+      "name": "Sha256",
+      "description": "Visualise how it works the algorithm"
+    }
+  ]
+}

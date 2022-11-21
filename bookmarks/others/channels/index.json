@@ -16,5 +16,17 @@
     "description": "",
     "type": "LEAF",
     "icon": "it"
+  },
+  "consp": {
+    "name": "Consp",
+    "description": "Out of the Box thinking",
+    "type": "LEAF",
+    "icon": "box"
+  },
+  "hardware": {
+    "name": "Hardware",
+    "description": "",
+    "type": "LEAF",
+    "icon": "hardware"
   }
 }

@@ -118,6 +118,22 @@
       "tags": ["store", "bitcoin"],
       "name": "The Little HODLER",
       "description": "The Little HODLer helps bitcoiners do what they do best: talk about Bitcoin"
+    },
+    {
+      "url": "https://satoshistore.io/",
+      "icon": "https://cdn.shopify.com/s/files/1/0634/5372/4909/files/satoshistore-favicon_32x32.png?v=1649014205",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Satoshi Store",
+      "description": "Bitcoin Merchandise Store"
+    },
+    {
+      "url": "https://ideasarelikeflames.com/shop/",
+      "icon": "https://ideasarelikeflames.com/wp-content/uploads/2019/01/cropped-Boltster-1-32x32.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Ideas are like flames",
+      "description": "It is a collective based in Munich. We play with technology, explain it and help others to use it."
     }
   ]
 }

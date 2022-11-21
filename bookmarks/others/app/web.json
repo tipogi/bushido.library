@@ -1,0 +1,68 @@
+{
+  "web": [
+    {
+      "url": "https://www.dnsleaktest.com/",
+      "icon": "https://www.dnsleaktest.com/assets/favicon.ico",
+      "lang": "eng",
+      "tags": ["web", "dns"],
+      "name": "DNS Leak",
+      "description": "When using an anonymity or privacy service, it is extremely important that all traffic originating from your computer is routed through the anonymity network"
+    },
+    {
+      "url": "https://privacypass.github.io/",
+      "icon": "https://privacypass.github.io/favicon.ico",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "Privacy Pass",
+      "description": "A privacy-enhancing protocol and browser extension."
+    },
+    {
+      "url": "https://12ft.io/",
+      "icon": "https://12ft.io/favicon.png",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "12ft",
+      "description": "Show me a 10ft paywall, I will show you a 12ft ladder"
+    },
+    {
+      "url": "https://themarkup.org/blacklight",
+      "icon": "https://mrkp-static-production.themarkup.org/static/img/social-icons/favicon.png",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "Blacklight",
+      "description": "Who is peeking over your shoulder while you work, watch videos, learn, explore, and shop on the internet? Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking technologies on the site"
+    },
+    {
+      "url": "https://sessionbuddy.com/",
+      "icon": "https://sessionbuddy.com/wp-content/uploads/2017/04/cropped-Session-Buddy-32x32.png",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "Session Buddy",
+      "description": "Manage Browser Tabs and Bookmarks with Ease"
+    },
+    {
+      "url": "https://ninja-cookie.com/",
+      "icon": "https://ninja-cookie.com/wp-content/uploads/2020/06/cropped-ninja-cookie-head-icon-32x32.png",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "Ninja Cookie",
+      "description": "Forget about them! Ninja Cookie will take care of these and can say “no” to them for you!"
+    },
+    {
+      "url": "https://privacybadger.org/",
+      "icon": "https://www.eff.org/sites/all/themes/frontier/favicon.ico",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "Privacy Badger",
+      "description": "Privacy Badger is a browser extension that automatically learns to block invisible trackers"
+    },
+    {
+      "url": "https://addslice.com/",
+      "icon": "https://addslice.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "Slice",
+      "description": "Take back what belongs to you - monetize your browser, get paid for ads, cash in with Slice"
+    }
+  ]
+}

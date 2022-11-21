@@ -127,6 +127,14 @@
       "tags": ["mining", "timechain"],
       "name": "Time in blocks",
       "description": "Choose UTC time and get the mined block number"
+    },
+    {
+      "url": "https://buybitcoinworldwide.com/halving/",
+      "icon": "https://buybitcoinworldwide.com/favicon.icoo",
+      "lang": "eng",
+      "tags": ["mining", "timechain"],
+      "name": "Bitcoin Halving Clock",
+      "description": "Every four years, this number is cut in half. The day the amount halves is called a 'halving' or 'halvening'"
     }
   ]
 }

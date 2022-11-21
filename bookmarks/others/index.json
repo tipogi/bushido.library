@@ -34,5 +34,11 @@
     "description": "Different sources to learn about IT",
     "type": "BRANCH",
     "icon": "developer"
+  },
+  "boom": {
+    "name": "Boom",
+    "description": "Domains that does not have still topic but are awesome",
+    "type": "LEAF",
+    "icon": "boom"
   }
 }

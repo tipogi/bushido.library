@@ -1,0 +1,36 @@
+{
+  "hardware": [
+    {
+      "url": "https://www.youtube.com/c/NetworkChuck/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux", "networking"],
+      "name": "NetworkChuck",
+      "description": "My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field"
+    },
+    {
+      "url": "https://www.youtube.com/@ServeTheHomeVideo/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AMLnZu9tFUSN3jubldmoWaCEsKyzpaU19naEEX8ir0WDcA=s68-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux", "networking"],
+      "name": "Serve The Home",
+      "description": "The official ServeTheHome.com YouTube channel. From time to time we will have videos that are part of our reviews posted here."
+    },
+    {
+      "url": "https://www.youtube.com/@OsmanysMartinez/videos",
+      "icon": "https://yt3.ggpht.com/kUhRx8-YnJ_qpZhxDXx-13Eh-jX6DjvB-en-Nuyj0RlgUbCzaxtMWghI_nM5yRFQ_gnQ7BN_3Q=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux", "networking"],
+      "name": "Osmany Martinez",
+      "description": "Canal de Electrónica e Informática, con la finalidad de aportar mis humildes conocimientos a todas las personas a las que pueda llegar"
+    },
+    {
+      "url": "https://www.youtube.com/c/SfdxShow/videos",
+      "icon": "https://yt3.ggpht.com/ytc/AMLnZu8jpl6Wzqv9Gd58V7GnJ421eq1YET5MimFb_B-WNg=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "eng",
+      "tags": ["linux", "networking"],
+      "name": "Sfdx Show",
+      "description": "Un canal dirigido por y para la comunidad donde podrás ver mucho hardware de pc y consolas con muchos experimentos y aventuras muy locos contadas de una forma única! "
+    }
+  ]
+}

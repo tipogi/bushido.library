@@ -222,6 +222,14 @@
       "tags": ["articles"],
       "name": "Arthur Hayes",
       "description": "Co-Founder of 100x. Trading and crypto enthusiast. Focused on helping spread financial literacy and educate investors."
+    },
+    {
+      "url": "https://economiaindomable.com/",
+      "icon": "https://economiaindomable.com/wp-content/uploads/2022/09/cropped-favicon-economia-indomable-32x32.png",
+      "lang": "esp",
+      "tags": ["articles"],
+      "name": "Economia indomable",
+      "description": "El contenido generado en Economía Indomable se proporciona únicamente con fines informativos"
     }
   ]
 }

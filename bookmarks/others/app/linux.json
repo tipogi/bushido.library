@@ -1,0 +1,12 @@
+{
+  "linux": [
+    {
+      "url": "https://www.portainer.io/",
+      "icon": "https://www.portainer.io/hubfs/crane-icon.svg",
+      "lang": "eng",
+      "tags": ["linux", "containers"],
+      "name": "Portainer",
+      "description": "Deploy, configure, troubleshoot and secure containers in minutes on Kubernetes, Docker, Swarm and Nomad in any cloud, data center or device."
+    }
+  ]
+}
