@@ -134,6 +134,14 @@
       "tags": ["store", "bitcoin"],
       "name": "Ideas are like flames",
       "description": "It is a collective based in Munich. We play with technology, explain it and help others to use it."
+    },
+    {
+      "url": "https://shopinbit.com/",
+      "icon": "https://shopinbit.com/media/image/fe/55/37/iconapple3yzKaaOx1wwr6.png",
+      "lang": "eng",
+      "tags": ["store", "bitcoin"],
+      "name": "Shopinbit",
+      "description": "Browse more than 800,000 products without sharing all your private information with advertisers"
     }
   ]
 }

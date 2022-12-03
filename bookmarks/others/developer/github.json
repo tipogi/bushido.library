@@ -79,6 +79,14 @@
       "tags": ["dev", "apps"],
       "name": "Real World",
       "description": "'The mother of all demo apps' — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+    },
+    {
+      "url": "https://github.com/juicycleff/ultimate-backend",
+      "icon": "https://avatars.githubusercontent.com/u/11243590?v=4",
+      "lang": "eng",
+      "tags": ["dev", "backend"],
+      "name": "Ultimate backend",
+      "description": "Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication"
     }
   ]
 }

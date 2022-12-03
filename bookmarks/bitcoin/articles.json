@@ -254,6 +254,14 @@
       "tags": ["articles"],
       "name": "21 Ways",
       "description": "Is it possible that there are people who say 'Bitcoin' and suppose they mean something shared by all?"
+    },
+    {
+      "url": "https://ungovernablemisfits.com/articles/",
+      "icon": "https://ungovernablemisfits.com/wp-content/uploads/2022/03/cropped-profile01-1-192x192.jpg",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Ungovernable misfits",
+      "description": "Radical uncensored lifestyle"
     }
   ]
 }
