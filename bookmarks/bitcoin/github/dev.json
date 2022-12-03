@@ -22,7 +22,15 @@
       "lang": "eng",
       "tags": ["github", "dev", "bitcoin"],
       "name": "Taproot Workshop",
-      "description": "Taproot & Schnorr Python Library & Documentation."
+      "description": "Taproot & Schnorr Python Library & Documentation"
+    },
+    {
+      "url": "https://github.com/igorbarinov/awesome-bitcoin",
+      "icon": "https://avatars.githubusercontent.com/u/424628?v=4",
+      "lang": "eng",
+      "tags": ["github", "dev", "bitcoin"],
+      "name": "Awesome bitcoin",
+      "description": "A curated list of bitcoin services and tools for software developers"
     }
   ]
 }

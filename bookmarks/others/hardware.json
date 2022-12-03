@@ -23,6 +23,14 @@
       "tags": ["hardware", "privacy"],
       "name": "Yubico",
       "description": "Yubico phishing-resistant, multi-factor authentication (MFA) stops account takeovers for the world's largest organizations"
+    },
+    {
+      "url": "https://flipperzero.one/",
+      "icon": "https://cdn.flipperzero.one/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["hardware", "security"],
+      "name": "Flipper zero",
+      "description": "Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more"
     }
   ]
 }

@@ -39,6 +39,14 @@
       "tags": ["hw-wallet", "on-chain"],
       "name": "Keystone",
       "description": "Discover the next evolution of cold storage"
+    },
+    {
+      "url": "https://orangepill.social/",
+      "icon": "https://orangepill.social/wewhoazy/2022/11/logov2.svg",
+      "lang": "eng",
+      "tags": ["hw-wallet", "on-chain"],
+      "name": "Orange pill",
+      "description": "Grab it, shake it & give it away"
     }
   ]
 }

@@ -23,6 +23,14 @@
       "tags": ["bitcoin", "meetups"],
       "name": "European Bitcoin Meetups",
       "description": "Bring meetups to all European Plebs and those who want to learn about Bitcoin"
+    },
+    {
+      "url": "https://2140meetups.com",
+      "icon": "https://2140meetups.com/wp-content/uploads/2022/11/cropped-Favicon-web-192x192.png",
+      "lang": "esp",
+      "tags": ["bitcoin", "meetups"],
+      "name": "2140 meetups",
+      "description": "2140 meetups es una iniciativa de la comunidad hispana de Bitcoin 2140 pensada para visibilizar e impulsar encuentros físicos entre bitcoiners"
     }
   ]
 }

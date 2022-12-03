@@ -40,5 +40,11 @@
     "description": "Domains that does not have still topic but are awesome",
     "type": "LEAF",
     "icon": "boom"
+  },
+  "newsletter": {
+    "name": "Newsletter",
+    "description": "Get regularly your favourite author relevant and valuable information in your mailboxes",
+    "type": "LEAF",
+    "icon": "newsletter"
   }
 }

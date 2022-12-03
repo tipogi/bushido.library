@@ -215,6 +215,14 @@
       "tags": ["bitcoin", "tutorials"],
       "name": "LNTCN",
       "description": "Conecto con personas de habla hispana con perfil propio dentro de #bitcoin y comparto su valor en mi podcast semanal"
+    },
+    {
+      "url": "https://www.youtube.com/@tip_nz/videos",
+      "icon": "https://yt3.ggpht.com/A6LaXiuNaopav8dvE6HXjg48UhokCger6Jn2vYnhdAvl1mOqiOdUUenPfGFvIQP9sGDbL00td9Y",
+      "lang": "eng",
+      "tags": ["bitcoin", "videos"],
+      "name": "TIP_NZ",
+      "description": "orange pilling a billion people www.tipnz.com"
     }
   ]
 }

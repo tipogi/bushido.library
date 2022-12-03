@@ -63,6 +63,30 @@
       "tags": ["web", "privacy"],
       "name": "Slice",
       "description": "Take back what belongs to you - monetize your browser, get paid for ads, cash in with Slice"
+    },
+    {
+      "url": "https://0bin.net/",
+      "icon": "https://0bin.net/static/img/favicon.ico",
+      "lang": "eng",
+      "tags": ["web", "privacy"],
+      "name": "0bin",
+      "description": "Client side encrypted pastebin"
+    },
+    {
+      "url": "https://cbdctracker.org/",
+      "icon": "https://cbdctracker.org/img/logo.8173e642.svg",
+      "lang": "eng",
+      "tags": ["web", "coin"],
+      "name": "CBDC tracker",
+      "description": "Today's Central Bank Digital Currencies Status"
+    },
+    {
+      "url": "https://chat.openai.com/auth/login",
+      "icon": "https://chat.openai.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["web", "coin"],
+      "name": "PpenAI chat",
+      "description": "Welcome to ChatGPT"
     }
   ]
 }

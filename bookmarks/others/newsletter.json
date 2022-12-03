@@ -1,0 +1,20 @@
+{
+    "newsletter": [
+      {
+        "url": "https://www.sumapositiva.com/archive?sort=new",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe439d013-71e1-4ae0-a5c0-2775725a8bf2_256x256.png",
+        "lang": "esp",
+        "tags": ["news"],
+        "name": "Suma Positiva",
+        "description": "La mayor parte de las veces será algo relacionado con startups y tecnología, aunque muy probablemente también aplicable al mundo de la empresa en general"
+      },
+      {
+        "url": "https://blog.bytebytego.com/",
+        "icon": "https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/5507d97a-c736-4de2-852b-fab5b91d0796/favicon-32x32.png",
+        "lang": "eng",
+        "tags": ["news"],
+        "name": "Byte Byte Go",
+        "description": "A popular weekly newsletter covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series."
+      }
+    ]
+}
