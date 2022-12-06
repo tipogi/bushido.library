@@ -42,7 +42,7 @@ npm run build
 
 Once the compilation finish, we are ready to run our commands:
 Create the `topic.json` and `domain.json` files from the *bookmarks* folder.
-NOTE: If export folder is not created in the `cli` folder, it throws error. So, before run the script, create `export` folder.
+NOTE: If `export` folder is not created in the `cli` folder, it throws error. So, before run the script, create `export` folder.
 
 ```bash
 npm run bushido-cli generate
