@@ -1,6 +1,6 @@
-# bushido.library
+# Motivation
 
-This is a CLI application to feed domains into a graph database as Neo4J. Once the import finish, we have an endpoint consume that information to after render it for example in a web page
+This repository is a CLI application to feed domains into a graph database as [Neo4J](https://neo4j.com/). Once the import finish, we have an endpoint to consume that information. That data, we could consume differently but one of the uses-case would be to render that in a web page
 
 ## Overview
 

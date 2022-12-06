@@ -1,19 +1,21 @@
-# Bushido CLI
+# Motivation
 
-Extract from **bookmarks** folder all the information(JSON) and then import in the graph database that nodes. With that process we are going to feed bushido.guide cards
+Bushido CLI, extracts from **bookmarks** folder all the information (JSON files) and then import in the graph database that nodes.
 
 ## Description
 
-Read the **bookmarks** folder and create objets to generate the JSON files (*cli/export*). The application creates two type of objects to generate the database nodes:
+It analises the **bookmarks** [folder](../bookmarks/) and creates objets to generate the JSON files (*cli/export*). That files would be transformed form tree data structure to object type. 
 
-- BRANCH: Generic nodes which can have as a children, a *branch* or a *leaf*. This type of objects will never have *domains*
-- LEAF: The last node before access to the domains. It will contain all the *domains* of that topic.
+First, the application finds in the bookmarks folder, two type of nodes to add in the `topic.json` file:
 
-Once we generate all the objects from the bookmarks folder, the next step is to create the export files for the database:
+- BRANCH: These generic nodes, can have as a children, a *branch* or a *leaf*. This type of objects will never have *domains* nodes.
+- LEAF: The last node before access to the *domains*. The child nodes of that node are the *domains*.
 
-- topic.json: All the node types that has a children. It could be another topic as `wallet` or it has `domains`. In that case, that nodes just describe the path to reach that domains
-- domain.json: The leaf elements of our database, it is the URL that we get when we are inside of one topic.
-Finally, export all the files in the database
+These node types will be named in general as a __topic__ and would be stored as we said in `topic.json`.
+
+Once the `topic.json` is populated, all the nodes types that does not have any child, would be named as __domain__ and are going to be stored in `domain.json` file. That nodes contain the information of the domain as name, URL,...
+
+![Bookmark Tree](../docs/assets/bookmarks_tree.png)
 
 ## Development
 
