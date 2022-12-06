@@ -230,6 +230,38 @@
       "tags": ["articles"],
       "name": "Economia indomable",
       "description": "El contenido generado en Economía Indomable se proporciona únicamente con fines informativos"
+    },
+    {
+      "url": "https://mutuallyassuredpreservation.com/",
+      "icon": "https://www.nobsbitcoin.com/content/images/2022/09/White-logo---no-background-1.png",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Mutually Assured Preservation",
+      "description": "Thoughts on Bitcoin's Impact on the Future of Organized Property Defense"
+    },
+    {
+      "url": "https://www.juangalt.com/",
+      "icon": "https://www.juangalt.com/content/images/size/w256h256/2022/07/newlogopngsmall.png",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Juan Galt",
+      "description": "Street Philosopher & Bitcoin nerd"
+    },
+    {
+      "url": "https://21-ways.com/",
+      "icon": "https://21-ways.com/apple-touch-icon.png",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "21 Ways",
+      "description": "Is it possible that there are people who say 'Bitcoin' and suppose they mean something shared by all?"
+    },
+    {
+      "url": "https://ungovernablemisfits.com/articles/",
+      "icon": "https://ungovernablemisfits.com/wp-content/uploads/2022/03/cropped-profile01-1-192x192.jpg",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Ungovernable misfits",
+      "description": "Radical uncensored lifestyle"
     }
   ]
 }

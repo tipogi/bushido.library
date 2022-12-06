@@ -55,6 +55,14 @@
       "tags": ["linux", "guides"],
       "name": "How-to Geek",
       "description": "Our readers love How-To Geek because of its unique voice. We're not a website for geeks—we are the geeks"
+    },
+    {
+      "url": "https://desdelinux.net/",
+      "icon": "https://blog.desdelinux.net/wp-content/uploads/2018/04/cropped-desdelinux.png",
+      "lang": "esp",
+      "tags": ["linux", "guides"],
+      "name": "Desde Linux",
+      "description": "Información de Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre"
     }
   ]
 }

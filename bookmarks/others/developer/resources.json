@@ -7,6 +7,30 @@
       "tags": ["cheatsheet", "map"],
       "name": "Roadmap SH",
       "description": "It is a community effort to create roadmaps, guides and other educational content to help guide the developers in picking up the path and guide their learnings."
+    },
+    {
+      "url": "https://the-algorithms.com/",
+      "icon": "https://the-algorithms.com/logo_t.svg",
+      "lang": "eng",
+      "tags": ["algorithms", "languague"],
+      "name": "The Algorithms",
+      "description": "Open Source resource for learning Data Structures & Algorithms and their implementation in any Programming Language"
+    },
+    {
+      "url": "https://cheatsheetseries.owasp.org/",
+      "icon": "https://cheatsheetseries.owasp.org/assets/OWASP_Logo_Transp.png",
+      "lang": "eng",
+      "tags": ["cheatsheet", "languague"],
+      "name": "OWASP Cheat Sheet Series",
+      "description": "Website with the collection of all the cheat sheets of the project"
+    },
+    {
+      "url": "https://www.infoq.com/",
+      "icon": "https://cdn.infoq.com/statics_s1_20221117075427/favicon.ico",
+      "lang": "eng",
+      "tags": ["cheatsheet", "languague"],
+      "name": "InfoQ",
+      "description": "Facilitating the Spread of Knowledge and Innovation in Professional Software Development"
     }
   ]
 }

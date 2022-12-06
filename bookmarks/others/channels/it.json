@@ -5,7 +5,7 @@
       "icon": "https://yt3.ggpht.com/A1Pjd_exXu-TnIt1bUiNqgSx2_la44u0VV5f9uboYX-zfk9a1IbXWQC3WZaDtzpWz4FQ18wRjDk=s176-c-k-c0x00ffffff-no-rj",
       "lang": "esp",
       "tags": ["hacking", "cybersecurity"],
-      "name": "S4viOnLive",
+      "name": "CyberSecurity: S4viOnLive",
       "description": "Creador de contenido de Hacking y Ciberseguridad. Hago directo todos los días"
     },
     {
@@ -13,7 +13,7 @@
       "icon": "https://yt3.ggpht.com/ytc/AKedOLQ2v2FJlZoo7Zw9QgpOhFSJqoCeOfhz-FCuVpZMHQ=s176-c-k-c0x00ffffff-no-rj",
       "lang": "eng",
       "tags": ["hacking", "cybersecurity", "linux"],
-      "name": "HackerSploit",
+      "name": "CyberSecurity: HackerSploit",
       "description": "HackerSploit is the leading provider of free Infosec and cybersecurity training"
     },
     {
@@ -21,7 +21,7 @@
       "icon": "https://yt3.ggpht.com/ytc/AKedOLTbIyaTXPC0sw_5e2IKr6pWdNr0Q-8B2Zk1Rk-uwg=s176-c-k-c0x00ffffff-no-rj",
       "lang": "eng",
       "tags": ["hacking", "cybersecurity", "linux"],
-      "name": "Grant Collins",
+      "name": "CyberSecurity: Grant Collins",
       "description": "An I.T. nerd who wants to think he is good at cybersecurity but really is just a script kiddie"
     },
     {
@@ -29,7 +29,7 @@
       "icon": "https://yt3.ggpht.com/TD0Bbfq-jnVWBNnOySWIoOp3AqPeZtGMjtHbo_UCeGseY0A70fUAeIbsETO0mmAfJu3pcSYonA=s176-c-k-c0x00ffffff-no-rj",
       "lang": "esp",
       "tags": ["it", "devops"],
-      "name": "Pelado Nerd",
+      "name": "DevOps: Pelado Nerd",
       "description": "Professional Nerd"
     },
     {
@@ -37,7 +37,7 @@
       "icon": "https://yt3.ggpht.com/ytc/AMLnZu_wA4-Tjwkb8nDDeA99sTYCLW7ROVbHwblHvFZ7Ng=s176-c-k-c0x00ffffff-no-rj",
       "lang": "eng",
       "tags": ["linux"],
-      "name": "Mental Outlaw",
+      "name": "Linux: Mental Outlaw",
       "description": "I make videos about stuff"
     },
     {
@@ -45,8 +45,16 @@
       "icon": "https://lukesmith.xyz/favicon.ico",
       "lang": "eng",
       "tags": ["linux"],
-      "name": "Luke Smith",
+      "name": "Linux: Luke Smith",
       "description": "Everything you're looking for is here"
+    },
+    {
+      "url": "https://www.youtube.com/c/ByteByteGo",
+      "icon": "https://bytebytego.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["cheatsheet", "map"],
+      "name": "Architecture: Byte Byte Go",
+      "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam."
     }
   ]
 }

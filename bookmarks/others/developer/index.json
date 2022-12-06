@@ -11,12 +11,6 @@
     "type": "LEAF",
     "icon": "practise"
   },
-  "multimedia": {
-    "name": "Multimedia",
-    "description": "Away to learn watching videos",
-    "type": "LEAF",
-    "icon": "multimedia"
-  },
   "resources": {
     "name": "Resources",
     "description": "",

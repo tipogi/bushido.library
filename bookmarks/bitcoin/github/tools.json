@@ -1,0 +1,20 @@
+{
+    "tools": [
+      {
+        "url": "https://github.com/ottosch/whirlpool-cli-pairing",
+        "icon": "https://avatars.githubusercontent.com/u/17476?v=4",
+        "lang": "eng",
+        "tags": ["github", "tools", "sw"],
+        "name": "Whirlpool CLI pairing",
+        "description": "Generate the Whirlpool pairing code without the Samourai Wallet app"
+      },
+      {
+        "url": "https://github.com/bleebl33/dojo_exporter",
+        "icon": "https://avatars.githubusercontent.com/u/77934086?v=4",
+        "lang": "eng",
+        "tags": ["github", "tools", "sw"],
+        "name": "Prometheus openmetrics for Dojo",
+        "description": "Devops monitoring tool for Samourai Dojo"
+      }
+    ]
+}

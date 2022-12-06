@@ -47,6 +47,46 @@
       "tags": ["dev", "it"],
       "name": "React Bits",
       "description": "React patterns, techniques, tips and tricks"
+    },
+    {
+      "url": "https://github.com/apptension/developer-handbook",
+      "icon": "https://assets-global.website-files.com/5f6cbc6dd9be9a190bd040a6/5f81d92cb153906cb053ab72_favicon-big.png",
+      "lang": "eng",
+      "tags": ["dev", "handbook"],
+      "name": "Developer Handbook",
+      "description": "An opinionated guide on how to become a professional Web/Mobile App Developer"
+    },
+    {
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "icon": "https://avatars.githubusercontent.com/u/14127308?s=200&v=4",
+      "lang": "eng",
+      "tags": ["dev", "books"],
+      "name": "Free Programming Books",
+      "description": "Freely available programming books"
+    },
+    {
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "icon": "https://codecrafters.io/landing/favicon.ico",
+      "lang": "eng",
+      "tags": ["dev", "apps"],
+      "name": "Build your own X",
+      "description": "Master programming by recreating your favorite technologies from scratch"
+    },
+    {
+      "url": "https://github.com/gothinkster/realworld",
+      "icon": "https://realworld-docs.netlify.app/img/favicon.ico",
+      "lang": "eng",
+      "tags": ["dev", "apps"],
+      "name": "Real World",
+      "description": "'The mother of all demo apps' — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more"
+    },
+    {
+      "url": "https://github.com/juicycleff/ultimate-backend",
+      "icon": "https://avatars.githubusercontent.com/u/11243590?v=4",
+      "lang": "eng",
+      "tags": ["dev", "backend"],
+      "name": "Ultimate backend",
+      "description": "Multi tenant SaaS starter kit with cqrs graphql microservice architecture, apollo federation, event source and authentication"
     }
   ]
 }

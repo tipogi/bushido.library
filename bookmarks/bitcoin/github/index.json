@@ -28,5 +28,11 @@
     "description": "Understand bitcoin jumping in the code to understanding its implementation",
     "type": "LEAF",
     "icon": "dev"
+  },
+  "tools": {
+    "name": "Tools",
+    "description": "Do you need some extra tools for your node",
+    "type": "LEAF",
+    "icon": "tools"
   }
 }
