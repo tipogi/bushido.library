@@ -15,6 +15,14 @@
       "tags": ["cheatsheet", "map"],
       "name": "Sha256",
       "description": "Visualise how it works the algorithm"
+    },
+    {
+      "url": "https://ourworldindata.org/",
+      "icon": "https://ourworldindata.org/apple-touch-icon.png",
+      "lang": "eng",
+      "tags": ["cheatsheet", "map"],
+      "name": "Our World in data",
+      "description": "Research and data to make progress against the world's largest problems"
     }
   ]
 }

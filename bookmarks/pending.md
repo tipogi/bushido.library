@@ -5,13 +5,13 @@ BITCOIN:
 - https://digitalgoods.proxysto.re/
 - https://github.com/1ma/bip39-diceware
 - https://bitcoinforlocalbusiness.com/
-- https://dyinodes.com (store)
-- https://sha256algorithm.com
 - https://geyser.fund
 - https://mercurywallet.com/
 - https://privatepayments.org/
 - https://reckless.mutinywallet.com/
 - https://www.youtube.com/@SouthernBitcoiner/videos (YT)
+
+- https://satscrap.com/listings
 
 LIGHTNING:
 https://www.coincorner.com

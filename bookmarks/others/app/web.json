@@ -85,8 +85,24 @@
       "icon": "https://chat.openai.com/favicon.ico",
       "lang": "eng",
       "tags": ["web", "coin"],
-      "name": "PpenAI chat",
+      "name": "OpenAI chat",
       "description": "Welcome to ChatGPT"
+    },
+    {
+      "url": "https://www.transfernow.net/en",
+      "icon": "https://www.transfernow.net/cdn/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["web", "transfer"],
+      "name": "Transfer now",
+      "description": "Transfer and have your files travel for free"
+    },
+    {
+      "url": "https://onionshare.org/",
+      "icon": "https://onionshare.org/assets/logo/onionshare-logo-lm.png",
+      "lang": "eng",
+      "tags": ["web", "transfer"],
+      "name": "Onion Share",
+      "description": "OnionShare is an open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network"
     }
   ]
 }
