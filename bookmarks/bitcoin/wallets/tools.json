@@ -127,6 +127,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "HODLR",
       "description": "Hodlr one titanium. The smallest, lightest and strongest crypto seed backup on the market"
+    },
+    {
+      "url": "https://codl.co/",
+      "icon": "https://cdn.shopify.com/s/files/1/0550/2350/1482/files/favicon_0cb59850-9274-4b7f-b54a-d2482bb3a209_32x32.png?v=1646167384",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Codl - Punch plate",
+      "description": "Secure your bitcoin. Premium steel backups give you confidence your bitcoin will be there when you need it"
     }
   ]
 }
