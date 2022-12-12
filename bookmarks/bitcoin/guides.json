@@ -135,6 +135,14 @@
       "tags": [],
       "name": "Bitcoin 1o1",
       "description": "Explicaciones simples, pero no superficiales"
+    },
+    {
+      "url": "https://github.com/tipogi/honey-badger-land",
+      "icon": "https://avatars.githubusercontent.com/u/103417381?v=4",
+      "lang": "eng",
+      "tags": [],
+      "name": "Honey Badger Land",
+      "description": "Want it to be sovereign? Install in the PC Pop!_OS and configure, installing minimal software"
     }
   ]
 }

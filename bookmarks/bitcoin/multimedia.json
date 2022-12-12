@@ -223,6 +223,14 @@
       "tags": ["bitcoin", "videos"],
       "name": "TIP_NZ",
       "description": "orange pilling a billion people www.tipnz.com"
+    },
+    {
+      "url": "https://www.youtube.com/@Guerrilla_BTC/videos",
+      "icon": "https://yt3.ggpht.com/Ff30XmWnDhV8RmAHcvEM-lCcWNPp8ssTtew7l1Yz6PNUsWE4UzN1vSCFrVEhGBFt-ML7hFEIyWM=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["bitcoin", "videos"],
+      "name": "GUERRILLA",
+      "description": "Memes y traducciones sobre Economía y Bitcoin"
     }
   ]
 }

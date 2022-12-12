@@ -151,6 +151,14 @@
       "tags": ["email", "privacy"],
       "name": "Mail Fence",
       "description": "Reclaim your email privacy. Privacy is a right, not a feature"
+    },
+    {
+      "url": "https://www.mailboxvalidator.com/",
+      "icon": "https://www.mailboxvalidator.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["email", "privacy"],
+      "name": "Mail Box Validator",
+      "description": "Secure and reliable email validation service to check for invalid email addresses. It connects to the mail server and checks whether the mailbox exists or not"
     }
   ]
 }
