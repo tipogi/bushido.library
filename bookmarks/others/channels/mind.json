@@ -15,6 +15,14 @@
       "tags": ["mind", "power"],
       "name": "Sadhguru Español",
       "description": " Yogui, místico y visionario, Sadhguru es un maestro espiritual con una diferencia. Una notable combinación de profundidad y pragmatismo, su vida y su trabajo sirven como recordatorio de que el yoga es una ciencia contemporánea, vitalmente relevante en nuestro tiempo"
+    },
+    {
+      "url": "https://www.fitnessrevolucionario.com/",
+      "icon": "https://www.fitnessrevolucionario.com/wp-content/uploads/2020/04/fitness-revolucionario-icono.svg",
+      "lang": "esp",
+      "tags": ["mind", "power"],
+      "name": "Fitness Revolucionario",
+      "description": "Tus hábitos tienen un gran poder sobre tus resultados y Fitness Revolucionario te ayudará a mejorarlos"
     }
   ]
 }

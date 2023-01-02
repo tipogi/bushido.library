@@ -103,6 +103,14 @@
       "tags": ["web", "transfer"],
       "name": "Onion Share",
       "description": "OnionShare is an open source tool that lets you securely and anonymously share files, host websites, and chat with friends using the Tor network"
+    },
+    {
+      "url": "https://www.verificadordeofertas.com/",
+      "icon": "https://www.verificadordeofertas.com/img/favicon.png",
+      "lang": "esp",
+      "tags": ["web", "track"],
+      "name": "Verificador de Ofertas",
+      "description": "Indícanos el link de un producto y comprobaremos la calidad de su oferta"
     }
   ]
 }
