@@ -16,5 +16,11 @@
     "description": "",
     "type": "LEAF",
     "icon": "resources"
+  },
+  "courses": {
+    "name": "Courses",
+    "description": "",
+    "type": "LEAF",
+    "icon": "courses"
   }
 }

@@ -31,6 +31,14 @@
       "tags": ["cheatsheet", "languague"],
       "name": "InfoQ",
       "description": "Facilitating the Spread of Knowledge and Innovation in Professional Software Development"
+    },
+    {
+      "url": "https://www.java5cript.com/",
+      "icon": "https://www.java5cript.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["js", "languague"],
+      "name": "Java5cript",
+      "description": "Learn JavaScript through courses, tutorials, videos & more. Totally FREE."
     }
   ]
 }

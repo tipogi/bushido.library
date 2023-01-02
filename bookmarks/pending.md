@@ -10,7 +10,7 @@ BITCOIN:
 - https://privatepayments.org/
 - https://reckless.mutinywallet.com/
 - https://www.youtube.com/@SouthernBitcoiner/videos (YT)
-
+- https://wizardsardine.com/#
 - https://satscrap.com/listings
 
 LIGHTNING:
@@ -36,3 +36,4 @@ OTHER:
 NEW ICONS:
 - linux
 - cards
+- nostr

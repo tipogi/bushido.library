@@ -15,6 +15,14 @@
       "tags": ["dev"],
       "name": "JS Challenger",
       "description": "Learn Javascript online by solving coding exercises"
+    },
+    {
+      "url": "https://adventjs.dev/",
+      "icon": "https://adventjs.dev/favicon-96x96.png",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "AdventJS",
+      "description": "24 days 24 coding challenges"
     }
   ]
 }

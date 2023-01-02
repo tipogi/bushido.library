@@ -1,0 +1,13 @@
+{
+    "courses": [
+      {
+        "url": "https://justjavascript.com/",
+        "icon": "https://justjavascript.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["dev"],
+        "name": "Just JavaScript",
+        "description": "Explore the JavaScript Universe"
+      }
+    ]
+}
+
