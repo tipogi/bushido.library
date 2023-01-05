@@ -1,0 +1,26 @@
+{
+  "apps": {
+    "name": "Applications",
+    "description": "Nostr clients that allows to connect people",
+    "type": "LEAF",
+    "icon": "app"
+  },
+  "resources": {
+    "name": "Resources",
+    "description": "Find enough information to guide you into this new network",
+    "type": "LEAF",
+    "icon": "resources"
+  },
+  "registry": {
+    "name": "Registries",
+    "description": "Retrieve useful information about keys, gateways, stats...",
+    "type": "LEAF",
+    "icon": "registry"
+  },
+  "github": {
+    "name": "Github",
+    "description": "Interesting repositories that might help in the interaction",
+    "type": "LEAF",
+    "icon": "github"
+  }
+}
