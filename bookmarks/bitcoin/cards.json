@@ -47,6 +47,14 @@
       "tags": ["p2p"],
       "name": "Moon",
       "description": "Purchase Moon Visa Prepaid Cards with crypto. Pay at millions of online merchants with secure virtual cards."
+    },
+    {
+      "url": "https://www.coinsbee.com/en/#pagetop",
+      "icon": "https://cdn.coinsbee.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Coinsbee",
+      "description": "Buy gift cards with bitcoins"
     }
   ]
 }

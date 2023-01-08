@@ -111,6 +111,14 @@
       "tags": ["web", "track"],
       "name": "Verificador de Ofertas",
       "description": "Indícanos el link de un producto y comprobaremos la calidad de su oferta"
+    },
+    {
+      "url": "https://storiesig.info/es//",
+      "icon": "https://storiesig.info/img/widget/favicon.png",
+      "lang": "esp",
+      "tags": ["web", "track"],
+      "name": "StoriesIG",
+      "description": "Te ayuda a ver historias de instagram anonimo"
     }
   ]
 }

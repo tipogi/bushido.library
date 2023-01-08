@@ -87,6 +87,22 @@
         "tags": ["nostr", "resources"],
         "name": "Guía de Nostr para principiantes",
         "description": "Se explica Qué es Nostr en términos sencillos"
+      },
+      {
+        "url": "https://semisol.dev/nostr/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "What is Nostr?",
+        "description": "A guide on how to use Nostr and FAQs"
+      },
+      {
+        "url": "https://www.minds.com/minds/blog/minds-nostr-and-the-future-of-decentralized-social-networkin-1445110266495766533",
+        "icon": "https://www.minds.com/static/en/assets/logos/bulb.svg",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "Minds",
+        "description": "Minds, Nostr and the future of decentralized social networking"
       }
     ]
 }
