@@ -1,0 +1,60 @@
+{
+    "github": [
+      {
+        "url": "https://github.com/nostr-protocol/nostr",
+        "icon": "https://fiatjaf.com/static/favicon.jpg",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Nostr Protocol",
+        "description": "A truly censorship-resistant alternative to Twitter that has a chance of working"
+      },
+      {
+        "url": "https://github.com/grunch/rana",
+        "icon": "https://raw.githubusercontent.com/grunch/rana/main/rana.png",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Rana",
+        "description": "Mine public keys that can be used with nostr."
+      },
+      {
+        "url": "https://github.com/nickfarrow/frostr",
+        "icon": "https://avatars.githubusercontent.com/u/24557779?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Frostr",
+        "description": "Use frost to sign nostr events with friends"
+      },
+      {
+        "url": "https://github.com/cryptoquick/nostr-guide",
+        "icon": "https://avatars.githubusercontent.com/u/285690?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Nostr Guide",
+        "description": "For those who keep hearing about Nostr but don't know where to start, this guide might just be for you"
+      },
+      {
+        "url": "https://github.com/cryptoquick/nostr-guide",
+        "icon": "https://avatars.githubusercontent.com/u/285690?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Nostr Tools",
+        "description": "Tools for developing Nostr clients"
+      },
+      {
+        "url": "https://github.com/rot13maxi/key-convertr",
+        "icon": "https://avatars.githubusercontent.com/u/115941166?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Key Conventertr",
+        "description": "Convert nostr keys and note-ids between hex and bech32"
+      },
+      {
+        "url": "https://github.com/fiatjaf/nos2x",
+        "icon": "https://avatars.githubusercontent.com/u/115941166?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Nos2x",
+        "description": "Nostr signer extension"
+      }
+    ]
+}

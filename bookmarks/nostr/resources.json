@@ -26,7 +26,7 @@
       },
       {
         "url": "https://www.nostr.net/",
-        "icon": "https://usenostr.org/favicon.svg",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
         "lang": "eng",
         "tags": ["nostr", "resources"],
         "name": "awesome-nostr",
@@ -50,15 +50,7 @@
       },
       {
         "url": "https://www.w3irdrobot.codes/posts/deploying-a-nostr-relay/",
-        "icon": "https://lhote.me/icon/favicon.ico",
-        "lang": "eng",
-        "tags": ["nostr", "resources"],
-        "name": "Deploying a nostr relay",
-        "description": "I've been looking in to nostr recently, and I think it's pretty neato"
-      },
-      {
-        "url": "https://www.w3irdrobot.codes/posts/deploying-a-nostr-relay/",
-        "icon": "https://usenostr.org/favicon.svg",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
         "lang": "eng",
         "tags": ["nostr", "resources"],
         "name": "Deploying a nostr relay",
@@ -66,7 +58,7 @@
       },
       {
         "url": "https://usenostr.org/",
-        "icon": "https://usenostr.org/favicon.svg",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
         "lang": "eng",
         "tags": ["nostr", "resources"],
         "name": "Use Nostr",
@@ -87,6 +79,14 @@
         "tags": ["nostr", "resources"],
         "name": "How to setup NIP5 verification using Github Pages",
         "description": "NI5: Mapping Nostr keys to DNS-based internet identifiers"
+      },
+      {
+        "url": "https://medium.com/@soyishikawa/gu%C3%ADa-para-principiantes-en-nostr-2420f15e9045",
+        "icon": "https://miro.medium.com/fit/c/176/176/1*UIGi5SJ04z4Ys1Y8T8NFlg.jpeg",
+        "lang": "esp",
+        "tags": ["nostr", "resources"],
+        "name": "Guía de Nostr para principiantes",
+        "description": "Se explica Qué es Nostr en términos sencillos"
       }
     ]
 }

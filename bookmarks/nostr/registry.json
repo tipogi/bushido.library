@@ -1,0 +1,52 @@
+{
+    "registry": [
+      {
+        "url": "https://nashboard.space/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Nashboard",
+        "description": "A Nostr network dashboard"
+      },
+      {
+        "url": "https://www.nostr.directory/",
+        "icon": "https://www.nostr.directory/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Nostr Directory",
+        "description": "Add your nostr public key to the directory so your followers can find you"
+      },
+      {
+        "url": "https://nostr.watch/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Nostr Watch",
+        "description": "Nostr relays and the network in general to assist users, developers and relay operators alike"
+      },
+      {
+        "url": "https://nostr.io/",
+        "icon": "https://nostr.io/static/svg/favicon.svg",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Nostr IO",
+        "description": "It collects events from all known relays. Check out the network stats page"
+      },
+      {
+        "url": "https://www.nostr.guru/",
+        "icon": "https://www.nostr.guru/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Nostr Gateway",
+        "description": "It is an effort to pull Nostr data from relays around the nostrsphere into HTML pages for the consumption of the unnostrinitiated."
+      },
+      {
+        "url": "https://damus.io/channels/",
+        "icon": "https://damus.io/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Channels",
+        "description": "Preview active nostr channels"
+      }
+    ]
+}
