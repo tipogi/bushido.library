@@ -1,7 +1,7 @@
 {
   "channels": {
     "name": "Channels",
-    "description": "",
+    "description": "Check contents ordered by topic",
     "type": "BRANCH",
     "icon": "channels"
   },
@@ -27,7 +27,7 @@
     "name": "Applications",
     "description": "Daily useful applications",
     "type": "BRANCH",
-    "icon": "app"
+    "icon": "apps"
   },
   "developer": {
     "name": "Developer",

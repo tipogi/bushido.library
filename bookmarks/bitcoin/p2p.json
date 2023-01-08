@@ -41,28 +41,12 @@
       "description": "Peer-to-Peer Crypto Marketplace. Where people buy and sell crypto using any payment method."
     },
     {
-      "url": "https://www.lightningescrow.io/",
-      "icon": "https://animaproject.s3.amazonaws.com/home/favicon.png",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "Lightning Scrow",
-      "description": "Secure. Instant. Affordable. Lightning-fast escrow at a fraction of the cost. Using the Bitcoin Lightning Network"
-    },
-    {
       "url": "https://btcpayserver.org/",
       "icon": "https://btcpayserver.org/img/btcpay.svg",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "BTCPayServer",
       "description": "BTCPay Server is a self-hosted, open-source cryptocurrency payment processor. It's secure, private, censorship-resistant and free"
-    },
-    {
-      "url": "https://www.oshi.tech/",
-      "icon": "https://www.oshi.tech/assets/img/favicon.png",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "Oshi",
-      "description": "Empower your local economy through Bitcoin"
     },
     {
       "url": "https://lnp2pbot.com/",

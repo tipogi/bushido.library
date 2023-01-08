@@ -95,14 +95,6 @@
       "tags": ["privacy","app"],
       "name": "Whonix",
       "description": "The most watertight privacy operating system in the world."
-    },
-    {
-      "url": "https://distrowatch.com/",
-      "icon": "https://distrowatch.com/favicon.ico",
-      "lang": "eng",
-      "tags": ["privacy","app"],
-      "name": "Distro Watch",
-      "description": "Put fun back into computing. Use linux, BSD"
     }
   ]
 }

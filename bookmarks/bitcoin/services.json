@@ -95,6 +95,22 @@
       "tags": ["services", "bitcoin"],
       "name": "Lend",
       "description": "Global non-custodial P2P Bitcoin-Backend lending platform. Lend and Borrow Crypto Anonymously"
+    },
+    {
+      "url": "https://www.lightningescrow.io/",
+      "icon": "https://animaproject.s3.amazonaws.com/home/favicon.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Lightning Scrow",
+      "description": "Secure. Instant. Affordable. Lightning-fast escrow at a fraction of the cost. Using the Bitcoin Lightning Network"
+    },
+    {
+      "url": "https://www.oshi.tech/",
+      "icon": "https://www.oshi.tech/assets/img/favicon.png",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Oshi",
+      "description": "Empower your local economy through Bitcoin"
     }
   ]
 }

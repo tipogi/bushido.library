@@ -13,13 +13,13 @@
   },
   "resources": {
     "name": "Resources",
-    "description": "",
+    "description": "Exercises to practise the programming logic",
     "type": "LEAF",
     "icon": "resources"
   },
   "courses": {
     "name": "Courses",
-    "description": "",
+    "description": "Do you want to improve the skills, go for it!",
     "type": "LEAF",
     "icon": "courses"
   }

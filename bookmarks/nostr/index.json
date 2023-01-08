@@ -3,7 +3,7 @@
     "name": "Applications",
     "description": "Nostr clients that allows to connect people",
     "type": "LEAF",
-    "icon": "app"
+    "icon": "apps"
   },
   "resources": {
     "name": "Resources",

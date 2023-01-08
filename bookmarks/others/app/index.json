@@ -1,25 +1,25 @@
 {
   "android": {
     "name": "Android",
-    "description": "",
+    "description": "It is a mobile operating system based on a modified version of the Linux kernel and other open-source software",
     "type": "LEAF",
     "icon": "android"
   },
   "mac": {
     "name": "MacOS",
-    "description": "",
+    "description": "Steve Jobs technology company headquartered in Cupertino, California",
     "type": "LEAF",
     "icon": "mac"
   },
   "linux": {
     "name": "Linux",
-    "description": "",
+    "description": "Linux is a family of open-source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on September 17, 1991, by Linus Torvalds",
     "type": "LEAF",
     "icon": "linux"
   },
   "web": {
     "name": "Web",
-    "description": "",
+    "description": "Browse in internet to get different tools in your daily live",
     "type": "LEAF",
     "icon": "web"
   }

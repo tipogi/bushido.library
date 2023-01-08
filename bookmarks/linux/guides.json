@@ -63,6 +63,14 @@
       "tags": ["linux", "guides"],
       "name": "Desde Linux",
       "description": "Información de Linux y Software Libre. Tutoriales, aplicaciones de Software Libre, distribuciones de Linux, recomendaciones, noticias de Linux y Software Libre"
+    },
+    {
+      "url": "https://distrowatch.com/",
+      "icon": "https://distrowatch.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Distro Watch",
+      "description": "Put fun back into computing. Use linux, BSD"
     }
   ]
 }

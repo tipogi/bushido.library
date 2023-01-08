@@ -1,19 +1,19 @@
 {
   "economy": {
     "name": "Economy",
-    "description": "",
+    "description": "A important topic in the actual times",
     "type": "LEAF",
     "icon": "economy"
   },
   "mind": {
     "name": "Mind",
-    "description": "",
+    "description": "Keep your citadel healthy from all the noise",
     "type": "LEAF",
     "icon": "mind"
   },
   "it": {
     "name": "IT",
-    "description": "",
+    "description": "Another view of Information technology",
     "type": "LEAF",
     "icon": "it"
   },
@@ -25,7 +25,7 @@
   },
   "hardware": {
     "name": "Hardware",
-    "description": "",
+    "description": "Do you want to see how it travels all the bits in the physical world?",
     "type": "LEAF",
     "icon": "hardware"
   }
