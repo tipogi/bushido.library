@@ -39,6 +39,14 @@
       "tags": ["github", "nodes", "bitcoin"],
       "name": "Umbrel",
       "description": "A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian."
+    },
+    {
+      "url": "https://github.com/Start9Labs/embassy-os",
+      "icon": "https://start9.com/latest/_static/img/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["github", "nodes", "bitcoin"],
+      "name": "Embassy OS",
+      "description": "Browser-based, graphical operating system for a personal server."
     }
   ]
 }

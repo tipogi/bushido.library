@@ -2,7 +2,7 @@
   "hardware": [
     {
       "url": "https://coldcard.com/",
-      "icon": "https://coldcard.com/static/images/coldcard-logo-nav.png",
+      "icon": "https://coldcard.com/static/images/favicon.png",
       "lang": "eng",
       "tags": ["hw-wallet", "on-chain"],
       "name": "Coldcard",

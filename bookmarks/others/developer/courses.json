@@ -7,6 +7,14 @@
         "tags": ["dev"],
         "name": "Just JavaScript",
         "description": "Explore the JavaScript Universe"
+      },
+      {
+        "url": "https://hack4u.io/",
+        "icon": "https://hack4u.io/wp-content/uploads/2022/03/h4ckcoin-379x371.png",
+        "lang": "eng",
+        "tags": ["dev"],
+        "name": "Hack4u",
+        "description": "Es una academia de ciberseguridad destinada al aprendizaje de la mano de expertos en el campo"
       }
     ]
 }

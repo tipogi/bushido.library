@@ -1,11 +1,11 @@
 {
   "sidechains": [
     {
-      "url": "https://www.rsk.co/",
-      "icon": "https://www.rsk.co/img/rsk_logo.svg",
+      "url": "https://rootstock.io/",
+      "icon": "https://rootstock.io/icons/icon-48x48.png?v=d5199ca8e8f274bc01b19fe9024f128e",
       "lang": "eng",
       "tags": ["sidechains", "bitcoin"],
-      "name": "RSK",
+      "name": "RootStock",
       "description": "Bitcoin users now can lend, borrow, trade and earn interest on their Bitcoin. The future of finance is decentralized"
     },
     {

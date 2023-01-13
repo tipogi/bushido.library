@@ -23,6 +23,14 @@
       "tags": ["dev"],
       "name": "AdventJS",
       "description": "24 days 24 coding challenges"
+    },
+    {
+      "url": "https://www.codewars.com/",
+      "icon": "https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/63503fd3823762323d600de6_favicon.icog",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "Codewars",
+      "description": "Achieve mastery through challenge"
     }
   ]
 }

@@ -8,13 +8,6 @@
       "name": "Estudio Bitcoin",
       "description": "Es un espacio en español con todos los recursos necesarios para empezar y profundizar en Bitcoin"
     },{
-      "url": "https://www.keepitsimplebitcoin.com/",
-      "icon": "https://www.keepitsimplebitcoin.com/wp-content/uploads/2020/05/KIS_logo_wht_on_transp_back.svg",
-      "lang": "eng",
-      "tags": [""],
-      "name": "KeepItSimplyBitcoin",
-      "description": "Learn how to interact with bitcoin through videos"
-    },{
       "url": "https://blockmit.com/",
       "icon": "https://blockmit.com/wp-content/uploads/2020/04/block1.png",
       "lang": "esp",
@@ -49,13 +42,6 @@
       "tags": ["nodes","custody"],
       "name": "Diverter",
       "description": "Focused on bitcoin, privacy, and censorship resistance. Use the tools."
-    }, {
-      "url": "https://thebatzuk.wordpress.com/",
-      "icon": "none",
-      "lang": "esp",
-      "tags": [],
-      "name": "The Batzuk",
-      "description": "Mechatronics engineer, cnc programmer, punk and bitcoiner"
     },{
       "url": "https://bitcoiner.guide/",
       "icon": "https://bitcoiner.guide/favicon.ico",
@@ -68,7 +54,7 @@
       "icon": "https://cdn.substack.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5993420-c6c3-4610-9186-a6d102e51577_250x250.png",
       "lang": "esp",
       "tags": ["privacy", "tools", "guide"],
-      "name": "Bitcoin - Soberania Financiera",
+      "name": "Soberania Financiera",
       "description": "En primer lugar, lo siento por el diseño web de mierda, pero el objetivo de esta web no es ser elegante, y es mejor que lo veas en los navegadores de escritorio, en los móviles se ve realmente horrible, lo sé"
     },{
       "url": "https://dinerosinreglas.com/",

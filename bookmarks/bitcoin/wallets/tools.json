@@ -135,6 +135,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "Codl - Punch plate",
       "description": "Secure your bitcoin. Premium steel backups give you confidence your bitcoin will be there when you need it"
+    },
+    {
+      "url": "https://www.bitplates.com/",
+      "icon": "https://www.bitplates.com/square.ico",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Bit plates",
+      "description": "Easy to use, hard to destroy; the ultimate Bitcoin backup seed storage plates..."
     }
   ]
 }

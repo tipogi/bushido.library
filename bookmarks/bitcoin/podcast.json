@@ -17,8 +17,8 @@
       "description": "SLP is focused on educational interviews about the economics and technology of Bitcoin. Stephan has interviewed many high profile Bitcoin, Libertarian, Austrian economics and Macro guests"
     },
     {
-      "url": "https://tftc.io/podcasts/",
-      "icon": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/797160/797160-1579811341935-88e5cd5024bf9.jpg",
+      "url": "https://tftc.io/tftc-podcast/",
+      "icon": "https://tftc.io/content/images/size/w256h256/2022/02/TFTC_01_Cream_1000.png",
       "lang": "eng",
       "tags": ["privacy"],
       "name": "Tales from the Crypt",
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://citadeldispatch.com/",
-      "icon": "https://citadeldispatch.com/wp-content/uploads/2021/04/cropped-cit2color.png",
+      "icon": "https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/11532800/11532800-1619287760642-ce494bf71cc78.jpg",
       "lang": "eng",
       "tags": ["privacy", "open source"],
       "name": "Citadel Dispatch",
@@ -138,7 +138,7 @@
     },
     {
       "url": "https://bitcoin.review/",
-      "icon": "https://bitcoin.review/assets/images/bitcoin-logo-orange.png",
+      "icon": "https://bitcoin.review/assets/images/bitcoin.review.icon.png",
       "lang": "eng",
       "tags": ["podcast"],
       "name": "Bitcoin.Review",
@@ -151,6 +151,14 @@
       "tags": ["podcast"],
       "name": "What is Money",
       "description": "In this podcast, we will pursue this ßrabbit by engaging in a diversity of deep conversations with deep thinkers from different walks of life."
+    },
+    {
+      "url": "https://podtail.com/en/podcast/rabbit-hole-recap/",
+      "icon": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts122/v4/b7/f5/f5/b7f5f567-5911-171c-6b56-930211fbb647/mza_15510931425314968811.jpg/250x250bb.jpg",
+      "lang": "eng",
+      "tags": ["podcast"],
+      "name": "Rabbit Hole Recap",
+      "description": "Join ODELL and Marty as they sit down to discuss the latest news in Bitcoin every week."
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-    "apps": [
+    "clients": [
       {
         "url": "https://anigma.io/",
         "icon": "https://anigma.io/anigma-logo.png",
@@ -127,6 +127,22 @@
         "tags": ["nostr", "twitter"],
         "name": "Snort Social",
         "description": "Nostr client"
+      },
+      {
+        "url": "https://sendstr.com/",
+        "icon": "https://sendstr.com/favicon-16x16.png",
+        "lang": "eng",
+        "tags": ["nostr", "message"],
+        "name": "SendStr",
+        "description": "e2e encrypted shared clipboard"
+      },
+      {
+        "url": "https://nosbin.com/",
+        "icon": "https://nosbin.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "message"],
+        "name": "Nosbin",
+        "description": "The decentralized pasting platform, built on nostr"
       }
     ]
 }

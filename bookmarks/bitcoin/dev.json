@@ -73,14 +73,6 @@
       "description": "Bitcoin and Lightning Protocol Development Education"
     },
     {
-      "url": "https://courses.earncarrot.com/",
-      "icon": "https://assets.website-files.com/5edfc7a5d682d20d91a4752b/5ee3d5799f82303c9cd9bfb9_fasvicon.png",
-      "lang": "eng",
-      "tags": ["dev", "courses"],
-      "name": "Earn Carrot",
-      "description": "Earn Bitcoin by learning about Bitcoin"
-    },
-    {
       "url": "https://learn.saylor.org/course/view.php?id=468",
       "icon": "https://learn.saylor.org/theme/image.php?theme=saylor&component=theme_saylor&image=favicons%2Ffavicon-32x32",
       "lang": "eng",
@@ -130,7 +122,7 @@
     },
     {
       "url": "https://www.pleblab.com/",
-      "icon": "https://www.pleblab.com/favicon.png",
+      "icon": "https://uploads-ssl.webflow.com/61e5b732a84c91ba078b33a9/63656a36fdde1f899e19d33e_favicon.png",
       "lang": "eng",
       "tags": ["dev", "projects"],
       "name": "Pleb Lab",
@@ -151,6 +143,22 @@
       "tags": ["dev", "projects"],
       "name": "Ian Coleman",
       "description": "You can enter an existing BIP39 mnemonic, or generate a new random one"
+    },
+    {
+      "url": "https://bips.xyz/",
+      "icon": "https://bips.xyz/favicon.ico",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Bips",
+      "description": "Bitcoin Improvement Proposals"
+    },
+    {
+      "url": "https://geyser.fund/",
+      "icon": "https://storage.googleapis.com/geyser-projects-media/app/seo.png",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Geyser fund",
+      "description": "Play a part in world-changing ideas by contributing to them and launching them"
     }
   ]
 }

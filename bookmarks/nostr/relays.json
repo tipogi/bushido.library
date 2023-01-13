@@ -1,0 +1,36 @@
+{
+    "relays": [
+      {
+        "url": "https://github.com/Cameri/nostream",
+        "icon": "https://user-images.githubusercontent.com/378886/198158439-86e0345a-adc8-4efe-b0ab-04ff3f74c1b2.jpg",
+        "lang": "eng",
+        "tags": ["nostr", "relay"],
+        "name": "Nostream",
+        "description": "A Nostr Relay written in TypeScript"
+      },
+      {
+        "url": "https://github.com/fiatjaf/relayer",
+        "icon": "https://fiatjaf.com/static/favicon.jpg",
+        "lang": "eng",
+        "tags": ["nostr", "relay"],
+        "name": "Relayer",
+        "description": "A Nostr relay server framework"
+      },
+      {
+        "url": "https://sr.ht/~gheartsfield/nostr-rs-relay/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "relay"],
+        "name": "Nostr rs Relay",
+        "description": "This is a nostr relay, written in Rust. It currently supports the entire relay protocol, and persists data with SQLite"
+      },
+      {
+        "url": "https://github.com/metasikander/s0str",
+        "icon": "https://avatars.githubusercontent.com/u/2529307?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "relay"],
+        "name": "S0str",
+        "description": "A private nostr relay"
+      }
+    ]
+}

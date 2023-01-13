@@ -5,13 +5,15 @@ BITCOIN:
 - https://digitalgoods.proxysto.re/
 - https://github.com/1ma/bip39-diceware
 - https://bitcoinforlocalbusiness.com/
-- https://geyser.fund
 - https://mercurywallet.com/
 - https://privatepayments.org/
 - https://reckless.mutinywallet.com/
 - https://www.youtube.com/@SouthernBitcoiner/videos (YT)
 - https://wizardsardine.com/#
 - https://satscrap.com/listings
+- https://www.keepitsimplebitcoin.com/
+- https://thebatzuk.wordpress.com/
+- 
 
 LIGHTNING:
 https://www.coincorner.com
@@ -28,10 +30,13 @@ https://www.coincorner.com
 - https://github.com/bitao36/clntip
 - https://foldapp.com/
 - https://kollider.xyz/
+- lncal.com
+- https://www.lightning-network.tech/
 
 OTHER:
 - https://github.com/aristocratos/bpytop
 - https://darknetdiaries.com/episode/
+- https://www.libertarianism.org/
 
 NEW ICONS:
 - linux

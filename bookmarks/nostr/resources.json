@@ -103,6 +103,14 @@
         "tags": ["nostr", "resources"],
         "name": "Minds",
         "description": "Minds, Nostr and the future of decentralized social networking"
+      },
+      {
+        "url": "https://nostr-resources.com/",
+        "icon": "https://nostr-resources.com/assets/images/avatar.png",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "Nostr Resources",
+        "description": "nostr is a protocol that has the power to replace twitter, Telegram, and other things."
       }
     ]
 }

@@ -23,6 +23,14 @@
       "tags": ["mind", "power"],
       "name": "Fitness Revolucionario",
       "description": "Tus hábitos tienen un gran poder sobre tus resultados y Fitness Revolucionario te ayudará a mejorarlos"
+    },
+    {
+      "url": "https://hubermanlab.com/",
+      "icon": "https://i0.wp.com/hubermanlab.com/wp-content/uploads/2021/05/cropped-Huberman-Lab-Podcast-Thumbnail-2000x2000-1.jpeg?fit=32%2C32&ssl=1",
+      "lang": "eng",
+      "tags": ["mind", "power"],
+      "name": "Huberman Lab",
+      "description": "Andrew Huberman, Ph.D., is a neuroscientist and tenured professor in the department of neurobiology"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "apps": {
-    "name": "Applications",
+  "clients": {
+    "name": "Clients",
     "description": "Nostr clients that allows to connect people",
     "type": "LEAF",
-    "icon": "apps"
+    "icon": "clients"
   },
   "resources": {
     "name": "Resources",
@@ -22,5 +22,11 @@
     "description": "Interesting repositories that might help in the interaction",
     "type": "LEAF",
     "icon": "github"
+  },
+  "relays": {
+    "name": "Relays",
+    "description": "Relays are (so far) application agnostic. You can run your own or use any or all of the public instances",
+    "type": "LEAF",
+    "icon": "analysis"
   }
 }
