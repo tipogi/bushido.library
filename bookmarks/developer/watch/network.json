@@ -1,0 +1,16 @@
+{
+    "network": [
+        {
+            "url": "https://www.youtube.com/@christianlempa/videos",
+            "icon": "https://yt3.googleusercontent.com/YO4Re8Kv_C0uC-WjtAh0W93Tfv6kJ0Ri7ENCUVWjJwIaBTTbly_-g6525UkqqvKmLv1ME9pBOg=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["network"],
+            "name": "Christian Lempa",
+            "description": "Detailed tech videos about my Homelab and share my best practices."
+        }
+    ]
+}
+
+https://www.youtube.com/@LAWRENCESYSTEMS
+https://www.youtube.com/@NetworkChuck/videos
+https://www.youtube.com/@jbravovideos

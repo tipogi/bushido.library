@@ -1,0 +1,39 @@
+{
+    "devops": {
+      "name": "DevOps",
+      "description": "",
+      "type": "LEAF",
+      "icon": ""
+    },
+    "linux": {
+      "name": "Linux",
+      "description": "",
+      "type": "LEAF",
+      "icon": ""
+    },
+    "security": {
+      "name": "Consp",
+      "description": "",
+      "type": "LEAF",
+      "icon": ""
+    },
+    "fullstack": {
+      "name": "Full Stack",
+      "description": "",
+      "type": "LEAF",
+      "icon": ""
+    },
+    "network": {
+      "name": "Network",
+      "description": "",
+      "type": "LEAF",
+      "icon": ""
+    },
+    "architecture": {
+      "name": "Architecture",
+      "description": "",
+      "type": "LEAF",
+      "icon": ""
+    }
+
+  }

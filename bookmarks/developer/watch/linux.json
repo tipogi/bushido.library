@@ -1,0 +1,20 @@
+{
+    "linux": [
+        {
+            "url": "https://www.youtube.com/c/MentalOutlaw/videos",
+            "icon": "https://yt3.ggpht.com/ytc/AMLnZu_wA4-Tjwkb8nDDeA99sTYCLW7ROVbHwblHvFZ7Ng=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["linux"],
+            "name": "Linux: Mental Outlaw",
+            "description": "I make videos about stuff"
+        },
+        {
+            "url": "https://www.youtube.com/c/LukeSmithxyz/videos",
+            "icon": "https://lukesmith.xyz/favicon.ico",
+            "lang": "eng",
+            "tags": ["linux"],
+            "name": "Linux: Luke Smith",
+            "description": "Everything you're looking for is here"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "devops": [
+        {
+            "url": "https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g",
+            "icon": "https://yt3.ggpht.com/TD0Bbfq-jnVWBNnOySWIoOp3AqPeZtGMjtHbo_UCeGseY0A70fUAeIbsETO0mmAfJu3pcSYonA=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "esp",
+            "tags": ["it", "devops"],
+            "name": "DevOps: Pelado Nerd",
+            "description": "Professional Nerd"
+        },
+        {
+          "url": "https://www.youtube.com/@MarcelDempers/videos",
+          "icon": "https://yt3.googleusercontent.com/E6pu5181_z1O-CnD1UHCof90y7WJtpYiNsxoMpJ6FJXcl6XQ3AoBFclI3yk37CbdC8zSg6Tk=s176-c-k-c0x00ffffff-no-rj",
+          "lang": "eng",
+          "tags": ["dev_ops"],
+          "name": "That DevOps Guy",
+          "description": "I am a solutions Architect and my passions are platform architecture, distributed systems engineering ,micro-services, containers and cloud native technology"
+        },
+        {
+          "url": "https://www.youtube.com/c/TechWorldwithNana/videos",
+          "icon": "https://static.wixstatic.com/media/e7182f_d110772490144eb28ac1a07e95ed9972%7Emv2.png/v1/fill/w_32%2Ch_32%2Clg_1%2Cusm_0.66_1.00_0.01/e7182f_d110772490144eb28ac1a07e95ed9972%7Emv2.png",
+          "lang": "eng",
+          "tags": ["dev_ops"],
+          "name": "TechWorld with Nana",
+          "description": "Helping people to learn DevOps topics easily"
+        }
+    ]
+}

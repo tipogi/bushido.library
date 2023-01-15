@@ -47,6 +47,14 @@
       "tags": ["hw-wallet", "on-chain"],
       "name": "Orange pill",
       "description": "Grab it, shake it & give it away"
+    },
+    {
+      "url": "https://trezor.io/trezor-model-t",
+      "icon": "https://trezor.io/favicon/favicon.ico",
+      "lang": "eng",
+      "tags": ["hw-wallet", "on-chain"],
+      "name": "Trezor T",
+      "description": "Easily store and protect your Bitcoin, passwords and keys with confidence."
     }
   ]
 }

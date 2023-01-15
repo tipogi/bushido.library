@@ -1,0 +1,12 @@
+{
+    "fullstack": [
+        {
+            "url": "https://www.youtube.com/@mguay/videos",
+            "icon": "https://yt3.ggpht.com/16oFb9UsgNGcPPT7aqfoiYPLaKAs_x8R1qI-oMHeugx2BPjNoWPHtfwXJh6BjxmqWTdB-ooBSw=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["developer", "js"],
+            "name": "JS: Michael Guay",
+            "description": "Hi quality full stack tutorials. Nodes.js & NestJS"
+        }
+    ]
+}

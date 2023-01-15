@@ -1,0 +1,28 @@
+{
+    "architecture": [
+        {
+            "url": "https://www.youtube.com/c/MilanJovanovicTech/videos",
+            "icon": "https://www.milanjovanovic.tech/profile_favicon.png",
+            "lang": "eng",
+            "tags": ["software_engineering"],
+            "name": "Milan Jovanovic Tech",
+            "description": "I make videos about software engineering and software architecture, distributed systems, Domain-Driven Design, and any software-related topic I find interesting"
+        },
+        {
+            "url": "https://www.youtube.com/@Fireship/videos",
+            "icon": "https://fireship.io/img/favicon.png",
+            "lang": "eng",
+            "tags": ["software_engineering"],
+            "name": "Fireship",
+            "description": "High-intensity code tutorials to help you build & ship your app faster"
+        },
+        {
+          "url": "https://www.youtube.com/c/ByteByteGo",
+          "icon": "https://bytebytego.com/favicon.ico",
+          "lang": "eng",
+          "tags": ["cheatsheet", "map"],
+          "name": "Architecture: Byte Byte Go",
+          "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam."
+        }
+    ]
+}

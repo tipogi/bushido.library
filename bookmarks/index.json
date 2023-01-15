@@ -33,5 +33,12 @@
     "type": "ROOT",
     "icon": "nostr",
     "access": "public"
+  },
+  "developer": {
+    "name": "Developer",
+    "description": "Do you like to code and enjoy learning about architecture and engineering? so, write code",
+    "type": "ROOT",
+    "icon": "dev",
+    "access": "private"
   }
 }

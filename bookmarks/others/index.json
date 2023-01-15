@@ -3,7 +3,7 @@
     "name": "Channels",
     "description": "Check contents ordered by topic",
     "type": "BRANCH",
-    "icon": "channels"
+    "icon": "practise"
   },
   "news": {
     "name": "News",
@@ -28,12 +28,6 @@
     "description": "Daily useful applications",
     "type": "BRANCH",
     "icon": "apps"
-  },
-  "developer": {
-    "name": "Developer",
-    "description": "Different sources to learn about IT",
-    "type": "BRANCH",
-    "icon": "developer"
   },
   "boom": {
     "name": "Boom",
