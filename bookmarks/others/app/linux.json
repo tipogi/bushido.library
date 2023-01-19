@@ -6,7 +6,31 @@
       "lang": "eng",
       "tags": ["linux", "containers"],
       "name": "Portainer",
-      "description": "Deploy, configure, troubleshoot and secure containers in minutes on Kubernetes, Docker, Swarm and Nomad in any cloud, data center or device."
+      "description": "Deploy, configure, troubleshoot and secure containers in minutes on Kubernetes, Docker, Swarm and Nomad in any cloud, data center or device"
+    },
+    {
+      "url": "https://keepassxc.org/",
+      "icon": "https://keepassxc.org/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux", "password"],
+      "name": "KeepassXC",
+      "description": "Never forget a password again"
+    },
+    {
+      "url": "https://syncthing.net/",
+      "icon": "https://syncthing.net/img/favicon.png",
+      "lang": "eng",
+      "tags": ["linux", "sync"],
+      "name": "Syncthing",
+      "description": "It synchronizes files between two or more computers in real time, safely protected from prying eyes"
+    },
+    {
+      "url": "https://keet.io/",
+      "icon": "https://keet.io/static/media/logo.54367685469eb1d54040b80c012f76b5.svg",
+      "lang": "eng",
+      "tags": ["linux", "sync"],
+      "name": "Keet",
+      "description": "Peer-to-Peer Chat. Video & Text. Private & Encrypted. Unparalleled Quality"
     }
   ]
 }

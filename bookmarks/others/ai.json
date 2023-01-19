@@ -1,0 +1,60 @@
+{
+    "ai": [
+      {
+        "url": "https://stockimg.ai/",
+        "icon": "https://stockimg.ai/favicon.ico",
+        "lang": "eng",
+        "tags": ["ai", "image"],
+        "name": "Stock img",
+        "description": "Create Your Dream. Do you want to create images with artificial intelligence?"
+      },
+      {
+        "url": "https://valle-demo.github.io/",
+        "icon": "https://www.microsoft.com/favicon.ico?v2",
+        "lang": "eng",
+        "tags": ["ai", "audio"],
+        "name": "VALL-E",
+        "description": "Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers"
+      },
+      {
+        "url": "https://you.com/",
+        "icon": "https://you.com/favicon/favicon-96x96.png",
+        "lang": "eng",
+        "tags": ["ai", "search"],
+        "name": "You",
+        "description": "The AI Search Engine You Control"
+      },
+      {
+        "url": "https://openai.com/",
+        "icon": "https://openai.com/content/images/size/w256h256/2020/09/icon-1.png",
+        "lang": "eng",
+        "tags": ["ai", "text"],
+        "name": "Open AI",
+        "description": "Join us in shaping the future of technology"
+      },
+      {
+        "url": "https://looka.com/",
+        "icon": "https://cdn.looka.com/meta/favicon.ico",
+        "lang": "eng",
+        "tags": ["ai", "img"],
+        "name": "Looka",
+        "description": "Design your own beautiful brand"
+      },
+      {
+        "url": "https://midjourney.com/home/?callbackUrl=%2Fapp%2F",
+        "icon": "https://midjourney.com/apple-touch-icon.png",
+        "lang": "eng",
+        "tags": ["ai", "img"],
+        "name": "Midjourney",
+        "description": "Midjourney is an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species."
+      },
+      {
+        "url": "https://openai.com/dall-e-2/",
+        "icon": "https://openai.com/content/images/size/w256h256/2020/09/icon-1.png",
+        "lang": "eng",
+        "tags": ["ai", "img"],
+        "name": "Dall E",
+        "description": "MDALL·E 2 is a new AI system that can create realistic images and art from a description in natural language."
+      }
+    ]
+}

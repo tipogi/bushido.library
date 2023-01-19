@@ -15,6 +15,14 @@
         "tags": ["dev"],
         "name": "Hack4u",
         "description": "Es una academia de ciberseguridad destinada al aprendizaje de la mano de expertos en el campo"
+      },
+      {
+        "url": "https://aprendejavascript.dev/",
+        "icon": "https://aprendejavascript.dev/favicon-96x96.png",
+        "lang": "eng",
+        "tags": ["dev"],
+        "name": "Aprende JavaScript",
+        "description": "Gratis y de forma práctica"
       }
     ]
 }

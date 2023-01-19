@@ -143,6 +143,14 @@
         "tags": ["nostr", "message"],
         "name": "Nosbin",
         "description": "The decentralized pasting platform, built on nostr"
+      },
+      {
+        "url": "https://nip06.jaonoct.us/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "seed"],
+        "name": "Nip06 Jaonoct",
+        "description": "Basic key derivation from mnemonic seed phrase"
       }
     ]
 }

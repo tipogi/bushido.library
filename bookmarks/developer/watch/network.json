@@ -7,10 +7,31 @@
             "tags": ["network"],
             "name": "Christian Lempa",
             "description": "Detailed tech videos about my Homelab and share my best practices."
+        },
+        {
+            "url": "https://www.youtube.com/@LAWRENCESYSTEMS",
+            "icon": "https://yt3.googleusercontent.com/ytc/AMLnZu9VzI6N…14A9cCBbpXeN_AKapVUNCw=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["network"],
+            "name": "Lawrence: Technology services",
+            "description": "We discuss and create tutorials for firewalls, storage solutions, MSP tools, security tools and open source topics"
+        },{
+            "url": "https://www.youtube.com/c/NetworkChuck/videos",
+            "icon": "https://yt3.ggpht.com/ytc/AKedOLTHjL08GyIUwy_6DxA3GtUzyPU1aOs2CwgNtuRJ4A=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["linux", "networking"],
+            "name": "NetworkChuck",
+            "description": "My goal is to help as MANY PEOPLE AS POSSIBLE jump into a career in the IT field"
+        },{
+            "url": "https://www.youtube.com/@jbravovideos",
+            "icon": "https://yt3.googleusercontent.com/ytc/AMLnZu_VVNz2xxw9jYjqrVLZ1RfWeuTjQPuqMGYEdvXKCw=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["linux", "networking"],
+            "name": "Jose Bravo",
+            "description": "Security Technology I demo often"
         }
     ]
 }
 
-https://www.youtube.com/@LAWRENCESYSTEMS
-https://www.youtube.com/@NetworkChuck/videos
-https://www.youtube.com/@jbravovideos
+
+

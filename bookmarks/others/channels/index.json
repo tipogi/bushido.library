@@ -11,12 +11,6 @@
     "type": "LEAF",
     "icon": "mind"
   },
-  "it": {
-    "name": "IT",
-    "description": "Another view of Information technology",
-    "type": "LEAF",
-    "icon": "it"
-  },
   "consp": {
     "name": "Consp",
     "description": "Out of the Box thinking",

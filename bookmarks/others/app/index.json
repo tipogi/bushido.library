@@ -22,5 +22,11 @@
     "description": "Browse in internet to get different tools in your daily live",
     "type": "LEAF",
     "icon": "web"
+  },
+  "extensions": {
+    "name": "Extensions",
+    "description": "A small software module for customizing a web browser",
+    "type": "LEAF",
+    "icon": "web"
   }
 }

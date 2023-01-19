@@ -68,9 +68,25 @@
       "url": "https://www.talkatone.com/",
       "icon": "https://www.talkatone.com/favicon.ico",
       "lang": "eng",
-      "tags": ["sim","privacy"],
+      "tags": ["sim","app"],
       "name": "Talk at one",
       "description": "The calling app that let's you choose your own free U.S. phone number"
+    },
+    {
+      "url": "https://f-droid.org/es/packages/com.machiav3lli.fdroid/",
+      "icon": "https://f-droid.org/repo/com.machiav3lli.fdroid/en-US/icon_3Z3xAiy1YgGMVf9AveNisZ1l1FiOLexcxkYtN7utlcQ=.png",
+      "lang": "esp",
+      "tags": ["app"],
+      "name": "Neo Store",
+      "description": "Un moderno cliente de F-droid con Material Design."
+    },
+    {
+      "url": "https://berty.tech/",
+      "icon": "https://berty.tech/favicon/favicon.ico",
+      "lang": "eng",
+      "tags": ["app","privacy"],
+      "name": "Berty Tech",
+      "description": "The privacy-first messaging app, that works with or without internet access, cellular data or trust in the network"
     }
   ]
 }

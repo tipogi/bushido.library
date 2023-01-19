@@ -7,6 +7,30 @@
             "tags": ["developer", "js"],
             "name": "JS: Michael Guay",
             "description": "Hi quality full stack tutorials. Nodes.js & NestJS"
+        },
+        {
+            "url": "https://www.youtube.com/@midudev",
+            "icon": "https://yt3.googleusercontent.com/ytc/AMLnZu8-BEDzQASfWOruugA1Uo5N_o57y2PYBfNgYjOatQ=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["developer", "js"],
+            "name": "midudev",
+            "description": "Desarrollo con JavaScript. Programación web y full Stack con React, Node.js, HTML, CSS, Tailwind, Next.js y Deno."
+        },
+        {
+            "url": "https://www.youtube.com/@midudev",
+            "icon": "https://yt3.googleusercontent.com/ytc/AMLnZu8-BEDzQASfWOruugA1Uo5N_o57y2PYBfNgYjOatQ=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["developer", "js"],
+            "name": "midudev",
+            "description": "Desarrollo con JavaScript. Programación web y full Stack con React, Node.js, HTML, CSS, Tailwind, Next.js y Deno."
+        },
+        {
+            "url": "https://www.youtube.com/@midulive",
+            "icon": "https://yt3.googleusercontent.com/ytc/AMLnZu-Y-SmidVCgyeowDPzi1lYJfey8UUaIM0tYnVgb=s176-c-k-c0x00ffffff-no-rj",
+            "lang": "eng",
+            "tags": ["developer", "js"],
+            "name": "midulive",
+            "description": "Streamings sobre Desarrollo FullStack con JavaScript de midudev en Twitch. Directos completos y extracto de los mejores momentos"
         }
     ]
 }

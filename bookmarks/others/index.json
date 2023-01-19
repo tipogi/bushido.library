@@ -40,5 +40,11 @@
     "description": "Get regularly your favourite author relevant and valuable information in your mailboxes",
     "type": "LEAF",
     "icon": "newsletter"
+  },
+  "ai": {
+    "name": "Artificial intelligence",
+    "description": "",
+    "type": "LEAF",
+    "icon": "ai"
   }
 }

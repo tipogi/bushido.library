@@ -26,11 +26,19 @@
     },
     {
       "url": "https://www.codewars.com/",
-      "icon": "https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/63503fd3823762323d600de6_favicon.icog",
+      "icon": "https://uploads-ssl.webflow.com/62e3ee10882dc50bcae8d07a/63503fd3823762323d600de6_favicon.ico",
       "lang": "eng",
       "tags": ["dev"],
       "name": "Codewars",
       "description": "Achieve mastery through challenge"
+    },
+    {
+      "url": "https://retos.dev/",
+      "icon": "https://retos.dev/favicon.svg",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "Retos dev",
+      "description": "Mejora tu lógica de programación"
     }
   ]
 }

@@ -1,0 +1,60 @@
+{
+    "extensions": [
+        {
+            "url": "https://sessionbuddy.com/",
+            "icon": "https://sessionbuddy.com/wp-content/uploads/2017/04/cropped-Session-Buddy-32x32.png",
+            "lang": "eng",
+            "tags": ["web", "privacy"],
+            "name": "Session Buddy",
+            "description": "Manage Browser Tabs and Bookmarks with Ease"
+        },
+        {
+            "url": "https://ninja-cookie.com/",
+            "icon": "https://ninja-cookie.com/wp-content/uploads/2020/06/cropped-ninja-cookie-head-icon-180x180.png",
+            "lang": "eng",
+            "tags": ["web", "privacy"],
+            "name": "Ninja Cookie",
+            "description": "Forget about them! Ninja Cookie will take care of these and can say “no” to them for you!"
+        },
+        {
+          "url": "https://privacybadger.org/",
+          "icon": "https://www.eff.org/sites/all/themes/frontier/favicon.ico",
+          "lang": "eng",
+          "tags": ["web", "privacy"],
+          "name": "Privacy Badger",
+          "description": "Privacy Badger is a browser extension that automatically learns to block invisible trackers"
+        },
+        {
+          "url": "https://addslice.com/",
+          "icon": "https://addslice.com/favicon-32x32.png",
+          "lang": "eng",
+          "tags": ["web", "privacy"],
+          "name": "Slice",
+          "description": "Take back what belongs to you - monetize your browser, get paid for ads, cash in with Slice"
+        },
+        {
+          "url": "https://privacypass.github.io/",
+          "icon": "https://privacypass.github.io/favicon.ico",
+          "lang": "eng",
+          "tags": ["web", "privacy"],
+          "name": "Privacy Pass",
+          "description": "A privacy-enhancing protocol and browser extension."
+        },
+        {
+          "url": "https://getalby.com/",
+          "icon": "https://getalby.com/website/_assets/alby_icon_head_icon-XSE3HS57.png",
+          "lang": "eng",
+          "tags": ["web", "privacy"],
+          "name": "Get Alby",
+          "description": "The Bitcoin Lightning App for your Browser"
+        },
+        {
+          "url": "https://tab-session-manager.sienori.com/",
+          "icon": "https://tab-session-manager.sienori.com/favicon.ico",
+          "lang": "eng",
+          "tags": ["web", "privacy"],
+          "name": "Tab Session Manager",
+          "description": "WebExtensions for restoring and saving window / tab states"
+        }
+    ]
+}
