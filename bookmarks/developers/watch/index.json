@@ -1,0 +1,38 @@
+{
+  "devops": {
+    "name": "DevOps",
+    "description": "It is a software development method that emphasizes collaboration, communication, and automation between development and operations teams to improve the speed and reliability of software delivery",
+    "type": "LEAF",
+    "icon": "devops"
+  },
+  "linux": {
+    "name": "Linux",
+    "description": "It is a free and open-source operating system based on Unix, commonly used for servers, supercomputers, and mobile devices",
+    "type": "LEAF",
+    "icon": "linux"
+  },
+  "security": {
+    "name": "Security",
+    "description": "It is the practice of protecting sensitive information from unauthorized access, use, disclosure, disruption, modification, or destruction",
+    "type": "LEAF",
+    "icon": "security"
+  },
+  "fullstack": {
+    "name": "Full Stack",
+    "description": "It it refers to the development of both the front-end and back-end of a website or application, including the server, client, and database",
+    "type": "LEAF",
+    "icon": "fullstack"
+  },
+  "network": {
+    "name": "Network",
+    "description": "It is the practice of connecting computers, devices, and other equipment to facilitate communication and information sharing",
+    "type": "LEAF",
+    "icon": "network"
+  },
+  "architecture": {
+    "name": "Architecture",
+    "description": "It is the fundamental organization of a software system, comprising of components, their relationships, and principles guiding its design and evolution",
+    "type": "LEAF",
+    "icon": "architecture"
+  }
+}

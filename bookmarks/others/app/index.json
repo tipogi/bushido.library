@@ -27,6 +27,6 @@
     "name": "Extensions",
     "description": "A small software module for customizing a web browser",
     "type": "LEAF",
-    "icon": "web"
+    "icon": "extension"
   }
 }

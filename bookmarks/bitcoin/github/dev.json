@@ -31,6 +31,14 @@
       "tags": ["github", "dev", "bitcoin"],
       "name": "Awesome bitcoin",
       "description": "A curated list of bitcoin services and tools for software developers"
+    },
+    {
+      "url": "https://github.com/libbitcoin/libbitcoin-system/wiki",
+      "icon": "https://avatars.githubusercontent.com/u/4434452?s=200&v=4",
+      "lang": "eng",
+      "tags": ["github", "dev", "bitcoin"],
+      "name": "Libbitcoin",
+      "description": "The libbitcoin toolkit is a set of cross platform C++ libraries for building bitcoin applications"
     }
   ]
 }

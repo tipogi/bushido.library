@@ -25,11 +25,11 @@
         "description": "The AI Search Engine You Control"
       },
       {
-        "url": "https://openai.com/",
+        "url": "https://chat.openai.com/auth/login",
         "icon": "https://openai.com/content/images/size/w256h256/2020/09/icon-1.png",
         "lang": "eng",
         "tags": ["ai", "text"],
-        "name": "Open AI",
+        "name": "Chat Open AI",
         "description": "Join us in shaping the future of technology"
       },
       {
@@ -54,7 +54,31 @@
         "lang": "eng",
         "tags": ["ai", "img"],
         "name": "Dall E",
-        "description": "MDALL·E 2 is a new AI system that can create realistic images and art from a description in natural language."
+        "description": "DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language."
+      },
+      {
+        "url": "https://stablediffusionweb.com/",
+        "icon": "https://stablediffusionweb.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["ai", "img"],
+        "name": "Stable Diffusion",
+        "description": "Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input"
+      },
+      {
+        "url": "https://runwayml.com/",
+        "icon": "https://runwayml.com/icons/favicon-96x96.png",
+        "lang": "eng",
+        "tags": ["ai", "img"],
+        "name": "Runwayml",
+        "description": "Everything you need to make anything you want"
+      },
+      {
+        "url": "https://www.youtube.com/@DotCSV/videos",
+        "icon": "https://yt3.googleusercontent.com/ytc/AMLnZu-xFnM_aSsoTDsysqBZfjJiVVmCtAKLWlXyFk5S=s176-c-k-c0x00ffffff-no-rj",
+        "lang": "eng",
+        "tags": ["ai", "img"],
+        "name": "DotCSV",
+        "description": "Inteligencia Artificial, Tecnología, Ciencia y Futuro! Bienvenidos a la 4ª Revolución Industrial"
       }
     ]
 }

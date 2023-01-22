@@ -55,6 +55,14 @@
       "tags": ["git", "languague"],
       "name": "First Aid Git",
       "description": "A searchable collection of the most frequently asked Git questions"
+    },
+    {
+      "url": "https://bytebytego.com/",
+      "icon": "https://bytebytego.com/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["git", "languague"],
+      "name": "Byte byte go",
+      "description": "Ace Your Next System Design Interview"
     }
   ]
 }

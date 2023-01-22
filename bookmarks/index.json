@@ -34,8 +34,8 @@
     "icon": "nostr",
     "access": "public"
   },
-  "developer": {
-    "name": "Developer",
+  "developers": {
+    "name": "Developers",
     "description": "Do you like to code and enjoy learning about architecture and engineering? so, write code",
     "type": "ROOT",
     "icon": "dev",

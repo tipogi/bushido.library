@@ -151,6 +151,22 @@
         "tags": ["nostr", "seed"],
         "name": "Nip06 Jaonoct",
         "description": "Basic key derivation from mnemonic seed phrase"
+      },
+      {
+        "url": "https://www.emon.chat/#/login",
+        "icon": "https://www.emon.chat/favicon-32x32.png",
+        "lang": "eng",
+        "tags": ["nostr", "chat"],
+        "name": "Emon Chat",
+        "description": ""
+      },
+      {
+        "url": "https://neb.lol/nostr",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "Twitter"],
+        "name": "Daisy",
+        "description": "This is slow and buggy, but the good news is that it will only get better from here"
       }
     ]
 }

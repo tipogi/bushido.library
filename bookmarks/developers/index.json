@@ -1,0 +1,32 @@
+{
+  "watch": {
+    "name": "Watch",
+    "description": "Learn",
+    "type": "BRANCH",
+    "icon": "practise"
+  },
+  "github": {
+    "name": "Github",
+    "description": "Repositories related with IT fields",
+    "type": "LEAF",
+    "icon": "github"
+  },
+  "practise": {
+    "name": "Practise",
+    "description": "Explore and get fluent in different programming languages",
+    "type": "LEAF",
+    "icon": "practise"
+  },
+  "resources": {
+    "name": "Resources",
+    "description": "Exercises to practise the programming logic",
+    "type": "LEAF",
+    "icon": "resources"
+  },
+  "courses": {
+    "name": "Courses",
+    "description": "Do you want to improve the skills, go for it!",
+    "type": "LEAF",
+    "icon": "courses"
+  }
+}
