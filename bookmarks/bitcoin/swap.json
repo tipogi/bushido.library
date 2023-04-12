@@ -119,6 +119,14 @@
       "tags": ["swap"],
       "name": "Classic CoinOS",
       "description": "Send and receive bitcoin with Liquid and Lightning"
+    },
+    {
+      "url": "https://kycnot.me",
+      "icon": "https://kycnot.me/static/img/favicon.png",
+      "lang": "eng",
+      "tags": ["bitcoin", "privacy", "swap"],
+      "name": "KYCnot",
+      "description": "Find best NON-KYC online swaps"
     }
   ]
 }

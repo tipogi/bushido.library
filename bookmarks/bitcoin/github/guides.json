@@ -63,6 +63,14 @@
       "tags": ["bitcoin", "github", "slides"],
       "name": "Mi Primer Bitcoin",
       "description": "Diplomado v 3.0 Esta es la version 3.0 de el Libro de el Diplomado en Bitcoin impartido por Mi Primer Bitcoin en El Salvador"
+    },
+    {
+      "url": "https://github.com/CobraPython/BitcoinResearch",
+      "icon": "https://avatars.githubusercontent.com/u/7275066?v=4",
+      "lang": "esp",
+      "tags": ["bitcoin", "github", "slides"],
+      "name": "Bitcoin Research",
+      "description": "Se busca mostrar como se implementa un nodo completo en Bitcoin y como se desarrollan herramientas para explotar la información del Blockchain en tiempo real para brindar, por ejemplo, estadísticas y análisis on-chain"
     }
   ]
 }

@@ -13,7 +13,15 @@ BITCOIN:
 - https://satscrap.com/listings
 - https://www.keepitsimplebitcoin.com/
 - https://thebatzuk.wordpress.com/
-- 
+
+
+- https://gildedpleb.github.io/hab-guide/
+- https://ungovernablemisfits.com/podcast/
+- https://lifehash.info/
+- https://bitcoinsearch.xyz
+
+PRIVACY
+-https://www.deviceinfo.me/
 
 LIGHTNING:
 https://www.coincorner.com
@@ -38,7 +46,26 @@ OTHER:
 - https://darknetdiaries.com/episode/
 - https://www.libertarianism.org/
 
-NEW ICONS:
-- linux
-- cards
-- nostr
+OTHERS_
+- https://telegra.ph/
+- https://www.youtube.com/@DRLAROSA/videos
+
+NOSTR
+- https://nostrum.pro/search/
+- https://nostrplebs.com/
+- https://github.com/kaiwolfram/Nozzle
+- https://github.com/jb55/nostril
+- https://github.com/vitorpamplona/amethyst
+- https://notebin.org/
+- https://member.cash/index.html
+
+DEV
+- https://brilliant.org/
+
+AI
+- https://www.ezdubs.ai/
+- https://www.humata.ai/
+
+LINUX:
+- proxmox
+- Add apps for metadata

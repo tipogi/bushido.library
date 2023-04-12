@@ -23,6 +23,14 @@
       "tags": ["linux"],
       "name": "Brodie Robertson",
       "description": "To be completely honest, I didn't think I would ever get to the point where some random person like you would want to visit my website but here we are"
+    },
+    {
+      "url": "https://www.youtube.com/@cris-catgrep",
+      "icon": "https://yt3.googleusercontent.com/fG87mJwx8fVoQ2bKacDy3Ri1N3RLmCR4UEIFK6Wpw-WuP324ahwJSh__fpV-nmnrFcQO6l7unQ=s176-c-k-c0x00ffffff-no-rj",
+      "lang": "esp",
+      "tags": ["linux"],
+      "name": "Cris - Cat Grep",
+      "description": "Aquí podrás aprender de Linux, open source, tecnología y más. Prepara tu terminal que estamos por comenzar."
     }
   ]
 }

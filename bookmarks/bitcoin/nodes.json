@@ -17,6 +17,14 @@
       "description": "Build your own do-everything-yourself Bitcoin full node that will make you a sovereign peer in the Bitcoin and Lightning network."
     },
     {
+      "url": "https://raspiblitz.org/",
+      "icon": "https://github.com/rootzoll/raspiblitz/blob/v1.8/pictures/raspiblitz_logos/03_Icon_Symbol/SVG/RaspiBlitz_Logo_Berry.svg",
+      "lang": "eng",
+      "tags": ["node", "privacy", "security","liberty"],
+      "name": "Raspiblitz",
+      "description": "DIY Bitcoin & Lightning Node on a RaspberryPi"
+    },
+    {
       "url": "https://runcitadel.space/",
       "icon": "https://runcitadel.space/logo.svg?__frsh_c=060f221mpa3g",
       "lang": "eng",
@@ -87,6 +95,14 @@
       "tags": ["node", "core"],
       "name": "Minibolt",
       "description": "With this guide, you can set up a Bitcoin and Lightning node from scratch, doing everything yourself"
+    },
+    {
+      "url": "https://1209k.com/bitcoin-eye/ele.php?chain=btc",
+      "icon": "https://1209k.com/icon.png",
+      "lang": "eng",
+      "tags": ["node", "core"],
+      "name": "Bitcon all seen eye",
+      "description": "Bitcoin public nodes. Careful which wallets you connect here, all your funds are shared with the node operator"
     }
   ]
 }

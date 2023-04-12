@@ -31,6 +31,22 @@
       "tags": ["linux", "sync"],
       "name": "Keet",
       "description": "Peer-to-Peer Chat. Video & Text. Private & Encrypted. Unparalleled Quality"
+    },
+    {
+      "url": "https://logseq.com/",
+      "icon": "https://asset.logseq.com/static/img/logo.png",
+      "lang": "eng",
+      "tags": ["linux", "sync"],
+      "name": "Logseq",
+      "description": "Connect your notes, increase understanding."
+    },
+    {
+      "url": "https://obsidian.md/",
+      "icon": "https://obsidian.md/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux", "sync"],
+      "name": "Obsidian",
+      "description": "A second brain,for you, forever"
     }
   ]
 }
