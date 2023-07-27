@@ -13,7 +13,7 @@ The user interacts with CLI sending different commands to populate, update or he
 
 ## Commands
 
-> __Note!__ If we change the code and we want that change will be reflected in the commands, we need to create a reproducible build: npm run build
+> __Note!__ If we change the code and we want that change will be reflected in the commands, we need to create a reproducible build: `npm run build`
 
 If you want to have an extended info about commnad go to [cli](./cli/README.md)
 
