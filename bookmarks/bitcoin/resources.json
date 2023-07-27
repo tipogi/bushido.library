@@ -65,8 +65,8 @@
       "description": "Self Sovereign Tools"
     },
     {
-      "url": "https://utxo.club/favicon.ico",
-      "icon": "none",
+      "url": "https://utxo.club",
+      "icon": "https://utxo.club/favicon.ico",
       "lang": "eng",
       "tags": ["images"],
       "name": "UTXO club",
