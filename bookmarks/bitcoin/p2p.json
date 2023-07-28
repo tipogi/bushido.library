@@ -33,14 +33,6 @@
       "description": "Redeem Your Bitcoin Voucher"
     },
     {
-      "url": "https://localcryptos.com/",
-      "icon": "https://localcryptos.com/static/media/847216.svg",
-      "lang": "eng",
-      "tags": ["p2p"],
-      "name": "LocalCryptos",
-      "description": "Peer-to-Peer Crypto Marketplace. Where people buy and sell crypto using any payment method."
-    },
-    {
       "url": "https://btcpayserver.org/",
       "icon": "https://btcpayserver.org/img/btcpay.svg",
       "lang": "eng",

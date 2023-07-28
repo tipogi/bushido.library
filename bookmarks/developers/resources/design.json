@@ -1,0 +1,28 @@
+{
+    "design": [
+        {
+            "url": "https://www.toools.design/",
+            "icon": "https://uploads-ssl.webflow.com/5ce10a4c0b5f0b05f522e746/627a23b7ee96702839153720_toools-design-favicon.png",
+            "lang": "eng",
+            "tags": ["design", "map"],
+            "name": "Toools to Design",
+            "description": "Discover highly useful Design Resources & Tools. A growing archive of 1000+ design resources, weekly updated for the community"
+        },
+        {
+            "url": "https://proportio.app/",
+            "icon": "https://proportio.app/favicon.svg",
+            "lang": "eng",
+            "tags": ["design", "tipo"],
+            "name": "Proportio",
+            "description": "Tool for creating proportional scales for typography, iconography, spacing, and components in design systems"
+        },
+        {
+            "url": "https://uigoodies.com/",
+            "icon": "https://framerusercontent.com/images/OvGCYwGuswQtr0HZNftXaeuBn4.png",
+            "lang": "eng",
+            "tags": ["design", "all"],
+            "name": "UI Goodies",
+            "description": "The best digital design resources from around the Web in one place"
+        }
+    ]
+}

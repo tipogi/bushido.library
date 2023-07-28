@@ -7,6 +7,13 @@
       "tags": ["privacy", "magazine"],
       "name": "Unredacted Magazine",
       "description": "This quarterly free magazine in PDF format allows you to digest all of the information on your time in polished written form"
+    },{
+      "url": "https://www.privacyaffairs.com/",
+      "icon": "https://www.privacyaffairs.com/wp-content/uploads/2022/01/favicon-150x150.png",
+      "lang": "eng",
+      "tags": ["privacy", "magazine"],
+      "name": "Privacy Affairs",
+      "description": "The source of data privacy and cybersecurity research, information, and advice"
     }
   ]
 }

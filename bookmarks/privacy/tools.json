@@ -79,6 +79,30 @@
       "tags": ["privacy","app", "browser"],
       "name": "Privacy Spy",
       "description": "PrivacySpy is an open project to grade and monitor privacy policies for convenience and accountability"
+    },
+    {
+      "url": "https://reports.exodus-privacy.eu.org/",
+      "icon": "https://reports.exodus-privacy.eu.org/static/img/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy","app"],
+      "name": "Exodus",
+      "description": "The privacy audit platform for Android applications"
+    },
+    {
+      "url": "https://searchengine.party/",
+      "icon": "https://searchengine.party/icon.png",
+      "lang": "eng",
+      "tags": ["privacy","browser"],
+      "name": "Search Engine",
+      "description": "Web page for comparing popular search engines across some privacy-centric data points"
+    },
+    {
+      "url": "https://anonshop.app/",
+      "icon": "https://anonshop.app/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy","shop"],
+      "name": "Anon Shop",
+      "description": "Spend Monero Anonymously or Anywhere"
     }
   ]
 }

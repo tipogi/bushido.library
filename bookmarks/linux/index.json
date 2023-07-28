@@ -16,5 +16,11 @@
     "description": "Repositories to install in the linux machine",
     "type": "LEAF",
     "icon": "github"
+  },
+  "distro": {
+    "name": "Distributions",
+    "description": "A complete Linux system package. Many Linux distributions are available to meet just about any computing requirement you could have",
+    "type": "LEAF",
+    "icon": "distro"
   }
 }

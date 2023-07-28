@@ -1,0 +1,12 @@
+{
+    "js": [
+        {
+            "url": "https://www.prismane.io/",
+            "icon": "https://www.prismane.io/logo.svg",
+            "lang": "eng",
+            "tags": ["js", "library"],
+            "name": "Prismane",
+            "description": "Make great React apps, ultra fast."
+        }
+    ]
+}

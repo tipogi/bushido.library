@@ -25,7 +25,7 @@
     },
     {
       "url": "https://enegnei.github.io/This-Month-In-Bitcoin-Privacy/",
-      "icon": "https://camo.githubusercontent.com/2fcfc8250ac1d14807320f45fb6645648efeaa9f0a4c50bdff6e71aa82ef1bef/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313335353836383539373230323134393338312f315f4b6748425a5a5f343030783430302e6a7067",
+      "icon": "https://camo.githubusercontent.com/2fcfc8250ac1d1480732https://wtfhappenedin1971.com/0f45fb6645648efeaa9f0a4c50bdff6e71aa82ef1bef/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f313335353836383539373230323134393338312f315f4b6748425a5a5f343030783430302e6a7067",
       "lang": "eng",
       "tags": ["news"],
       "name": "This Month In Privacy",
@@ -70,6 +70,14 @@
       "tags": ["news", "security"],
       "name": "No Bullshit Bitcoin",
       "description": "It is a Bitcoin News Desk Without Ads, Paywalls, or Clickbait."
+    },
+    {
+      "url": "https://wtfhappenedin1971.com/",
+      "icon": "https://wtfhappenedin1971home.files.wordpress.com/2020/07/cropped-nixonsquareicon.jpg",
+      "lang": "eng",
+      "tags": ["news", "security"],
+      "name": "WTF Happened In 1971?",
+      "description": "Read it!"
     }
   ]
 }

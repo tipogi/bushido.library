@@ -31,6 +31,14 @@
       "tags": ["linux", "networking"],
       "name": "Sfdx Show",
       "description": "Un canal dirigido por y para la comunidad donde podrás ver mucho hardware de pc y consolas con muchos experimentos y aventuras muy locos contadas de una forma única! "
+    },
+    {
+      "url": "https://www.youtube.com/@ExplainingComputers/videos",
+      "icon": "https://yt3.googleusercontent.com/U__DRmlaSCOXd6DLbo0luGSwy3QcWZ2qn3mKiopA_pGAc1-2IulmKBxf61WiAX5BLb-7nMylng8",
+      "lang": "eng",
+      "tags": ["hardware", "computers"],
+      "name": "Explaining Computers",
+      "description": "Weekly videos on computing and related topics. ExplainingComputers is produced and presented by Christopher Barnatt"
     }
   ]
 }

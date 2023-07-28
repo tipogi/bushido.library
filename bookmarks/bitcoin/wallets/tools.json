@@ -143,6 +143,14 @@
       "tags": ["security", "seed", "tools"],
       "name": "Bit plates",
       "description": "Easy to use, hard to destroy; the ultimate Bitcoin backup seed storage plates..."
+    },
+    {
+      "url": "https://enteropositivo.github.io/bip39colors/#biptocolors",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["security", "seed", "tools"],
+      "name": "Bip Colors",
+      "description": "Convert your BIP39 mnemonic to colors and viceversa"
     }
   ]
 }

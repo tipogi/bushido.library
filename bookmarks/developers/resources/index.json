@@ -1,0 +1,14 @@
+{
+  "software": {
+    "name": "Software",
+    "description": "Developer patterns to structure and design better applications",
+    "type": "LEAF",
+    "icon": "software"
+  },
+  "design": {
+    "name": "Design",
+    "description": "Do you need more attractive way to design your software?",
+    "type": "LEAF",
+    "icon": "palette"
+  }
+}

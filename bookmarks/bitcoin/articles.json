@@ -270,6 +270,14 @@
       "tags": ["dev", "courses"],
       "name": "Earn Carrot",
       "description": "Earn Bitcoin by learning about Bitcoin"
+    },
+    {
+      "url": "https://maestreabogados.com/author/javier/",
+      "icon": "https://maestreabogados.com/wp-content/uploads/2023/06/logo.svg",
+      "lang": "esp",
+      "tags": ["legal", "articles"],
+      "name": "Javier Maestre",
+      "description": "Especialistas en nuevas tecnologías el derecho aplicado a internet"
     }
   ]
 }

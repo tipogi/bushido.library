@@ -19,8 +19,8 @@
   },
   "resources": {
     "name": "Resources",
-    "description": "Exercises to practise the programming logic",
-    "type": "LEAF",
+    "description": "Do you need some useful tools in your daily day?",
+    "type": "BRANCH",
     "icon": "resources"
   },
   "courses": {
@@ -28,5 +28,11 @@
     "description": "Do you want to improve the skills, go for it!",
     "type": "LEAF",
     "icon": "courses"
+  },
+  "libraries": {
+    "name": "Libraries",
+    "description": "Never create the wheel, if it is done one use case, use it!",
+    "type": "BRANCH",
+    "icon": "libraries"
   }
 }

@@ -79,6 +79,14 @@
         "tags": ["ai", "img"],
         "name": "DotCSV",
         "description": "Inteligencia Artificial, Tecnología, Ciencia y Futuro! Bienvenidos a la 4ª Revolución Industrial"
+      },
+      {
+        "url": "https://logolivery.ai/",
+        "icon": "https://logolivery.ai/static/img/fav/Fav32x.png",
+        "lang": "eng",
+        "tags": ["ai", "logo"],
+        "name": "Logo Delivery",
+        "description": "Finally, the Real Logo AI Generator"
       }
     ]
 }

@@ -22,13 +22,6 @@
       "name": "econoalchemist",
       "description": "Bitcoin, Self Custody, & Censorship Resistance"
     },{
-      "url": "https://www.lopp.net/",
-      "icon": "https://www.gravatar.com/avatar/0ed4d58d7e7f013cd93270f3c496f484?s=250&d=mm&r=x",
-      "lang": "eng",
-      "tags": ["privacy","custody","mining"],
-      "name": "Jameson Lopp",
-      "description": "His mission is to use his skills as a technologist to build tools that empower individuals"
-    },{
       "url": "https://k3tan.com/",
       "icon": "https://k3tan.com/bl-themes/darktheme//img/favicon.png",
       "lang": "eng",
@@ -129,6 +122,22 @@
       "tags": [],
       "name": "Honey Badger Land",
       "description": "Want it to be sovereign? Install in the PC Pop!_OS and configure, installing minimal software"
+    },
+    {
+      "url": "https://kyc3.life/",
+      "icon": "https://kyc3.life/wp-content/uploads/2022/08/cropped-no-kyc-icon-32x32.jpg",
+      "lang": "eng",
+      "tags": ["guides", "nokyc"],
+      "name": "KYC Free Life",
+      "description": "Sovereignty, Privacy & Economic Freedom"
+    },
+    {
+      "url": "https://airgapcomputer.com/",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["guides", "wallet"],
+      "name": "Warning",
+      "description": "How to setup a Bitcoin Air-Gap Computer? DON'T"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+    "distro": [
+      {
+        "url": "https://distrosea.com/",
+        "icon": "https://distrosea.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["linux", "distro"],
+        "name": "DistroSea",
+        "description": "Test drive Linux distros online!"
+      },
+      {
+        "url": "https://distrowatch.com/",
+        "icon": "https://distrowatch.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["privacy","app"],
+        "name": "Distro Watch",
+        "description": "Put fun back into computing. Use linux, BSD"
+      }
+    ]
+}

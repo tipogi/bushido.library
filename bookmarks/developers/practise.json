@@ -35,10 +35,18 @@
     {
       "url": "https://retos.dev/",
       "icon": "https://retos.dev/favicon.svg",
-      "lang": "eng",
+      "lang": "esp",
       "tags": ["dev"],
       "name": "Retos dev",
       "description": "Mejora tu lógica de programación"
+    },
+    {
+      "url": "https://devchallenges.io/",
+      "icon": "https://devchallenges.io/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["dev"],
+      "name": "DevChallenges",
+      "description": "It is a community and a platform for anyone who wants to become a Software Engineer by building real-life projects and solving practical tasks"
     }
   ]
 }

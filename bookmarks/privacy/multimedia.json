@@ -39,6 +39,14 @@
       "tags": ["essays", "privacy"],
       "name": "The New Oil",
       "description": "The New Oil is a project dedicated to teaching beginners and non-tech-savvy people about digital privacy and cybersecurity"
+    },
+    {
+      "url": "https://www.youtube.com/@WatchmanPrivacy/videos",
+      "icon": "https://yt3.googleusercontent.com/bSwTjrXpJwO9VINAcjjyRWCcgepDG-kj_2cd0HtIm_NpAYw-PaYm9krJucb2-4fZMcXckZKZNQ",
+      "lang": "eng",
+      "tags": ["essays", "privacy"],
+      "name": "Watchman Privacy",
+      "description": "We analyze the war on privacy and freedom in all its forms. Then we talk solutions"
     }
   ]
 }

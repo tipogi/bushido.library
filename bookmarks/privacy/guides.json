@@ -15,6 +15,14 @@
       "tags": ["privacy", "guides"],
       "name": "The Hitchhikers Guide to Online Anonymity",
       "description": "How I learned to start worrying and love privacy anonymity"
+    },
+    {
+      "url": "https://modusb.com/nym",
+      "icon": "none",
+      "lang": "eng",
+      "tags": ["privacy", "pseudonymity"],
+      "name": "Pseudonymity: An FAQ for Bitcoiners",
+      "description": "We hope this document paves the way for future work on this subject"
     }
   ]
 }

@@ -103,6 +103,21 @@
       "tags": ["seminar"],
       "name": "Chaincode Seminars",
       "description": "Each individual topic represents a weekly curriculum."
+    },
+    {
+      "url": "https://www.athena-alpha.com/",
+      "icon": "https://www.athena-alpha.com/wp-content/uploads/2022/01/cropped-Athena-Alpha-Favicon-192x192.png",
+      "lang": "eng",
+      "tags": ["exchanges", "wallets"],
+      "name": "Athena",
+      "description": "Everything bitcoin explained simply"
+    },{
+      "url": "https://www.lopp.net/",
+      "icon": "https://www.gravatar.com/avatar/0ed4d58d7e7f013cd93270f3c496f484?s=250&d=mm&r=x",
+      "lang": "eng",
+      "tags": ["privacy","custody","mining"],
+      "name": "Jameson Lopp",
+      "description": "His mission is to use his skills as a technologist to build tools that empower individuals"
     }
   ]
 }

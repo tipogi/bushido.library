@@ -31,6 +31,14 @@
       "tags": ["hardware", "security"],
       "name": "Flipper zero",
       "description": "Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body. It loves hacking digital stuff, such as radio protocols, access control systems, hardware and more"
+    },
+    {
+      "url": "https://istorage-uk.com/product/datashur-pro2/",
+      "icon": "https://istorage-uk.com/wp-content/themes/istorage/assets/images/favicon.png",
+      "lang": "eng",
+      "tags": ["hardware", "security"],
+      "name": "datAshur PRO2",
+      "description": "Level 3 PIN authenticated, hardware encrypted USB flash drive incorporating a Secure Microprocessor that is Common Criteria EAL5+"
     }
   ]
 }

@@ -31,6 +31,14 @@
       "tags": ["it", "hacking"],
       "name": "Derecho de la red",
       "description": "Medio digital especializado en Ciberseguridad, Privacidad, Derecho de las TIC, Redes Sociales y mucho más. Desde 2014."
+    },
+    {
+      "url": "https://elchapuzasinformatico.com/",
+      "icon": "https://elchapuzasinformatico.com/wp-content/uploads/2019/09/logo-cuadrado-chapuzas-100x100.jpg",
+      "lang": "esp",
+      "tags": ["it", "hacking"],
+      "name": "El chapuzas Informatico",
+      "description": "Articulos sobre hardware"
     }
   ]
 }
