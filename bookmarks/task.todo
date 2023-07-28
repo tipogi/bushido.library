@@ -4,3 +4,4 @@ TODOs (✔/☐)
 ✔ Fill up the store.json URL
 ☐ Added icons in the LEAFs and BRANCHes
 ☐ Fill up the descriptions of the cards: privacy/index.json and index.json
+☐ CLI: If we change a node type, it does not delete the old node and it gets duplicated the node

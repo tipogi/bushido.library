@@ -10,7 +10,7 @@
     },
     {
       "url": "https://hodlhodl.com/",
-      "icon": "https://yt3.ggpht.com/ytc/AMLnZu-gZ_LKrvS9ZUqMLfx7HNXprcFSEYRXRO2EdgTd=s68-c-k-c0x00ffffff-no-rj",
+      "icon": "https://hodlhodl.com/assets/icon-512x512.png",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "HodlHodl",
@@ -50,7 +50,7 @@
     },
     {
       "url": "https://peachbitcoin.com/",
-      "icon": "https://peachbitcoin.com/index_files/favicon.svg",
+      "icon": "https://peachbitcoin.com/img/favicon/favicon.svg",
       "lang": "eng",
       "tags": ["p2p"],
       "name": "Bitcoin Peach",
