@@ -23,6 +23,14 @@
       "tags": ["cheatsheet", "map"],
       "name": "Our World in data",
       "description": "Research and data to make progress against the world's largest problems"
+    },
+    {
+      "url": "https://cpu.land/",
+      "icon": "https://cpu.land/favicon-on-light.png",
+      "lang": "eng",
+      "tags": ["cpu", "map"],
+      "name": "CPU Land",
+      "description": "Curious exactly what happens when you run a program on your computer?"
     }
   ]
 }

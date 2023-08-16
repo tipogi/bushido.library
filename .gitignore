@@ -8,6 +8,9 @@ cli/export
 cli/node_modules
 cli/logs
 
+# custom queries file
+query.cypher
+
 # Development bookmark folder
 playground
 

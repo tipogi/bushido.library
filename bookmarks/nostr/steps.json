@@ -1,0 +1,100 @@
+{
+    "steps": [
+      {
+        "url": "https://estudiobitcoin.com/nostr-solucionando-la-censura-de-una-vez-por-todas/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr-eb.png",
+        "lang": "esp",
+        "tags": ["nostr", "resources"],
+        "name": "Nostr",
+        "description": "Solucionando la censura de una vez por todas"
+      },
+      {
+        "url": "https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under",
+        "icon": "https://substackcdn.com/image/fetch/w_96,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0760daf4-5836-4c1b-993a-0d618097bf2d_512x512.png",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "Set up a Nostr Relay server in under 5 minutes",
+        "description": "Easiest way to get started running your Nostr Relay"
+      },
+      {
+        "url": "https://medium.com/@ValentinNagacevschi/nosrt-an-introduction-ab946879a727",
+        "icon": "https://miro.medium.com/fit/c/176/176/0*xt3rAmW2HEZ_mr6S.jpg",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "An introduction",
+        "description": "you can use the NOSTR protocol to build your own social network"
+      },
+      {
+        "url": "https://lhote.me/posts/nip-05_github_guide/",
+        "icon": "https://lhote.me/icon/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "Nip 05 Github Guide",
+        "description": "Follow these steps to get NIP-05 verification on nostr with GitHub Pages"
+      },
+      {
+        "url": "https://usenostr.org/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "Use Nostr",
+        "description": "This protocol is based on relays. Relays are servers that can be operated by anyone"
+      },
+      {
+        "url": "https://www.btctimes.com/news/what-is-nostr-and-how-do-i-use-it",
+        "icon": "https://cdn.btctimes.com/a0556e821bae4d8e852ada629927048a.ico",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "What Is Nostr and How Do I Use It?",
+        "description": "You've probably seen a lot of folks on Twitter talking about Nostr recently"
+      },
+      {
+        "url": "https://nvk.org/n00b-nip5",
+        "icon": "https://nvk.org/nostrich.jpeg",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "How to setup NIP5 verification using Github Pages",
+        "description": "NI5: Mapping Nostr keys to DNS-based internet identifiers"
+      },
+      {
+        "url": "https://medium.com/@soyishikawa/gu%C3%ADa-para-principiantes-en-nostr-2420f15e9045",
+        "icon": "https://miro.medium.com/fit/c/176/176/1*UIGi5SJ04z4Ys1Y8T8NFlg.jpeg",
+        "lang": "esp",
+        "tags": ["nostr", "resources"],
+        "name": "Guía de Nostr para principiantes",
+        "description": "Se explica Qué es Nostr en términos sencillos"
+      },
+      {
+        "url": "https://nostr-resources.com/",
+        "icon": "https://nostr-resources.com/assets/images/avatar.png",
+        "lang": "eng",
+        "tags": ["nostr", "resources"],
+        "name": "Nostr Resources",
+        "description": "nostr is a protocol that has the power to replace twitter, Telegram, and other things."
+      },
+      {
+        "url": "https://bitcoinbarcelona.xyz/intro_nostr",
+        "icon": "https://imgproxy.snort.social/XLKE178oMZN-yxGkNGoMastVrbNSX9XF4oPvf_UVLPM/rs:fit:120:120/dpr:1/aHR0cHM6Ly9pLmliYi5jby9LczY3NUYxL3Byb2ZpbGUuanBn",
+        "lang": "esp",
+        "tags": ["nostr", "resources"],
+        "name": "Introducción a Nostr",
+        "description": "by @gzuuus"
+      },
+      {
+        "url": "https://ron.stoner.com/nostr_Security_and_Privacy/",
+        "icon": "https://ron.stoner.com/favicon.ico",
+        "lang": "esp",
+        "tags": ["nostr", "resources"],
+        "name": "Nostr Security and Privacy Tips",
+        "description": "by Ron Stoner"
+      },
+      {
+        "url": "https://nostr.com/",
+        "icon": "https://nostr.com/images/ostrich.jpeg",
+        "lang": "esp",
+        "tags": ["nostr", "resources"],
+        "name": "Nostr",
+        "description": "A decentralized social network with a chance of working"
+      }
+    ]
+}

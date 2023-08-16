@@ -5,6 +5,7 @@ import {
   editDomainDownAttempsQuery,
   GET_DOMAINS,
   GET_DOMAINS_BY_URL,
+  GET_LEAF_NODES,
   hasURL,
 } from 'src/helpers/query.generator';
 import { IMinimisedDomain, INeo4JDomainAvailability } from 'src/interfaces';
@@ -49,5 +50,12 @@ export class ExtractDBService {
       color,
       message: `${url} domain is ${state} and we set with ${down_attemps} down attemps`,
     });
+  }
+
+
+  /** Just include leaf nodes to verify if it keeps the type */ 
+  async getLeafNodes(): Promise<String[]> {
+    const res = await this.neo4jService.read(GET_LEAF_NODES);
+    return res.records.map((row) => row.get('leafHash'));
   }
 }

@@ -1,3 +1,5 @@
 TODOs (✔/☐)
 ☐ The application is able to go `two` hops down to analyse the domain. The deep search would be `N` hops down, not limited to two hops.
 ☐ Add how to collaborate in the library readme.md
+☐ Add a button to download a json file of the topic
+☐ Option to share a topic in nostr

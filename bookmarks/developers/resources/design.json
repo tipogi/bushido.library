@@ -23,6 +23,22 @@
             "tags": ["design", "all"],
             "name": "UI Goodies",
             "description": "The best digital design resources from around the Web in one place"
+        },
+        {
+            "url": "https://fffuel.co/",
+            "icon": "https://fffuel.co/images/favicon/favicon.svg",
+            "lang": "eng",
+            "tags": ["design", "all"],
+            "name": "fffuel",
+            "description": "It is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds"
+        },
+        {
+            "url": "https://uidesigndaily.com/",
+            "icon": "https://uidesigndaily.com/public/img/favicon-32x32.png",
+            "lang": "eng",
+            "tags": ["design", "all"],
+            "name": "UI Design",
+            "description": "It shares these designs with anybody who is interested in using them as inspiration or research material"
         }
     ]
 }

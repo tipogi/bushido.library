@@ -138,6 +138,14 @@
       "tags": ["guides", "wallet"],
       "name": "Warning",
       "description": "How to setup a Bitcoin Air-Gap Computer? DON'T"
+    },
+    {
+      "url": "https://thebitcoinrabbithole.com/chapter-1-money/",
+      "icon": "https://thebitcoinrabbithole.com/wp-content/uploads/2022/05/cropped-Logo-pour-site-192x192.png",
+      "lang": "eng",
+      "tags": ["guides", "general"],
+      "name": "The bitcoin Rabbit Hole",
+      "description": "After spending more than 6 years studying it, the only thing I know for sure is that Bitcoin is greater than us all"
     }
   ]
 }

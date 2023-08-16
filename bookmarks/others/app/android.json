@@ -87,6 +87,14 @@
       "tags": ["app","privacy"],
       "name": "Berty Tech",
       "description": "The privacy-first messaging app, that works with or without internet access, cellular data or trust in the network"
+    },
+    {
+      "url": "https://github.com/ImranR98/Obtainium",
+      "icon": "https://github.com/ImranR98/Obtainium/blob/main/assets/graphics/icon_small.png",
+      "lang": "eng",
+      "tags": ["app","privacy"],
+      "name": "Obtainium",
+      "description": "Get Android App Updates Directly From the Source"
     }
   ]
 }

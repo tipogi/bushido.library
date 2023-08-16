@@ -1,0 +1,132 @@
+{
+    "social": [
+      {
+        "url": "https://damus.io/",
+        "icon": "https://damus.io/img/damus-nobg.svg",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Damus",
+        "description": "The social network you control. Your very own Twitter for your friends or business"
+      },
+      {
+        "url": "https://iris.to",
+        "icon": "https://iris.to/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Iris",
+        "description": "Iris is like the social networking apps we're used to, but better."
+      },
+      {
+        "url": "https://coracle.social/notes",
+        "icon": "https://coracle.social/images/favicon.png",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Coracle Social",
+        "description": "While Nostr is useful for many things, Coracle focuses on providing a high-quality social media experience"
+      },
+      {
+        "url": "https://github.com/KoalaSat/nostros",
+        "icon": "https://user-images.githubusercontent.com/111684255/197865267-1701b33b-2eb9-4704-86eb-a6ea8861fe1e.png",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Nostros",
+        "description": "Welcome to the Nostros project, a NOSTR android client."
+      },
+      {
+        "url": "https://notes.blockcore.net/connect",
+        "icon": "https://notes.blockcore.net/assets/icons/icon-128x128.png",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Blockcore Notes",
+        "description": "New ways to connect with humanity. Share your thoughts and interact with others in a fully transparent and open manner that is not restricted by any boundries"
+      },
+      {
+        "url": "https://github.com/mikedilger/gossip",
+        "icon": "https://avatars.githubusercontent.com/u/1669069?v=4",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Gossip",
+        "description": "Gossip is a desktop client for nostr"
+      },
+      {
+        "url": "https://snort.social/",
+        "icon": "https://snort.social/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "twitter"],
+        "name": "Snort Social",
+        "description": "Nostr client"
+      },
+      {
+        "url": "https://www.emon.chat",
+        "icon": "https://www.emon.chat/favicon-32x32.png",
+        "lang": "eng",
+        "tags": ["nostr", "chat"],
+        "name": "Emon Chat",
+        "description": ""
+      },
+      {
+        "url": "https://github.com/vitorpamplona/amethyst",
+        "icon": "https://raw.githubusercontent.com/vitorpamplona/amethyst/main/amethyst.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Amethyst",
+        "description": "It brings the best social network to your Android phone"
+      },
+      {
+        "url": "https://primal.net",
+        "icon": "https://primal.b-cdn.net/media-cache?s=m&a=1&u=https%3A%2F%2Fm.primal.net%2FHGGn.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Primal",
+        "description": "Unleash the power of Nostr"
+      },
+      {
+        "url": "https://satellite.earth/",
+        "icon": "https://satellite.earth/assets/favicon-a0e2b399.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Satellite",
+        "description": "Nostr client with a 62 mile view"
+      },
+      {
+        "url": "https://zaplife.lol/",
+        "icon": "none",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Zap life",
+        "description": "See who zaps who on Nostr"
+      },
+      {
+        "url": "https://badges.page/",
+        "icon": "https://badges.page/badges.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Nostr badges",
+        "description": "A manager for your nostr badges"
+      },
+      {
+        "url": "https://listr.lol/",
+        "icon": "https://listr.lol/favicon-32x32.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Listr",
+        "description": "It is a simple tool that allows you to browse and manage Nostr lists."
+      },
+      {
+        "url": "https://nostrgram.co",
+        "icon": "https://nostrgram.co/images/logo_new_icon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Nostrgram",
+        "description": "Fun instagram inspired client focused on images, video, and audio"
+      },
+      {
+        "url": "https://mostro.network/",
+        "icon": "https://mostro.network/img/mostro-logo.png",
+        "lang": "eng",
+        "tags": ["nostr", "p2p"],
+        "name": "Mostro",
+        "description": "Lightning Network peer-to-peer exchange platform on Nostr "
+      }
+    ]
+}

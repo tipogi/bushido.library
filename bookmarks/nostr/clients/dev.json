@@ -1,0 +1,36 @@
+{
+    "dev": [
+        {
+          "url": "https://nak.nostr.com/",
+          "icon": "https://nak.nostr.com/favicon.ico",
+          "lang": "eng",
+          "tags": ["nostr", "notes"],
+          "name": "Nak Nostr",
+          "description": "A command line tool and a web app for dealing with nostr entities"
+        },
+        {
+          "url": "https://nostrdebug.com/",
+          "icon": "https://nostrdebug.com/favicon-32x32.png",
+          "lang": "eng",
+          "tags": ["nostr", "debug"],
+          "name": "Nostr Debug",
+          "description": "This application presents capabilities of the new C# library for Nostr protocol"
+        },
+        {
+          "url": "https://ndkit.com/",
+          "icon": "https://ndkit.com/favicon.ico",
+          "lang": "eng",
+          "tags": ["nostr", "dev"],
+          "name": "ND kit",
+          "description": "The fastest way to build with Nostr"
+        },
+        {
+          "url": "https://www.nostr.guru/",
+          "icon": "https://www.nostr.guru/favicon.ico",
+          "lang": "eng",
+          "tags": ["nostr", "dev"],
+          "name": "Nostr gateway",
+          "description": "The Nostr gateway is an effort to pull Nostr data from relays"
+        }
+    ]
+}

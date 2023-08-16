@@ -63,6 +63,22 @@
       "tags": ["p2p"],
       "name": "Tu Bitcoin",
       "description": "En tu tienda Bitcoin podrás comprar y vender bitcoin y otras criptomonedas en Oviedo y Madrid ¡ven a visitarnos!"
+    },
+    {
+      "url": "https://localsats.org/",
+      "icon": "https://localsats.org/bitcoin.svg",
+      "lang": "eng",
+      "tags": ["p2p"],
+      "name": "Local Sats",
+      "description": "Create an anonymous order at the location you want to meet"
+    },
+    {
+      "url": "https://mostro.network/",
+      "icon": "https://mostro.network/img/mostro-logo.png",
+      "lang": "eng",
+      "tags": ["nostr", "p2p"],
+      "name": "Mostro",
+      "description": "Lightning Network peer-to-peer exchange platform on Nostr "
     }
   ]
 }

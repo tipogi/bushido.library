@@ -1,8 +1,8 @@
 {
   "services": [
     {
-      "url": "https://kycnot.me/services",
-      "icon": "https://kycnot.me/static/img/favicon.png",
+      "url": "https://kycnot.me",
+      "icon": "https://kycnot.me/static/img/logos/favicon.webp",
       "lang": "eng",
       "tags": ["bitcoin", "privacy", "services"],
       "name": "KYCnot",
@@ -111,6 +111,22 @@
       "tags": ["p2p"],
       "name": "Oshi",
       "description": "Empower your local economy through Bitcoin"
+    },
+    {
+      "url": "https://8333.mobi",
+      "icon": "https://8333.mobi/favicon.ico",
+      "lang": "eng",
+      "tags": ["sim","privacy"],
+      "name": "Machankura",
+      "description": "It allows you to send and receive sats to your phone number"
+    },
+    {
+      "url": "https://emeralize.app/",
+      "icon": "https://emeralize.app/static/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["courses","v4v"],
+      "name": "Emeralize",
+      "description": "With our platform, you can learn, create, and earn the world's best money."
     }
   ]
 }

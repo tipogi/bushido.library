@@ -1,0 +1,60 @@
+{
+    "notes": [
+        {
+          "url": "https://sendstr.com/",
+          "icon": "https://sendstr.com/favicon-16x16.png",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "SendStr",
+          "description": "e2e encrypted shared clipboard"
+        },
+        {
+          "url": "https://nosbin.com/",
+          "icon": "https://nosbin.com/favicon.ico",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "Nosbin",
+          "description": "The decentralized pasting platform, built on nostr"
+        },
+        {
+          "url": "https://habla.news",
+          "icon": "https://habla.news/favicon.png",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "Habla news",
+          "description": "It allows you to read, write, curate and monetize long form content over Nostr, a censorship-resistant protocol"
+        },
+        {
+          "url": "https://zapworthy.com",
+          "icon": "https://habla.news/favicon.png",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "ZAP Worthy",
+          "description": "Purple Text. Orange Highlights"
+        },
+        {
+          "url": "https://blogstack.io/",
+          "icon": "https://blogstack.io/favicon.ico",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "Block stack",
+          "description": "Decentralized blogs over relays using nostr with lightning tips"
+        },
+        {
+          "url": "https://nostrit.com/",
+          "icon": "https://nostrit.com/favicon.png",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "Nostrit",
+          "description": "Publish your note when something happens"
+        },
+        {
+          "url": "https://highlighter.com/",
+          "icon": "https://highlighter.com/favicon.png",
+          "lang": "eng",
+          "tags": ["nostr", "message"],
+          "name": "Highlighter",
+          "description": "Discover and share curated insights by people you trust"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "performance": [
+        {
+            "url": "https://web-check.xyz/",
+            "icon": "https://web-check.xyz/favicon.ico",
+            "lang": "eng",
+            "tags": ["design", "map"],
+            "name": "Web check",
+            "description": "All-in-one OSINT tool for analysing any website"
+        }
+    ]
+}

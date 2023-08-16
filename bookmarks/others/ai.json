@@ -9,14 +9,6 @@
         "description": "Create Your Dream. Do you want to create images with artificial intelligence?"
       },
       {
-        "url": "https://valle-demo.github.io/",
-        "icon": "https://www.microsoft.com/favicon.ico?v2",
-        "lang": "eng",
-        "tags": ["ai", "audio"],
-        "name": "VALL-E",
-        "description": "Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers"
-      },
-      {
         "url": "https://you.com/",
         "icon": "https://you.com/favicon/favicon-96x96.png",
         "lang": "eng",
@@ -87,6 +79,46 @@
         "tags": ["ai", "logo"],
         "name": "Logo Delivery",
         "description": "Finally, the Real Logo AI Generator"
+      },
+      {
+        "url": "https://gptgo.ai",
+        "icon": "https://gptgo.ai/assets/img/favicon.ico",
+        "lang": "eng",
+        "tags": ["ai", "search"],
+        "name": "GPT Go",
+        "description": "Free ChatGPT and Search Engine"
+      },
+      {
+        "url": "https://www.phind.com/",
+        "icon": "https://www.phind.com/_next/static/media/phind_square.38930863.svg",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Phind",
+        "description": "Your personal programming assistant"
+      },
+      {
+        "url": "https://www.joinsuperhuman.ai/",
+        "icon": "https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/publication/logo/faa6a747-8c1c-43c1-8155-91aa43268f01/thumb_Group_3__1_.png",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Super Human",
+        "description": "Learn how to leverage AI to boost your productivity and accelerate your career"
+      },
+      {
+        "url": "https://www.chatpdf.com/",
+        "icon": "https://www.chatpdf.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Chat PDF",
+        "description": "Chat with any PDF"
+      },
+      {
+        "url": "https://github.com/openai/whisper",
+        "icon": "https://images.openai.com/blob/13c810cb-0592-442d-9580-714838b8ed28/whisper.jpg",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Whisper",
+        "description": "Robust Speech Recognition via Large-Scale Weak Supervision "
       }
     ]
 }

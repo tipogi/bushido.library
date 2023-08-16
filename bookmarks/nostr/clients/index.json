@@ -1,0 +1,26 @@
+{
+    "social": {
+      "name": "Social Network",
+      "description": "Connect with different users and share your thoughts",
+      "type": "LEAF",
+      "icon": "guide"
+    },
+    "dev": {
+      "name": "Development",
+      "description": "Want to see whats going on under the woods? learn more about that open protocol",
+      "type": "LEAF",
+      "icon": "dev"
+    },
+    "notes": {
+      "name": "Notes",
+      "description": "Share your notes in different way: Could be as an article, encrypted or in other way",
+      "type": "LEAF",
+      "icon": "articles"
+    },
+    "multimedia": {
+      "name": "Multimedia",
+      "description": "Nostr media hosting",
+      "type": "LEAF",
+      "icon": "multimedia"
+    }
+  }

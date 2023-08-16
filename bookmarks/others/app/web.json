@@ -75,10 +75,26 @@
     {
       "url": "https://piped.video/",
       "icon": "https://piped.video/favicon.ico",
-      "lang": "esp",
+      "lang": "eng",
       "tags": ["web", "multimedia"],
       "name": "Piped Video",
       "description": "An alternative privacy-friendly YouTube frontend which is efficient by design."
+    },
+    {
+      "url": "https://www.photopea.com",
+      "icon": "https://www.photopea.com/promo/icon512.png",
+      "lang": "eng",
+      "tags": ["web", "image"],
+      "name": "Photopea",
+      "description": "Advanced image editor"
+    },
+    {
+      "url": "https://kuflow.com/dev",
+      "icon": "https://kuflow.com/dev/favicon.ico",
+      "lang": "eng",
+      "tags": ["web", "wireframe"],
+      "name": "Kuflow",
+      "description": "It is a developer-oriented tool to design"
     }
   ]
 }

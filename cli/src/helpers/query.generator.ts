@@ -133,6 +133,18 @@ export const GET_DOMAINS_BY_URL = `
   RETURN { hash: d.hash, url: d.url, down_attemps: d.down_attemps } as domain
 `;
 
+export const GET_LEAF_NODES = `
+  MATCH (n:Leaf)
+  RETURN n.hash as leafHash
+`;
+
+export const DELETE_EVOLVED_NODES = `
+  OPTIONAL MATCH (n:Leaf { hash: $hash}) -[:HAS]->(d)
+  WITH { name: n.name, description: n.description } as leaf, n, d
+  DETACH DELETE n, d
+  return leaf
+`
+
 export const hasURL = (url: string) => `
   WITH parent
   MATCH (parent)-[childRel:HAS]->(node:Domain { url: "${url}"})

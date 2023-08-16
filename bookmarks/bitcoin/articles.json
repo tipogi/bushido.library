@@ -18,7 +18,7 @@
     },
     {
       "url": "https://brandonquittem.com/",
-      "icon": "https://pbs.twimg.com/profile_images/1502403738861940736/9J5VuTye_400x400.jpg",
+      "icon": "https://brandonquittem.com/wp-content/uploads/2020/05/cropped-Brandon_Quittem_Favicon_1000x1000_Q-192x192.png",
       "lang": "eng",
       "tags": [""],
       "name": "Brandon Quitten",
@@ -57,7 +57,7 @@
     },
     {
       "url": "https://blog.keys.casa/",
-      "icon": "https://keys.casa/images/casaclogo.png",
+      "icon": "https://keys.casa/images/favicon.png",
       "lang": "eng",
       "tags": [""],
       "name": "CasaBlog",
@@ -128,12 +128,12 @@
       "description": "Block 731398 is an education and community initiative to bring together all European Plebs and those who want to learn about Bitcoin"
     },
     {
-      "url": "https://medium.com/@SamouraiWallet",
-      "icon": "https://pbs.twimg.com/profile_images/1210194659429011459/gqv1f2CT_400x400.png",
+      "url": "https://blog.samourai.is/",
+      "icon": "https://blog.samourai.is/content/images/size/w256h256/2023/08/avatar-1.png",
       "lang": "eng",
-      "tags": [],
-      "name": "Samurai Wallet",
-      "description": "A modern bitcoin wallet hand forged to keep your transactions private, your identity masked, and your funds secure."
+      "tags": ["privacy", "articles"],
+      "name": "Samurai Wallet Blog",
+      "description": "bitcoin software for the streets "
     },
     {
       "url": "https://medium.com/@Marketsbylili",
@@ -241,7 +241,7 @@
     },
     {
       "url": "https://www.juangalt.com/",
-      "icon": "https://www.juangalt.com/content/images/size/w256h256/2022/07/newlogopngsmall.png",
+      "icon": "https://substack-post-media.s3.amazonaws.com/public/images/32b9c0af-06c5-4e61-b2a3-7cea078fd4d1/favicon-32x32.png",
       "lang": "eng",
       "tags": ["articles"],
       "name": "Juan Galt",
@@ -273,11 +273,27 @@
     },
     {
       "url": "https://maestreabogados.com/author/javier/",
-      "icon": "https://maestreabogados.com/wp-content/uploads/2023/06/logo.svg",
+      "icon": "https://maestreabogados.com/wp-content/uploads/2023/06/icono.png",
       "lang": "esp",
       "tags": ["legal", "articles"],
       "name": "Javier Maestre",
       "description": "Especialistas en nuevas tecnologías el derecho aplicado a internet"
+    },
+    {
+      "url": "https://tftc.io/martys-bent/",
+      "icon": "https://tftc.io/content/images/size/w256h256/2022/02/TFTC_01_Cream_1000.png",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Marty Bent",
+      "description": "A daily newsletter highlighting signal in Bitcoin"
+    },
+    {
+      "url": "https://www.discreetlog.com/",
+      "icon": "https://www.discreetlog.com/content/images/size/w256h256/format/jpeg/2022/11/profile-2.jpg",
+      "lang": "eng",
+      "tags": ["articles"],
+      "name": "Discreet log",
+      "description": "Odell: bitcoin + freedom"
     }
   ]
 }

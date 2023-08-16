@@ -59,6 +59,9 @@ NOSTR
 - https://notebin.org/
 - https://member.cash/index.html
 
+- https://ostrich.work/
+- https://bountsr.org/
+
 DEV
 - https://brilliant.org/
 

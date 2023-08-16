@@ -3,6 +3,7 @@ import { ConsoleService } from 'nestjs-console';
 import { ClearDBService } from './clear.db.service';
 import { FileGeneratorService } from './file.generator.service';
 import { PopulateDBService } from './populate.db.service';
+import { TopicFile } from 'src/classes/import';
 
 @Injectable()
 export class CLIService {
@@ -19,7 +20,7 @@ export class CLIService {
     this.consoleService.createCommand(
       {
         command: 'generate',
-        description: 'Updated the bookmark folder, run this command to create the import files',
+        description: 'Updated the bookmark folder, run this command to create the import files: topic.json, domain.json',
       },
       this.generateFiles,
       cli, // attach the command to the cli
@@ -76,8 +77,15 @@ export class CLIService {
 
   generateFiles = async (): Promise<void> => {
     console.log(`Generating the JSON files to export in the Graph Database`);
-    await this.fileGenerator.generateFiles();
-    console.log('finished!!');
+    const topicJSON = await this.fileGenerator.generateFiles();
+    // Make sure all the LEAF nodes still have that type. In some cases, some LEAF node types
+    // can expand to BRANCH type, it gets duplicated as new node and it might bring some 
+    // broken links in the graph.
+    // For that compare the graph database and the topic structures
+    const evolvedNodes = await this.clearDBService.analyseTopicHash(topicJSON);
+    if (evolvedNodes === 0) {
+      console.log('There is not any node that evolved to BRANCH type. The new JSON files creationfinished!');
+    }
   };
 
   importTopicJSON = async (): Promise<void> => {

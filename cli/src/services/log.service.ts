@@ -60,7 +60,7 @@ export class LogService {
 
   updatedNode(name: string) {
     console.log(`${blue('UPDATED')} the node with name of "${bold(blue(name))}"`);
-    const rawMessage = `UPDATED the node with name of "${name}\n`;
+    const rawMessage = `UPDATED the node with name of "${name}"\n`;
     this.systemService.writeInTheFile(NODE_IMPORT_PATH, rawMessage);
   }
 

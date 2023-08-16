@@ -55,6 +55,22 @@
         "tags": ["nostr", "github"],
         "name": "Nos2x",
         "description": "Nostr signer extension"
+      },
+      {
+        "url": "https://github.com/fiatjaf/njump",
+        "icon": "https://fiatjaf.com/static/favicon.jpg",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Njump",
+        "description": "It displays notes and other stuff from inside nostr as HTML with previews"
+      },
+      {
+        "url": "https://github.com/0xBEEFCAF3/munstr",
+        "icon": "https://raw.githubusercontent.com/0xBEEFCAF3/munstr/main/assets/images/munstr-logo.png",
+        "lang": "eng",
+        "tags": ["nostr", "github"],
+        "name": "Munstr",
+        "description": "Secure your Bitcoin with the Munstrous power of decentralized multi-signature technology"
       }
     ]
 }

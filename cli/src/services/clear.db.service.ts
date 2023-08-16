@@ -1,14 +1,17 @@
 import { Injectable } from '@nestjs/common';
-import { green, red, yellow, Color } from 'colors';
+import { green, red, yellow, magenta, Color } from 'colors';
 import { QueryResult, Record } from 'neo4j-driver';
 import { exceptionArray } from 'src/constants/exception-urls.constants';
 import { BRANCH_WITHOUT_CHILD, LEAF_WITHOUT_CHILD } from 'src/helpers/constant.query';
-import { IDomainAvailability, IDomainStates, INeo4JDomainAvailability } from 'src/interfaces';
+import { IDomainAvailability, IDomainStates, INeo4JDomainAvailability, ISimpleNode, ITopicCard } from 'src/interfaces';
 import { Neo4jService } from 'src/utils/neo4j';
 import { AxiosService } from './axios.service';
 import { ExtractDBService } from './extract.db.service';
 import { IPrintOut, LogService } from './log.service';
 import { PopulateDBService } from './populate.db.service';
+import { forEach, has, includes } from 'lodash';
+import { CardType } from 'src/constants/enumerators/card.enum';
+import { DELETE_EVOLVED_NODES } from 'src/helpers/query.generator';
 
 // The ping amount before delete the domain
 const MAX_ATTEMPS = 8;
@@ -64,6 +67,25 @@ export class ClearDBService {
     await this.editDomainFailAttemps(domainStates);
   }
 
+  async analyseTopicHash(topicJSON: ITopicCard[]): Promise<number> {
+    const simpleTopicNodes = this.formatTopicNodes(topicJSON);
+    const actualLeafNodes = await this.extractDBService.getLeafNodes();
+    const expandedNodes: String[] = [];
+    forEach(simpleTopicNodes, ({ hash, type }) => {
+      if (includes(actualLeafNodes, hash) && type === CardType.BRANCH) {
+        expandedNodes.push(hash);
+      }
+    });
+    // Delete the evolved nodes that now they are going to be converted in BRANCHes
+    for (let hash of expandedNodes) {
+      const deletedNode = await this.neo4jService.write(DELETE_EVOLVED_NODES, { hash });
+      const { name, description } = deletedNode.records[0]?.get('leaf')
+      const message = `==> deleted ${name.toUpperCase()} node: ${description} because it evolve to a BRANCH`;
+      this.logService.printOutput({ message, color: red });
+    }
+    return expandedNodes.length;
+  }
+
   /************ HELPER FUNCTIONS ****************/
   printDeletedNodes = (deletedNodes: QueryResult) => {
     deletedNodes.records.forEach((row: IDeletedNode) => {
@@ -106,6 +128,9 @@ export class ClearDBService {
         domainStates.down.push({ url, hash, down_attemps: atttemps });*/
         message = `UNAVAILABLE (404): Ping failed to ${url} domain. 'Not Found' error!`;
         color = red;
+      } else if (available === 0) {
+        message = `TOR SERVICE DOWN (spin up market container): We could not ping to ${url}`;
+        color = magenta;
       } else {
         message = `NOT_HEALTY (${available}): Ping response from ${url} domain took ${requestTime}`;
         color = yellow;
@@ -150,5 +175,12 @@ export class ClearDBService {
     for (const { hash, url } of availableDomains) {
       await this.extractDBService.editDomainDownAttemps(hash, 0, url, 'UP');
     }
+  }
+
+  formatTopicNodes(topicJSON: ITopicCard[]): ISimpleNode[] {
+    const leafNodes: ISimpleNode[] = [];
+    // Format node to check the node type
+    forEach(topicJSON, ({ nodeHash, type }) => leafNodes.push({ hash: nodeHash, type }))
+    return leafNodes;
   }
 }

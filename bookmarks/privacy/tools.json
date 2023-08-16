@@ -1,7 +1,7 @@
 {
   "tools": [
     {
-      "url": "https://degoogle.jmoore.dev/",
+      "url": "https://tycrek.github.io/degoogle/",
       "icon": "https://repository-images.githubusercontent.com/191201679/10394d00-968c-11ea-8879-4f06b3e59af5",
       "lang": "eng",
       "tags": ["privacy","app"],
@@ -103,6 +103,14 @@
       "tags": ["privacy","shop"],
       "name": "Anon Shop",
       "description": "Spend Monero Anonymously or Anywhere"
+    },
+    {
+      "url": "https://cypherpunktools.com/privacy-tools/",
+      "icon": "https://cypherpunktools.com/favicon.ico",
+      "lang": "eng",
+      "tags": ["privacy","shop"],
+      "name": "Cypherpunks Tools",
+      "description": "It provides articles and tools from Cypherpunks"
     }
   ]
 }

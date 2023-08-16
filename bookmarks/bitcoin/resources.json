@@ -118,6 +118,13 @@
       "tags": ["privacy","custody","mining"],
       "name": "Jameson Lopp",
       "description": "His mission is to use his skills as a technologist to build tools that empower individuals"
+    },{
+      "url": "https://whybitcoinonly.com/",
+      "icon": "https://whybitcoinonly.com/wp-content/uploads/2022/09/WBOLogo2.png",
+      "lang": "eng",
+      "tags": ["resources","money","theory"],
+      "name": "Why Bitcoin Only",
+      "description": "Scattered across the internet, you'll find countless clusters of links explaining individual aspects about Bitcoin."
     }
   ]
 }

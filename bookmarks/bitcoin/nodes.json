@@ -89,8 +89,8 @@
       "description": "Get your pruned Bitcoin Core node in 5 minutes"
     },
     {
-      "url": "https://twofaktor.github.io/minibolt/",
-      "icon": "https://twofaktor.github.io/minibolt/favicon.ico",
+      "url": "https://minibolt.info/",
+      "icon": "https://4245150936-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FPwUXd13GpYIkFW2A1Gwj%2Ficon%2FMNEluHm4xO5TSc7ZqvEN%2Fminibolt-logo.png?alt=media&token=43ad218f-9f02-4e82-8ba0-d585590469dd",
       "lang": "eng",
       "tags": ["node", "core"],
       "name": "Minibolt",
@@ -103,6 +103,30 @@
       "tags": ["node", "core"],
       "name": "Bitcon all seen eye",
       "description": "Bitcoin public nodes. Careful which wallets you connect here, all your funds are shared with the node operator"
+    },
+    {
+      "url": "https://shuken.io/",
+      "icon": "https://shuken.io/wp-content/uploads/SHUKEN-LOGO-300x300.png",
+      "lang": "eng",
+      "tags": ["node", "core"],
+      "name": "Shuken",
+      "description": "A nod(e) to control and privacy"
+    },
+    {
+      "url": "https://jlopp.github.io/bitcoin-core-config-generator",
+      "icon": "https://www.gravatar.com/avatar/0ed4d58d7e7f013cd93270f3c496f484?s=250&d=mm&r=x",
+      "lang": "eng",
+      "tags": ["node", "core"],
+      "name": "bitcoin.conf",
+      "description": "Bitcoin Core Config Generator"
+    },
+    {
+      "url": "https://ip2tor.com/",
+      "icon": "https://ip2tor.com/static/shop/landing/img/favicon.png",
+      "lang": "eng",
+      "tags": ["node", "core"],
+      "name": "Ip to Tor",
+      "description": "We build a bridge to the world for your Tor address and Nostr account via a Clearnet IP"
     }
   ]
 }

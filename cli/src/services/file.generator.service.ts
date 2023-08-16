@@ -4,7 +4,7 @@ import { Branch, Graph, Leaf } from '../classes';
 import { map } from 'lodash';
 import { CardType } from '../constants/enumerators';
 
-import { IDomainCard } from 'src/interfaces';
+import { IDomainCard, ITopicCard } from 'src/interfaces';
 import { LogService } from './log.service';
 
 const graph = new Graph();
@@ -12,7 +12,7 @@ const graph = new Graph();
 @Injectable()
 export class FileGeneratorService {
   constructor(private readonly logService: LogService) {}
-  async generateFiles() {
+  async generateFiles(): Promise<ITopicCard[]> {
     try {
       // Create the ROOT node to start analyzing the files
       const folder: Branch = new Branch('Bushido', 'Fast Access', CardType.ROOT);
@@ -21,6 +21,7 @@ export class FileGeneratorService {
       await this.digDeeper('', folder);
       // Once identify the topics and the domains, create the JSON files to after import in Neo4J
       await graph.createJSONFiles();
+      return graph.getTopics();
     } catch (e) {
       this.logService.printOutError(e);
     }

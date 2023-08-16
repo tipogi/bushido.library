@@ -31,6 +31,14 @@
         "tags": ["nostr", "relay"],
         "name": "S0str",
         "description": "A private nostr relay"
+      },
+      {
+        "url": "https://nostr.watch/",
+        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
+        "lang": "eng",
+        "tags": ["nostr", "registry"],
+        "name": "Nostr Watch",
+        "description": "Nostr relays and the network in general to assist users, developers and relay operators alike"
       }
     ]
 }

@@ -159,6 +159,22 @@
       "tags": ["dev", "projects"],
       "name": "Geyser fund",
       "description": "Play a part in world-changing ideas by contributing to them and launching them"
+    },
+    {
+      "url": "https://github.com/lucasdcf/bitcoin-dev-resources#bitcoin-dev-blogs",
+      "icon": "https://avatars.githubusercontent.com/u/68931156?v=4",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Bitcoin dev Blogs",
+      "description": "A list of resources and communities for developers willing to learn and build their career in Bitcoin "
+    },
+    {
+      "url": "https://base58.info/",
+      "icon": "https://base58.info/favicon.ico",
+      "lang": "eng",
+      "tags": ["dev", "projects"],
+      "name": "Base58",
+      "description": "Let us take you from zero to timechain hero"
     }
   ]
 }

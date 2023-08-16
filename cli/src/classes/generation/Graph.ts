@@ -11,6 +11,10 @@ export class Graph {
   private topics: ITopicCard[] = [];
   private domains: IDomainCard[] = [];
 
+  public getTopics(): ITopicCard[] {
+    return this.topics;
+  }
+
   public addTopic(topic: any) {
     this.topics.push(topic);
   }

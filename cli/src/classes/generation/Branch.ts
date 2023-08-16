@@ -22,10 +22,13 @@ export class Branch extends BNode {
     return new Promise(async (resolve) => {
       try {
         const relativePath = `${BOOKMARKS_FOLDER}${path}`;
-        this.getType() === CardType.ROOT ? console.log(relativePath) : undefined;
+        this.getType() === CardType.ROOT ? 
+          console.log(relativePath) : 
+          undefined;
         const file = `/${INDEX_FILE}`;
         const jsonFile = await readFile(`${relativePath}${file}`, 'utf8');
         this.cards = JSON.parse(jsonFile);
+        // Create a node hash from the node path 
         this.setHash(crypto.createHash('sha1').update(relativePath).digest('hex'));
         resolve(this.getHash());
       } catch (error: any) {

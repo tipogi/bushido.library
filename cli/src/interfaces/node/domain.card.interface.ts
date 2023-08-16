@@ -17,6 +17,11 @@ export interface INeo4JDomainAvailability {
   down_attemps: Integer;
 }
 
+export interface ISimpleNode {
+  hash: string;
+  type: string;
+}
+
 export interface IDomainAvailability {
   hash: string;
   url: string;

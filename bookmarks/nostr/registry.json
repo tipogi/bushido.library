@@ -17,14 +17,6 @@
         "description": "Add your nostr public key to the directory so your followers can find you"
       },
       {
-        "url": "https://nostr.watch/",
-        "icon": "https://bushido.guide/img/favicon/favicon-nostr.png",
-        "lang": "eng",
-        "tags": ["nostr", "registry"],
-        "name": "Nostr Watch",
-        "description": "Nostr relays and the network in general to assist users, developers and relay operators alike"
-      },
-      {
         "url": "https://nostr.io/",
         "icon": "https://nostr.io/static/svg/favicon.svg",
         "lang": "eng",

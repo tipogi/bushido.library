@@ -10,5 +10,17 @@
     "description": "Do you need more attractive way to design your software?",
     "type": "LEAF",
     "icon": "palette"
+  },
+  "performance": {
+    "name": "Performance",
+    "description": "Check with the right tools the software quality",
+    "type": "LEAF",
+    "icon": "palette"
+  },
+  "theory": {
+    "name": "Theory",
+    "description": "Enter in the classroom and choose what to study",
+    "type": "LEAF",
+    "icon": "board"
   }
 }

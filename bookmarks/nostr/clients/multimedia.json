@@ -1,0 +1,36 @@
+{
+    "multimedia": [
+        {
+            "url": "https://nostr.build/",
+            "icon": "https://nostr.build/i/p/0.png",
+            "lang": "eng",
+            "tags": ["nostr", "images"],
+            "name": "Nostr Image Uploader",
+            "description": "Removes location and personal metadata from images"
+        },
+        {
+            "url": "https://nostrcheck.me/public/",
+            "icon": "https://nostrcheck.me/favicon-32x32.png?v=0.4",
+            "lang": "eng",
+            "tags": ["nostr", "images"],
+            "name": "Nostr public gallery",
+            "description": "Private and public gallery"
+        },
+        {
+            "url": "https://w3.do/",
+            "icon": "https://w3.do/favicon.ico",
+            "lang": "eng",
+            "tags": ["nostr", "url"],
+            "name": "URL shortener",
+            "description": "It is fast and fuss-free, stripped of all bells and whistles and gimmicks"
+        },
+        {
+            "url": "https://zap.stream/",
+            "icon": "https://zap.stream/favicon.ico",
+            "lang": "eng",
+            "tags": ["nostr", "url"],
+            "name": "Zap stream",
+            "description": "Native streaming service provider powered by bitcoin"
+        }
+    ]
+}

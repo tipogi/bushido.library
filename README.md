@@ -20,7 +20,7 @@ If you want to have an extended info about commnad go to [cli](./cli/README.md)
 ```bash
 # Enter in the application file
 cd cli
-# Create the files to import
+# Create the files to import, topic.json and domain.json
 npm run bushido-cli generate
 # First, import the topics in the graph DB
 npm run bushido-cli import topic
@@ -30,3 +30,7 @@ npm run bushido-cli import domain
 npm run bushido-cli optimise-graph
 npm run bushido-cli domain-url-check
 ```
+
+## Logs
+
+Whenever we run a command, we create a log to follow the editing process in the domain graph. That `logs` we can find in __/cli/logs__
