@@ -118,6 +118,14 @@
       "tags": ["desktop", "on-chain", "ln", "coinjoin"],
       "name": "Open Bitcoin Wallet",
       "description": "Android Bitcoin and Lightning wallet, a fork of Simple Bitcoin Wallet focused on providing a pleasant and simple experience with advanced features."
+    },
+    {
+      "url": "https://wizardsardine.com/liana/",
+      "icon": "https://wizardsardine.com/assets/favicon/favicon_liana/favicon-32x32.png",
+      "lang": "eng",
+      "tags": ["desktop", "on-chain", "ln", "coinjoin"],
+      "name": "Liana",
+      "description": "Liana is a simple Bitcoin wallet leveraging on-chain timelocks for safety and recovery"
     }
   ]
 }

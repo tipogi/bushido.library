@@ -63,6 +63,22 @@
       "tags": ["privacy", "P2P"],
       "name": "Matrix",
       "description": "An open network for secure, decentralized communication"
+    },
+    {
+      "url": "https://www.raycast.com/",
+      "icon": "https://www.raycast.com/favicon-production.png",
+      "lang": "eng",
+      "tags": ["productivity"],
+      "name": "Raycast",
+      "description": "Turn Pro to harness the power of AI, make Raycast your own with custom themes, keep your Macs in sync and more."
+    },
+    {
+      "url": "https://www.warp.dev/",
+      "icon": "https://assets-global.website-files.com/64b6f3636f598299028e8577/64b6ff9f4bb4e174f770ceb1_Favicon%20-%20Warp.png",
+      "lang": "eng",
+      "tags": ["productivity", "terminal"],
+      "name": "Warp",
+      "description": "Your terminal, reimagined"
     }
   ]
 }

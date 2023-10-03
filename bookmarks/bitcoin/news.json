@@ -10,7 +10,7 @@
     },
     {
       "url": "https://bitcoinmagazine.com/",
-      "icon": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_400x400.jpg",
+      "icon": "https://bitcoinmagazine.com/favicon.ico",
       "lang": "eng",
       "tags": ["news"],
       "name": "Bitcoin Magazine",
@@ -41,7 +41,7 @@
     },
     {
       "url": "https://stacker.news/",
-      "icon": "https://pbs.twimg.com/profile_images/1403162883941359619/oca7LMQ2_400x400.png",
+      "icon": "https://stacker.news/favicon.ico",
       "lang": "eng",
       "tags": ["news"],
       "name": "Stacker News",

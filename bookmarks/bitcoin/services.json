@@ -135,6 +135,14 @@
       "tags": ["courses","custody"],
       "name": "Anchor Watch",
       "description": "Protect your bitcoin with regulated insurance and enterprise-grade multi-institutional custody"
+    },
+    {
+      "url": "https://wizardsardine.com/",
+      "icon": "https://wizardsardine.com/assets/favicon/favicon_wizardsardine/apple-touch-icon.png",
+      "lang": "eng",
+      "tags": ["courses","custody"],
+      "name": "Wizardsardine",
+      "description": "Our mission is to make bitcoiners sleep better at night. We focus on safety: preventing both theft and loss."
     }
   ]
 }
