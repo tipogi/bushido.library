@@ -39,6 +39,14 @@
             "tags": ["design", "all"],
             "name": "UI Design",
             "description": "It shares these designs with anybody who is interested in using them as inspiration or research material"
+        },
+        {
+            "url": "http://design-toolkit.recursos.uoc.edu/es/",
+            "icon": "http://design-toolkit.recursos.uoc.edu/wp-content/themes/casabona/images/favicon-32x32.png",
+            "lang": "esp",
+            "tags": ["design", "all"],
+            "name": "Design Toolkit",
+            "description": "Es la caja de herramientas de diseño en forma de fichas de contenidos y recursos de aprendizaje"
         }
     ]
 }

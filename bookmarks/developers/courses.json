@@ -23,6 +23,14 @@
         "tags": ["dev"],
         "name": "Aprende JavaScript",
         "description": "Gratis y de forma práctica"
+      },
+      {
+        "url": "https://about.gitlab.com/learn/?Registration=Free",
+        "icon": "https://about.gitlab.com/nuxt-images/ico/favicon-192x192.png",
+        "lang": "eng",
+        "tags": ["dev"],
+        "name": "Gitlab Learn",
+        "description": "Learn new skills while working with GitLab"
       }
     ]
 }

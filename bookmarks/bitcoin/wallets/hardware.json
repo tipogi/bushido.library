@@ -55,6 +55,14 @@
       "tags": ["hw-wallet", "on-chain"],
       "name": "Trezor T",
       "description": "Easily store and protect your Bitcoin, passwords and keys with confidence."
+    },
+    {
+      "url": "https://thebitcoinhole.com/",
+      "icon": "https://thebitcoinhole.com/img/favicon-192x192.png",
+      "lang": "eng",
+      "tags": ["hw-wallet", "on-chain"],
+      "name": "The bitcoin Hole",
+      "description": "Comparing 45 Hardware Wallets feature by feature"
     }
   ]
 }

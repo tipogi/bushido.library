@@ -95,6 +95,14 @@
       "tags": ["analysis", "satoshi", "time"],
       "name": "Cost AVG",
       "description": "Enter an investment start and end date, a regular interval and investment amount"
+    },
+    {
+      "url": "https://utxo.live/oracle/",
+      "icon": "https://utxo.live/hist_utxo_dark.png",
+      "lang": "eng",
+      "tags": ["analysis", "price", "utxo"],
+      "name": "utxo.live",
+      "description": "Get the price of bitcoin without any exchange or third party"
     }
   ]
 }

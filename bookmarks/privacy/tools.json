@@ -111,6 +111,22 @@
       "tags": ["privacy","shop"],
       "name": "Cypherpunks Tools",
       "description": "It provides articles and tools from Cypherpunks"
+    },
+    {
+      "url": "https://yopass.se/",
+      "icon": "https://yopass.se/favicon.png",
+      "lang": "eng",
+      "tags": ["privacy","documents"],
+      "name": "Yopass",
+      "description": "Share Secrets Securely With Ease"
+    },
+    {
+      "url": "https://github.com/nickvourd/Supernova?s=09",
+      "icon": "https://avatars.githubusercontent.com/u/32869078?v=4",
+      "lang": "eng",
+      "tags": ["privacy","documents"],
+      "name": "Supernova",
+      "description": "Real fucking shellcode encryption tool "
     }
   ]
 }

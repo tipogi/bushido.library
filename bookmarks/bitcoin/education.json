@@ -1,0 +1,43 @@
+{
+    "education": [
+        {
+            "url": "https://libreriadesatoshi.com/",
+            "icon": "https://libreriadesatoshi.com/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd55e8d31-f4d9-4009-89cb-66d38d240f9d%2FSquare_La_Librera_de_Satoshi_Brand_Logo_cafe_3.png?table=block&id=c52a6853-9b7e-42b2-8345-907af4eb603f&spaceId=6c54fbc7-52b3-4909-bdfe-be0a0186a754&width=250&userId=&cache=v2",
+            "lang": "esp",
+            "tags": ["community", "dev"],
+            "name": "Libreria de Satoshi",
+            "description": "La librería de Satoshi tiene como objetivo profundizar el aprendizaje de Bitcoin y Lightning Network"
+        },
+        {
+          "url": "https://www.summerofbitcoin.org/",
+          "icon": "https://softr-prod.imgix.net/applications/5abf9a13-d06f-44d6-b50c-187328a34a81/assets/c44fe3ae-957b-45e6-b30f-37986cc291f3.png",
+          "lang": "eng",
+          "tags": ["community", "dev", "courses"],
+          "name": "Summer of Bitcoin",
+          "description": "A global, online summer internship program focused on introducing university students to bitcoin open-source development and design"
+        },
+        {
+          "url": "https://learning.chaincode.com/",
+          "icon": "https://chaincode.com/assets/images/Chaincode_Logomark_Yellow.png",
+          "lang": "eng",
+          "tags": ["community", "dev", "courses"],
+          "name": "Chain Code Labs",
+          "description": "Bitcoin and Lightning Protocol Development Education"
+        },{
+            "url": "https://learn.saylor.org/course/view.php?id=468",
+            "icon": "https://learn.saylor.org/theme/image.php?theme=saylor&component=theme_saylor&image=favicons%2Ffavicon-32x32",
+            "lang": "eng",
+            "tags": ["dev", "courses"],
+            "name": "Bitcoin for Everybody",
+            "description": "Bitcoin represents a new, open internet standard for hard money. Bitcoin is increasingly being adopted as pristine collateral, a longer-term store of value, and unstoppable money"
+        },
+        {
+          "url": "https://base58.info/",
+          "icon": "https://base58.info/favicon.ico",
+          "lang": "eng",
+          "tags": ["dev", "projects"],
+          "name": "Base58",
+          "description": "Let us take you from zero to timechain hero"
+        }        
+    ]
+}

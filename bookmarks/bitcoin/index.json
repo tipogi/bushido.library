@@ -112,5 +112,11 @@
     "description": "Do you want to be inside of the circular economy? Here you have some markets to buy some goods",
     "type": "LEAF",
     "icon": "meetups"
+  },
+  "education": {
+    "name": "Education",
+    "description": "Interested to go more techinical in bitcoin learning? Jump here",
+    "type": "LEAF",
+    "icon": "education"
   }
 }

@@ -31,6 +31,22 @@
             "tags": ["nostr", "url"],
             "name": "Zap stream",
             "description": "Native streaming service provider powered by bitcoin"
+        },
+        {
+            "url": "https://satellite.earth/cdn",
+            "icon": "https://satellite.earth/assets/favicon-a0e2b399.png",
+            "lang": "eng",
+            "tags": ["nostr", "url"],
+            "name": "Satellite",
+            "description": "Scalable media hosting for the nostr ecosystem"
+        },
+        {
+            "url": "https://stemstr.app/",
+            "icon": "https://stemstr.app/favicon.svg",
+            "lang": "eng",
+            "tags": ["nostr", "url"],
+            "name": "Stemstr",
+            "description": "Where music gets made"
         }
     ]
 }

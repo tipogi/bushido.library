@@ -119,6 +119,30 @@
         "tags": ["ai", "code"],
         "name": "Whisper",
         "description": "Robust Speech Recognition via Large-Scale Weak Supervision "
+      },
+      {
+        "url": "https://leonardo.ai/",
+        "icon": "https://leonardo-cdn.b-cdn.net/wp-content/uploads/2022/12/cropped-fav-leonardo-logo-192x192.png",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Leonardo AI",
+        "description": "Unleash your Creativity with the power of it"
+      },
+      {
+        "url": "https://www.futuretools.io/",
+        "icon": "https://global-uploads.webflow.com/639910cce4b41d2a9b3e96fb/6407c9f2d378177ef3675436_favicon.png",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Future Tools",
+        "description": "It collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!"
+      },
+      {
+        "url": "https://chat.plebai.com/",
+        "icon": "https://chat.plebai.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["ai", "code"],
+        "name": "Pleb AI",
+        "description": "PlebAI exclusively utilizes open-source large language models and is not biased to any particular ideology. We do not use closed source OpenAI or Anthropic models"
       }
     ]
 }

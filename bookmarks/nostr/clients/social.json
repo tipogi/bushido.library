@@ -127,6 +127,38 @@
         "tags": ["nostr", "p2p"],
         "name": "Mostro",
         "description": "Lightning Network peer-to-peer exchange platform on Nostr "
+      },
+      {
+        "url": "https://nostrudel.ninja/",
+        "icon": "https://nostrudel.ninja/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Nostrudel",
+        "description": "A sandbox for exploring nostr"
+      },
+      {
+        "url": "https://nosta.me/",
+        "icon": "https://nosta.me/images/favicon-96x96.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Nosta",
+        "description": "Here you can easily set up your profile, discover apps, and browse other profiles."
+      },
+      {
+        "url": "https://oddbean.com/",
+        "icon": "https://oddbean.com/favicon.ico",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Oddbean",
+        "description": "Oddbean is a discussion site built on the nostr protocol. You may notice that the design is heavily inspired by Hacker News and Reddit"
+      },
+      {
+        "url": "https://www.nostrpulsar.chat",
+        "icon": "https://www.nostrpulsar.chat/favicon.png",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Pulsar",
+        "description": "Privacy with a pulse"
       }
     ]
 }

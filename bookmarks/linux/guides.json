@@ -71,6 +71,14 @@
       "tags": ["linux", "practise"],
       "name": "Linux Ops Sys",
       "description": "A hub for Linux Tutorials and Tips. Commands, Software Installation & Configuration, and more"
+    },
+    {
+      "url": "https://opensource.com",
+      "icon": "https://opensource.com/themes/osdc/assets/img/favicons/favicon.ico",
+      "lang": "eng",
+      "tags": ["linux", "practise"],
+      "name": "Open Source",
+      "description": "It aspires to publish all content under a Creative Commons license but may not be able to do so in all cases"
     }
   ]
 }

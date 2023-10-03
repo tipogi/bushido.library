@@ -127,6 +127,14 @@
       "tags": ["courses","v4v"],
       "name": "Emeralize",
       "description": "With our platform, you can learn, create, and earn the world's best money."
+    },
+    {
+      "url": "https://www.anchorwatch.com/",
+      "icon": "https://uploads-ssl.webflow.com/648af89a98f1e7e83c9710ff/648f9ced0460401ca2b43ad0_Favicon.png",
+      "lang": "eng",
+      "tags": ["courses","custody"],
+      "name": "Anchor Watch",
+      "description": "Protect your bitcoin with regulated insurance and enterprise-grade multi-institutional custody"
     }
   ]
 }

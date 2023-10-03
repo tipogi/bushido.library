@@ -31,6 +31,14 @@
       "tags": ["cpu", "map"],
       "name": "CPU Land",
       "description": "Curious exactly what happens when you run a program on your computer?"
+    },
+    {
+      "url": "https://www.gapminder.org/",
+      "icon": "https://www.gapminder.org/icn/favicon-96x96.png",
+      "lang": "eng",
+      "tags": ["world", "map"],
+      "name": "Gap Minder",
+      "description": "You are probably wrong about"
     }
   ]
 }

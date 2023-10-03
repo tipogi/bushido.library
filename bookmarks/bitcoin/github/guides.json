@@ -71,6 +71,14 @@
       "tags": ["bitcoin", "github", "slides"],
       "name": "Bitcoin Research",
       "description": "Se busca mostrar como se implementa un nodo completo en Bitcoin y como se desarrollan herramientas para explotar la información del Blockchain en tiempo real para brindar, por ejemplo, estadísticas y análisis on-chain"
+    },
+    {
+      "url": "https://github.com/russeree/basic_bitcoin_tech",
+      "icon": "https://avatars.githubusercontent.com/u/3104223?v=4",
+      "lang": "eng",
+      "tags": ["bitcoin", "github", "slides"],
+      "name": "Basic Bitcoin Tech",
+      "description": "Educational Slideshows"
     }
   ]
 }
