@@ -159,6 +159,14 @@
         "tags": ["nostr", "social"],
         "name": "Pulsar",
         "description": "Privacy with a pulse"
+      },
+      {
+        "url": "https://nostree.me/",
+        "icon": "https://nostree.me/favicon.svg",
+        "lang": "eng",
+        "tags": ["nostr", "social"],
+        "name": "Nostree",
+        "description": "A Nostr-based application to create, manage and discover link lists, and other stuff"
       }
     ]
 }

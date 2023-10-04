@@ -25,14 +25,6 @@
           "description": "It allows you to read, write, curate and monetize long form content over Nostr, a censorship-resistant protocol"
         },
         {
-          "url": "https://zapworthy.com",
-          "icon": "https://habla.news/favicon.png",
-          "lang": "eng",
-          "tags": ["nostr", "message"],
-          "name": "ZAP Worthy",
-          "description": "Purple Text. Orange Highlights"
-        },
-        {
           "url": "https://blogstack.io/",
           "icon": "https://blogstack.io/favicon.ico",
           "lang": "eng",
