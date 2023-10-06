@@ -125,6 +125,13 @@
       "tags": ["resources","money","theory"],
       "name": "Why Bitcoin Only",
       "description": "Scattered across the internet, you'll find countless clusters of links explaining individual aspects about Bitcoin."
+    },{
+      "url": "https://bitcoindevs.xyz/",
+      "icon": "https://bitcoindevs.xyz/favicon.ico",
+      "lang": "eng",
+      "tags": ["resources","technical","theory"],
+      "name": "Bitcoin devs",
+      "description": "Your technical bitcoin rabbit hole Simplified"
     }
   ]
 }
